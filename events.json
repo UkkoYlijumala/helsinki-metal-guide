@@ -1,1 +1,147 @@
-
+{
+  "events": [
+    {
+      "id": "helsinki:agqepysgse",
+      "title": "Hellsinki Metal Festival ",
+      "venue": "Helsingin jäähalli",
+      "address": "Nordenskiöldinkatu 11-13",
+      "date": "2027-08-05T21:01:00Z",
+      "endTime": "2027-08-07T20:59:00Z",
+      "description": "Hellsinki Metal Festival sisältää mielenkiintoisen läpileikkauksen kansainvälisen ja kotimaisen metallin huipuista – yllättäviä nimiäkään unohtamatta.",
+      "ticketUrl": "https://www.hellsinkimetalfestival.fi/",
+      "image": "https://api.hel.fi/linkedevents/media/images/konsertti-nuoret.jpg"
+    },
+    {
+      "id": "helsinki:agp23rlirq",
+      "title": "Future Palace",
+      "venue": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6",
+      "date": "2026-10-01T16:00:00Z",
+      "endTime": "2026-10-01T20:59:00Z",
+      "description": "Berliiniläinen post-hardcore/alternative -trio Future Palace kiertää Eurooppaa vuonna 2026, uuden ”Deep Blue”-singlensä kunniaksi. ",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-01/future-palace-ger-deep-blue-tour-2026/113992/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+    },
+    {
+      "id": "helsinki:agpwux7jhi",
+      "title": "Ankea Festival presents: Haken, Ihlo",
+      "venue": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6",
+      "date": "2026-10-11T16:00:00Z",
+      "endTime": "2026-10-11T20:59:00Z",
+      "description": "Lontoossa vuonna 2007 perustettu progemetalliyhtye Haken saapuu Suomeen. ",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-11/ankea-presents-haken-uk/118788/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+    },
+    {
+      "id": "helsinki:agpwuxapui",
+      "title": "Hardcore Superstar",
+      "venue": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6",
+      "date": "2026-10-13T16:00:00Z",
+      "endTime": "2026-10-13T20:59:00Z",
+      "description": "Intensiivisen ja keikkatäyteisen vuoden jälkeen ruotsalainen street metal-yhtye Hardcore Superstar on valmis lähtemään jälleen kiertueelle.",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-13/hardcore-superstar-swe/118482/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+    },
+    {
+      "id": "helsinki:agpwt3cgkm",
+      "title": "Zero Nine",
+      "venue": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6",
+      "date": "2026-10-14T16:00:00Z",
+      "endTime": "2026-10-14T20:59:00Z",
+      "description": "Lokakuussa Tavastialla on tarjolla harvinaista herkkua, kun Zero Nine saapuu Tavastia-klubille.",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-14/zero-nine/119303/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+    },
+    {
+      "id": "helsinki:agpwtjvpzm",
+      "title": "Humanity's Last Breath",
+      "venue": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6",
+      "date": "2026-10-22T16:00:00Z",
+      "endTime": "2026-10-22T20:59:00Z",
+      "description": "Ruotsin deathcore-ylpeys Humanity's Last Breath tuo Euroopan-kiertueensa Tavastialle ensi lokakuussa, mukana myös Vildhjarta, Enterprise Earth ja Karmanjakah.",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-22/humanitys-last-breath/116411/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+    },
+    {
+      "id": "helsinki:agpwjmsuni",
+      "title": "Gloryhammer",
+      "venue": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6",
+      "date": "2026-10-28T16:00:00Z",
+      "endTime": "2026-10-28T21:59:00Z",
+      "description": "Gloryhammer Tavastialle ensi lokakuussa uuden albumin myötä.",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-28/gloryhammer-5th-album-release-tour-2026/114255/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+    },
+    {
+      "id": "helsinki:agpuwcp4d4",
+      "title": "The Browning, Within Destruction, Abbie Falls",
+      "venue": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6",
+      "date": "2026-11-16T16:00:00Z",
+      "endTime": "2026-11-16T21:59:00Z",
+      "description": "Amerikkalainen electronicore-yhtye The Browning Tavastialle marraskuussa",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-16/the-browning-within-destruction-abbie-falls/119003/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+    },
+    {
+      "id": "helsinki:agpuvuzzvq",
+      "title": "Master Boot Record, Fulci, Arottenbit",
+      "venue": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6",
+      "date": "2026-11-29T16:00:00Z",
+      "endTime": "2026-11-29T21:59:00Z",
+      "description": "Italialaiset Master Boot Record, Fulci ja Arottenbit iskevät laajasti ja visuaalisesti Tavastialla!",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-29/master-boot-record-ita-fulci-ita-arottenbit-ita/116589/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+    },
+    {
+      "id": "helsinki:agpucpka7y",
+      "title": "Beast in Black",
+      "venue": "Helsingin jäähalli",
+      "address": "Nordenskiöldinkatu 11-13",
+      "date": "2026-12-05T16:00:00Z",
+      "endTime": "2026-12-05T21:59:00Z",
+      "description": "Beast in Black - Return of the Beast + The 69 Eyes, Rabbit Cult",
+      "ticketUrl": "https://www.lippu.fi/artist/beast-in-black/",
+      "image": "https://api.hel.fi/linkedevents/media/images/BIB_chains.jpg"
+    },
+    {
+      "id": "helsinki:agptzdjfga",
+      "title": "Tarja Turunen",
+      "venue": "Kulttuuritalo",
+      "address": "Sturenkatu 4",
+      "date": "2027-02-24T15:30:00Z",
+      "endTime": "2027-02-24T21:59:00Z",
+      "description": "Suomalaisen metallin ikoninen ääni Tarja Turunen tuo Frisson Live 2027 -kiertueensa Kulttuuritalolle.",
+      "ticketUrl": "https://www.livenation.fi/tarja-turunen-tickets-adp1706",
+      "image": "https://api.hel.fi/linkedevents/media/images/kult_talo_672k.jpg"
+    },
+    {
+      "id": "helsinki:agptwvadk4",
+      "title": "Tuska Festival 2027",
+      "venue": "Suvilahti",
+      "address": "Kaasutehtaankatu 1",
+      "date": "2027-07-01T21:01:00Z",
+      "endTime": "2027-07-04T20:59:00Z",
+      "description": "Pohjoismaiden suurin metallifestivaali Tuska Festival jyrähtää käyntiin juhannuksen jälkeisenä viikonloppuna.",
+      "ticketUrl": "http://www.tuska-festival.fi",
+      "image": "https://api.hel.fi/linkedevents/media/images/Tuska.jpg"
+    },
+    {
+      "id": "helsinki:agpe5q2ata",
+      "title": "Five Finger Death Punch ",
+      "venue": "Veikkaus Arena",
+      "address": "Areenankuja 1",
+      "date": "2027-02-22T16:00:00Z",
+      "endTime": "2027-02-22T21:59:00Z",
+      "description": "Five Finger Death Punch (USA) – 20th Anniversary World Tour",
+      "ticketUrl": "https://fivefingerdeathpunch.com/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Shindov_00222_FFDP_F10_1.jpg"
+    }
+  ]
+}
