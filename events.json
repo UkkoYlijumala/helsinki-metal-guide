@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "helsinki:agqepysgse",
-      "title": "Hellsinki Metal Festival ",
-      "venue": "Helsingin jäähalli",
-      "address": "Nordenskiöldinkatu 11-13",
-      "date": "2027-08-05T21:01:00Z",
-      "endTime": "2027-08-07T20:59:00Z",
-      "description": "Hellsinki Metal Festival sisältää mielenkiintoisen läpileikkauksen kansainvälisen ja kotimaisen metallin huipuista – yllättäviä nimiäkään unohtamatta.",
-      "ticketUrl": "https://www.hellsinkimetalfestival.fi/",
-      "image": "https://api.hel.fi/linkedevents/media/images/konsertti-nuoret.jpg"
-    },
-    {
       "id": "helsinki:agp23rlirq",
       "title": "Future Palace",
       "venue": "Tavastia-klubi",
@@ -67,6 +56,17 @@
       "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
     },
     {
+      "id": "tm-Z698xZ8KZ1kP6AK7Y",
+      "title": "Behemoth & Dimmu Borgir - In League With Satan Tour 2026",
+      "venue": "HELSINKI ICEHALL",
+      "address": "Nordenskiöldinkatu 11-13",
+      "date": "2026-10-27",
+      "endTime": null,
+      "description": "",
+      "ticketUrl": "https://www.ticketmaster.fi/event/behemoth--dimmu-borgir-in-league-with-satan-tour-2026-tickets/947153130?language=en-us",
+      "image": "https://s1.ticketm.net/dam/a/053/9f442e14-7c63-4042-8a50-3b01c9953053_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
       "id": "helsinki:agpwjmsuni",
       "title": "Gloryhammer",
       "venue": "Tavastia-klubi",
@@ -111,6 +111,28 @@
       "image": "https://api.hel.fi/linkedevents/media/images/BIB_chains.jpg"
     },
     {
+      "id": "tm-Z698xZ8KZ16eZxuA1A",
+      "title": "Raskasta Joulua | Legazy Seat Ticket",
+      "venue": "Veikkaus Arena",
+      "address": "Areenankuja 1",
+      "date": "2026-12-18T18:00:00Z",
+      "endTime": null,
+      "description": "Legazy Seat tickets are the perfect choice when you want more from your concert experience than just a seat in the stands. A Legazy Seat ticket is a complete experience that combines smooth arrival, high-quality services, and a relaxed premium atmosphere --- without queues or rush. With a Legazy Seat ticket, you can enter the venue through a dedicated entrance, enjoy the stylish atmosphere of the Legazy Restaurant, and start your evening in a calm and unhurried way. This ticket is designed for those who value comfort, ease, and an effortless experience --- so you can focus on what truly matters: the event itself. Legazy Seat ticket includes: - Entry to the event and a seat in the lower tier (sections 108--109) - Dedicated entrance via the Legazy Restaurant - Welcome drink - Access to private restrooms - Cloakroom service - Premium wristband - Dedicated premium staff at your service throughout the evening The elegant and atmospheric Legazy Restaurant is located on the 3rd floor of Veikkaus Arena, with doors opening before the main entrances. You are welcome to arrive early, soak up the atmosphere, and begin your evening in the exclusive space reserved for Legazy Seat ticket holders. If you wish, you can also reserve a table and enjoy dinner before the event --- the perfect way to start the evening without haste or queuing. From the restaurant, you'll move to the lower tier via a private route, smoothly and effortlessly. The seating for Legazy Seat ticket holders is located in lower-tier sections 108 and 109, with dedicated restrooms conveniently situated nearby. Please note that Legazy Seats are not fully accessible. Premium tickets are not eligible for exchange or refund. In the event of cancellation, standard cancellation terms apply.",
+      "ticketUrl": "https://www.ticketmaster.fi/event/raskasta-joulua-%7C-legazy-seat-ticket-tickets/2022345285?language=en-us",
+      "image": "https://s1.ticketm.net/dam/a/5d7/e0eeb1cf-92ec-415c-a933-e437883bf5d7_SOURCE"
+    },
+    {
+      "id": "helsinki:agpe5q2ata",
+      "title": "Five Finger Death Punch ",
+      "venue": "Veikkaus Arena",
+      "address": "Areenankuja 1",
+      "date": "2027-02-22T16:00:00Z",
+      "endTime": "2027-02-22T21:59:00Z",
+      "description": "Five Finger Death Punch (USA) – 20th Anniversary World Tour",
+      "ticketUrl": "https://fivefingerdeathpunch.com/",
+      "image": "https://api.hel.fi/linkedevents/media/images/Shindov_00222_FFDP_F10_1.jpg"
+    },
+    {
       "id": "helsinki:agptzdjfga",
       "title": "Tarja Turunen",
       "venue": "Kulttuuritalo",
@@ -120,6 +142,17 @@
       "description": "Suomalaisen metallin ikoninen ääni Tarja Turunen tuo Frisson Live 2027 -kiertueensa Kulttuuritalolle.",
       "ticketUrl": "https://www.livenation.fi/tarja-turunen-tickets-adp1706",
       "image": "https://api.hel.fi/linkedevents/media/images/kult_talo_672k.jpg"
+    },
+    {
+      "id": "tm-Z698xZ8KZ16vFfuZea",
+      "title": "SABATON The Legendary Tour Part 2 - Europe 2027 | Legazy Seat Ticket",
+      "venue": "Veikkaus Arena",
+      "address": "Areenankuja 1",
+      "date": "2027-05-08T14:30:00Z",
+      "endTime": null,
+      "description": "Legazy Seat tickets are the perfect choice when you want more from your concert experience than just a seat in the stands. A Legazy Seat ticket is a complete experience that combines smooth arrival, high-quality services, and a relaxed premium atmosphere --- without queues or rush. With a Legazy Seat ticket, you can enter the venue through a dedicated entrance, enjoy the stylish atmosphere of the Legazy Restaurant, and start your evening in a calm and unhurried way. This ticket is designed for those who value comfort, ease, and an effortless experience --- so you can focus on what truly matters: the event itself. Legazy Seat ticket includes: Entry to the event and a seat in the lower tier (section116) Dedicated entrance via the Legazy Restaurant Welcome drink A warm main course: \"Mixed Grill\" (roasted chicken, BBQ-glazed pork ribs, béarnaise sauce, lime aioli & potato wedges). Special dietary requirements and allergies can be accommodated upon advance request Access to restrooms in Legazy Restaurant Cloakroom service Premium wristband Dedicated premium staff at your service throughout the evening The elegant and atmospheric Legazy Restaurant is located on the 3rd floor of Veikkaus Arena, with doors opening before the main entrances. You are welcome to arrive early, soak up the atmosphere, and begin your evening in the exclusive space reserved for Legazy Seat ticket holders. If you wish, you can also reserve a table and enjoy dinner before the event --- the perfect way to start the evening without haste or queuing. From the restaurant, you'll move to the lower tier via a private route, smoothly and effortlessly. An assistant may attend with the same ticket. To ensure the best possible experience, please contact premium@veikkausarena.fi if you have any accessibility-related questions or special requirements. Premium tickets are not eligible for exchange or refund. In the event of cancellation, standard cancellation terms apply.",
+      "ticketUrl": "https://www.ticketmaster.fi/event/sabaton-the-legendary-tour-part-2-europe-2027-%7C-legazy-seat-ticket-tickets/1214340089?language=en-us",
+      "image": "https://s1.ticketm.net/dam/a/6af/faa2c053-7247-49f9-9cd2-9dd6512986af_EVENT_DETAIL_PAGE_16_9.jpg"
     },
     {
       "id": "helsinki:agptwvadk4",
@@ -133,15 +166,15 @@
       "image": "https://api.hel.fi/linkedevents/media/images/Tuska.jpg"
     },
     {
-      "id": "helsinki:agpe5q2ata",
-      "title": "Five Finger Death Punch ",
-      "venue": "Veikkaus Arena",
-      "address": "Areenankuja 1",
-      "date": "2027-02-22T16:00:00Z",
-      "endTime": "2027-02-22T21:59:00Z",
-      "description": "Five Finger Death Punch (USA) – 20th Anniversary World Tour",
-      "ticketUrl": "https://fivefingerdeathpunch.com/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Shindov_00222_FFDP_F10_1.jpg"
+      "id": "helsinki:agqepysgse",
+      "title": "Hellsinki Metal Festival ",
+      "venue": "Helsingin jäähalli",
+      "address": "Nordenskiöldinkatu 11-13",
+      "date": "2027-08-05T21:01:00Z",
+      "endTime": "2027-08-07T20:59:00Z",
+      "description": "Hellsinki Metal Festival sisältää mielenkiintoisen läpileikkauksen kansainvälisen ja kotimaisen metallin huipuista – yllättäviä nimiäkään unohtamatta.",
+      "ticketUrl": "https://www.hellsinkimetalfestival.fi/",
+      "image": "https://api.hel.fi/linkedevents/media/images/konsertti-nuoret.jpg"
     }
   ]
 }
