@@ -3,100 +3,142 @@
     {
       "id": "le-helsinkiagqgsdkyli",
       "title": "Elektric Rokband ja Distant Horizon",
-      "venue": "Kulttuuritehdas Korjaamo",
+      "venue": {
+        "name": "Kulttuuritehdas Korjaamo",
+        "address": "Töölönkatu 51 a-b, Helsinki"
+      },
       "date": "2026-09-16T16:00:00Z",
       "endTime": "2026-09-16T19:30:00Z",
       "description": "Suomalaisen progen uusi aalto: Elektric Rokband ja Distant HorizonInstrumentaalinen rock-fuusio ja moderni progressiivinen metalli kohtaavat Korjaamolla, kun Elektric Rokband ja Distant Horizon nousevat saman illan aikana lavalle.Vaikka yhtyeillä on ",
       "ticketUrl": "https://www.lippu.fi/artist/distant-horizon/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Korjaamo_instagram45.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Korjaamo_instagram45.jpg",
+      "price": "11,50 / 13 €",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagp23rlirq",
       "title": "Future Palace",
-      "venue": "Tavastia-klubi",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
       "date": "2026-10-01T16:00:00Z",
       "endTime": "2026-10-01T20:59:00Z",
       "description": "Berliiniläinen post-hardcore/alternative -trio Future Palace kiertää Eurooppaa vuonna 2026, uuden ”Deep Blue”-singlensä kunniaksi.&nbsp;“Deep Blue Tour 2026” -kiertue tuo Future Palacen Tavastia-klubille lokakuussa.Edellisen kerran Future Palace näht",
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-01/future-palace-ger-deep-blue-tour-2026/113992/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+      "price": "37,50-40,50€",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagpwux7jhi",
       "title": "Ankea Festival presents: Haken, Ihlo",
-      "venue": "Tavastia-klubi",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
       "date": "2026-10-11T16:00:00Z",
       "endTime": "2026-10-11T20:59:00Z",
       "description": "Lontoossa vuonna 2007 perustettu progemetalliyhtye Haken saapuu Suomeen.&nbsp;Keväällä 2026 uutta musiikkia kolmen vuoden tauon jälkeen julkaissut yhtye saapuu pohjoiseen osana \"in a fever dream\" -kiertuettaan ja soittaa lokakuussa Tavastialla.&nbsp;",
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-11/ankea-presents-haken-uk/118788/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+      "price": "42-45€",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagpwuxapui",
       "title": "Hardcore Superstar",
-      "venue": "Tavastia-klubi",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
       "date": "2026-10-13T16:00:00Z",
       "endTime": "2026-10-13T20:59:00Z",
       "description": "Intensiivisen ja keikkatäyteisen vuoden jälkeen ruotsalainen street metal-yhtye Hardcore Superstar on valmis lähtemään jälleen kiertueelle.Syksyllä vuorossa on“Dirty Halo” Tour–yksi bändin suurimmista Skandinavian-kiertueista vuosiin.Kiertuevalmistel",
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-13/hardcore-superstar-swe/118482/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+      "price": "45-48€",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagpwt3cgkm",
       "title": "Zero Nine",
-      "venue": "Tavastia-klubi",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
       "date": "2026-10-14T16:00:00Z",
       "endTime": "2026-10-14T20:59:00Z",
       "description": "Lokakuussa Tavastialla on tarjolla harvinaista herkkua, kun Zero Nine saapuu Tavastia-klubille.Zero Nine on yksi suomalaisen hard rockin ja heavy metalin kulmakivistä, jonka juuret ulottuvat 1970-luvun loppuun.&nbsp;Yhtye nousi tunnetuksi energisestä",
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-14/zero-nine/119303/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+      "price": "27-30€",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagpwtjvpzm",
       "title": "Humanity's Last Breath",
-      "venue": "Tavastia-klubi",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
       "date": "2026-10-22T16:00:00Z",
       "endTime": "2026-10-22T20:59:00Z",
       "description": "Ruotsin deathcore-ylpeys Humanity's Last Breath tuo Euroopan-kiertueensa Tavastialle ensi lokakuussa, mukana myös Vildhjarta, Enterprise Earth ja Karmanjakah.Matalilla tajuuksilla operoiva Humanity's Last Breath on noussut vuoden 2010 Reanimated by H",
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-22/humanitys-last-breath/116411/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+      "price": "41,50-44,50€",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagqj7zjozq",
       "title": "KontuRock 2026",
-      "venue": "Luuppi Nuorisotalo",
+      "venue": {
+        "name": "Luuppi Nuorisotalo",
+        "address": "Ostostie 4, Helsinki"
+      },
       "date": "2026-10-24T12:00:00Z",
       "endTime": "2026-10-24T18:30:00Z",
       "description": "KontuRock 2026 on kolmatta kertaa järjestettävä maksuton ja kaikille avoin musiikkitapahtuma nuorisotalo Luupissa Kontulan ostoskeskuksessa.Luupin lavalla kuullaan ja nähdään monipuolinen kattaus suomalaisia rockbändejä. Esiintymässä ovat Jiri Nikkin",
       "ticketUrl": "",
-      "image": "https://api.hel.fi/linkedevents/media/images/tijs-van-leur-So6YckShOVA-unsplash.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/tijs-van-leur-So6YckShOVA-unsplash.jpg",
+      "price": "Free Entry"
     },
     {
       "id": "tm-Z698xZ8KZ1kG-0EGY",
       "title": "Turmion Kätilöt - Colossal Disco",
-      "venue": "HELSINKI ICEHALL",
-      "address": "Nordenskiöldinkatu 11-13",
+      "venue": {
+        "name": "HELSINKI ICEHALL",
+        "address": "Nordenskiöldinkatu 11-13, Helsinki"
+      },
       "date": "2026-10-24T15:00:00Z",
       "endTime": null,
       "description": "Turmion Kätilöt 24.10.2026 Helsingin Jäähalli S / K18 Special Guest: Skynd (AUS) Support: Business City Turmion Kätilöiden Colossal Disco laajenee Helsingin jäähallissa soittavat myös australialainen Skynd sekä Business City Lahdesta. Lauantaina 24. lokakuuta Helsingin jäähallissa raikuva Turmion Kätilöt -yhtyeen COLOSSAL DISCO laajenee ohjelmaltaan. Ennen savolaista industrial metal -annosta lavalta saadaan kokea australialaisen Skyndin sähköistä industrialia ja lahtelaisen Business Cityn happoteknoa. TURMION KÄTILÖT VALTAA HELSINGIN JÄÄHALLIN -- COLOSSAL DISCO ON INDUSTRIAL METAL -YHTYEEN URAN SUURIN SPEKTAAKKELI Lokakuussa Helsingin jäähalli kokee muodonmuutoksen. Siitä tulee Turmion Kätilöiden oma Colosseum. Lipunmyynti käynnistyy perjantaina 20.2. klo 9.00. ENNAKKOMYYNTI: Radio Rock tarjoaa lippujen ennakko-ostooikeuden, mutta vain livenä Sanomatalossa keskiviikkona 18.helmikuuta klo 17-19, jolloin paikalla on myös koko Turmion Kätilöt. Liput alkaen 59,90 €. Permanto: 69,90 € (K18) Hyvissä Höyryissä, Golden Circle: 79,90 € (K18) Istumakatsomot: 59,90--79,90 € (S/K18) Konsertti on sallittu kaikenikäisille, lukuun ottamatta permantoa/golden circleä ja rajattuja anniskelukatsomoita (K18). Lipulla pääsee areenalle sisään vain kerran. AIKATAULU: 17:30 Ovet 18:40 Business City 19:35 Skynd 21:00 Turmion Kätilöt Huom! Aikataulut ovat arvioituja ja muutokset ovat mahdollisia. Huomioithan, että aikataulut ovat arvioita ja voivat muuttua vielä konserttipäivänä. Saavuthan paikalle ajoissa, sillä sisäänkäynti keikalle voi olla ruuhkainen. TURVALLISUUS & HELSINGIN JÄÄHALLI Sisääntuloväylillä tarkistetaan pääsyliput ja suoritetaan turvatarkastus. Voit tutustua tarkemmin Helsingin jäähallin turvallisuuteen ja palveluihin täällä: https://helsinginjaahalli.fi/vieraile-hallilla FANITUOTEMYYNTI Paikan päällä myydään fanituotteita. Varaathan hyvin aikaa myyntipisteillä asiointiin. YLEISET TIEDUSTELUT Lisätiedot konsertista ja yhteyden konserttijärjestäjiin saat sähköpostitse: info.fi@allthingslive.com Lipunmyyntiin liittyvissä asioissa otathan yhteyttä viralliseen lipunmyyjään",
       "ticketUrl": "https://www.ticketmaster.fi/event/turmion-katilot-colossal-disco-lippuja/321927330",
-      "image": "https://s1.ticketm.net/dam/e/461/23b2ba98-a62d-41f4-ac94-c61511303461_RECOMENDATION_16_9.jpg"
+      "image": "https://s1.ticketm.net/dam/e/461/23b2ba98-a62d-41f4-ac94-c61511303461_RECOMENDATION_16_9.jpg",
+      "price": "59,90 €",
+      "ageLimit": 18
     },
     {
       "id": "tm-Z698xZ8KZ16vu0QdPI",
       "title": "Amon Amarth",
-      "venue": "HELSINKI ICEHALL",
-      "address": "Nordenskiöldinkatu 11-13",
+      "venue": {
+        "name": "HELSINKI ICEHALL",
+        "address": "Nordenskiöldinkatu 11-13, Helsinki"
+      },
       "date": "2026-10-26",
       "endTime": null,
-      "description": "",
+      "description": "AMON AMARTH TUO MASSIIVISEN KIERTUEENSA HELSINGIN JÄÄHALLIIN LOKAKUUSSA Viikinkimetallin kiistaton valtias Amon Amarth tuo massiivisen The Allfather Awakens -kiertueensa Suomeen lokakuussa 2026. Yhtye nousee Helsingin Jäähallin lavalle maanantaina 26. lokakuuta ja keikan avauksesta vastaavat kaksi ruotsalaisen metallin kärkinimeä, Orbit Culture sekä Soilwork. Amon Amarth on viettänyt kiireisen keikka-kesän ja -syksyn muun muassa Slayerin Cardiffin- ja Lontoon-konserttien erikoisvieraana sekä kiertänyt Yhdysvalloissa Panteran kanssa. Syksyn 2026 Euroopan ja Ison-Britannian kiertueelle yhtye tuo mukanaan täysin uuden teatraalisen lavaproduktion ja pidennetyn headline-setin, joten Helsingissä saadaan todistaa todellista metallispektaakkelia. Kiertue juhlistaa yhtyeen uutta kappaletta We Rule the Waves ja valmistelee faneja vuoden 2026 lopulla ilmestyvän uuden albumin ilmestymiseen, jonka luvataan olevan yksi bändin uran eeppisimmistä ja barbaarisimmista julkaisuista. Amon Amarthin supporteina nähdään lavalla viime vuosien modernin death metalin kansainvälinen tähti Orbit Culture sekä ruotsalaisen melodisen death metalin klassikko Soilwork. KEIKKA: AMON AMARTH (SE) -- The Allfather Awakens 26.10.2026, Helsinki, Jäähalli Support: Orbit Culture (SE), Soilwork (SE) Permanto: palvelumaksuineen alk. 85€ +tilauskulut 1,50€/tilauskulu Alakatsomo, pitkät sivut: palvelumaksuineen 75€-90€+1,50€/tilauskulu Päätykatsomo + kaarteet: palvelumaksuineen 53€-80€+1,50€/tilauskulu Pyörätuolikatsomo 53€+1,50€/tilauskulu",
       "ticketUrl": "https://www.ticketmaster.fi/event/amon-amarth-lippuja/1364683968",
       "image": "https://s1.ticketm.net/dam/a/536/6cf709e4-c71b-4f99-9e90-f08f0a163536_SOURCE"
     },
     {
       "id": "tm-Z698xZ8KZ1kP6AK7Y",
       "title": "Behemoth & Dimmu Borgir - In League With Satan Tour 2026",
-      "venue": "HELSINKI ICEHALL",
-      "address": "Nordenskiöldinkatu 11-13",
+      "venue": {
+        "name": "HELSINKI ICEHALL",
+        "address": "Nordenskiöldinkatu 11-13, Helsinki"
+      },
       "date": "2026-10-27",
       "endTime": null,
       "description": "",
@@ -106,48 +148,69 @@
     {
       "id": "le-helsinkiagpwjmsuni",
       "title": "Gloryhammer",
-      "venue": "Tavastia-klubi",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
       "date": "2026-10-28T16:00:00Z",
       "endTime": "2026-10-28T21:59:00Z",
       "description": "Intergalaktisen mahtipontisuuden multi-huipentuma, kansainvälinen power metal -kapteenisto Gloryhammer palaa Suomeen ja Helsinkiin ikoniselle Tavastia-klubille uuden albuminsa tiimoilta.&nbsp;Vuonna 2013 perustettu Gloryhammer kuuluu kiistatta voimam",
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-28/gloryhammer-5th-album-release-tour-2026/114255/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+      "price": "55,50-58€",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagpuwcp4d4",
       "title": "The Browning, Within Destruction, Abbie Falls",
-      "venue": "Tavastia-klubi",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
       "date": "2026-11-16T16:00:00Z",
       "endTime": "2026-11-16T21:59:00Z",
       "description": "Amerikkalainen electronicore -trio The Browning saapuu Tavastialle ensi marraskuussa. &nbsp;Kansas Cityssa perustettu The Browning yhdistelee äänitaiteessaan elektronisia äänimaisemia ja jyräävää deathcorea omintakeisella tavalla.Vuonna 2005 perustet",
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-16/the-browning-within-destruction-abbie-falls/119003/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+      "price": "45,50-48€",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagpuvuzzvq",
       "title": "Master Boot Record, Fulci, Arottenbit",
-      "venue": "Tavastia-klubi",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
       "date": "2026-11-29T16:00:00Z",
       "endTime": "2026-11-29T21:59:00Z",
       "description": "Italialaiset Master Boot Record, Fulci ja Arottenbit iskevät laajasti ja visuaalisesti Tavastialla!Vuonna 2016 perustettu Master Boot Record luottaa metallin, elektron, synthwaven ja chiptune-soundien maailmaan. Yhtyeen esiintymisessä yhdistyy ainutl",
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-29/master-boot-record-ita-fulci-ita-arottenbit-ita/116589/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+      "price": "33-35€",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagpucpka7y",
       "title": "Beast in Black",
-      "venue": "Helsingin jäähalli",
+      "venue": {
+        "name": "Helsingin jäähalli",
+        "address": "Nordenskiöldinkatu 11-13, Helsinki"
+      },
       "date": "2026-12-05T16:00:00Z",
       "endTime": "2026-12-05T21:59:00Z",
       "description": "Beast in Black - Return of the Beast + The 69 Eyes, Rabbit CultKotimaisen metallimusiikin kansainvälisiin kärkinimiin lukeutuva Beast In Black tekee näyttävän paluun Helsingin jäähallin lavalle.Jäähallissa nähdään Beast In Blackin vuoden 2026 ainoa k",
       "ticketUrl": "https://www.lippu.fi/artist/beast-in-black/",
-      "image": "https://api.hel.fi/linkedevents/media/images/BIB_chains.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/BIB_chains.jpg",
+      "price": "https://www.lippu.fi/artist/beast-in-black/"
     },
     {
       "id": "tm-Z698xZ8KZ1kpA19Go",
       "title": "Mental Cruelty",
-      "venue": "Ääniwalli",
-      "address": "Pälkäneentie 13",
+      "venue": {
+        "name": "Ääniwalli",
+        "address": "Pälkäneentie 13, Helsinki"
+      },
       "date": "2026-12-11",
       "endTime": null,
       "description": "",
@@ -157,8 +220,10 @@
     {
       "id": "tm-Z698xZ8KZ16eZxuA1A",
       "title": "Raskasta Joulua | Legazy Seat Ticket",
-      "venue": "Veikkaus Arena",
-      "address": "Areenankuja 1",
+      "venue": {
+        "name": "Veikkaus Arena",
+        "address": "Areenankuja 1, Helsinki"
+      },
       "date": "2026-12-18T18:00:00Z",
       "endTime": null,
       "description": "Legazy Seat tickets are the perfect choice when you want more from your concert experience than just a seat in the stands. A Legazy Seat ticket is a complete experience that combines smooth arrival, high-quality services, and a relaxed premium atmosphere --- without queues or rush. With a Legazy Seat ticket, you can enter the venue through a dedicated entrance, enjoy the stylish atmosphere of the Legazy Restaurant, and start your evening in a calm and unhurried way. This ticket is designed for those who value comfort, ease, and an effortless experience --- so you can focus on what truly matters: the event itself. Legazy Seat ticket includes: - Entry to the event and a seat in the lower tier (sections 108--109) - Dedicated entrance via the Legazy Restaurant - Welcome drink - Access to private restrooms - Cloakroom service - Premium wristband - Dedicated premium staff at your service throughout the evening The elegant and atmospheric Legazy Restaurant is located on the 3rd floor of Veikkaus Arena, with doors opening before the main entrances. You are welcome to arrive early, soak up the atmosphere, and begin your evening in the exclusive space reserved for Legazy Seat ticket holders. If you wish, you can also reserve a table and enjoy dinner before the event --- the perfect way to start the evening without haste or queuing. From the restaurant, you'll move to the lower tier via a private route, smoothly and effortlessly. The seating for Legazy Seat ticket holders is located in lower-tier sections 108 and 109, with dedicated restrooms conveniently situated nearby. Please note that Legazy Seats are not fully accessible. Premium tickets are not eligible for exchange or refund. In the event of cancellation, standard cancellation terms apply.",
@@ -168,39 +233,52 @@
     {
       "id": "tm-Z698xZ8KZ1kCkZZoS",
       "title": "Týr",
-      "venue": "Ääniwalli",
-      "address": "Pälkäneentie 13",
+      "venue": {
+        "name": "Ääniwalli",
+        "address": "Pälkäneentie 13, Helsinki"
+      },
       "date": "2026-12-20",
       "endTime": null,
       "description": "Týr Twilight Force / Ignea / Vanaheim Ääniwalli, Helsinki 20.12.2026 K18 TÝR saapuu Helsingin Ääniwalliin 20. joulukuuta! Färsaarelainen folk- ja viikinkimetallin suurnimi TÝR saapuu osana mittavaa Valhalla Calling Europe Tour 2026 -kiertuetta Helsingin Ääniwalliin 20. joulukuuta 2026. Illan täydentävät ruotsalaiset power metal -suosikit Twilight Force ja Dragonland sekä hollantilainen folk metal -nousija Vanaheim. Yli kahden vuosikymmenen ajan TÝR on ollut yksi modernin melodisen folk metalin tunnistettavimmista nimistä. Yhtye julkaisee tänä vuonna uransa kymmenennen studioalbumin, omalla nimellään kulkevan TÝR-levyn, joka avaa uuden luvun bändin pitkällä uralla. Euroopan-kiertue seuraa albumin julkaisua, ja yleisö pääsee kuulemaan uutta materiaalia ensimmäistä kertaa livenä legendaaristen fanisuosikkien rinnalla. Menestyksekkään Paganfest 2025 -kiertueen jälkeen yhtye vetäytyi kotisaarilleen Färsaarille työstämään uutta musiikkia. Tulevalla kiertueella nämä tuoreet kappaleet heräävät eloon yhdessä niiden eeppisten hymneiden kanssa, jotka ovat tehneet TÝRistä kansainvälisesti arvostetun nimen metallikentällä. Mukana kiertueella nähdään kolme vahvaa yhtyettä modernin power-, fantasia- ja folk metalin kärjestä. Ruotsalainen Twilight Force tunnetaan näyttävästä sinfonisesta power metallistaan, suurista melodioista ja fantasiahenkisestä maailmastaan. Myös ruotsalainen Dragonland on pitkän linjan suosikki, jonka tavaramerkkeihin kuuluvat tarttuvat kertosäkeet, melodiset koskettimet ja eeppiset tarinat. Illan avaa hollantilainen Vanaheim, joka on noussut nopeasti folk metal -yleisön tietoisuuteen yhdistämällä raskaat riffit, tunnelmalliset sävellykset ja kansanmusiikkivaikutteet.",
       "ticketUrl": "https://www.ticketmaster.fi/event/tyr-lippuja/386000473",
-      "image": "https://s1.ticketm.net/dam/e/8fa/d863cdf0-8600-4b33-89cc-41a3ad3af8fa_SOURCE"
+      "image": "https://s1.ticketm.net/dam/e/8fa/d863cdf0-8600-4b33-89cc-41a3ad3af8fa_SOURCE",
+      "ageLimit": 18
     },
     {
       "id": "le-helsinkiagpe5q2ata",
       "title": "Five Finger Death Punch ",
-      "venue": "Veikkaus Arena",
+      "venue": {
+        "name": "Veikkaus Arena",
+        "address": "Areenankuja 1, Helsinki"
+      },
       "date": "2027-02-22T16:00:00Z",
       "endTime": "2027-02-22T21:59:00Z",
       "description": "Five Finger Death Punch (USA) – 20th Anniversary World TourTämän hetken suosituimpiin metalliyhtyeisiin lukeutuva yhdysvaltalainen Five Finger Death Punch konsertoi Veikkaus Arenalla erikoisvierainaan yhdysvaltalainen groove metal -suuruus Lamb of Go",
       "ticketUrl": "https://www.ticketmaster.fi/artist/five-finger-death-punch-lippuja/41675",
-      "image": "https://api.hel.fi/linkedevents/media/images/Shindov_00222_FFDP_F10_1.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/Shindov_00222_FFDP_F10_1.jpg",
+      "price": "67-137€"
     },
     {
       "id": "le-helsinkiagptzdjfga",
       "title": "Tarja Turunen",
-      "venue": "Kulttuuritalo",
+      "venue": {
+        "name": "Kulttuuritalo",
+        "address": "Sturenkatu 4, Helsinki"
+      },
       "date": "2027-02-24T15:30:00Z",
       "endTime": "2027-02-24T21:59:00Z",
       "description": "Suomalaisen metallin ikoninen ääni Tarja Turunen tuo Frisson Live 2027 -kiertueensa Kulttuuritalolle.Frisson Live 2027 merkitsee Turusen paluuta raskaan musiikin ytimeen uuden studioalbumin myötä.&nbsp;Luvassa on intensiivinen konserttikokonaisuus, j",
       "ticketUrl": "https://www.lippu.fi/artist/tarja-turunen/",
-      "image": "https://api.hel.fi/linkedevents/media/images/kult_talo_672k.jpg"
+      "image": "https://api.hel.fi/linkedevents/media/images/kult_talo_672k.jpg",
+      "price": "https://www.lippu.fi/artist/tarja-turunen/"
     },
     {
       "id": "tm-Z698xZ8KZ16vFfuZea",
       "title": "SABATON The Legendary Tour Part 2 - Europe 2027 | Legazy Seat Ticket",
-      "venue": "Veikkaus Arena",
-      "address": "Areenankuja 1",
+      "venue": {
+        "name": "Veikkaus Arena",
+        "address": "Areenankuja 1, Helsinki"
+      },
       "date": "2027-05-08T14:30:00Z",
       "endTime": null,
       "description": "Legazy Seat tickets are the perfect choice when you want more from your concert experience than just a seat in the stands. A Legazy Seat ticket is a complete experience that combines smooth arrival, high-quality services, and a relaxed premium atmosphere --- without queues or rush. With a Legazy Seat ticket, you can enter the venue through a dedicated entrance, enjoy the stylish atmosphere of the Legazy Restaurant, and start your evening in a calm and unhurried way. This ticket is designed for those who value comfort, ease, and an effortless experience --- so you can focus on what truly matters: the event itself. Legazy Seat ticket includes: Entry to the event and a seat in the lower tier (section116) Dedicated entrance via the Legazy Restaurant Welcome drink A warm main course: \"Mixed Grill\" (roasted chicken, BBQ-glazed pork ribs, béarnaise sauce, lime aioli & potato wedges). Special dietary requirements and allergies can be accommodated upon advance request Access to restrooms in Legazy Restaurant Cloakroom service Premium wristband Dedicated premium staff at your service throughout the evening The elegant and atmospheric Legazy Restaurant is located on the 3rd floor of Veikkaus Arena, with doors opening before the main entrances. You are welcome to arrive early, soak up the atmosphere, and begin your evening in the exclusive space reserved for Legazy Seat ticket holders. If you wish, you can also reserve a table and enjoy dinner before the event --- the perfect way to start the evening without haste or queuing. From the restaurant, you'll move to the lower tier via a private route, smoothly and effortlessly. An assistant may attend with the same ticket. To ensure the best possible experience, please contact premium@veikkausarena.fi if you have any accessibility-related questions or special requirements. Premium tickets are not eligible for exchange or refund. In the event of cancellation, standard cancellation terms apply.",
@@ -210,8 +288,10 @@
     {
       "id": "tm-Z698xZ8KZ1kbtCoAV",
       "title": "HELLSINKI METAL FESTIVAL 2027 - 2 Päivää",
-      "venue": "HELSINKI ICEHALL",
-      "address": "Nordenskiöldinkatu 11-13",
+      "venue": {
+        "name": "HELSINKI ICEHALL",
+        "address": "Nordenskiöldinkatu 11-13, Helsinki"
+      },
       "date": "2027-08-07",
       "endTime": null,
       "description": "Pyörätuoliasiakas voi ostaa tavallisen lipun, saattaja pääsee samalla lipulla. Avustajakortti esitettävä kulunvalvonnassa.",
