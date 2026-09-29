@@ -1,18 +1,18 @@
 {
   "events": [
     {
-      "id": "le-helsinkiagqgsdkyli",
-      "title": "Elektric Rokband ja Distant Horizon",
+      "id": "le-helsinkiagqoiaj4em",
+      "title": "Thursday Prog-Night",
       "venue": {
-        "name": "Kulttuuritehdas Korjaamo",
-        "address": "Töölönkatu 51 a-b, Helsinki"
+        "name": "Playhouse Bar",
+        "address": "Nokiantie 2-4, Helsinki"
       },
-      "date": "2026-09-16T16:00:00Z",
-      "endTime": "2026-09-16T19:30:00Z",
-      "description": "Suomalaisen progen uusi aalto: Elektric Rokband ja Distant HorizonInstrumentaalinen rock-fuusio ja moderni progressiivinen metalli kohtaavat Korjaamolla, kun Elektric Rokband ja Distant Horizon nousevat saman illan aikana lavalle.Vaikka yhtyeillä on ",
-      "ticketUrl": "https://www.lippu.fi/artist/distant-horizon/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Korjaamo_instagram45.jpg",
-      "price": "11,50 / 13 €",
+      "date": "2026-10-01T16:00:00Z",
+      "endTime": "2026-10-01T20:00:00Z",
+      "description": "Progea Playhousessa 1.10.2026!&nbsp;Ant Farmer:Helsinkiläinen progrock/metal-yhtye, joka ammentaa vaikutteita niin klassisesta progesta, popista ja funkista kuin raskaammastakin musiikista. Ant Farmer on julkaissut hiljattain kaksi sinkkua: 'Barricad",
+      "ticketUrl": "https://facebook.com/events/s/thursday-prog-night-ant-farmer/4905140199722410/",
+      "image": "https://api.hel.fi/linkedevents/media/images/C44AA60D-3180-46AF-A657-E1806A1778A8.png",
+      "price": "10 €",
       "ageLimit": 18
     },
     {
@@ -76,6 +76,21 @@
       "ageLimit": 18
     },
     {
+      "id": "le-helsinkiagqlutyz5y",
+      "title": "Deaf To The Truth",
+      "venue": {
+        "name": "Boothill Rock Club",
+        "address": "Lönnrotinkatu 25, Helsinki"
+      },
+      "date": "2026-10-17T18:00:00Z",
+      "endTime": "2026-10-17T20:30:00Z",
+      "description": "Uskallatko ottaa loikan tuntemattomaan ja lähteä katsomaan kenties vielä toistaiseksi sinulle tuntematonta bändiä?&nbsp;Tällä kertaa se todennäköisesti kannattaa, sillä tämän bändin live-energia on erinomainen. Bändistä löytyy useita ulottuvuuksia te",
+      "ticketUrl": "https://www.facebook.com/share/19AnpG4HLG/",
+      "image": "https://api.hel.fi/linkedevents/media/images/25605.jpg",
+      "price": "Free Entry",
+      "ageLimit": 18
+    },
+    {
       "id": "le-helsinkiagpwtjvpzm",
       "title": "Humanity's Last Breath",
       "venue": {
@@ -89,6 +104,20 @@
       "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
       "price": "41,50-44,50€",
       "ageLimit": 18
+    },
+    {
+      "id": "le-helsinkiagqokjsxgy",
+      "title": "Battle of Metal - Mexico vs Finland",
+      "venue": {
+        "name": "Lepakkomies",
+        "address": "Helsinginkatu 1, Helsinki"
+      },
+      "date": "2026-10-22T17:00:00Z",
+      "endTime": "2026-10-22T19:30:00Z",
+      "description": "Meksikosta metallin maahan. Battle of Metal saapuu Helsinkiin, kun People As Machines tuo 2026 European Tour -kiertueensa Suomeen ja jakaa lavan suomalaisen metalliskenen yhtyeiden kanssa.Meksikoa edustava People As Machines palaa Suomeen neljän vuod",
+      "ticketUrl": "https://www.tiketti.fi/battle-of-metal-mexico-vs-finland-lepakkomies-helsinki-lippuja/121126",
+      "image": "https://api.hel.fi/linkedevents/media/images/Helsinki_-_arte_-_Final.jpeg",
+      "price": "€8 Presale €12 Door"
     },
     {
       "id": "le-helsinkiagqj7zjozq",
