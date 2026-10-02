@@ -1,36 +1,6 @@
 {
   "events": [
     {
-      "id": "le-helsinkiagqoiaj4em",
-      "title": "Thursday Prog-Night",
-      "venue": {
-        "name": "Playhouse Bar",
-        "address": "Nokiantie 2-4, Helsinki"
-      },
-      "date": "2026-10-01T16:00:00Z",
-      "endTime": "2026-10-01T20:00:00Z",
-      "description": "Progea Playhousessa 1.10.2026!&nbsp;Ant Farmer:Helsinkiläinen progrock/metal-yhtye, joka ammentaa vaikutteita niin klassisesta progesta, popista ja funkista kuin raskaammastakin musiikista. Ant Farmer on julkaissut hiljattain kaksi sinkkua: 'Barricad",
-      "ticketUrl": "https://facebook.com/events/s/thursday-prog-night-ant-farmer/4905140199722410/",
-      "image": "https://api.hel.fi/linkedevents/media/images/C44AA60D-3180-46AF-A657-E1806A1778A8.png",
-      "price": "10 €",
-      "ageLimit": 18
-    },
-    {
-      "id": "le-helsinkiagp23rlirq",
-      "title": "Future Palace",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "date": "2026-10-01T16:00:00Z",
-      "endTime": "2026-10-01T20:59:00Z",
-      "description": "Berliiniläinen post-hardcore/alternative -trio Future Palace kiertää Eurooppaa vuonna 2026, uuden ”Deep Blue”-singlensä kunniaksi.&nbsp;“Deep Blue Tour 2026” -kiertue tuo Future Palacen Tavastia-klubille lokakuussa.Edellisen kerran Future Palace näht",
-      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-01/future-palace-ger-deep-blue-tour-2026/113992/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
-      "price": "37,50-40,50€",
-      "ageLimit": 18
-    },
-    {
       "id": "le-helsinkiagpwux7jhi",
       "title": "Ankea Festival presents: Haken, Ihlo",
       "venue": {
