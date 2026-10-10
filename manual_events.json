@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "manual-1791647274735",
+    "title": "Testi",
+    "date": "2026-10-10T15:47:54.735Z",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": ""
+    },
+    "description": "Testi juttu",
+    "price": "3",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "18"
+  }
+]
