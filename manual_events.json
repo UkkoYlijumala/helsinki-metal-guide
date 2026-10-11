@@ -250,5 +250,33 @@
     "ticketUrl": "https://www.lippu.fi/artist/the-halo-effect/?cityname=Helsinki",
     "image": "",
     "ageLimit": ""
+  },
+  {
+    "id": "manual-1791713645372",
+    "title": "Stam1na",
+    "date": "2026-12-05T11:14:00.000Z",
+    "venue": {
+      "name": "Espoon kulttuurikeskus",
+      "address": ""
+    },
+    "description": "Kotimaisen metallin kulmakivi Stam1na juhlistaa 30-vuotista uraansa syksyllä ja alkutalvella Dirty Years 2026 -kiertueella.\n\nTuoreeltaan 11. studioalbuminsa Apnean julkaissut Stam1na palaa juhlakiertueellaan myös kymmenen vuoden taakse. Vuonna 2016 ilmestynyt Elokuutio on yksi yhtyeen rakastetuimmista albumeista, ja sen materiaali nousee merkittävään rooliin syksyn konserteissa. Luvassa on lisäksi harvemmin kuultuja kappaleita koko uran varrelta sekä yllätyksiä pitkäaikaisille faneille.\n\n\"Likaiset asfalttisoturit palaavat tien päälle! Syksyn pukukoodi on oranssi ja musta. Jyräämme tällä rundilla bändin kolmekymppisten lisäksi vuoden 2016 Elokuutio-albumin tahtiin. Tulemme soittamaan keikoilla erittäin harvinaista materiaalia, plus jopa cover-matskua. Itse odotan erityisellä innolla Lemin avauskeikkaa... Sieltähän tämä kaikki mielipuolisuus sai alkunsa.”",
+    "price": "35",
+    "ticketUrl": "https://www.lippu.fi/artist/stam1na/stam1na-dirty-years-2026-kiertue-4226888/?cityname=Espoo",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791713945920",
+    "title": "Timo Kotipelto & Robustik",
+    "date": "2027-01-22T17:00:00.000Z",
+    "venue": {
+      "name": "Sellosali",
+      "address": ""
+    },
+    "description": "",
+    "price": "32,50",
+    "ticketUrl": "https://www.lippu.fi/artist/timo-kotipelto/timo-kotipelto-robustik-4199362/?cityname=Espoo",
+    "image": "",
+    "ageLimit": ""
   }
 ]
