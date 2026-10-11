@@ -432,5 +432,47 @@
     "ticketUrl": "https://www.tiketti.fi/hauta-wizard-sumea-nick-cavea-suomeksi-kuudes-linja-helsinki-lippuja/121264",
     "image": "",
     "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791715294092",
+    "title": "Halloween Pre-Party: Ozzy by Kärtsy, Don & Takakarvaajat plays Turbonegro, DJ Tonto",
+    "date": "2026-10-29T17:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "SF Perkele presents: Perinteinen Halloween Pre-Party torstaina 29. lokakuuta On The Rocksissa!\n\nOZZY by Kärtsy\n\nKärtsy Hatakka astuu yhtyeensä kanssa toista kertaa On The Rocksissa Ozzyn maagiseen maailmaan. Luvassa kirjava kattaus Black Sabbathin kivijalkaklassikoista aina Ozzyn soolouran kovimpiin ralleihin. Ozzy by Kärtsy kumartaa syvään yhden rockhistorian suurimman ikonin elämäntyölle. Kärtsy puikoissa, bändi konehuoneessa. Hikeä, voimaa ja erittäinkin elävä ilta. Pukeudu mustaan, verryttele niska ja äänihuulet lämpimiksi ja hyppää Crazy Trainin kyytiin!\n\nDon & Takakarvaajat plays TURBONEGRO\n\nDon & Takakarvaajat on rokkilätkäjoukkue Turbojugend Finland HC:n nelinkertaisista rokkilätkän maailmanmestareista koostuva bändi, joka koveroi norjalaisen deathpunk-yhtye Turbonegron kulta-ajan klassikoita, jolloin bändin laulajana toimi ikoninen Hank Von Helvete (R.I.P.). Don & Takakarvaajat lyö energisellä esiintymisellään bileet yhdelletoista, kun bändin laulaja Himo Jutila kaivaa itsestään esiin todellisen pantterin!\n\nDJ TONTO “The Fearless V-Killer” plays Haunted Halloween Undead Themes\n\nDJ Tonto rääkkää levylautasia klassikoilla ja klassikoimattomilla biiseillä ennen bändejä, niiden välissä sekä illan päätteeksi myös yläkerrassa aina klo 03.00 saakka! Levylautasilta tiedossa Alice Cooper, Roky Erickson, Miihkalin Thriller, Misfts, Type O Negative, Sisters Of Mercy etc. illan teemaan sopivaa jurnutusta! Monster Mash!\n\nNyt ne luurangot kaapeista ja eiku parempaa seppälää päälle ja tanssilattialle!",
+    "price": "15",
+    "ticketUrl": "https://www.tiketti.fi/halloween-pre-party-on-the-rocks-helsinki-lippuja/121391",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791715360657",
+    "title": "DIRT – Halloween Special Vol. 5, Pretty",
+    "date": "2026-10-30T18:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "DIRTin Halloween Special on täällä taas – suurempana ja karmivampana kuin koskaan!\nOn taas se aika vuodesta! Jo viidettä kertaa Helsingin On The Rocksissa järjestettävät supersuositut halloween-bileet ovat paisuneet ainutlaatuisiksi karnevaaleiksi, jotka ovat naamiaiset, rock-keikka ja täysi hullunmylly samassa paketissa.\n\nIllan viihteestä vastaa Suomen kovimpiin livebändeihin lukeutuva DIRT, joka soittaa erikoispitkällä keikalla niin omia kappaleitaan kuin tarkoin valittuja pop-, rock- ja metalliklassikoitakin. Helsinkiläisyhtyeen ainutlaatuisen setin aikana nähdään myös kotimaiselta musiikkikentältä tuttuja yllätysvierailijoita. Jokainen DIRTin Halloween on erilainen kuin edellinen ja ehkä juuri siksi näihin kemuihin saavutaan yhä uudelleen ja uudelleen – jopa ulkomailta saakka.\n\nNiin yleisö, bändit kuin klubikin koristautuvat näyttävästi yhden illan ajaksi, joten luvassa on todellakin ilta täynnä yllätyksiä. Yleisön paras asu palkitaan DIRTin ja On The Rocksin toimesta!\n\nIllan avaa itseoikeutetusti raa’asta ja voimakkaasta soundistaan tunnettu raskaan musiikin kameleontti Pretty.",
+    "price": "23",
+    "ticketUrl": "https://www.tiketti.fi/dirt-halloween-special-vol-5-pretty-on-the-rocks-helsinki-lippuja/120702",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791715420890",
+    "title": "SF Perkele presents: Halloween Night",
+    "date": "2026-10-30T18:30:00.000Z",
+    "venue": {
+      "name": "Bar Loose",
+      "address": ""
+    },
+    "description": "Halloween-illan pimeydessä Bar Loosen lavalle nousevat:\n\nTHE GHOULSTARS\nDAN GLENNZIG plays DANZIG\n\nTHE GHOULSTARS on horror punk -superyhtye, joka yhdistelee klassista metallia, punkia, 80-luvun estetiikkaa ja B-kauhuelokuvien henkeä. Yhtyeen riveissä vaikuttaa tuttuja nimiä mm. Kuolemanlaakson, Hooded Menacen ja Thermaten riveistä. Esikoisalbumi The Dark Overlords of the Universe on täynnä tarttuvia kertosäkeitä, raskaita riffejä, kauhua ja hyväntuulista hulluutta.\n\nDAN GLENNZIG tarjoilee puolestaan Danzigin kolmen ensimmäisen albumin parhaat palat. Yhtyeen jäsenistöä löytyy mm. Huntersin, Mangled Handsin ja COBRALIFEn riveistä.\n\nPukeudu Halloween-hengessä – jos uskallat! Tätä iltaa ei kannata jättää väliin.",
+    "price": "15",
+    "ticketUrl": "https://www.tiketti.fi/sf-perkele-presents-halloween-night-bar-loose-helsinki-lippuja/120884",
+    "image": "",
+    "ageLimit": "18"
   }
 ]
