@@ -196,20 +196,6 @@
     "ageLimit": ""
   },
   {
-    "id": "manual-1791713207166",
-    "title": "Tarja Turunen",
-    "date": "2027-02-23T22:00:00.000Z",
-    "venue": {
-      "name": "Kulttuuritalo",
-      "address": ""
-    },
-    "description": "Kansainvälisesti menestyneimpiin suomalaisartisteihin lukeutuva Tarja Turunen palaa Suomen konserttilavoille helmikuussa 2027 uudella Frisson Live 2027 -kiertueellaan. Kyseessä ei ole mikä tahansa konserttikiertue, vaan Tarjan näyttävä paluu raskaamman musiikin ytimeen: luvassa on täysipainoisia heavy-keikkoja, joissa hänen tunnistettava lyyrinen sopraanonsa, sinfoninen voima ja metallinen intensiteetti kohtaavat tavalla, josta Turunen on tunnettu jo kohta 30 vuotta.\n\nTarja nähdään Helsingin Kulttuuritalolla 24. helmikuuta.\n\nFrisson Live 2027 avaa uuden luvun Tarjan uralla. Kiertueen rinnalla julkaistaan myös hänen uusi studioalbuminsa, joka on Tarjan ensimmäinen kokonainen raskaamman suunnan albumi seitsemään vuoteen. Uudella materiaallaan Tarja palaa siihen dramaattiseen, voimakkaaseen ja metalliseen ilmaisuun, jolla hän on jättänyt pysyvän jäljen kansainväliseen heavy- ja sinfonisen metallin kenttään.\n\nKiertueen nimi “Frisson” viittaa siihen ohikiitävään hetkeen, kun musiikki menee ihon alle ja nostaa kylmät väreet pintaan. Juuri tähän tunteeseen uusi konserttikokonaisuus tähtää: hauraiden ja intiimien hetkien vastapainona kuullaan räjähtäviä kertosäkeitä, massiivisia dynamiikan kaaria ja tinkimätöntä metallienergiaa. Settilista yhdistää uutta materiaalia Tarjan uran keskeisiin kappaleisiin.\n\nTurunen tunnetaan yhtenä sinfonisen metallin ja raskaan musiikin ikonisimmista äänistä. Klassisesti koulutettuna sopraanona hän yhdisti oopperallisen laulutekniikan metalliin tavalla, joka vaikutti kokonaisen genren syntyyn ja kehitykseen. Nightwishin alkuperäisenä laulajana hän oli mukana luomassa suomalaisen metallin kansainvälistä läpimurtoa, ja menestyksekäs sooloura on sittemmin vahvistanut hänen asemaansa ainutlaatuisena, karismaattisena ja jatkuvasti uudistuvana artistina.\n\nKeikka tarjoaa mahdollisuuden kokea Tarja ympäristössä, jossa hänen äänensä vaikuttaa kaikkein voimakkaimmin: suuren draaman, raskaan soinnin ja ihon ”kananlihalle” nostattavan heavy-konsertin keskipisteessä.",
-    "price": "31",
-    "ticketUrl": "https://www.lippu.fi/event/tarja-turunen-frisson-live-2027-helsingin-kulttuuritalo-21720762/",
-    "image": "",
-    "ageLimit": ""
-  },
-  {
     "id": "manual-1791713354575",
     "title": "WHITECHAPEL",
     "date": "2027-02-27T16:00:00.000Z",
@@ -724,6 +710,62 @@
     "description": "Post-metalin jättiläinen Sólstafir marraskuussa Suomeen\nIslantilaisbändin tähdittämä Melancholy Mass soi Jyväskylässä, Tampereella ja Helsingissä. Melancholy Mass on viidettä kertaa järjestettävä kauniin, jylhän, raskaan ja synkän musiikin tapahtuma. Myöhäissyksyllä tumma tunnelma saavuttaa Jyväskylän, Tampereen ja Helsingin.\n\nSólstafir, Vorna, Cryptic Hatred ja Ashen Tomb kiertävät Suomea 26.-28. marraskuuta.\n\nMelancholy Massin pääesiintyjä tulee Islannista. Vuonna 1995 perustettu Sólstafir ammentaa inspiraationsa kotimaansa mystisen kauniista luonnosta ja on kasvanut Suomessakin rakastetuksi yhtyeeksi.\n\nSólstafirin musiikin paletti on runsas ja monipuolinen: luvassa on näkemyksellistä raskailua,psykedeliaa tai rockia, ihan miten kukin kuulija bändin kokee. Sólstafir on vuosien kuluessa osoittanut useasti, että se kykenee uudistumaan aina uudelleen. Bändin materiaali hipoo aina täydellisyyttä, muttei koskaan ole valmista.\n\nVorna-yhtye oli viimeisellä albumillaan Aamunkoi vahvassa iskussa. Tamperelaisyhtyeen folk ja black metalin sekä kansanperinteen mikstuura huumaa edelleen kuulijoita melakolialla ja suomen kielen luovalla käytöllä. Melodioissaan vahva ja tuntuva Vorna työstää tällä hetkellä uutta musiikkia.\n\nCryptic Hatred on yksi Suomen nuoren death metal -aallon kärkinimistä. Bändi yhdistää grooven, melankolian ja brutaalin energian omaleimaiseksi kokonaisuudeksi. Yhtye on vakuuttanut niin levytyksillään kuin intensiivisillä live-vedoillaan.\n\nMyös helsinkiläinen Ashen Tomb uskoo death metalin voimaan ja iskee sitä silmille ja korville raskaasti ja raa’asti. Synkkien tunteiden ja maalailun lisäksi Melancholy Mass tarjoaa myös kovan luokan asennemetallia.",
     "price": "43",
     "ticketUrl": "https://www.tiketti.fi/melancholy-mass-helsinki-2026-aaniwalli-helsinki-lippuja/119062",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791722973040",
+    "title": "THE HARDKISS (UA)",
+    "date": "2026-12-01T17:00:00.000Z",
+    "venue": {
+      "name": "Tavastia klubi",
+      "address": ""
+    },
+    "description": "Ukrainalainen rock-sensaatio The Hardkiss palaa Tavastialle, Helsinkiin 1. joulukuuta 2026 – luvassa on jälleen unohtumaton ilta täynnä yhtyeen omaleimaista rockin, elektronisen ja popin yhdistelmää. Edellinen Helsingin-keikka vuonna 2024 oli loppuunmyyty.\n\nEuropean Anniversary Tour 2026 juhlistaa The Hardkissin yli vuosikymmenen mittaista uraa, jonka aikana yhtye on hurmannut yleisöjä ympäri Eurooppaa. Tunnettu elokuvallisista visuaaleistaan, sähköisestä lavaesiintymisestään ja genrejä rikkovasta soundistaan, The Hardkiss jatkaa rajoja rikkovaa matkaansa. Tämän perinnön viimeisin ilmentymä on uusi single “Tenderness”, vaikuttavan tunnepitoinen kappale, joka on jo kerännyt kansainvälistä huomiota.Liput ovat nyt myynnissä.",
+    "price": "52,50",
+    "ticketUrl": "https://www.tiketti.fi/the-hardkiss-ua-tavastia-klubi-helsinki-lippuja/112283",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791723145782",
+    "title": "Anvil (CAN), Killer (BE)",
+    "date": "2026-12-12T17:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "Jo vuonna 1978 ensiaskeleensa ottanut ja sittemmin legendaariseksi kasvanut kanadalainen Anvil saapuu Suomeen erikoiskiertueelle joulukuussa. Keikat ovat osa laajempaa “Pounding the Past” -kiertuetta, jolla yhtye keskittyy kolmen ensimmäisen albuminsa biiseihin. Anvil aloitti levytysuransa vuonna 1981 julkaistulla “Hard 'N' Heavy” -albumilla ja ajan hengen mukaisesti pitkäsoittoja ladeltiin ulos yksi per vuosi -vauhtia. Debyytti sekä sitä seuranneet studioalbumit “Metal On Metal” (1982) ja “Forged in Fire” (1983) nostivat bändin myös Kanadan rajojen ulkopuolisten metallifanien tietoisuuteen – esimerkiksi Metallica on avoimesti kertonut Anvillin olleen yksi bändin esikuvista yhtyeen alkutaipaleella.\n\nAnvil on julkaissut levyjä koko uransa ajan ja matka musikkibisneksessä on ollut vähintäänkin tapahtumien täyteinen. Välillä kapuloita rattaisiin heittäneiden musiikkitrendien muuttumisesta huolimatta bändi on pitänyt pintansa, ja Anvilin suosio koki täysin uuden tulemisen vuonna 2009 julkaistun \"Anvil, tosielämän Spinal Tap\" -dokumenttielokuvan myötä. Sacha Gervasin ohjaama dokumentti nousi kansainväliseen megasuosioon ja näytti, miten sinnikkäästi Steve \"Lips\" Kudlow, Robb Reiner ja Chris Robertson pitivät ja pitävät edelleen unelmaansa elossa.\n\nKolmeen ensimmäiseen levyyn liittyvää kiertuetta Euroopassa on suunniteltu pitkään, ja viimein Anvil pääsee myös toteuttamaan sen.\n\n\"Ajoitus kolmeen ensimmäiseen albumiin keskittyviin kappaleisiin ei voisi olla parempi. Olemme sellaisessa harvinaisessa tilanteessa uusien albumien välissä, että tälle oli nyt aikaa, ja saimme vapauden juhlistaa myös bändin menneisyyttä\", Anvil kertoo.\n\n\"Suuntaamme 21. albumimme äänityksiin Saksaan syyskuussa, ja sen jälkeen on mahdollista jatkaa Pounding the Past -kiertuetta Euroopassa aina joulukuuhun saakka. Mukana matkaa myös ystäviämme Belgiasta eli Killer.\"",
+    "price": "37,50",
+    "ticketUrl": "https://www.tiketti.fi/anvil-can-killer-be-on-the-rocks-helsinki-lippuja/117803",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791723211860",
+    "title": "Allt (SWE), Avralize (GER), Bite Down (SWE)",
+    "date": "2026-12-04T18:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "Vuonna 2020 Ruotsin Karlskogassa perustettu, tyylikästä progressiivista metalcorea runnova Allt saapuu Helsingin On The Rocksiin 4. joulukuuta. Tuskassakin tulevana kesänä esiintyvä Allt yhdistelee matalavireisiä riffejä, vaeltavia melodioita ja orkestraalisia sovituksia luoden tunnistettavan, tumman ja tunnepitoisen soundin. Yhtyeen jäsenet jakavat rakkauden luontoon ja elokuvataiteeseen, ja se on vahvasti läsnä myös Alltin musiikissa. Monet kappaleet ja sanoitukset ovatkin saaneet inspiraationsa kirjallisuudesta tai elokuvista. Menneiden muistojen, kokemusten tai kuvien pukeminen musiikiksi on yksi bändin tärkeimmistä inspiraation lähteistä.\n\nErikoisvieraina keikalla nähdään saksalaiset metalcore-lähettiläät Avralize sekä ruotsalainen Bite Down.",
+    "price": "",
+    "ticketUrl": "https://www.tiketti.fi/allt-swe-avralize-ger-bite-down-swe-on-the-rocks-helsinki-lippuja/116078",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791723390048",
+    "title": "Kausti",
+    "date": "2026-12-08T17:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "",
+    "price": "16",
+    "ticketUrl": "https://www.tiketti.fi/kausti-on-the-rocks-helsinki-lippuja/121286",
     "image": "",
     "ageLimit": "18"
   }
