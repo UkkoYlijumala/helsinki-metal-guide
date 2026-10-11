@@ -768,5 +768,47 @@
     "ticketUrl": "https://www.tiketti.fi/kausti-on-the-rocks-helsinki-lippuja/121286",
     "image": "",
     "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791723882202",
+    "title": "Marianas Rest – The Last Dance: A Night of Remembrance",
+    "date": "2026-12-10T17:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "The Last Dance: A Night of Remembrance” on matka menetyksen, surun ja ajan kulun halki. Illan aikana käydään läpi Marianas Restin koko viiden albumin mittainen matka ja ohjelmisto kattaa kappaleita uran jokaisesta vaiheesta.\n\nVain yhden illan ajan Marianas Rest esittää kaksi erilaista kokonaisuutta – intiimi puoliakustinen setti näyttää yhtyeestä riisutumman ja herkemmän puolen. Kappaleiden tarinat saavat käsittelyssä uuden elämän, antaen laulujen tarinoille ja tunteille tilaa hengittää. Illan sähköinen osuus puolestaan sisältää niin tutut yleisön suosikit kuin myös joukon harvinaisuuksia, syviä albumiraitoja sekä kauan unohduksissa olleita kappaleita. Osa näistä ei ole soinut livenä vuosiin, eikä yhtye lähde lupaamaan, milloin niitä seuraavan kerran kuullaan.\n\n“Tervetuloa tanssimaan kanssamme viimeiset hitaat, ja ehkä myös muutama nopea”, yhtye kommentoi.",
+    "price": "20",
+    "ticketUrl": "https://www.tiketti.fi/marianas-rest-on-the-rocks-helsinki-lippuja/120876",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791723932690",
+    "title": "The Ocean + support: Psychonaut & Pothamus",
+    "date": "2026-12-12T18:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "Saksalainen post-metalin arvostetuimpiin nimiin kuuluva The Ocean saapuu Helsinkiin osana uuden Solaris-albuminsa kiertuetta. Yhtye nähdään On The Rocksissa lauantaina 12. joulukuuta 2026. Illan erikoisvieraina esiintyvät belgialaiset Psychonaut ja Pothamus.\n\nThe Ocean on viimeisen 25 vuoden aikana noussut yhdeksi modernin post-metalin merkittävimmistä nimistä. Kokoonpanomuutoksista huolimatta yhtye jatkaa eteenpäin uuden Solaris-albuminsa myötä, joka on samalla sen kunnianhimoisin julkaisu tähän mennessä. Andrei Tarkovskin klassikkoelokuvasta inspiraationsa ammentava teos yhdistää progressiivisen metallin, elokuvalliset tunnelmat ja yhtyeelle ominaisen filosofisen näkökulman.\n\nSyksyllä julkaistavalta albumilta kuultu ensimmäinen single Light Pollution käsittelee teknologian vaikutusta ihmiseen ja kysyy, olemmeko jatkuvasta kehityksestä huolimatta todella edenneet eteenpäin. Musiikillisesti kappale rakentuu hitaasti kasvavasta jännitteestä kohti massiivista ja emotionaalista huipennusta, esitellen samalla yhtyeen uudistuneen kokoonpanon.\n\nIllan erikoisvieraana nähdään belgialainen Psychonaut, jonka raskaan progressiivinen soundi yhdistää psykedeelisiä sävyjä, voimakkaita melodioita ja post-metalin massiivisuutta. Yhtye on noussut viime vuosina eurooppalaisen vaihtoehtometallin kiinnostavimpiin nimiin.\n\nToinen lämmittelijä on Belgiasta saapuva Pothamus. Hypnoottisista riffeistä, tribaalisista rytmeistä ja ritualistisesta tunnelmastaan tunnettu trio julkaisi vuonna 2025 toisen albuminsa ABUR, joka vahvisti sen asemaa kansainvälisen sludge- ja post-metalkentän nousevana voimana.",
+    "price": "41,50",
+    "ticketUrl": "https://www.tiketti.fi/the-ocean-psychonaut-pothamus-on-the-rocks-helsinki-lippuja/118883",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791723990739",
+    "title": "Kosto (EP-julkkarit), Arseeni",
+    "date": "2026-12-26T18:00:00.000Z",
+    "venue": {
+      "name": "Semifinal",
+      "address": ""
+    },
+    "description": "KOSTO\n\nKosto on valkeakoskelais-helsinkiläis-järvenpääläis-jyväskyläläisläinen suomenkielistä nu-metallia takova yhtye. Ensimmäinen single, Kipupiste, julkaistiin elokuussa 2024 ja Kaaoszine nosti Koston 10 kiinnostavimman nuoren kotimaisen metalliyhtyeen joukkoon. Toukokuussa 2025 julkaistiin debyytti-EP ”kiitos.”, josta Desibeli.net kommentoi Koston olevan EP:n myötä ”matkalla mestaruussarjaan jo nyt”. 2025 lopulla julkaistu Miehet ei itke -single on soinut mm. YleX:llä ja Yle Radio Suomessa. YleX:n juontaja Sonny Kylä-Liuhala kommentoi kappaletta: ”stoori tän biisin takana on ihan mielipuolisen loistava, onneksi myös kappalekin”.\n\nSemifinalissa juhlistetaan loppuvuodesta julkaistavaa toista EP:tä, ja keikalla kuullaan ennenkuulematonta materiaalia! Koston keikat ovat aina 100% liveä ilman keinotekoisia värejä tai aromivahventeita.\n\nKostoretki on elämys, jossa haluat olla mukana!\n\n\nARSEENI\n\nArseeni on vuonne 2022 Päijät-Hämeessä perustettu raskaan musiikin valmistaja. Yhtye ottaa vaikutteensa metallista, hardcore-punkista, räpistä ja kenties jopa noisesta, tarjoillen raivokasta suomalaista katumetallia. Arseeni on mytkyllinen typpiryhmään kuuluva puolimetalli.",
+    "price": "14",
+    "ticketUrl": "https://www.tiketti.fi/kosto-ep-julkkarit-arseeni-semifinal-helsinki-lippuja/121117",
+    "image": "",
+    "ageLimit": "18"
   }
 ]
