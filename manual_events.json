@@ -558,5 +558,173 @@
     "ticketUrl": "https://www.tiketti.fi/freakangel-ee-sugar-rody-ee-lirpo-club-underground-helsinki-lippuja/121169",
     "image": "",
     "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791719790588",
+    "title": "A Celebration of Power Metal - After Infinity & Gladenfold",
+    "date": "2026-11-06T18:00:00.000Z",
+    "venue": {
+      "name": "Lepakkomies",
+      "address": ""
+    },
+    "description": "Neljä vuotta sitten perustettu vieraileviin laulajiin nojaava moderni power metal yhtye After Infinity tekee odotetun ensiesiintymisensä juhlistaakseen toisen kokopitkän albuminsa Beyond Eternity julkaisua. Yhtyeen perustaja Zsolt Szilagyi on vanhan liiton power metal jyrä Dreamtalen kitaristi, ja lavalla nähdään myös saman yhtyeen laulaja Nitte Valo sekä kosketinsoittaja Akseli Kaasalainen. Lauteille nousevat laulamaan myös Leveragesta ja Delainistä tuttu Paolo Ribaldini, Shereignistä ja Fear of Dominationista tuttu Sara Strömmer, sekä Frozen Factorystä tuttu Stephen Baker - voidaan siis puhua jo superkokoonpanosta!\n\nIllan avaajana toimiva Gladenfold ei kalpene pääesiintyjälle. Yhtye on hionut melodista death metalia ja power metalia yhdistelevää tyyliään jo yli kahden vuosikymmenen ajan. Alkuvuodesta yhtye julkaisi Reaper Entertainmentin kautta neljännen studioalbuminsa Soulbound, joka keräsi kehuja jopa Sonata Arctican Tony Kakolta.\n\nSaavu siis 6.11. Lepakkomieheen Helsingin Kallioon juhlistamaan power metalin ilosanomaa.",
+    "price": "12",
+    "ticketUrl": "https://www.tiketti.fi/after-infinity-gladenfold-lepakkomies-helsinki-lippuja/119408",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791720021837",
+    "title": "Assemble The Chariots, Plaguebreeder",
+    "date": "2026-11-07T18:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "Assemble The Chariots omalle headline keikalle Helsinkiin!\nMarraskuun On The Rocksin keikka tulee olemaan yhtyeen vuoden ainoa kotikaupungin headline keikka.\n\nHelsingissä koetaan elokuvallisen extreme metal -yhtye Assemble The Chariotsin hurmoksellinen klubikeikka Marraskuussa! Assemble The Chariotsin esikoisalbumi ”Unyielding Night” saavutti huikeita arvioita kautta maailman metallimedioiden ja vakiinnutti yhtyeen aseman Suomessa skenensä kovimpana tekijänä.\n\nAstraaliset ja elokuvamaiset teemat täydentyvät tiukalla blastillä, sekä tummalla extreme metallin tunnelmalla luoden oman maailmansa, joka täydentyy ilmiömäisillä ja raskailla vokaaleilla. ”Unyielding Night” vei yhtyeen kokeellisemmalle tasolle ja löytää yhtyeen musiikillisen ytimen, joka pääsee etuuksiinsa livenä!\n\nIllan avaa Plaguebreeder!",
+    "price": "20",
+    "ticketUrl": "https://www.tiketti.fi/assemble-the-chariots-plaguebreeder-on-the-rocks-helsinki-lippuja/120714",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791720075101",
+    "title": "Rats Will Feast, Kannabinoid (EE)",
+    "date": "2026-11-07T17:00:00.000Z",
+    "venue": {
+      "name": "Kuudes Linja",
+      "address": ""
+    },
+    "description": "ATS WILL FEAST:\n\nAnkaralla kansainvälisellä keikkailulla erittäin kovan keikkamaineen ansaitusti omaava Rats Will Feast julkaisi keväällä uuden albumin - An Evocation EP:n -, joka on laajasti erittäin pidetty levy. Heidän levyjulkkarikeikkansa Helsingissä oli loppuunmyyty ja meno keikalla oli äärimmäisen kova! Tästä on olemassa monta tarinaa kerrottavana.\n\nRats Will Feast on äärimmäisen aggressiivinen ja raivoisa, kaoottinen mutta hallittu vaihtoehtoisen hardcoren ykkösnimi koko Scandinaviassa. Kuitenkin RWF:n musiikillinen skaala on laaja, sillä esimerkiksi uusimmalla EP:llä on yhtyeen raskaimmat ja kauniimmat hetket. An Evocation albumin Observer -biisin virallinen musiikkivideo on saanut youtubessa 133 000 toistoa!\n\nKANNABINOID:\n\nMetal-doom-trio Kannabinõid julkaisi tähänastisen uransa vaikuttavimman teoksen – kriitikoidenkin ylistämän ”Mass”-albumin.\n\nKannabinoid yhdistele taidokkaasti doomia, psykedeelistä rockia ja ambienttia luoden äänimaiseman, joka on yhtä aikaa murskaavan raskas sekä transsendentaalinen. Albumi palkittiin vuoden parhaana metallialbumina Estonian Music Awards -gaalassa 2024, mikä oli yhtyeelle jo toinen voitto vuoden 2019 ”3”-albumin jälkeen.\n\nViime kuukausina Kannabinõid on kasvattanut kansainvälistä fanikuntaansa menestyksekkäillä klubi- ja festivaalikeikoilla eri puolilla Skandinaviaa ja Itä-Eurooppaa, vahvistaen entisestään mainettaan intensiivisten ja kuulijan täysin mukaansa tempaavien keikkojen ansioista. Yhtye on kiertänyt ja esiintynyt samoilla festivaalilavoilla muun muassa sellaisten artistien kuin Stam1na, 1000mods, Mars Red Sky, Dopelord, Nadja, Poison Ruin ja Eivør kanssa.",
+    "price": "12",
+    "ticketUrl": "https://www.tiketti.fi/rats-will-feast-kannabinoid-ee-kuudes-linja-helsinki-lippuja/121122",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791720161171",
+    "title": "Let's Get Doomed: Kahtia, Lupiinit, Astral Sleep",
+    "date": "2026-11-07T17:00:00.000Z",
+    "venue": {
+      "name": "Vernissa",
+      "address": ""
+    },
+    "description": "Manataan marraskuusta normaaliakin synkempi Kulttuuritehdas Vernissassa.\nLet’s Get Doomed tuo Tikkurilaan illan täynnä raskaita riffejä, hidasta groovea ja synkän hypnoottista tunnelmaa. Lavalle nousevat suomalaisen doomin eri sävyjä edustavat Astral Sleep, Lupiinit ja Kahtia.\n\nAstral Sleep yhdistelee psykedeelistä doom-metallia raskaisiin ja avaruudellisiin tunnelmiin, kun taas Kahtia tuo iltaan runotyttö-doomia black metal -vivahteilla. Lupiinit täydentää kokonaisuuden omalla synkällä ja raskaalla otteellaan.\n\nIltaa säestävät raskas tunnelma ja Vernissan hämärään rakentuva doom-maailma.\n\nIllan mahdollistaa Velmu ry ja tuottaa Echo Collective.",
+    "price": "15",
+    "ticketUrl": "https://www.tiketti.fi/kahtia-lupiinit-astral-sleep-vernissa-vantaa-lippuja/118772",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791720374168",
+    "title": "The Obsessed (US) & Klastos (SWE)",
+    "date": "2026-11-12T17:00:00.000Z",
+    "venue": {
+      "name": "Kuudes Linja",
+      "address": ""
+    },
+    "description": "Legendary doom outfit The Obsessed return to Finland this November!\nFounded by Scott \"Wino\" Weinrich — known for his work with Saint Vitus, Spirit Caravan, and Shrinebuilder — The Obsessed emerged in the late 1970s and went on to become one of the most influential bands in doom metal and underground hard rock.\n\nThe band built its reputation in the Baltimore/Washington D.C. underground scene during the rise of hardcore punk in the early 1980s. Often credited as one of the key acts that helped bridge heavy metal and punk, The Obsessed earned the respect of genre-defining contemporaries such as Black Flag, Bad Brains, and Minor Threat. Their raw energy, uncompromising attitude, and thunderous sound have led many to describe them as “America’s Motörhead.”\n\nScott “Wino” Weinrich’s unmistakable vocals and legendary guitar work have left a lasting mark on the world of heavy music, continuing to inspire generations of musicians and fans alike.\n\nThe Obsessed will perform at Kuudes Linja in Helsinki on November 12, 2026.",
+    "price": "37,50",
+    "ticketUrl": "https://www.tiketti.fi/the-obsessed-us-klastos-swe-kuudes-linja-helsinki-lippuja/118318",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791720459128",
+    "title": "Battle Beast",
+    "date": "2026-11-14T18:00:00.000Z",
+    "venue": {
+      "name": "Tavastia klubi",
+      "address": ""
+    },
+    "description": "Ympäri maailmaa ahkerasti kiertävä metallijyrä Battle Beast saapuu loppuvuodesta odotetulle keikalle Helsingin Tavastialle. Kotimaan ehdottomasti kovimpiin liveyhtyeisiin lukeutuvan Battle Beastin keikat ovat visuaalisesti henkeäsalpaavia spektaakkeleita, joissa yhdistyvät tarttuvat kertosäkeet, hyperenerginen show ja tuhansien keikkojen kartuttama karisma.\n\nBattle Beastin viimeisin studioalbumi \"Steelbound\" julkaistiin lokakuussa 2025. ",
+    "price": "39,90",
+    "ticketUrl": "https://www.tiketti.fi/battle-beast-tavastia-klubi-helsinki-lippuja/119778",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791720589861",
+    "title": "Legion Of The Damned (NED), Torchia, Rebellix",
+    "date": "2026-11-18T17:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "Legion Of The Damned saapuu On The Rocksiin marraskuussa! Hollantilaisen pitkän linjan thrash/death -jyrän lisäksi lavalla nähdään kotimaiset metalliyhtyeet Torchia ja Rebellix.",
+    "price": "27",
+    "ticketUrl": "https://www.tiketti.fi/legion-of-the-damned-ned-torchia-rebellix-on-the-rocks-lippuja/121024",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791720639635",
+    "title": "Paara (levyjulkkarit), Svarta Havet",
+    "date": "2026-11-21T18:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "description": "Kotimainen folkia ja black metalia yhdistelevä kulttibändi Paara on palannut jäädäkseen –yhtyeen kolmas albumi “Laulut tulen ja jään” -julkaistaan Dusktone Recordsin kautta 30. päivä lokakuuta 2026. Levyn julkaisua juhlitaan Hellsinki Metal Cruisella, Helsingin On The Rocksissa ja Seinäjoen Rytmikorjaamolla. Liput keikoille myynnissä nyt!\n\nYhtyeen perustamisesta asti Paara on erottunut joukosta vahvalla tunnelmallisuudellaan, monipuolisilla sävellyksillään ja sanoituksillaan, jotka ammentavat suomalaisesta kansanperinteestä, mytologiasta ja ihmismielen varjoista. Vaikka yhtyeen toinen pitkäsoitto “Riitti” (2018) nousi albumilistan viidenneksi ja nautti kriitikoiden ylistystä, on yhtye elänyt siitä lähtien hiljaiseloa. Tämä kuitenkin muuttui, kun Paara teki paluun keikkalavoille keväällä 2026 vielä edellisen albuminsa tahdissa.\n\nNyt on aika kääntää uusi sivu yhtyeen tarinankerronnassa. Tuleva levy syventää entisestään yhtyeen ilmaisua: musiikissa kohtaavat synkkyys, kauneus, aggressio ja haikeus. Uudet sävellykset jatkavat Paaran omaäänistä tarinankerrontaa, jossa menneiden aikojen myytit, pimeät metsät ja ihmisen sisäiset ristiriidat nivoutuvat yhteen.\n\n“Minulle ei ole koskaan ollut epäilystä siitä, palaako Paara takaisin. Kysymys oli vain ajasta. Lopulta aika teki tehtävänsä, ja pitkään työpöydällä ollut levy sai lopullisen muotonsa yllättävän nopeasti –käytännössä muutamissa viikoissa. Paaran kolmas albumi esittelee kuulijalle yhtyeen, jossa on paljon tuttua mutta myös runsaasti uutta. Kaihoisat melodiat, iskevät riffit ja loppuun asti harkitut sovitukset kulkevat käsi kädessä. Kaikki on isompaa ja kovempaa, mutta samalla myös pienempää ja hiljaisempaa. Musiikki ei hengitä ilman dynamiikkaa, eikä tarinaa kerrota ilman draaman kaaria” -yhtyeen kitaristi ja toinen perustajajäsen Zvartus kuvailee.\n\nIllan avaa kotimainen black metal -yhtye Svarta Havet. ",
+    "price": "17",
+    "ticketUrl": "https://www.tiketti.fi/paara-on-the-rocks-helsinki-lippuja/120406",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791721033702",
+    "title": "Archspire + Crown Magnetar, The Zenith Passage, Analepsy",
+    "date": "2026-11-21T15:00:00.000Z",
+    "venue": {
+      "name": "Ääniwalli",
+      "address": ""
+    },
+    "description": "TuskaLive ja Grey Beard esittävät:\n\nKanadalainen, äärimmäisen teknistä death metallia tulittava Archspire saapuu Helsinkiin ja tarkemmin Ääniwalliin marraskuun 21. päivä näyttämään miten haipakkaa dödistä soitetaan ison veden tuolla puolen. Archspire tunnetaan poikkeuksellisesta soittonopeudestaan ja virtuoosimaisesta tarkkuudestaan, kuin myös ainutlaatuisista, lähes räppimäisellä sykkeellä kulkevista vokaaleistaan. Archspire julkaisi juuri uuden Too Fast To Die -albumin, jota tukevalla kiertueella yhtye saapuu Helsinkiin.\n\nTeknisen ja brutaalin kiertuepaketin muina bändeinä nähdään coloradolainen deathcore-ryhmä Crown Magentar, losangelesilainen teknistä dödistä työstävä The Zenith Passage sekä portugalilainen, brutaalia death metallia survova Analepsy.",
+    "price": "49,50",
+    "ticketUrl": "https://www.tiketti.fi/archspire-crown-magnetar-the-zenith-passage-analepsy-lippuja/117416",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791721110978",
+    "title": "Archspire + Crown Magnetar, The Zenith Passage, Analepsy",
+    "date": "2026-11-22T14:00:00.000Z",
+    "venue": {
+      "name": "Ääniwalli",
+      "address": ""
+    },
+    "description": "TuskaLive ja Grey Beard esittävät:\n\nKanadalainen, äärimmäisen teknistä death metallia tulittava Archspire on julkaissut erittäin suuren kysynnän vuoksi toisen keikan Helsingin Ääniwalliin. Aiemmin julkaistu marraskuun 21. päivän keikka on nyt lähes loppuunmyyty ja toinen keikka Ääniwallissa järjestetään sunnuntaina 22.11.2026.\n\nArchspire tunnetaan poikkeuksellisesta soittonopeudestaan ja virtuoosimaisesta tarkkuudestaan, kuin myös ainutlaatuisista, lähes räppimäisellä sykkeellä kulkevista vokaaleistaan. Archspire julkaisi juuri uuden ”Too Fast To Die”-albumin, jota tukevalla kiertueella yhtye saapuu Helsinkiin.\n\nTeknisen ja brutaalin kiertuepaketin muina bändeinä nähdään coloradolainen deathcore-ryhmä Crown Magentar, losangelesilainen teknistä dödistä työstävä The Zenith Passage sekä portugalilainen, brutaalia death metallia survova Analepsy.",
+    "price": "49,50",
+    "ticketUrl": "https://www.tiketti.fi/archspire-crown-magnetar-the-zenith-passage-analepsy-lippuja/118889",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791721747953",
+    "title": "Vernissa Rot Club: Torture Killer, (Psychoparalysis), Metempsychos (LT), Whisper",
+    "date": "2026-11-28T17:00:00.000Z",
+    "venue": {
+      "name": "Vernissa",
+      "address": ""
+    },
+    "description": "Vernissa Rot Club tuo death metallin seitsemän vuoden tauon jälkeenKulttuuritehdas Vernissalle. Paljon kerkesi vettä virtaamaan Vantaanjoessa, ja Vernissakin koki tässä välissä täyden remontin. Nyt syksyn vetäessä viimeisiä henkäyksiään soivat Itä-Vantaalla kuolonsävelet; vanhan koulukunnan inspiroima vaan ei rajoittama death metalveteraanien sekä uudemman aallon yhtyeiden esittämänä. \n\nTORTURE KILLER soittaa syksyn ainoan pk-seudun keikkansa Vantaalla lauantaina 28.11.2026. Vuonna 2002 perustettu bändi toimittaa groovea ja murskausta otteella, joka ei jätä edes ruumiskasoja kylmäksi. Bändi on suomalaisen death metallin murskaavinta kärkeä viimeisintä EP:tä myöten.\n\nTorture Killer \n\nKuolonmetallin äänipaletin spektriä laajentaa kuuden vuoden tauolta palannut (PSYCHOPARALYSIS). Dynaamista death metallia soittavan Vantaalta juurtavan yhtyeen uusi albumi 'Spectrum of Suffering' julkaistaan Inverse recordsin toimesta 20.11.2026. Omintakeisella tyylillä taottu death metal rakentuu vanhan koulukunnan perustuksista kiertäen suorat mutkiksi tavalla, jota ei voi sanoa moderniksi eikä täysin old schooliksi – jotain uutta, jotain vanhaa, jotain lainattua, jotain sairasta.\n\n(Psychoparalysis)\n\nVernissalla on luvassa ainutlaatuista herkkua, kun Liettuan pienestä mutta paahtavasta DM-skenestä ponnistava METEMPSYCHOS (LT) soittaa ensi esiintymisensä Suomessa. Bändin teknisessä ja 90-luvulle kumartavassa soundissa kuuluu vahvoja vaikutteita mm. bändeistä Atheist, Pestilence ja Death. 2025 julkaistu EP ‘Damned Souls Abide’ on erittäin vahva näyte siitä, miten vanhaa kunnioittaen veistetään todella kalloa kolistelevaa uutta musiikkia.\n\nMetempsychos (LT)\n\nIllan avaa Helsingin syvistä luolista noussut WHISPER, joka soittaa prog- ja melodista death metalia vaikutteita sisältävää vanhan koulukunnan death metalia ja tarjoaa raikkaan, uuden, mutta silti raivokkaasti makaaberin näkökulman genreen, joka on mädäntynyt jo vuosikymmenten ajan. Vuonna 2023 perustetun yhtyeen kaksi EP:tä, ”Xenogenesis” ja ”Gravemind”, ovat saaneet kiitosta brutaalista, mutta moniulotteisesta lähestymistavastaan. Bändiä kutsutaan toisinaan ”suomalaiseksi Blood Incantationiksi”, ja sen äänimaailmaa voisi parhaiten kuvata klassiseksi 90-luvun suomalaiseksi OSDM-tunnelmaksi, johon on sulautettu suomalaista prog- ja melodista death metalia sekä modernimpia kosmisia death metal -vaikutteita. Bändi on keikkaillut ahkerasti ympäri Suomea ja Viroa ja toiminut lämmittelijänä muun muassa Rippikoululle, Convulselle ja Ossuarylle.",
+    "price": "22",
+    "ticketUrl": "https://www.tiketti.fi/torture-killer-psychoparalysis-metempsychos-lt-whisper-lippuja/121139",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791721855912",
+    "title": "Melancholy Mass Helsinki 2026",
+    "date": "2026-11-28T17:00:00.000Z",
+    "venue": {
+      "name": "Ääniwalli",
+      "address": ""
+    },
+    "description": "Post-metalin jättiläinen Sólstafir marraskuussa Suomeen\nIslantilaisbändin tähdittämä Melancholy Mass soi Jyväskylässä, Tampereella ja Helsingissä. Melancholy Mass on viidettä kertaa järjestettävä kauniin, jylhän, raskaan ja synkän musiikin tapahtuma. Myöhäissyksyllä tumma tunnelma saavuttaa Jyväskylän, Tampereen ja Helsingin.\n\nSólstafir, Vorna, Cryptic Hatred ja Ashen Tomb kiertävät Suomea 26.-28. marraskuuta.\n\nMelancholy Massin pääesiintyjä tulee Islannista. Vuonna 1995 perustettu Sólstafir ammentaa inspiraationsa kotimaansa mystisen kauniista luonnosta ja on kasvanut Suomessakin rakastetuksi yhtyeeksi.\n\nSólstafirin musiikin paletti on runsas ja monipuolinen: luvassa on näkemyksellistä raskailua,psykedeliaa tai rockia, ihan miten kukin kuulija bändin kokee. Sólstafir on vuosien kuluessa osoittanut useasti, että se kykenee uudistumaan aina uudelleen. Bändin materiaali hipoo aina täydellisyyttä, muttei koskaan ole valmista.\n\nVorna-yhtye oli viimeisellä albumillaan Aamunkoi vahvassa iskussa. Tamperelaisyhtyeen folk ja black metalin sekä kansanperinteen mikstuura huumaa edelleen kuulijoita melakolialla ja suomen kielen luovalla käytöllä. Melodioissaan vahva ja tuntuva Vorna työstää tällä hetkellä uutta musiikkia.\n\nCryptic Hatred on yksi Suomen nuoren death metal -aallon kärkinimistä. Bändi yhdistää grooven, melankolian ja brutaalin energian omaleimaiseksi kokonaisuudeksi. Yhtye on vakuuttanut niin levytyksillään kuin intensiivisillä live-vedoillaan.\n\nMyös helsinkiläinen Ashen Tomb uskoo death metalin voimaan ja iskee sitä silmille ja korville raskaasti ja raa’asti. Synkkien tunteiden ja maalailun lisäksi Melancholy Mass tarjoaa myös kovan luokan asennemetallia.",
+    "price": "43",
+    "ticketUrl": "https://www.tiketti.fi/melancholy-mass-helsinki-2026-aaniwalli-helsinki-lippuja/119062",
+    "image": "",
+    "ageLimit": "18"
   }
 ]
