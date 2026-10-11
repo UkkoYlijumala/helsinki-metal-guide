@@ -1,16 +1,254 @@
 [
   {
-    "id": "manual-1791647274735",
-    "title": "Testi",
-    "date": "2026-10-11T15:47:00.000Z",
+    "id": "manual-1791711455518",
+    "title": "Insomnium",
+    "date": "2026-10-16T15:00:00.000Z",
     "venue": {
-      "name": "Tavastia-klubi",
-      "address": ""
+      "name": "Kulttuuritalo",
+      "address": "Sturenkatu 4, Helsinki"
     },
-    "description": "Testi juttu",
-    "price": "3",
-    "ticketUrl": "",
+    "description": "Vahvimmillaan musiikki on portti toiseen maailmaan, se on avain oveen, jota mikään muu ei pysty avaamaan. Harvat yhtyeet ilmentävät tätä voimaa yhtä syvältä luotaavasti kuin suomalaisen melankolisen melo-deathin mestari Insomnium.\n\nKymmenettä stuodioalbumiaan valmisteleva Insomnium suuntaa loka- ja marraskuussa kuluvaa vuotta suomenkiertueelle, jossa aukeaa mahdollisuus kuulla uutta materiaalia elävänä ensimmäistä kertaa.\nErikoisvieraana keikoilla nähdään melodista death- ja doom metalia moukaroiva Kaunis Kuolematon.",
+    "price": "45",
+    "ticketUrl": "https://www.lippu.fi/artist/insomnium/insomnium-4119309/?cityname=Helsinki",
     "image": "",
     "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791711840335",
+    "title": "Brymir",
+    "date": "2026-10-31T18:30:00.000Z",
+    "venue": {
+      "name": "Korjaamo",
+      "address": ""
+    },
+    "description": "Melodisen death metalin nopeimpiin, kauneimpiin ja raskaimpiin yhtyeisiin kuuluva Brymir lähtee peräti 13 keikkaa kattavalle kotimaan-kiertueelle syksyllä 2026.",
+    "price": "26",
+    "ticketUrl": "https://www.lippu.fi/artist/brymir/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791711933526",
+    "title": "Boris (JPN) & Planning For Burial (US)",
+    "date": "2026-11-04T17:00:00.000Z",
+    "venue": {
+      "name": "KULT",
+      "address": "Sturenkatu 4, Helsinki"
+    },
+    "description": "Japanilaisyhtye Boris saapuu loppuvuodesta Suomeen. Yhtye nähdään KULT Helsingissä 4. marraskuuta, ja illan lämmittelijana esiintyy yhdysvaltalainen Planning For Burial.",
+    "price": "",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791711995308",
+    "title": "Timo Kotipelto & Robustik",
+    "date": "2026-11-04T10:46:00.000Z",
+    "venue": {
+      "name": "Tähti",
+      "address": "Aleksis Kiven katu 17, Helsinki"
+    },
+    "description": "",
+    "price": "29",
+    "ticketUrl": "https://www.lippu.fi/artist/timo-kotipelto/timo-kotipelto-robustik-4199362/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791712074016",
+    "title": "Stoned Statues",
+    "date": "2026-10-11T09:47:54.016Z",
+    "venue": {
+      "name": "KULT",
+      "address": ""
+    },
+    "description": "Vaihtoehtoisen metallin kotimainen trio Stoned Statues julkaisi odotetun kolmannen studioalbuminsa Nothing Is Ever Over 12. kesäkuuta Sakara Recordsin kautta.\nEmma-ehdokkuuksillakin aiemmilla albumeillaan huomioitu Stoned Statues nähtiiin Nothing Is Ever Over Tour 2026:n myötä kesällä mm Nummirockissa, Provinssissa, Dark River Festivaleilla, Qstockissa. Syyskuussa yhtye suuntaa ensimmäiselle omalle UK-kiertueelleen ja kiertää sen jälkeen taas kotimaan klubeja.\n\nIllan avaa Somehow Jo.",
+    "price": "22,60",
+    "ticketUrl": "https://www.lippu.fi/artist/stoned-statues/stoned-statues-4224881/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791712192970",
+    "title": "Campaign for Musical Destruction 2026: NAPALM DEATH(UK), MASTER(US), BRAT(US), GOATBURNER(FI)",
+    "date": "2026-11-13T18:30:00.000Z",
+    "venue": {
+      "name": "Korjaamo",
+      "address": ""
+    },
+    "description": "Napalm Death tuo legendaarisen Campaign for Musical Destruction -kiertueensa Suomeen marraskuussa\n\nMaailman pisimpään kestänyt legendaarinen äärimetallikiertue, Campaign for Musical Destruction, saapuu Suomeen marraskuussa. Jo 1980-luvun lopulla alkaneesta ja Napalm Deathin ympärille muodostuneeta kiertueesta on tullut vuosikymmenten aikana yksi grindcoren ja death metalin tunnetuimmista kiertuekonsepteista Euroopassa, ja myös loppuvuodesta kuultava kiertue juhlii äärimetallia monissa eri muodoissaan.\n\nNapalm Death nähdään Helsingin Korjaamolla perjantaina 13. marraskuuta, ja siitä tie jatkuu seuraavana päivänä Jyväskylän Lutakkoon ja sunnuntaiksi Olympiaan Tampereelle. Kiertueen mukana matkaavat Nappisten lisäksi jo vuonna 1983 Paul Speckmannin perustama yhdysvaltalainen death metal -yhtye Master sekä New Orleansin lahja deathgrind/hardcore-väestölle, BRAT. Tulevilla keikoilla on mukana myös lisäksi helsinkiläinen, Rotten Soundista tutun Keijo Niinimaan alias Kaosin sekä esimerkiksi Ratfacen ja Skulmagotin riveistä tutun Spiderin eli Jaakko Forsmanin muodostama Goatburner.\n\nVuonna 1981 Birminghamissa perustettu Napalm Death on ehtinyt julkaista uransa aikana valtavan määrän julkaisuja sekä päätyä myös muun muassa Guinnessin ennätysten kirjaan maailman lyhyimmän kappaleen julkaisijana. Napalm Death julkaisi viime kuussa Melvins-yhtyeen kanssa Savage Imperial Death March -yhteisalbumin. Jo yli kaksi vuosikymmentä Century Media -levy-yhtiön kanssa toiminut yhtye julkaisi viimeisimmän oman kahdeksan biisin Resentment is Always Seismic - a final throw ot Throes -julkaisunsa vuonna 2022.\n\nYhtyeen alkulähteiden aikaan teini-ikäisten ja sittemmin yhtyeen toiminnasta vetäytyneiden Nicholas Bullenin ja Miles Ratledgen perustama yhtye koki alkuvuosinaan lukuisia muutoksia, ja Napalm Death on toiminut enemmän tai vähemmän nykyisessä ja legendaariseksi muodostueessa muodossaan 80-luvun lopulta alkaen. Mark \"Barney\" Greenwayn, Shane Emburyn, Mitch Harrisin ja Danny Herreran muodostama nelikko on vieraillut aiemmin menestyksekkäästi Suomessa useasti sekä osana kiertueitaan että maan merkittävimmillä metallifestivaaleilla.",
+    "price": "",
+    "ticketUrl": "https://www.lippu.fi/artist/napalm-death/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791712368790",
+    "title": "Beast In Black",
+    "date": "2026-10-11T15:00:00.000Z",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": ""
+    },
+    "description": "Kotimaisen metallimusiikin kansainvälisiin kärkinimiin lukeutuva Beast In Black tekee näyttävän paluun Helsingin jäähallin lavalle lauantaina 5. joulukuuta 2026. Return Of The Beast -nimeä kantava heavy metal -spektaakkeli avaa uuden luvun parhaillaan uutta albumia valmistelevan yhtyeen tarinassa. Jäähallissa nähdään Beast In Blackin vuoden 2026 ainoa keikka pääkaupunkiseudulla, ja lavalle nousevat myös goottirock-legenda The 69 Eyes sekä kovassa nousussa oleva Rabbit Cult. Ainutlaatuisen konsertin lipunmyynti käynnistyy perjantaina 24. huhtikuuta klo 9 Lippu.fissä.\n\nBeast In Blackin perustaja, säveltäjä ja kitaristi Anton Kabanen kommentoi tulevaa:\n\n”Vuosien kamppailu ja odotus on ollut suorastaan säälimätöntä piinaa, mutta meidän rakkaat fanit ansaitsevat vain parasta kaukaisten galaksien kirkkauden ja Hadeksen syvimmän pimeyden väliltä. Beastin uusi musiikki ammentaa voimansa vahvoista tunteista ja erityisesti tarinoista, jotka vaativat tulla kuulluiksi. Kokonaisuus ansaitsee ympärilleen mittakaavaansa vastaavan näyttämön, jossa sen intensiivinen ilmaisu ja ennennäkemättömät puitteet pääsevät täyteen loistoonsa. Tänä historiallisena iltana Helsingissä tuhannet ihmiset kokoontuvat yhteen – eivät ainoastaan todistaakseen tapahtumaa, vaan ollakseen osa sitä. Astu pedon nälkäiseen kitaan ja antaudu musiikin eskapistisen mahdin vietäväksi.”\n\nBeast In Black on noussut vajaassa kymmenessä vuodessa kotimaisesta lupauksesta kansainvälisesti menestyneeksi yhtyeeksi, joka on rakentanut vahvan live-maineensa laajoilla kiertueilla muun muassa Nightwishin ja Helloweenin kaltaisten areenaluokan nimien kiertuekaverina. Yhtye palkittiin Vuoden Metalli -Emmalla vuonna 2022, ja se lukeutuu nykyisin maamme merkittävimpiin musiikkivientimenestyksiin. Beast In Blackin kaksi ensimmäistä albumia, Berserker ja From Hell With Love, ovat molemmat myyneet platinaa, ja viimeisin albumi Dark Connection lähestyy samaa tasoa. Helsingin jäähalliin yhtye saapuu suoraan tulevan syksyn kattavalta Euroopan-kiertueelta.\n\nKonsertin järjestää Fullsteam Agency yhteistyössä Radio Rockin kanssa.",
+    "price": "59",
+    "ticketUrl": "https://www.lippu.fi/artist/beast-in-black/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791712513332",
+    "title": "IKINÄ, Horizon Ignited, Lowhill",
+    "date": "2026-12-11T18:00:00.000Z",
+    "venue": {
+      "name": "Korjaamo",
+      "address": ""
+    },
+    "description": "Huippuvuottaan elävä kotimaisen metalcoren etulinjalainen IKINÄ päättää uuden ’Valkyria’-albumin julkaisuvuotensa juhlallisesti Helsingin Korjaamolle 11. joulukuuta! Mukana illassa Kouvolan rakkaat ja raskassoutuiset kollegat Horizon Ignited sekä Oulusta tuhotöihin lähtevä armoton Lowhill.\n\nKevään loppuunmyydyillä keikoilla höystetty klubikiertue oli yhtyeelle ennätyksellinen, ja seuraavaksi IKINÄllä on edessään tihein festarikesä ikinä. 2026 loppuvuodesta yhtye soittaa vain muutaman tarkkaan valitun keikan, ja kaikki huipentuu 11.12. perjantaihin Töölössä.",
+    "price": "20",
+    "ticketUrl": "https://www.lippu.fi/artist/ikina/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791712599004",
+    "title": "Havukruunu",
+    "date": "2026-12-12T18:00:00.000Z",
+    "venue": {
+      "name": "Korjaamo",
+      "address": ""
+    },
+    "description": "Suomea ja Eurooppaa kovaa tahtia valtaava Havukruunu pohjaa vetovoimansa monipuoliseen musiikkiin, jonka juuret ovat syvällä tumman metallin syövereissä. Muun muassa klassista heavy metallia, kansanperinnettä ja raakaa äänimaailmaa yhdistävä yhtye julkaisi neljännen albuminsa TAVASTLAND alkuvuonna 2025 ja on kiertänyt sen tiimoilta Suomea aktiivisesti.\n\nKolmen levyn jälkeen palaset loksahtivat kohdalleen, ja itsevarmuutta uhkuva herkkämielisten ja surullisten suosikkiyhtye Havukruunu palasi kostamaan ja hämmentämään rajaa toden ja epätoden välillä. Helvetin herrat hymyilevät tyytyväisenä lempilastensa vihan ja viekkauden ikitulen hukuttaessa vanhan maailman alleen, ja maan sydän väräjää uuden ja oudon syntyä. Yhtyeen uusin albumi TAVASTLAND kertoo pienen ja kummallisen kansan tarinaa.",
+    "price": "27,50",
+    "ticketUrl": "https://www.lippu.fi/artist/havukruunu/havukruunu-4233529/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791712713613",
+    "title": "UNKIND 30 VUOTTA",
+    "date": "2027-01-22T10:58:00.000Z",
+    "venue": {
+      "name": "KULT",
+      "address": ""
+    },
+    "description": "Unkind palaa lavalle juhlistamaan 30-vuotista taivaltaan.",
+    "price": "28,10",
+    "ticketUrl": "https://www.lippu.fi/artist/unkind/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791712790402",
+    "title": "IMMINENCE (SWE)",
+    "date": "2027-02-02T16:30:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": ""
+    },
+    "description": "Elokuvallisesta soundistaan, intensiivisistä live‑esiintymisistään sekä omaleimaisesta, viululla höystetyn metalcoren ja tunnelmallisten elementtien yhdistelmästään tunnettu Imminence palaa Helsinkiin ja tarkemmin ottaen Kulttuuritalolle 2.2.2027. Yhtenä modernin vaihtoehtoisen raskaan musiikin kärkinimistä asemansa vakiinnuttaneen Imminencen Helsingin konsertti on osa yhtyeen tulevaa Euroopan kiertuetta.",
+    "price": "53",
+    "ticketUrl": "https://www.lippu.fi/artist/imminence/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791712949305",
+    "title": "BULLET FOR MY VALENTINE (UK) + PENDULUM (AU)",
+    "date": "2027-02-02T16:00:00.000Z",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": ""
+    },
+    "description": "Walesilainen metalcore-jätti Bullet For My Valentine esiintyy Helsingin Jäähallissa tiistaina 2. helmikuuta 2027. Yhtyeen Social Apocalypse 2027 -kiertueen erikoisvieraana nähdään australialainen Pendulum ja illan avaa yhdysvaltalainen Dark Divine.\n\nBridgendissä vuonna 1998 perustettu Bullet For My Valentine kuuluu modernin metalcoren merkittävimpiin nimiin. Miljoonia albumeita myynyt ja miljardeja striimejä kerännyt yhtye nousi kansainväliseen suosioon vuonna 2005 julkaistulla läpimurtoalbumillaan The Poison. Raskaat riffit, tarttuvat melodiat ja suuret kertosäkeet ovat sittemmin vieneet yhtyeen maailman suurimmille lavoille.\n\nSocial Apocalypse 2027 on Bullet For My Valentinen tähänastisen uran suurin kiertue, ja se vie yhtyeen areenoille ympäri Eurooppaa.\n\nBullet For My Valentinen kahdeksas studioalbumi Social Apocalypse julkaistaan 19. maaliskuuta 2027 Spinefarmin kautta. Albumin nimikappale on yhtyeen ensimmäinen uusi julkaisu neljään vuoteen. Carl Bownin tuottamalla kymmenen kappaleen levyllä vierailevat Against The Currentin Chrissy Costanza ja Lorna Shoren Will Ramos.\n\nKiertueen erikoisvieras Pendulum kuuluu elektronisen rockin ja drum’n’bassin kansainvälisiin kärkinimiin. Australialaisyhtye tunnetaan energisistä live-esiintymisistään sekä kappaleista Propane Nightmares, Watercolour, Witchcraft ja The Island. Vuonna 2025 julkaistu Inertia oli Pendulumin ensimmäinen studioalbumi 15 vuoteen, ja levyllä kuullaan myös yhteistyötä Bullet For My Valentinen Matt Tuckin kanssa.\n\nIllan avaava Dark Divine on Orlandosta ponnistava modernin metalcoren nousija, jonka musiikissa raskaat riffit, tarttuvat melodiat ja kauhuelokuvamainen estetiikka muodostavat tunnistettavan kokonaisuuden. Yhtye on kiertänyt muun muassa Black Veil Bridesin, Ville Valon, Holding Absencen ja Crown The Empiren kanssa.",
+    "price": "59",
+    "ticketUrl": "https://www.lippu.fi/artist/bullet-for-my-valentine/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791713046694",
+    "title": "Floor Jansen",
+    "date": "2027-02-07T15:30:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": ""
+    },
+    "description": "Nightwishin laulajana tunnettu hollantilainen Floor Jansen saapuu oman yhtyeensä kanssa Helsinkiin alkuvuodesta 2027. Jansen esiintyy Helsingin Kulttuuritalolla sunnuntaina 7. helmikuuta osana uutta HYTRESS Tour 2027 -kiertuettaan.\n\nKiertue rakentuu 15. tammikuuta 2027 ilmestyvän Hytress-albumin ympärille. Levy avaa Jansenin mukaan hänen soolourallaan aiempaa raskaamman ja suoraviivaisemman luvun, jossa laulajan metallitausta nousee jälleen entistä selvemmin esiin.\n\nUutta materiaalia on saatu kuultavaksi jo 21. elokuuta julkaistulla Bring Me Silence -singlellä. Matalalle viritettyihin kitaroihin, kerrostettuihin lauluraitoihin ja Jansenin voimakkaaseen lauluun nojaavassa kappaleessa yhdistyvät artistin mukaan metallin voima ja intensiteetti sekä hänen soolotuotannossaan korostuneet avoimuus ja haavoittuvuus. Uutta soolovaihetta pohjusti myös kesäkuussa julkaistu RUN-single. Jansen julkaisi ensimmäisen varsinaisen sooloalbuminsa, Paragonin, vuonna 2023. Hytress vie hänen omaa tuotantoaan selvästi metallisempaan suuntaan.\n\nUuden kiertueen konserteissa artistia säestää täysi live-yhtye. Kiertue tulee yhdistämään hänen viimeaikaisten festivaaliesiintymistensä energian ja loppuunmyytyjen teatterikiertueiden intiimimmän tunnelman.\nFloor Jansen on kuulunut Nightwishiin vakituisena laulajana vuodesta 2013 lähtien. Ennen Nightwishiä hänet tunnettiin etenkin hollantilaisista After Forever- ja ReVamp-yhtyeistä.",
+    "price": "31",
+    "ticketUrl": "https://www.lippu.fi/event/floor-jansen-helsingin-kulttuuritalo-22039346/",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791713137102",
+    "title": "Hollywood Undead",
+    "date": "2027-02-11T16:00:00.000Z",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": ""
+    },
+    "description": "Yhdysvaltalainen Hollywood Undead palaa Suomeen lähes yhdeksän vuoden tauon jälkeen. Metallia, hiphopia ja elektronisia elementtejä yhdistelevä yhtye esiintyy Helsingin Jäähallissa torstaina 11. helmikuuta 2027.\n\n”Eurooppa ja Britannia ovat aina olleet tärkeä osa Hollywood Undeadin tarinaa ja jokainen kiertueemme siellä on ollut unohtumaton. Soitimme tänä kesänä Euroopassa muutamia keikkoja ja festivaaleja, mutta on edelleen paljon faneja ja kaupunkeja, joita emme ole nähneet vuosiin. Edellisestä kerrasta on aivan liian kauan ja olemme valmiita näkemään teidät kaikki jälleen”, yhtye kertoo.\n\nLos Angelesissa perustettu Hollywood Undead nousi kansainväliseen suosioon vuonna 2008 ilmestyneellä Swan Songs -debyyttialbumillaan. Yhdysvalloissa platinaa myyneen albumin jälkeen yhtye on kerännyt yli 3,2 miljardia kuuntelua eri suoratoistopalveluissa ja yli miljardi katselukertaa YouTubessa.\n\nHollywood Undeadin tunnetuimpiin kappaleisiin lukeutuvat Undead, Everywhere I Go, Bullet ja Hear Me Now. Nykyisin Sumerian Recordsille levyttävän yhtyeen muodostavat Johnny 3 Tears, J-Dog, Charlie Scene, Funny Man ja Danny.",
+    "price": "69",
+    "ticketUrl": "https://www.lippu.fi/artist/hollywood-undead/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791713207166",
+    "title": "Tarja Turunen",
+    "date": "2027-02-23T22:00:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": ""
+    },
+    "description": "Kansainvälisesti menestyneimpiin suomalaisartisteihin lukeutuva Tarja Turunen palaa Suomen konserttilavoille helmikuussa 2027 uudella Frisson Live 2027 -kiertueellaan. Kyseessä ei ole mikä tahansa konserttikiertue, vaan Tarjan näyttävä paluu raskaamman musiikin ytimeen: luvassa on täysipainoisia heavy-keikkoja, joissa hänen tunnistettava lyyrinen sopraanonsa, sinfoninen voima ja metallinen intensiteetti kohtaavat tavalla, josta Turunen on tunnettu jo kohta 30 vuotta.\n\nTarja nähdään Helsingin Kulttuuritalolla 24. helmikuuta.\n\nFrisson Live 2027 avaa uuden luvun Tarjan uralla. Kiertueen rinnalla julkaistaan myös hänen uusi studioalbuminsa, joka on Tarjan ensimmäinen kokonainen raskaamman suunnan albumi seitsemään vuoteen. Uudella materiaallaan Tarja palaa siihen dramaattiseen, voimakkaaseen ja metalliseen ilmaisuun, jolla hän on jättänyt pysyvän jäljen kansainväliseen heavy- ja sinfonisen metallin kenttään.\n\nKiertueen nimi “Frisson” viittaa siihen ohikiitävään hetkeen, kun musiikki menee ihon alle ja nostaa kylmät väreet pintaan. Juuri tähän tunteeseen uusi konserttikokonaisuus tähtää: hauraiden ja intiimien hetkien vastapainona kuullaan räjähtäviä kertosäkeitä, massiivisia dynamiikan kaaria ja tinkimätöntä metallienergiaa. Settilista yhdistää uutta materiaalia Tarjan uran keskeisiin kappaleisiin.\n\nTurunen tunnetaan yhtenä sinfonisen metallin ja raskaan musiikin ikonisimmista äänistä. Klassisesti koulutettuna sopraanona hän yhdisti oopperallisen laulutekniikan metalliin tavalla, joka vaikutti kokonaisen genren syntyyn ja kehitykseen. Nightwishin alkuperäisenä laulajana hän oli mukana luomassa suomalaisen metallin kansainvälistä läpimurtoa, ja menestyksekäs sooloura on sittemmin vahvistanut hänen asemaansa ainutlaatuisena, karismaattisena ja jatkuvasti uudistuvana artistina.\n\nKeikka tarjoaa mahdollisuuden kokea Tarja ympäristössä, jossa hänen äänensä vaikuttaa kaikkein voimakkaimmin: suuren draaman, raskaan soinnin ja ihon ”kananlihalle” nostattavan heavy-konsertin keskipisteessä.",
+    "price": "31",
+    "ticketUrl": "https://www.lippu.fi/event/tarja-turunen-frisson-live-2027-helsingin-kulttuuritalo-21720762/",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791713354575",
+    "title": "WHITECHAPEL",
+    "date": "2027-02-27T16:00:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": ""
+    },
+    "description": "Synkän historian omaavan lontoolaiskaupunginosan mukaan nimetty amerikkalainen deathcore-ryhmä Whitechapel saapuu Suomeen kahdelle keikalle helmikuussa 2027. Bändi esiintyy Tampereen Tavara-asemalla 26. helmikuuta ja seuraavana päivänä 27. helmikuuta tanner tärisee Helsingin Kulttuuritalossa.\n\nHelsingin Ääniwalliin alunperin julkaistu keikka myi loppuun ja keikka siirtyy nyt vastaamaan kysyntää suurempaan saliin, Helsingin Kulttuuritalolle. Ääniwalliin ostetut liput käyvät Kulttuuritalolle sellaisenaan ja toimivat permantolippuina. Mikäli haluat palauttaa ostetun lipun keikkapaikan vaihdoksen vuoksi, lipun voi palauttaa Tikettiin marraskuun loppuun mennessä.\n\nVuonna 2006 perustettu Whitechapel on aina kuulunut genrensä ehdottomaan kärkikastiin ja bändi nähtiin hiljattain Lorna Shoren lämppärinä, Helsingin jäähallin ja Logomon lauteilla löylyttelemässä. Tenneseeläis-yhtye veistelee deathcoreaan hyvin progressiivisella kulmalla ja yhtyeen jäsenten henkilökohtaiset death metal ja hardcore-vaikutteet paistavat läpi selvästi. Whitechapel julkaisi taannoin jämäkän ”Hymns in Dissonance”-nimeä kantavan, yhdeksännen studioalbuminsa.\n\nÄärimmäisen raskaan kiertuepaketin täydentävät metalligenrejen välimaastossa taiteileva englantilainen Sylosis, amerikkalainen lempeästi nimetty death metal -jyrä 200 Stab Wounds sekä niinikään amerikkalainen kuolonmetallia tulkitseva Tribal Gaze.",
+    "price": "53",
+    "ticketUrl": "https://www.lippu.fi/artist/whitechapel/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791713413670",
+    "title": "Brujeria",
+    "date": "2027-03-07T22:00:00.000Z",
+    "venue": {
+      "name": "KULT",
+      "address": ""
+    },
+    "description": "Vuonna 1989 perustettu Brujeria yhdistää death metalin, grindcoren, thrashin ja hardcorepunkin raa’aksi crossoveriksi. Espanjankieliset tekstit, raskaat riffit ja suora ilmaisu ovat tehneet yhtyeestä yhden lajinsa tunnetuimmista nimistä.\n\nMukana chileläinen death/thrash-yhtye Criminal sekä Itä-Pasilan crossover-hardcorea soittava Terror Shark.",
+    "price": "33,60",
+    "ticketUrl": "https://www.lippu.fi/artist/brujeria/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791713519883",
+    "title": "The Halo Effect",
+    "date": "2027-03-17T16:00:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": ""
+    },
+    "description": "Ruotsalainen melodisen death-metallin perintöä kantava The Halo Effect saapuu Suomeen keväällä 2027 ja esiintyy kahdella keikalla Helsingin Kulttuuritalolla 17. maaliskuuta.\n\nJylhiä kitaravalleja ja tarttuvia melodioita raskaiksi äänimaisemiksi yhdistelevä The Halo Effect on saanut kiitosta ikonisen Göteborg-soundin palauttamisesta. Yhtyeen jäsenet tunnetaan keskeisistä rooleistaan In Flamesissa ja Dark Tranquillityssa – kahdessa genren suuntaa näyttäneessä kulmakivessä, jotka nostivat sen maailmanlaajuiseen suosioon 2000-luvun taitteessa. Vuoden 2022 debyyttialbumi Days of the Lost ansaitsi kärkisijoituksia listoilla sekä Ruotsissa että Suomessa ja sitä seurannut kakkoslevy March of the Unheard (2025) on entisestään vahvistanut yhtyeen asemaa genren perinteitä kunnioittavana tekijänä, jonka liekki palaa yhä kirkkaammin.\n\nThe Halo Effectin viimeisimmät klubikeikat Suomessa nähtiin alkutalvella 2025, jonka jälkeen bändi on ehtinyt vierailla Suomessa myös useammalla festivaalilla. Kevään 2027 keikat varmistavat, että entistä laajempi yleisö pääsee kokemaan tinkimättömän liveilmaisun täydessä loistossaan.\n\nYhtyeen kitaristi Niclas Engelin kommentoi tulevaa kiertuetta innostuneena: “Halos in Europe, we can't wait to be back on the road in 2027! This time we bring the almighty Lacuna Coil and Omnium Gatherum with us, who we have been friends with for a long time. We look forward to an amazing time with you all!”\n\nSähköistä kattausta täydentää erityisenä lisänä italialainen modernin metallin kärkinimi Lacuna Coil. Isoiksi huipentumiksi rakentuvia goottihevi-anthmeja tarjoilevan viisihenkisen yhtyeen soundi saa inspiraationsa Bring me The Horizonin, Hans Zimmerin ja Paradise Lostin kaltaisilta nimiltä.\n\nIllan avaa kotimainen pitkän linjan metallijätti Omnium Gatherum, joka on jo 90-luvulta lähtien vakuuttanut yleisöjä tunnistettavalla tyylillään. Bändin jylisevät riffit, tarttuvat melodiat ja pauhaavat rytmit yhdistyvät suvereeniksi skandinaavisen kuolonmetalin ja melodisen harmonisoinnin liitoksi.",
+    "price": "39,90",
+    "ticketUrl": "https://www.lippu.fi/artist/the-halo-effect/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": ""
   }
 ]
