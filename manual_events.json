@@ -71,7 +71,7 @@
   },
   {
     "id": "manual-1791712192970",
-    "title": "Campaign for Musical Destruction 2026: NAPALM DEATH(UK), MASTER(US), BRAT(US), GOATBURNER(FI)",
+    "title": "Napalm Death (UK), Master (US), Brat (US), Goatburner (FI)",
     "date": "2026-11-13T18:30:00.000Z",
     "venue": {
       "name": "Korjaamo",
@@ -1062,5 +1062,47 @@
     "ticketUrl": "https://www.tiketti.fi/tuska-festival-2027-suvilahti-helsinki-lippuja/119147",
     "image": "",
     "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791729924013",
+    "title": "Agarwaen + Pressure Points + Lights to Remain",
+    "date": "2026-10-31T18:00:00.000Z",
+    "venue": {
+      "name": "Playhouse Bar",
+      "address": ""
+    },
+    "description": "",
+    "price": "15",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "18"
+  },
+  {
+    "id": "manual-1791730397043",
+    "title": "Blind Channel",
+    "date": "2026-11-14T16:00:00.000Z",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": ""
+    },
+    "description": "Uuden sukupolven rock-suuruus, valtavaa kansainvälistäkin suosiota niittänyt Blind Channel palaa puolentoista vuoden tauolta. Syksyllä yhtye julkaisee odotettua uutta musiikkia sekä valloittaa Helsingin jäähallin Black Boxin 14. marraskuuta osana Painstream-maailmankiertuettaan.\n\nKeikka Helsingin jäähallin Black Boxissa on sekä Blind Channelin paluukonsertti että koko syksyn ainoa esiintyminen Euroopassa. Show’n lämmittelijänä nähdään suomalainen metallimusiikkiyhtye Atlas.\n\nPuolentoista vuoden hiljaiselon jälkeen viisihenkinen kokoonpano palaa entistä kypsemmällä asenteella ja nälkäisenä aloittamaan uuden musiikillisen luvun. Perjantaina 30. lokakuuta Blind Channel julkaisee kuudennen studioalbuminsa, tähänastisen uransa rehellisimmän ja kunnianhimoisimman levyn Painstream. Sen julkaisua seuraa paluukonsertti Helsingin jäähallin Black Boxissa 14. marraskuuta. Black Box -konsertissa yleisö pääsee uuden albumin kappaleiden lisäksi nauttimaan kattavasti myös bändin aiemmasta tuotannosta.\n\n“Yli puolitoista vuotta. Kaksikymmentä kuukautta. Hiljaisuus ei ollut pelkkä pysähdys, vaan oppimatka. Sen aikana kasvoimme ja opimme kuuntelemaan. Nyt palaamme nälkäisempinä kuin koskaan – mukanamme enemmän sanottavaa kuin koskaan aiemmin.\n\nUusi albumimme Painstream ilmestyy 30. lokakuuta 2026.\n\nMaailmassa, jota varjostavat epävarmuus, konfliktit ja jakautuneisuus, on yksi asia, joka koskettaa meitä kaikkia: kipu. Sen sijaan, että se erottaisi meidät toisistamme, voisiko kipu sittenkin yhdistää meitä – muistuttaa siitä, mitä ihmisyys tarkoittaa?\n\nKuljemme kivun äärelle henkilökohtaisista kokemuksista yhteiskunnan rakenteisiin ja elämän suuriin kysymyksiin asti. Ja kaiken keskeltä alkaa hahmottua jotain odottamatonta: toivo.\n\nOn ihanaa olla takaisin”, yhtye kommentoi paluuta.\n\nBlind Channel voitti UMK:n vuonna 2021 ja teki silloista suomalaista viisuhistoriaa sijoittumalla Rotterdamin Euroviisuissa kuudennelle sijalle. Sen jälkeen yhtye teki läpimurtonsa niin kotimaisilla kuin kansainvälisilläkin markkinoillaan jättihitillään Dark Side. Tähän mennessä biisiä on kuunneltu yli 80 miljoonaa kertaa ja sitä seuranneita kappaleita yhteensä kymmeniä miljoonia kertoja. Blind Channel vietti kevään 2022 pitkillä Yhdysvaltain ja Euroopan kiertueilla, mutta poikkesi Suomessa Emma Gaalassa pokkaamassa kaikki kuusi palkintoa jokaisesta kategoriasta, joissa oli ehdolla.",
+    "price": "59,90",
+    "ticketUrl": "https://www.lippu.fi/artist/blind-channel/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1791730500801",
+    "title": "Hevisaurus",
+    "date": "2026-11-08T12:00:00.000Z",
+    "venue": {
+      "name": "Peacock",
+      "address": ""
+    },
+    "description": "Luvassa on jälleen ryminää ja ryskettä, kun koko perhettä viihdyttävä Hevisaurus valloittaa Suomen Komediateatterin\n\nIsänpäivän räyhäisimmällä keikalla 8.11.206 klo 14.00 \n\n\nTunnin mittaisen keikan aikana yleisönsä jurakautisen hevimusiikin pariin johdattaa kaikki tutut ystävämme: Komppi Momppi, Riffi Raffi, Milli Pilli, Muffi Puffi, sekä tietysti itse Herra Hevisaurus. Vauhdikkaan shown aikana kuullaan kaikki tutut kappaleet, eikä katsomossakaan tarvitse vain istua!\n\n\nMikä olisikaan parempi tapa juhlistaa isänpäivää, kuin viettää hetki yhdessä huikean Hevisauruksen kanssa. Valmistaudu siis unohtumattomaan keikkaan ja osta liput ajoissa, sillä tämä esitys ei jätä juroimpiakaan tallaajia kylmäksi!",
+    "price": "21",
+    "ticketUrl": "https://www.lippu.fi/artist/suomen-komediateatteri/hevisaurus-isaenpaeivaen-raeyhaeisin-keikka-4252757/?cityname=Helsinki",
+    "image": "",
+    "ageLimit": ""
   }
 ]
