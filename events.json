@@ -1,48 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791712074016",
-      "title": "Stoned Statues",
-      "date": "2026-10-11T09:47:54.016Z",
-      "venue": {
-        "name": "KULT",
-        "address": ""
-      },
-      "description": "Vaihtoehtoisen metallin kotimainen trio Stoned Statues julkaisi odotetun kolmannen studioalbuminsa Nothing Is Ever Over 12. kesäkuuta Sakara Recordsin kautta.\nEmma-ehdokkuuksillakin aiemmilla albumeillaan huomioitu Stoned Statues nähtiiin Nothing Is Ever Over Tour 2026:n myötä kesällä mm Nummirockissa, Provinssissa, Dark River Festivaleilla, Qstockissa. Syyskuussa yhtye suuntaa ensimmäiselle omalle UK-kiertueelleen ja kiertää sen jälkeen taas kotimaan klubeja.\n\nIllan avaa Somehow Jo.",
-      "price": "22,60",
-      "ticketUrl": "https://www.lippu.fi/artist/stoned-statues/stoned-statues-4224881/?cityname=Helsinki",
-      "image": "",
-      "ageLimit": "18"
-    },
-    {
-      "id": "manual-1791712368790",
-      "title": "Beast In Black",
-      "date": "2026-10-11T15:00:00.000Z",
-      "venue": {
-        "name": "Helsingin jäähalli",
-        "address": ""
-      },
-      "description": "Kotimaisen metallimusiikin kansainvälisiin kärkinimiin lukeutuva Beast In Black tekee näyttävän paluun Helsingin jäähallin lavalle lauantaina 5. joulukuuta 2026. Return Of The Beast -nimeä kantava heavy metal -spektaakkeli avaa uuden luvun parhaillaan uutta albumia valmistelevan yhtyeen tarinassa. Jäähallissa nähdään Beast In Blackin vuoden 2026 ainoa keikka pääkaupunkiseudulla, ja lavalle nousevat myös goottirock-legenda The 69 Eyes sekä kovassa nousussa oleva Rabbit Cult. Ainutlaatuisen konsertin lipunmyynti käynnistyy perjantaina 24. huhtikuuta klo 9 Lippu.fissä.\n\nBeast In Blackin perustaja, säveltäjä ja kitaristi Anton Kabanen kommentoi tulevaa:\n\n”Vuosien kamppailu ja odotus on ollut suorastaan säälimätöntä piinaa, mutta meidän rakkaat fanit ansaitsevat vain parasta kaukaisten galaksien kirkkauden ja Hadeksen syvimmän pimeyden väliltä. Beastin uusi musiikki ammentaa voimansa vahvoista tunteista ja erityisesti tarinoista, jotka vaativat tulla kuulluiksi. Kokonaisuus ansaitsee ympärilleen mittakaavaansa vastaavan näyttämön, jossa sen intensiivinen ilmaisu ja ennennäkemättömät puitteet pääsevät täyteen loistoonsa. Tänä historiallisena iltana Helsingissä tuhannet ihmiset kokoontuvat yhteen – eivät ainoastaan todistaakseen tapahtumaa, vaan ollakseen osa sitä. Astu pedon nälkäiseen kitaan ja antaudu musiikin eskapistisen mahdin vietäväksi.”\n\nBeast In Black on noussut vajaassa kymmenessä vuodessa kotimaisesta lupauksesta kansainvälisesti menestyneeksi yhtyeeksi, joka on rakentanut vahvan live-maineensa laajoilla kiertueilla muun muassa Nightwishin ja Helloweenin kaltaisten areenaluokan nimien kiertuekaverina. Yhtye palkittiin Vuoden Metalli -Emmalla vuonna 2022, ja se lukeutuu nykyisin maamme merkittävimpiin musiikkivientimenestyksiin. Beast In Blackin kaksi ensimmäistä albumia, Berserker ja From Hell With Love, ovat molemmat myyneet platinaa, ja viimeisin albumi Dark Connection lähestyy samaa tasoa. Helsingin jäähalliin yhtye saapuu suoraan tulevan syksyn kattavalta Euroopan-kiertueelta.\n\nKonsertin järjestää Fullsteam Agency yhteistyössä Radio Rockin kanssa.",
-      "price": "59",
-      "ticketUrl": "https://www.lippu.fi/artist/beast-in-black/?cityname=Helsinki",
-      "image": "",
-      "ageLimit": ""
-    },
-    {
-      "id": "manual-1791714620673",
-      "title": "Scarlet (SWE)",
-      "date": "2026-10-11T16:00:00.000Z",
-      "venue": {
-        "name": "On The Rocks",
-        "address": ""
-      },
-      "description": "Metalduo SCARLET on esiintynyt maailman suurimpiin kuuluvilla rock- ja metallifestivaaleilla, kuten Sweden Rock Festivalilla, Gefle Metal Festivalilla ja Knotfestissä. Duo on noussut nopeasti yhdeksi metalliskenen puhutuimmista nimistä ja saavuttanut menestystä myös kansainvälisesti.\n\nSCARLETin muodostavat Scarlet Hunts ja Thirsty, jotka tunnetaan tummanpuhuvasta ja omaleimaisesta visuaalisesta tyylistään. Duon musiikissa yhdistyvät synkät melodiat, raskaat sävyt ja intensiiviset äänimaisemat. Lavalla SCARLET tarjoaa kokonaisvaltaisen ja unohtumattoman show’n, jossa vahva energia, näyttävät visuaaliset elementit ja vaikuttava lavaläsnäolo tempaavat yleisön mukaansa heti ensi hetkistä alkaen.\n\nVuonna 2020 SCARLET julkaisi kriitikoiden ylistämän debyyttialbuminsa Obey the Queen. Albumin julkaisua seurasi Euroopan-kiertue, jolla duo esiintyi rockyhtye Smash Into Piecesin lämmittelijänä.\n\nLaajemman läpimurtonsa SCARLET teki vuonna 2024 osallistuttuaan Ruotsin euroviisukarsintaan Melodifestivaleniin kappaleella Circus X. Duo palasi kilpailuun vuonna 2025 kappaleella Sweet N’ Psycho ja vahvisti samalla asemaansa yhtenä modernin metallin kiinnostavimmista ja omaperäisimmistä nousevista nimistä.",
-      "price": "30",
-      "ticketUrl": "https://www.tiketti.fi/scarlet-swe-on-the-rocks-helsinki-lippuja/120546",
-      "image": "",
-      "ageLimit": "18"
-    },
-    {
       "id": "le-helsinkiagpwuxapui",
       "title": "Hardcore Superstar",
       "venue": {
@@ -78,7 +36,7 @@
       "date": "2026-10-15T21:00:00.000Z",
       "venue": {
         "name": "On the Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Pagan Weekend -kinkerit ensimmäistä kertaa Helsingissä\nOn the Rocksiin saapuu lokakuun puolivälissä kuusi riivattua esiintyjää.\n\nPagan Weekend 2026 -festivaali soi Helsingin On the Rocks -klubilla perjantaina 16. ja lauantaina 17. lokakuuta. Perjantaina lavalla esiintyvät Vermilia, Kallomäki ja Folkrim. Lauantain synkät saattajat ovat Hindarfjäll, Noiduin ja Vetten Äpärät.\n\nPerjantain pääesiintyjä Vermilia yhdistää pohjoisen melankolian, luonnon mystiikan ja äärimetallin vahvan ilmaisun ainutlaatuiseksi äänimaailmaksi. Kolme albumia julkaissut artisti tekee kansainvälistä uraa ja keikkaileekin enemmän ulkomailla kuin Suomessa.\n\nMyös perjantaina soittava Kallomäki on saavuttanut globaalia suosiota. Riihimäkeläisyhtyeen jouhikkometalli ja dark folk vie kuulijat kulttijohtaja Roka Ukrin myytin ääreen ja bändi tarjoaa joka kerta rituaalisen elämyksen. Perjantain kolmas esiintyjä Folkrim tarjoaa modernia otetta folkmetalliin. Kopla lupaa dödistä, menoa ja meihemiä, eikä orkesteri säästele humppahulluudessa.\n\nLauantaina Pagan Weekend 2026 esittää täyden annoksen ruotsalaista laajakatseista viikinkimetallia. Hindarfjäll katsoo muinaiseen aikaan laajasti ja pukee musiikkiinsa niin luonnon, vanhat jumaltarut kuin muuttuvan maailman. Myös suomalainen “viikinki” Peter Franzén tuntee yhtyeen ja vierailee Hindarfjäll Lärads Grenar -albumilla. Vuonna 2015 perustettu bändi on julkaissut yhteensä kolme pitkäsoittoa.\n\nPorilainen darkfolk-yhtye Noiduin esittää mystistä musiikkia itse tehdyillä soittimilla. Muinaiseen pohjoismaiseen kulttuuriin nojaava bändi on matkalla pitkälle: bändin ja saksalaisen Bjorthin yhteiskappale Svinfylking soi Call of Duty: Black Ops 6 -pelin Season 4 -trailerissa. Noiduin on julkaissut tähän mennessä yhden albumin, jolla bändin tie mystisyyden ytimeen sai komean alun.\n\nLauantaina esiintykatraan kolmas yhtye Vetten Äpärät tuo lavalle raivokkaiden melodioiden maailman, jossa ihminen ottaa mittaa luonnonvoimien kanssa ja löytää itsensä. Luvassa on vankkaa fantasiaheviä.",
       "price": "25",
@@ -106,7 +64,7 @@
       "date": "2026-10-16T17:00:00.000Z",
       "venue": {
         "name": "Skenesali",
-        "address": ""
+        "address": "Jönsaksentie 6, Vantaa"
       },
       "description": "Noumena on melodista death metalia soittava yhtye, joka perustettiin vuonna 1998 Ähtärissä. Kokoonpano tunnetaan melankolisten melodioiden, raskaiden riffien ja tunnelmallisten äänimaisemien yhdistämisestä. Noumena ammentaa skandinaavisesta death metal -perinteestä sävyttäen musiikkiaan pohjoismaisella melankolialla.\n\nBloody Falls perustettiin vuonna 2017 Valkeakoskella. Tämä järkkymättömästä mustanpuhuvasta energiastaan ja raskaasta soundistaan tunnettu kokoonpano yhdistelee melodisia death- ja black metal -vaikutteita voimakkaaseen groove metal -ilmaisuun. Terävien riffien, murskaavien rumpujen ja lyyrisen tarinankerronnan myötä Bloody Falls tarjoaa musiikkia, joka on sekä synkkää että tinkimätöntä. \"On aina ilo löytää yhtye, jolla on lahjakkuutta, intohimoa ja joka on täysin aito siinä, mitä he tekevät.\" (Bendetta Baldin/ Chaoszine 7.9.2024). Bloody Falls  julkaisee 4. albuminsa toukokuussa 2026.\n\nVoidfallen on teatraalista melodista death metalia esittävä yhtye pääkaupunkiseudulta. Voidfallen ei tingi tyylistään ja yhtyeen uniikki soundi on vailla vertaansa. Mahtipontisista kitara-ja rumpuvyöryksistä tiputaan herkkiin ja hauraisiin syvyyksiin jokaisen kappaleen kertoessa tarinoita surun harmailta rannoilta norsunluutorneihin ja marttyyrien tuskan täyttämiin kohtaloihin. Yhtyeen tavaramerkkinä toimivien naamioiden takaa löytyy joukko pitkän linjan muusikoita. Jokainen esiintyminen toteutetaan äärimmäisellä huolellisuudella kokonaisvaltaista, esteettistä kokemusta tavoitellen.",
       "price": "20",
@@ -120,7 +78,7 @@
       "date": "2026-10-16T21:00:00.000Z",
       "venue": {
         "name": "On the Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Pagan Weekend -kinkerit ensimmäistä kertaa Helsingissä\nOn the Rocksiin saapuu lokakuun puolivälissä kuusi riivattua esiintyjää.\n\nPagan Weekend 2026 -festivaali soi Helsingin On the Rocks -klubilla perjantaina 16. ja lauantaina 17. lokakuuta. Perjantaina lavalla esiintyvät Vermilia, Kallomäki ja Folkrim. Lauantain synkät saattajat ovat Hindarfjäll, Noiduin ja Vetten Äpärät.\n\nPerjantain pääesiintyjä Vermilia yhdistää pohjoisen melankolian, luonnon mystiikan ja äärimetallin vahvan ilmaisun ainutlaatuiseksi äänimaailmaksi. Kolme albumia julkaissut artisti tekee kansainvälistä uraa ja keikkaileekin enemmän ulkomailla kuin Suomessa.\n\nMyös perjantaina soittava Kallomäki on saavuttanut globaalia suosiota. Riihimäkeläisyhtyeen jouhikkometalli ja dark folk vie kuulijat kulttijohtaja Roka Ukrin myytin ääreen ja bändi tarjoaa joka kerta rituaalisen elämyksen. Perjantain kolmas esiintyjä Folkrim tarjoaa modernia otetta folkmetalliin. Kopla lupaa dödistä, menoa ja meihemiä, eikä orkesteri säästele humppahulluudessa.\n\nLauantaina Pagan Weekend 2026 esittää täyden annoksen ruotsalaista laajakatseista viikinkimetallia. Hindarfjäll katsoo muinaiseen aikaan laajasti ja pukee musiikkiinsa niin luonnon, vanhat jumaltarut kuin muuttuvan maailman. Myös suomalainen “viikinki” Peter Franzén tuntee yhtyeen ja vierailee Hindarfjäll Lärads Grenar -albumilla. Vuonna 2015 perustettu bändi on julkaissut yhteensä kolme pitkäsoittoa.\n\nPorilainen darkfolk-yhtye Noiduin esittää mystistä musiikkia itse tehdyillä soittimilla. Muinaiseen pohjoismaiseen kulttuuriin nojaava bändi on matkalla pitkälle: bändin ja saksalaisen Bjorthin yhteiskappale Svinfylking soi Call of Duty: Black Ops 6 -pelin Season 4 -trailerissa. Noiduin on julkaissut tähän mennessä yhden albumin, jolla bändin tie mystisyyden ytimeen sai komean alun.\n\nLauantaina esiintykatraan kolmas yhtye Vetten Äpärät tuo lavalle raivokkaiden melodioiden maailman, jossa ihminen ottaa mittaa luonnonvoimien kanssa ja löytää itsensä. Luvassa on vankkaa fantasiaheviä.",
       "price": "25",
@@ -134,7 +92,7 @@
       "date": "2026-10-17T15:00:00.000Z",
       "venue": {
         "name": "Ääniwalli",
-        "address": ""
+        "address": "Pälkäneentie 13, Helsinki"
       },
       "description": "Lost Society ja HOKKA yhdistävät syksyllä voimansa Suomen-kiertueelle\nSuomalaisen modernin metallin kärkinimi Lost Society ja raskaan musiikin kuumin tulokas HOKKA suuntaavat yhteiselle Suomen-kiertueelle syys-lokakuussa. Kiertue tavoittaa kymmenen kaupunkia ympäri Suomen ja tarjoilee yleisölle ainutlaatuisen paketin modernia thrashia, groovea ja vaihtoehtorockia.\n\nRäjähtävästä live-energiastan tunnettu Lost Society palaa lavoille esittelemään tuoreen, äärimmäisen iskevän ”Hell Is A State Of Mind”-albumin materiaalia, ja HOKKA puolestaan tuo uuden ”Via Miseria IV” -debyyttilevyn hittikimaran koko kansan kuultavaksi.\n\nKiertueella special guestin ominaisuudessa nähdään vaihtoehtorock-ryhmä St. Aurora.\n\nLost Societyn Samy Elbanna kommentoi kiertuetta:\n\n”Kaksi loistavaa uutta levyä ja kaksi bändiä täynnä ystäviä rundaamassa ympäri Suomen, se kuulostaa unohtumattomalta syksyltä. Meillä on älyttömästi uutta materiaalia esiteltävänä uudelta albumiltamme, ja kun HOKKA ja St. Aurora tulevat ns. räjäyttämään pankin joka ilta, tästä rundista tulee jotain todella erityistä!”\n\nJoel Hokka lisää:\n\n”Tämä on uuden bändini ensimmäinen varsinainen kiertue, eikä seura voisi olla parempi.\nOlen todella innoissani päästessäni jakamaan lavan Samyn ja Lost Societyn kanssa (sekä tietysti myös St. Auroran!). Nämä keikat tullaan muistamaan.”",
       "price": "45,50",
@@ -192,7 +150,7 @@
       "date": "2026-10-23T17:00:00.000Z",
       "venue": {
         "name": "Skenesali",
-        "address": ""
+        "address": "Jönsaksentie 6, Vantaa"
       },
       "description": "Tampereelta jo 27 vuotta sitten ponnistanut power metalin sanansaattaja Dreamtale julkaisi 31.7. uuden albuminsa Aetherbound, ja sitä juhlistaakseen yhtye kiertää syksyn mittaan Suomea ja Ruotsia. Perjantaina 23.10. Skenesali saa kokea erityispitkän esityksen, sillä koko ilta on varattu pelkästään Dreamtalelle. Yleisö saa kuulla niin uutta materiaalia kuin vanhojakin klassikoita.\n\n\nAetherbound on Dreamtalen yhdeksäs kokopitkä albumi. Tämä eeppinen kokonaisuus vie kuulijan matkalle taivaanrannan tuolle puolen, missä kohtalo, rohkeus ja mystiikka kietoutuvat yhteen huikeaksi äänimaisemaksi. Levy yhdistää yhtyeen tunnistettavan melodisuuden entistä raskaampiin riffeihin ja elokuvalliseen tunnelmaan kertoen tarinoita vapaudesta, sisäisestä voimasta ja rajojen rikkomisesta. Tämä ei ole vain musiikkialbumi vaan matka, jolla jokainen sävel kantaa kuulijan yhä syvemmälle eetterin syövereihin. Valmistaudu kohoamaan sfääreihin. Olet nyt Aetherbound.",
       "price": "15",
@@ -235,7 +193,7 @@
       "date": "2026-10-24T16:00:00.000Z",
       "venue": {
         "name": "Semifinal",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "ARTKILLS\n\nHelsingissä vuonna 2020 perustettu ARTKILLS on noussut nopeasti tulevaiduuden suomalaisen modernin metallin terävimpään kärkeen.\n\nYhtyeen soundi rakentuu raskaiden riffien, tarttuvien groovejen ja vahvojen melodioiden ympärille yhdistellen uudistuvaa metallimaailmaa ja tinkimätöntä old school -asennetta tavalla, joka erottuu välittömästi.\n\nEnsijulkaisu Last Goodbyes kasvatti bändin ympärille nopeasti kiinnostusta ja toi mukanaan kymmeniä tuhansia striimejä.\n\nSeuraava single The Fall vahvisti ARTKILLSin profiilia entisestään ja toi yhtyeelle ensimmäisen musiikkivideon, jonka ohjasi mm. Battle Beastin videoista tunnettu Esa Jussila.\n\nMyöhemmät julkaisut – The Game, remix-kokoelma Remix That Shi#t sekä viiden kappaleen KillGallery – EP tekivät selväksi, että ARTKILLS ei ole hetken ilmiö vaan nopeasti kehittyvä tulokas, joka tähtää korkealle.\n\nMELANKOLIA\n\nMELANKOLIA on oululainen murhemetalliyhtye, jonka tarina alkaa neljän ystävyksen ollessa teinejä. Elämä vei jäsenet kymmeneksi vuodeksi eri suuntiin, kunnes vuoden 2024 lopulla kerran kuopattu bändi päätettiin aloittaa uudestaan. Ei siksi, että pitäisi palata vanhaan, vaan siksi, että jotkut asiat eivät suostu kuolemaan.\n\nEnsimmäinen single Blue valittiin YleX:n Anne Lainto <3 Rockin viikon tulokkaaksi, ja alkuvuonna 2026 MELANKOLIA nostettiin Tulevaisuuden tekijät -listalle. KaaosZine on valinnut yhtyeen yhdeksi tämän hetken kiinnostavimmista nuorista metalliyhtyeistä.\n\nMaaliskuussa 2026 julkaistu debyytti-EP Step 1: I Admit I’m a Melancholic on uudelleen alkaneen tarinan ensimmäinen luku.\n\nBändin laulut sukeltavat itseinhon, riippuvuuksien ja elämän pienten ilojen äärelle – sinne, missä kauneus ja kurjuus kulkevat käsi kädessä.\n\nMELANKOLIA kutsuu sitä murhemetalliksi.\n\nLUST FOR LILY\n\nLust For Lily perustettiin vuonna 2022 Tuusulassa ja yhtye alkoi nopeasti raivata paikkaansa maan uuden aallon metalcore-skenessä. Yhtyeen musiikki rakentuu vahvan emotionaalisen intensiteetin ja modernin raskaan tuotannon varaan, yhdistäen melodisen haavoittuvuuden teräväreunaisiin riffeihin ja dynaamisiin sovituksiin.",
       "price": "14",
@@ -249,7 +207,7 @@
       "date": "2026-10-24T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Yli kahden vuosikymmenen odotus päättyi tammikuussa 2026, kun For My Pain... julkaisi kauan odotetun toisen albuminsa “Buried Blue”. Sekä fanien että musiikkimedian ylistämä levy osoittaa, että yhtye on varmistanut asemansa melodisen goottimetallin kärkinimien joukossa.\n\nLokakuussa For My Pain… palaa Helsingin On The Rocksiin ja luvassa on ilta täynnä vahvaa tunnelmaa ja kaihoisaa nostalgiaa. Yhtye on lupaillut, että setti tulisi sisältämään sekä uuden albumin materiaalia että fanien rakastamia klassikoita.\n\nIllan avaa äänekoskelainen Scars of Solitude, jonka tunnelmallinen ja raskas ilmaisu virittää yleisön täydellisesti syysillan pimenevään syliin.\n\nTule kokemaan yksi syksyn odotetuimmista kotimaisista goottimetallikeikoista!",
       "price": "29",
@@ -263,7 +221,7 @@
       "date": "2026-10-24T17:00:00.000Z",
       "venue": {
         "name": "Skenesali",
-        "address": ""
+        "address": "Jönsaksentie 6, Vantaa"
       },
       "description": "Hard Rock Motors on bändiryhmittymä, joka on koottu bluespohjaisista hard rock -yhtyeistä unohtamatta hieman metallisemman tai progressiivisemman tulkinnan kokoonpanoja.\n\nSkenesalissa järjestetään Moottoreiden kokoontumisajot, ja tarjoillaan raskaan rockin kattaus sopivan erilaisin maustein.",
       "price": "12",
@@ -290,7 +248,7 @@
       "date": "2026-10-26T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "TEMIC saapuu Suomeen syksyllä julkaistavan albuminsa myötä. Progemuusikoiden superkokoonpano nähdään Helsingin On The Rocksissa maanantaina 26. päivä lokakuuta, 2026. Liput keikalle myynnissä nyt!\n\n\nJo ennen debyyttialbumiaan TEMIC on tullut tutuksi nimeksi progressiivisen musiikin ystävien huulilla. Yhtyeen kokoonpano koostuu nimekkäistä muusikoista, jotka ovat tuttuja esimerkiksi Devin Townsendin, Shattered Fortressin, Hakenin ja SHININGIN riveistä.\n\n\n\nDebyyttialbuminsa \"Terror Management Theory\" kautta yhtye on täytti kaikki superkokoonpanon odotukset –albumi saavutti komeita listapaikkoja ja sai ylistystä niin faneilta kuin kriitikoiltakin. TEMIC on progediggaajien unelmien täyttymys –ja yhtyeen kiusoittelema uusi albumi \"Ceiba\" tarjoillaan livenautintona myös Suomessa syksyllä 2026.\n\n\n\nIllan avaa kotimainen Joviac, jonka musiikissa progressiivinen sovitustyö yhdistyy tarttuviin melodioihin.",
       "price": "23",
@@ -332,7 +290,7 @@
       "date": "2026-10-29T17:00:00.000Z",
       "venue": {
         "name": "Kuudes Linja",
-        "address": ""
+        "address": "Hämeentie 13 B, Helsinki"
       },
       "description": "HAUTA WIZARD: Tuore helsinkiläisyhtye julkaisee Kutosella debyytti-EP:nsä Kuivat Luut! Hauta Wizard sekoittaa musiikissaan 70-lukuista rokkia ja 90-luvun alun black metal-estetiikkaa, joten tästä haudasta löyhkää kaikki se, mikä rockmusiikissa on koskaan ollut siistiä.\n\nSUMEA on 2019 perustettu yhtye, jonka musiikillisen rituaalin aura yltää stonerin ja doomin kautta psykedeelisiin, progressiivisiin ja jopa kraut rockin sävyihin. Kappaleiden tarinat pyörivät folk-kauhun, H.P. Lovecraftin ja Edgar Allan Poen maisemissa, unohtamatta okkulttisia ja uskonnollisesti vinksahtaneita kultteja.\"\n\nNICK CAVEA SUOMEKSI: Karri Lehtonen ja Juha “Jussi” Lepistö ovat kääntäneet kymmenen Nick Caven ikonista kappaletta suomeksi. Tavoitteena on ollut mahdollisimman uskollinen suhde Caven alkuperäisiin teksteihin. Käännöksille on saatu virallinen lupa Nick Cavelta BMG Rights Managementin kautta ja projektista julkaistaan albumi vuonna 2027.\n\nKarri Lehtosen (Karri Lehtonen & Hautajaismuusikot) ja Pasi Eerikäisen (RSO) muodostama duo aloitti keikkailun kesällä 2026 ja projektista on muodostunut pienimuotoinen ilmiö. Kaikki eivät ole mahtuneet aiemmille keikoille sisään, joten tässä illassa on mahdollisuus todistaa laulujen tumman sävyt!",
       "price": "12",
@@ -346,7 +304,7 @@
       "date": "2026-10-29T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "SF Perkele presents: Perinteinen Halloween Pre-Party torstaina 29. lokakuuta On The Rocksissa!\n\nOZZY by Kärtsy\n\nKärtsy Hatakka astuu yhtyeensä kanssa toista kertaa On The Rocksissa Ozzyn maagiseen maailmaan. Luvassa kirjava kattaus Black Sabbathin kivijalkaklassikoista aina Ozzyn soolouran kovimpiin ralleihin. Ozzy by Kärtsy kumartaa syvään yhden rockhistorian suurimman ikonin elämäntyölle. Kärtsy puikoissa, bändi konehuoneessa. Hikeä, voimaa ja erittäinkin elävä ilta. Pukeudu mustaan, verryttele niska ja äänihuulet lämpimiksi ja hyppää Crazy Trainin kyytiin!\n\nDon & Takakarvaajat plays TURBONEGRO\n\nDon & Takakarvaajat on rokkilätkäjoukkue Turbojugend Finland HC:n nelinkertaisista rokkilätkän maailmanmestareista koostuva bändi, joka koveroi norjalaisen deathpunk-yhtye Turbonegron kulta-ajan klassikoita, jolloin bändin laulajana toimi ikoninen Hank Von Helvete (R.I.P.). Don & Takakarvaajat lyö energisellä esiintymisellään bileet yhdelletoista, kun bändin laulaja Himo Jutila kaivaa itsestään esiin todellisen pantterin!\n\nDJ TONTO “The Fearless V-Killer” plays Haunted Halloween Undead Themes\n\nDJ Tonto rääkkää levylautasia klassikoilla ja klassikoimattomilla biiseillä ennen bändejä, niiden välissä sekä illan päätteeksi myös yläkerrassa aina klo 03.00 saakka! Levylautasilta tiedossa Alice Cooper, Roky Erickson, Miihkalin Thriller, Misfts, Type O Negative, Sisters Of Mercy etc. illan teemaan sopivaa jurnutusta! Monster Mash!\n\nNyt ne luurangot kaapeista ja eiku parempaa seppälää päälle ja tanssilattialle!",
       "price": "15",
@@ -360,7 +318,7 @@
       "date": "2026-10-30T18:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "DIRTin Halloween Special on täällä taas – suurempana ja karmivampana kuin koskaan!\nOn taas se aika vuodesta! Jo viidettä kertaa Helsingin On The Rocksissa järjestettävät supersuositut halloween-bileet ovat paisuneet ainutlaatuisiksi karnevaaleiksi, jotka ovat naamiaiset, rock-keikka ja täysi hullunmylly samassa paketissa.\n\nIllan viihteestä vastaa Suomen kovimpiin livebändeihin lukeutuva DIRT, joka soittaa erikoispitkällä keikalla niin omia kappaleitaan kuin tarkoin valittuja pop-, rock- ja metalliklassikoitakin. Helsinkiläisyhtyeen ainutlaatuisen setin aikana nähdään myös kotimaiselta musiikkikentältä tuttuja yllätysvierailijoita. Jokainen DIRTin Halloween on erilainen kuin edellinen ja ehkä juuri siksi näihin kemuihin saavutaan yhä uudelleen ja uudelleen – jopa ulkomailta saakka.\n\nNiin yleisö, bändit kuin klubikin koristautuvat näyttävästi yhden illan ajaksi, joten luvassa on todellakin ilta täynnä yllätyksiä. Yleisön paras asu palkitaan DIRTin ja On The Rocksin toimesta!\n\nIllan avaa itseoikeutetusti raa’asta ja voimakkaasta soundistaan tunnettu raskaan musiikin kameleontti Pretty.",
       "price": "23",
@@ -416,7 +374,7 @@
       "date": "2026-10-31T21:30:00.000Z",
       "venue": {
         "name": "Tavastia klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "EMODISKON HALLOWEEN-ERIKOINEN JUHLITAAN JÄLLEEN TAVASTIALLA: TAKE TO THE SKIS!\nVuonna 2025 juhlittu kaikkien aikojen ensimmäinen Emodiskon kipparoima Halloween Tavastialla oli jymymenestys... eikä kevään 2026 tulikuuma ED's on the Beach -spektaakkeli hävinnyt Halloween-keikaukselle lainkaan. Koska meitä ED:ssä ja entouragessamme kiehtovat sekä jyrkät kontrastit että vastakohtaisuudet, mennään tämän syksyn Halloween-spessussa kevään rantabileiden vastaisesti ankarasti pakkasen puolelle: Take to the Skis!\n\nLauantaina 31.10.2026 on jälleen luvassa valtakunnan hurjin Halloween-hurvittelu pukukilpailuineen, yllätyksellisine ohjelmanumeroineen ja vierailijoineen. Inspiroidu pukeutumisessasi kylmistä tai lumisista asioista: ks. esim. lumi, jää, jääkausi, absoluuttinen nollapiste, Mount Gagazet Final Fantasy X:stä, kukkulallinen valkoista asiaa \"Scarfacen\" Tony Montanan toimiston pöydällä, Calvon suhde Falling in Reverseen, snoukkaaminen, murtomaahiihto – you name it. Vain mielikuvituksesi on rajana!\n\nParhaat pukeutujat palkitaan. Ja kenties biisivalinnatkin ovat tavanomaista kylmempiä... mutta tunnelma vähemmän yllättäen ei. Tästä tulee absoluuttinen rager. Valmistaudu täyslaidalliseen proverbiaalisesta (ja ehkä ihan oikeasta?) lumitykistä!\n\nIllan avaa media- ja tapahtuma-alan moniosaaja Ron Forsmanin uusi The Style Is Death -klubi, jossa gootti- ja tummasävyinen synamusiikki kohtaa videotaiteen.",
       "price": "12",
@@ -458,7 +416,7 @@
       "date": "2026-11-05T17:00:00.000Z",
       "venue": {
         "name": "Semifinal",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "I THINK I BROKE SOMETHING\n\nI Think I Broke Something (ITIBS) on electronic punk -duo, joka yhdistelee raakaa electroa, metallia, säröisiä syntikoita ja aggressiivisia rytmejä genrerajoista piittaamatta. ITIBS soundissa voi kuulla kaikuja artisteista kuten The Prodigy, Skinny Puppy ja 3TEETH, mutta ennen kaikkea se kuulostaa ITIBSä itseltään. \n\nVahvalla DIY-asenteella toimiva duo on tehnyt yhteistyötä mm. Maximin (The Prodigy), Zardonicin ja DJ Hyperin kanssa.\nSemifinalin keikka toimii samalla uuden Another Escape -EP julkaisukeikkana. Viiden biisin EP julkaistaan 5.11.2026. \n\nKeikalla kuullaan uutta materiaalia sekä biisejä yhtyeen aiemmasta tuotannosta.\n\nKHROMA\n\nHelsinkiläinen electro-metal-yhtye Khroma julkaisi lokakuussa 2025 omaa nimeään kantavan, yhtyeen neljännen albumin. Se esittelee Khroman\nmonipuolisimmillaan: yhtye laajentaa elektronisen vaihtoehtometallinsa rajoja suoraviivaisista death- ja groove metal -osuuksista täysimittaiseen grimeen, elektroon ja trip hopiin. Ultrapainavan aloituskappaleen \"Abattoir (Chosen)\" kautta \"NPCs\":n puhdasveriseen rapiin ja albumin päättävään, monimutkaisesti polveilevaan \"Carnivorous\"-kappaleeseen yltävä \"Khroma\" on rajattoman raskas albumi, joka ei jahtaa arkipäiväisiä genrekonventioita. \n\nKhroma valmistautuu viidennen albuminsa julkaisuun kevällä 2027 tekemällä muutaman valikoidun keikan.\n\nIHA SAMA\n\nIha Sama on vuonna 2011 Hämeenlinnassa perustettu kokeellista rokkia soittava yhtye. Bändin kategorisointi on haastavaa tyylin vaihdellessa aina NuMetal henkisestä rytkeestä kevyempään post punk henkiseen rallatteluun ja välissä uiskennellaan hieman progressiivisemmissa vesissä. Lyriikka on pääasiassa hämmentävää sen keskittyessä havaintoihin ja jargoniin erikoistyypeistä nyky-yhteiskunnassa ja sen ulkopuolella, jossa meininki on vähintääkin omituista. \n\nMusta huumori ja sarkasmi ovat ehkä niitä kantavia teemoja, mutta mukaan mahtuu myös vakavampiakin aiheita. Bändi on aina vahvoilla livenä -- pilke silmäkulmassa asenne on vahvasti läsnä tasokkaan soitannan lomassa nöyristelyn loistaessa poissaolollaan.. All-in, iha sama!",
       "price": "13",
@@ -472,7 +430,7 @@
       "date": "2026-11-05T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "PIMENTO – Vatsatanssia metallimusiikkiin -spektaakkeli nähdään jälleen Helsingin On The Rocksissa marraskuussa!\nHistoriansa neljäs Pimento kutsuu levottomat henget esiin hautausmaa-teemallaan. Marraskuun viides ilta muuttaa On The Rocksin alakerran kuoleman kehdoksi, jossa mitä tahansa voi tapahtua. Luvassa on koko illan mittainen tarina, jossa äänen saavat niin vainajien varjot, varikset kuin kuoleman morsiametkin. Multaisilla mailla luitaan kolisuttelevat sekä metallivatsatanssin ammattilaiset että oppilasryhmät – synkkien sävelten ja hypnoottisen liikkeen johdattamina.\n\nIlta tarjoaa visuaalista inspiraatiota yön kulkijoille, kauhuromantiikan ystäville ja kaikille varjoissa viihtyville. Pue siis päällesi synkkääkin synkempi kaapu ja liity saattueeseen, sillä tätä spektaakkelia et halua jättää väliin!",
       "price": "28",
@@ -486,7 +444,7 @@
       "date": "2026-11-06T18:00:00.000Z",
       "venue": {
         "name": "Skenesali",
-        "address": ""
+        "address": "Jönsaksentie 6, Vantaa"
       },
       "description": "Northwindin ikärajaton levyjulkkarikeikka Skenesalilla!\nNorthwind:\nNorthwind on vuonna 2019 perustettu Folk/Black Metal yhtye joka ammentaa inspiraationsa suomen muinaismytologiasta, luonnosta, ja pakanoiden ikuisesta taistosta kristinuskoa vastaan. Skenesalin illassa juhlitaan Northwindin debyyttialbumin nimeltä \"Tuhkasta Nouseva Mahti\" julkaisua ja levy tullaan kuulemaan livenä kokonaisuudessaan parin vamhemman klassikon kera!\n\nThrone Of Selene:\nThrone of Selene on oululainen melodista black -ja death metallia yhdistävä yhtye. Throne of Selene tunnetaan heidän tavastaan yhdistellä hienoja melodioita agressiivisen groovaavaan soittoonsa. Throne of Selene julkaisee debyyttialbuminsa 2026 syksyllä.\n\nKouta:\nKOUTA on vuonna 2021 perustettu suomalainen yhtye, joka yhdistelee black metalia ja folk-elementtejä omaperäiseksi, väkevän tunnelmalliseksi kokonaisuudeksi.\n\nKOUTA soittaa raskasta metsämetallia, jossa kauniit melodiat, raskaat harmoniat ja suuret kuorot kuljettavat kuulijan pohjoisen kansan tarinoihin. Voimakasta ja vaarallista - lavalla tukka pyörii ja rokki soi!",
       "price": "12",
@@ -514,7 +472,7 @@
       "date": "2026-11-06T18:00:00.000Z",
       "venue": {
         "name": "Lepakkomies",
-        "address": ""
+        "address": "Helsinginkatu 1, Helsinki"
       },
       "description": "Neljä vuotta sitten perustettu vieraileviin laulajiin nojaava moderni power metal yhtye After Infinity tekee odotetun ensiesiintymisensä juhlistaakseen toisen kokopitkän albuminsa Beyond Eternity julkaisua. Yhtyeen perustaja Zsolt Szilagyi on vanhan liiton power metal jyrä Dreamtalen kitaristi, ja lavalla nähdään myös saman yhtyeen laulaja Nitte Valo sekä kosketinsoittaja Akseli Kaasalainen. Lauteille nousevat laulamaan myös Leveragesta ja Delainistä tuttu Paolo Ribaldini, Shereignistä ja Fear of Dominationista tuttu Sara Strömmer, sekä Frozen Factorystä tuttu Stephen Baker - voidaan siis puhua jo superkokoonpanosta!\n\nIllan avaajana toimiva Gladenfold ei kalpene pääesiintyjälle. Yhtye on hionut melodista death metalia ja power metalia yhdistelevää tyyliään jo yli kahden vuosikymmenen ajan. Alkuvuodesta yhtye julkaisi Reaper Entertainmentin kautta neljännen studioalbuminsa Soulbound, joka keräsi kehuja jopa Sonata Arctican Tony Kakolta.\n\nSaavu siis 6.11. Lepakkomieheen Helsingin Kallioon juhlistamaan power metalin ilosanomaa.",
       "price": "12",
@@ -542,7 +500,7 @@
       "date": "2026-11-07T17:00:00.000Z",
       "venue": {
         "name": "Kuudes Linja",
-        "address": ""
+        "address": "Hämeentie 13 B, Helsinki"
       },
       "description": "ATS WILL FEAST:\n\nAnkaralla kansainvälisellä keikkailulla erittäin kovan keikkamaineen ansaitusti omaava Rats Will Feast julkaisi keväällä uuden albumin - An Evocation EP:n -, joka on laajasti erittäin pidetty levy. Heidän levyjulkkarikeikkansa Helsingissä oli loppuunmyyty ja meno keikalla oli äärimmäisen kova! Tästä on olemassa monta tarinaa kerrottavana.\n\nRats Will Feast on äärimmäisen aggressiivinen ja raivoisa, kaoottinen mutta hallittu vaihtoehtoisen hardcoren ykkösnimi koko Scandinaviassa. Kuitenkin RWF:n musiikillinen skaala on laaja, sillä esimerkiksi uusimmalla EP:llä on yhtyeen raskaimmat ja kauniimmat hetket. An Evocation albumin Observer -biisin virallinen musiikkivideo on saanut youtubessa 133 000 toistoa!\n\nKANNABINOID:\n\nMetal-doom-trio Kannabinõid julkaisi tähänastisen uransa vaikuttavimman teoksen – kriitikoidenkin ylistämän ”Mass”-albumin.\n\nKannabinoid yhdistele taidokkaasti doomia, psykedeelistä rockia ja ambienttia luoden äänimaiseman, joka on yhtä aikaa murskaavan raskas sekä transsendentaalinen. Albumi palkittiin vuoden parhaana metallialbumina Estonian Music Awards -gaalassa 2024, mikä oli yhtyeelle jo toinen voitto vuoden 2019 ”3”-albumin jälkeen.\n\nViime kuukausina Kannabinõid on kasvattanut kansainvälistä fanikuntaansa menestyksekkäillä klubi- ja festivaalikeikoilla eri puolilla Skandinaviaa ja Itä-Eurooppaa, vahvistaen entisestään mainettaan intensiivisten ja kuulijan täysin mukaansa tempaavien keikkojen ansioista. Yhtye on kiertänyt ja esiintynyt samoilla festivaalilavoilla muun muassa sellaisten artistien kuin Stam1na, 1000mods, Mars Red Sky, Dopelord, Nadja, Poison Ruin ja Eivør kanssa.",
       "price": "12",
@@ -570,7 +528,7 @@
       "date": "2026-11-07T18:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Assemble The Chariots omalle headline keikalle Helsinkiin!\nMarraskuun On The Rocksin keikka tulee olemaan yhtyeen vuoden ainoa kotikaupungin headline keikka.\n\nHelsingissä koetaan elokuvallisen extreme metal -yhtye Assemble The Chariotsin hurmoksellinen klubikeikka Marraskuussa! Assemble The Chariotsin esikoisalbumi ”Unyielding Night” saavutti huikeita arvioita kautta maailman metallimedioiden ja vakiinnutti yhtyeen aseman Suomessa skenensä kovimpana tekijänä.\n\nAstraaliset ja elokuvamaiset teemat täydentyvät tiukalla blastillä, sekä tummalla extreme metallin tunnelmalla luoden oman maailmansa, joka täydentyy ilmiömäisillä ja raskailla vokaaleilla. ”Unyielding Night” vei yhtyeen kokeellisemmalle tasolle ja löytää yhtyeen musiikillisen ytimen, joka pääsee etuuksiinsa livenä!\n\nIllan avaa Plaguebreeder!",
       "price": "20",
@@ -598,7 +556,7 @@
       "date": "2026-11-12T17:00:00.000Z",
       "venue": {
         "name": "Kuudes Linja",
-        "address": ""
+        "address": "Hämeentie 13 B, Helsinki"
       },
       "description": "Legendary doom outfit The Obsessed return to Finland this November!\nFounded by Scott \"Wino\" Weinrich — known for his work with Saint Vitus, Spirit Caravan, and Shrinebuilder — The Obsessed emerged in the late 1970s and went on to become one of the most influential bands in doom metal and underground hard rock.\n\nThe band built its reputation in the Baltimore/Washington D.C. underground scene during the rise of hardcore punk in the early 1980s. Often credited as one of the key acts that helped bridge heavy metal and punk, The Obsessed earned the respect of genre-defining contemporaries such as Black Flag, Bad Brains, and Minor Threat. Their raw energy, uncompromising attitude, and thunderous sound have led many to describe them as “America’s Motörhead.”\n\nScott “Wino” Weinrich’s unmistakable vocals and legendary guitar work have left a lasting mark on the world of heavy music, continuing to inspire generations of musicians and fans alike.\n\nThe Obsessed will perform at Kuudes Linja in Helsinki on November 12, 2026.",
       "price": "37,50",
@@ -640,7 +598,7 @@
       "date": "2026-11-14T18:00:00.000Z",
       "venue": {
         "name": "Tavastia klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Ympäri maailmaa ahkerasti kiertävä metallijyrä Battle Beast saapuu loppuvuodesta odotetulle keikalle Helsingin Tavastialle. Kotimaan ehdottomasti kovimpiin liveyhtyeisiin lukeutuvan Battle Beastin keikat ovat visuaalisesti henkeäsalpaavia spektaakkeleita, joissa yhdistyvät tarttuvat kertosäkeet, hyperenerginen show ja tuhansien keikkojen kartuttama karisma.\n\nBattle Beastin viimeisin studioalbumi \"Steelbound\" julkaistiin lokakuussa 2025. ",
       "price": "39,90",
@@ -669,7 +627,7 @@
       "date": "2026-11-18T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Legion Of The Damned saapuu On The Rocksiin marraskuussa! Hollantilaisen pitkän linjan thrash/death -jyrän lisäksi lavalla nähdään kotimaiset metalliyhtyeet Torchia ja Rebellix.",
       "price": "27",
@@ -683,7 +641,7 @@
       "date": "2026-11-21T15:00:00.000Z",
       "venue": {
         "name": "Ääniwalli",
-        "address": ""
+        "address": "Pälkäneentie 13, Helsinki"
       },
       "description": "TuskaLive ja Grey Beard esittävät:\n\nKanadalainen, äärimmäisen teknistä death metallia tulittava Archspire saapuu Helsinkiin ja tarkemmin Ääniwalliin marraskuun 21. päivä näyttämään miten haipakkaa dödistä soitetaan ison veden tuolla puolen. Archspire tunnetaan poikkeuksellisesta soittonopeudestaan ja virtuoosimaisesta tarkkuudestaan, kuin myös ainutlaatuisista, lähes räppimäisellä sykkeellä kulkevista vokaaleistaan. Archspire julkaisi juuri uuden Too Fast To Die -albumin, jota tukevalla kiertueella yhtye saapuu Helsinkiin.\n\nTeknisen ja brutaalin kiertuepaketin muina bändeinä nähdään coloradolainen deathcore-ryhmä Crown Magentar, losangelesilainen teknistä dödistä työstävä The Zenith Passage sekä portugalilainen, brutaalia death metallia survova Analepsy.",
       "price": "49,50",
@@ -697,7 +655,7 @@
       "date": "2026-11-21T18:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Kotimainen folkia ja black metalia yhdistelevä kulttibändi Paara on palannut jäädäkseen –yhtyeen kolmas albumi “Laulut tulen ja jään” -julkaistaan Dusktone Recordsin kautta 30. päivä lokakuuta 2026. Levyn julkaisua juhlitaan Hellsinki Metal Cruisella, Helsingin On The Rocksissa ja Seinäjoen Rytmikorjaamolla. Liput keikoille myynnissä nyt!\n\nYhtyeen perustamisesta asti Paara on erottunut joukosta vahvalla tunnelmallisuudellaan, monipuolisilla sävellyksillään ja sanoituksillaan, jotka ammentavat suomalaisesta kansanperinteestä, mytologiasta ja ihmismielen varjoista. Vaikka yhtyeen toinen pitkäsoitto “Riitti” (2018) nousi albumilistan viidenneksi ja nautti kriitikoiden ylistystä, on yhtye elänyt siitä lähtien hiljaiseloa. Tämä kuitenkin muuttui, kun Paara teki paluun keikkalavoille keväällä 2026 vielä edellisen albuminsa tahdissa.\n\nNyt on aika kääntää uusi sivu yhtyeen tarinankerronnassa. Tuleva levy syventää entisestään yhtyeen ilmaisua: musiikissa kohtaavat synkkyys, kauneus, aggressio ja haikeus. Uudet sävellykset jatkavat Paaran omaäänistä tarinankerrontaa, jossa menneiden aikojen myytit, pimeät metsät ja ihmisen sisäiset ristiriidat nivoutuvat yhteen.\n\n“Minulle ei ole koskaan ollut epäilystä siitä, palaako Paara takaisin. Kysymys oli vain ajasta. Lopulta aika teki tehtävänsä, ja pitkään työpöydällä ollut levy sai lopullisen muotonsa yllättävän nopeasti –käytännössä muutamissa viikoissa. Paaran kolmas albumi esittelee kuulijalle yhtyeen, jossa on paljon tuttua mutta myös runsaasti uutta. Kaihoisat melodiat, iskevät riffit ja loppuun asti harkitut sovitukset kulkevat käsi kädessä. Kaikki on isompaa ja kovempaa, mutta samalla myös pienempää ja hiljaisempaa. Musiikki ei hengitä ilman dynamiikkaa, eikä tarinaa kerrota ilman draaman kaaria” -yhtyeen kitaristi ja toinen perustajajäsen Zvartus kuvailee.\n\nIllan avaa kotimainen black metal -yhtye Svarta Havet. ",
       "price": "17",
@@ -711,7 +669,7 @@
       "date": "2026-11-22T14:00:00.000Z",
       "venue": {
         "name": "Ääniwalli",
-        "address": ""
+        "address": "Pälkäneentie 13, Helsinki"
       },
       "description": "TuskaLive ja Grey Beard esittävät:\n\nKanadalainen, äärimmäisen teknistä death metallia tulittava Archspire on julkaissut erittäin suuren kysynnän vuoksi toisen keikan Helsingin Ääniwalliin. Aiemmin julkaistu marraskuun 21. päivän keikka on nyt lähes loppuunmyyty ja toinen keikka Ääniwallissa järjestetään sunnuntaina 22.11.2026.\n\nArchspire tunnetaan poikkeuksellisesta soittonopeudestaan ja virtuoosimaisesta tarkkuudestaan, kuin myös ainutlaatuisista, lähes räppimäisellä sykkeellä kulkevista vokaaleistaan. Archspire julkaisi juuri uuden ”Too Fast To Die”-albumin, jota tukevalla kiertueella yhtye saapuu Helsinkiin.\n\nTeknisen ja brutaalin kiertuepaketin muina bändeinä nähdään coloradolainen deathcore-ryhmä Crown Magentar, losangelesilainen teknistä dödistä työstävä The Zenith Passage sekä portugalilainen, brutaalia death metallia survova Analepsy.",
       "price": "49,50",
@@ -739,7 +697,7 @@
       "date": "2026-11-28T17:00:00.000Z",
       "venue": {
         "name": "Ääniwalli",
-        "address": ""
+        "address": "Pälkäneentie 13, Helsinki"
       },
       "description": "Post-metalin jättiläinen Sólstafir marraskuussa Suomeen\nIslantilaisbändin tähdittämä Melancholy Mass soi Jyväskylässä, Tampereella ja Helsingissä. Melancholy Mass on viidettä kertaa järjestettävä kauniin, jylhän, raskaan ja synkän musiikin tapahtuma. Myöhäissyksyllä tumma tunnelma saavuttaa Jyväskylän, Tampereen ja Helsingin.\n\nSólstafir, Vorna, Cryptic Hatred ja Ashen Tomb kiertävät Suomea 26.-28. marraskuuta.\n\nMelancholy Massin pääesiintyjä tulee Islannista. Vuonna 1995 perustettu Sólstafir ammentaa inspiraationsa kotimaansa mystisen kauniista luonnosta ja on kasvanut Suomessakin rakastetuksi yhtyeeksi.\n\nSólstafirin musiikin paletti on runsas ja monipuolinen: luvassa on näkemyksellistä raskailua,psykedeliaa tai rockia, ihan miten kukin kuulija bändin kokee. Sólstafir on vuosien kuluessa osoittanut useasti, että se kykenee uudistumaan aina uudelleen. Bändin materiaali hipoo aina täydellisyyttä, muttei koskaan ole valmista.\n\nVorna-yhtye oli viimeisellä albumillaan Aamunkoi vahvassa iskussa. Tamperelaisyhtyeen folk ja black metalin sekä kansanperinteen mikstuura huumaa edelleen kuulijoita melakolialla ja suomen kielen luovalla käytöllä. Melodioissaan vahva ja tuntuva Vorna työstää tällä hetkellä uutta musiikkia.\n\nCryptic Hatred on yksi Suomen nuoren death metal -aallon kärkinimistä. Bändi yhdistää grooven, melankolian ja brutaalin energian omaleimaiseksi kokonaisuudeksi. Yhtye on vakuuttanut niin levytyksillään kuin intensiivisillä live-vedoillaan.\n\nMyös helsinkiläinen Ashen Tomb uskoo death metalin voimaan ja iskee sitä silmille ja korville raskaasti ja raa’asti. Synkkien tunteiden ja maalailun lisäksi Melancholy Mass tarjoaa myös kovan luokan asennemetallia.",
       "price": "43",
@@ -768,7 +726,7 @@
       "date": "2026-12-01T17:00:00.000Z",
       "venue": {
         "name": "Tavastia klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Ukrainalainen rock-sensaatio The Hardkiss palaa Tavastialle, Helsinkiin 1. joulukuuta 2026 – luvassa on jälleen unohtumaton ilta täynnä yhtyeen omaleimaista rockin, elektronisen ja popin yhdistelmää. Edellinen Helsingin-keikka vuonna 2024 oli loppuunmyyty.\n\nEuropean Anniversary Tour 2026 juhlistaa The Hardkissin yli vuosikymmenen mittaista uraa, jonka aikana yhtye on hurmannut yleisöjä ympäri Eurooppaa. Tunnettu elokuvallisista visuaaleistaan, sähköisestä lavaesiintymisestään ja genrejä rikkovasta soundistaan, The Hardkiss jatkaa rajoja rikkovaa matkaansa. Tämän perinnön viimeisin ilmentymä on uusi single “Tenderness”, vaikuttavan tunnepitoinen kappale, joka on jo kerännyt kansainvälistä huomiota.Liput ovat nyt myynnissä.",
       "price": "52,50",
@@ -782,7 +740,7 @@
       "date": "2026-12-04T18:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Vuonna 2020 Ruotsin Karlskogassa perustettu, tyylikästä progressiivista metalcorea runnova Allt saapuu Helsingin On The Rocksiin 4. joulukuuta. Tuskassakin tulevana kesänä esiintyvä Allt yhdistelee matalavireisiä riffejä, vaeltavia melodioita ja orkestraalisia sovituksia luoden tunnistettavan, tumman ja tunnepitoisen soundin. Yhtyeen jäsenet jakavat rakkauden luontoon ja elokuvataiteeseen, ja se on vahvasti läsnä myös Alltin musiikissa. Monet kappaleet ja sanoitukset ovatkin saaneet inspiraationsa kirjallisuudesta tai elokuvista. Menneiden muistojen, kokemusten tai kuvien pukeminen musiikiksi on yksi bändin tärkeimmistä inspiraation lähteistä.\n\nErikoisvieraina keikalla nähdään saksalaiset metalcore-lähettiläät Avralize sekä ruotsalainen Bite Down.",
       "price": "",
@@ -823,7 +781,7 @@
       "date": "2026-12-08T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "",
       "price": "16",
@@ -837,7 +795,7 @@
       "date": "2026-12-10T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "The Last Dance: A Night of Remembrance” on matka menetyksen, surun ja ajan kulun halki. Illan aikana käydään läpi Marianas Restin koko viiden albumin mittainen matka ja ohjelmisto kattaa kappaleita uran jokaisesta vaiheesta.\n\nVain yhden illan ajan Marianas Rest esittää kaksi erilaista kokonaisuutta – intiimi puoliakustinen setti näyttää yhtyeestä riisutumman ja herkemmän puolen. Kappaleiden tarinat saavat käsittelyssä uuden elämän, antaen laulujen tarinoille ja tunteille tilaa hengittää. Illan sähköinen osuus puolestaan sisältää niin tutut yleisön suosikit kuin myös joukon harvinaisuuksia, syviä albumiraitoja sekä kauan unohduksissa olleita kappaleita. Osa näistä ei ole soinut livenä vuosiin, eikä yhtye lähde lupaamaan, milloin niitä seuraavan kerran kuullaan.\n\n“Tervetuloa tanssimaan kanssamme viimeiset hitaat, ja ehkä myös muutama nopea”, yhtye kommentoi.",
       "price": "20",
@@ -857,7 +815,8 @@
       "description": "MENTAL CRUELTY Mental Cruelty saapuu Suomeen joulukuussa! Saksalainen deathcoren ja black metalin elementtejä yhdistelevä yhtye nähdään Helsingin Ääniwallissa 11.12.2026. Vuonna 2016 perustettu Mental Cruelty on noussut kansainväliseen metallikenttään intensiivisten live-esiintymistensä ja neljän julkaisunsa myötä. Yhtyeen soundissa yhdistyvät demoniset vokaalit, tunnepitoiset riffit, raskaat breakdownit ja eeppiset orkesterisovitukset. Vuonna 2022 mukaan liittynyt vokalisti Lukas Nicolai aloitti yhtyeelle uuden aikakauden, joka huipentui Century Median kautta julkaistuun ZWIELICHT-albumiin. Iltojen lämppärinä nähdään mm. Las Vegasista ponnistava Ov Sulfur. Entisen Suffokate-vokalisti Ricky Hooverin luotsaama blackened deathcore -yhtye syntyi pandemian keskellä ja on sittemmin noussut nopeasti genrensä kiinnostavimpien nimien joukkoon. Ov Sulfurin musiikissa yhdistyvät synkät deathcore-breakdownit, black metal -vaikutteet, melodiset kertosäkeet ja uskonnollisia teemoja haastava lyriikka. Mukana kiertueella myös Extermination Dismemberment ja Acranius. Hellsinki Metal Festival & Kingstar present: MENTAL CRUELTY - EUROPE 2026 Special Guests: Ov Sulfur, Extermination Dismemberment, Arcranius 11.12.2026 Ääniwalli, Helsinki Iköraja: K18 Liput tulevat myyntiin 22.5. klo 12 osoitteeseen www.ticketmaster.fi/mentalcruelty. Keikka on K18.",
       "ticketUrl": "https://www.ticketmaster.fi/event/mental-cruelty-lippuja/585297311",
       "image": "https://s1.ticketm.net/dam/a/b7e/6281c75b-d546-4e46-b157-fec024563b7e_RETINA_LANDSCAPE_16_9.jpg",
-      "ageLimit": 18
+      "ageLimit": 18,
+      "price": "Pälkäneentie 13, Helsinki"
     },
     {
       "id": "manual-1791712513332",
@@ -879,7 +838,7 @@
       "date": "2026-12-12T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Jo vuonna 1978 ensiaskeleensa ottanut ja sittemmin legendaariseksi kasvanut kanadalainen Anvil saapuu Suomeen erikoiskiertueelle joulukuussa. Keikat ovat osa laajempaa “Pounding the Past” -kiertuetta, jolla yhtye keskittyy kolmen ensimmäisen albuminsa biiseihin. Anvil aloitti levytysuransa vuonna 1981 julkaistulla “Hard 'N' Heavy” -albumilla ja ajan hengen mukaisesti pitkäsoittoja ladeltiin ulos yksi per vuosi -vauhtia. Debyytti sekä sitä seuranneet studioalbumit “Metal On Metal” (1982) ja “Forged in Fire” (1983) nostivat bändin myös Kanadan rajojen ulkopuolisten metallifanien tietoisuuteen – esimerkiksi Metallica on avoimesti kertonut Anvillin olleen yksi bändin esikuvista yhtyeen alkutaipaleella.\n\nAnvil on julkaissut levyjä koko uransa ajan ja matka musikkibisneksessä on ollut vähintäänkin tapahtumien täyteinen. Välillä kapuloita rattaisiin heittäneiden musiikkitrendien muuttumisesta huolimatta bändi on pitänyt pintansa, ja Anvilin suosio koki täysin uuden tulemisen vuonna 2009 julkaistun \"Anvil, tosielämän Spinal Tap\" -dokumenttielokuvan myötä. Sacha Gervasin ohjaama dokumentti nousi kansainväliseen megasuosioon ja näytti, miten sinnikkäästi Steve \"Lips\" Kudlow, Robb Reiner ja Chris Robertson pitivät ja pitävät edelleen unelmaansa elossa.\n\nKolmeen ensimmäiseen levyyn liittyvää kiertuetta Euroopassa on suunniteltu pitkään, ja viimein Anvil pääsee myös toteuttamaan sen.\n\n\"Ajoitus kolmeen ensimmäiseen albumiin keskittyviin kappaleisiin ei voisi olla parempi. Olemme sellaisessa harvinaisessa tilanteessa uusien albumien välissä, että tälle oli nyt aikaa, ja saimme vapauden juhlistaa myös bändin menneisyyttä\", Anvil kertoo.\n\n\"Suuntaamme 21. albumimme äänityksiin Saksaan syyskuussa, ja sen jälkeen on mahdollista jatkaa Pounding the Past -kiertuetta Euroopassa aina joulukuuhun saakka. Mukana matkaa myös ystäviämme Belgiasta eli Killer.\"",
       "price": "37,50",
@@ -907,7 +866,7 @@
       "date": "2026-12-12T18:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Saksalainen post-metalin arvostetuimpiin nimiin kuuluva The Ocean saapuu Helsinkiin osana uuden Solaris-albuminsa kiertuetta. Yhtye nähdään On The Rocksissa lauantaina 12. joulukuuta 2026. Illan erikoisvieraina esiintyvät belgialaiset Psychonaut ja Pothamus.\n\nThe Ocean on viimeisen 25 vuoden aikana noussut yhdeksi modernin post-metalin merkittävimmistä nimistä. Kokoonpanomuutoksista huolimatta yhtye jatkaa eteenpäin uuden Solaris-albuminsa myötä, joka on samalla sen kunnianhimoisin julkaisu tähän mennessä. Andrei Tarkovskin klassikkoelokuvasta inspiraationsa ammentava teos yhdistää progressiivisen metallin, elokuvalliset tunnelmat ja yhtyeelle ominaisen filosofisen näkökulman.\n\nSyksyllä julkaistavalta albumilta kuultu ensimmäinen single Light Pollution käsittelee teknologian vaikutusta ihmiseen ja kysyy, olemmeko jatkuvasta kehityksestä huolimatta todella edenneet eteenpäin. Musiikillisesti kappale rakentuu hitaasti kasvavasta jännitteestä kohti massiivista ja emotionaalista huipennusta, esitellen samalla yhtyeen uudistuneen kokoonpanon.\n\nIllan erikoisvieraana nähdään belgialainen Psychonaut, jonka raskaan progressiivinen soundi yhdistää psykedeelisiä sävyjä, voimakkaita melodioita ja post-metalin massiivisuutta. Yhtye on noussut viime vuosina eurooppalaisen vaihtoehtometallin kiinnostavimpiin nimiin.\n\nToinen lämmittelijä on Belgiasta saapuva Pothamus. Hypnoottisista riffeistä, tribaalisista rytmeistä ja ritualistisesta tunnelmastaan tunnettu trio julkaisi vuonna 2025 toisen albuminsa ABUR, joka vahvisti sen asemaa kansainvälisen sludge- ja post-metalkentän nousevana voimana.",
       "price": "41,50",
@@ -940,7 +899,8 @@
       "description": "Týr Twilight Force / Ignea / Vanaheim Ääniwalli, Helsinki 20.12.2026 K18 TÝR saapuu Helsingin Ääniwalliin 20. joulukuuta! Färsaarelainen folk- ja viikinkimetallin suurnimi TÝR saapuu osana mittavaa Valhalla Calling Europe Tour 2026 -kiertuetta Helsingin Ääniwalliin 20. joulukuuta 2026. Illan täydentävät ruotsalaiset power metal -suosikit Twilight Force ja Dragonland sekä hollantilainen folk metal -nousija Vanaheim. Yli kahden vuosikymmenen ajan TÝR on ollut yksi modernin melodisen folk metalin tunnistettavimmista nimistä. Yhtye julkaisee tänä vuonna uransa kymmenennen studioalbumin, omalla nimellään kulkevan TÝR-levyn, joka avaa uuden luvun bändin pitkällä uralla. Euroopan-kiertue seuraa albumin julkaisua, ja yleisö pääsee kuulemaan uutta materiaalia ensimmäistä kertaa livenä legendaaristen fanisuosikkien rinnalla. Menestyksekkään Paganfest 2025 -kiertueen jälkeen yhtye vetäytyi kotisaarilleen Färsaarille työstämään uutta musiikkia. Tulevalla kiertueella nämä tuoreet kappaleet heräävät eloon yhdessä niiden eeppisten hymneiden kanssa, jotka ovat tehneet TÝRistä kansainvälisesti arvostetun nimen metallikentällä. Mukana kiertueella nähdään kolme vahvaa yhtyettä modernin power-, fantasia- ja folk metalin kärjestä. Ruotsalainen Twilight Force tunnetaan näyttävästä sinfonisesta power metallistaan, suurista melodioista ja fantasiahenkisestä maailmastaan. Myös ruotsalainen Dragonland on pitkän linjan suosikki, jonka tavaramerkkeihin kuuluvat tarttuvat kertosäkeet, melodiset koskettimet ja eeppiset tarinat. Illan avaa hollantilainen Vanaheim, joka on noussut nopeasti folk metal -yleisön tietoisuuteen yhdistämällä raskaat riffit, tunnelmalliset sävellykset ja kansanmusiikkivaikutteet.",
       "ticketUrl": "https://www.ticketmaster.fi/event/tyr-lippuja/386000473",
       "image": "https://s1.ticketm.net/dam/e/8fa/d863cdf0-8600-4b33-89cc-41a3ad3af8fa_SOURCE",
-      "ageLimit": 18
+      "ageLimit": 18,
+      "price": "Pälkäneentie 13, Helsinki"
     },
     {
       "id": "manual-1791723990739",
@@ -948,7 +908,7 @@
       "date": "2026-12-26T18:00:00.000Z",
       "venue": {
         "name": "Semifinal",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "KOSTO\n\nKosto on valkeakoskelais-helsinkiläis-järvenpääläis-jyväskyläläisläinen suomenkielistä nu-metallia takova yhtye. Ensimmäinen single, Kipupiste, julkaistiin elokuussa 2024 ja Kaaoszine nosti Koston 10 kiinnostavimman nuoren kotimaisen metalliyhtyeen joukkoon. Toukokuussa 2025 julkaistiin debyytti-EP ”kiitos.”, josta Desibeli.net kommentoi Koston olevan EP:n myötä ”matkalla mestaruussarjaan jo nyt”. 2025 lopulla julkaistu Miehet ei itke -single on soinut mm. YleX:llä ja Yle Radio Suomessa. YleX:n juontaja Sonny Kylä-Liuhala kommentoi kappaletta: ”stoori tän biisin takana on ihan mielipuolisen loistava, onneksi myös kappalekin”.\n\nSemifinalissa juhlistetaan loppuvuodesta julkaistavaa toista EP:tä, ja keikalla kuullaan ennenkuulematonta materiaalia! Koston keikat ovat aina 100% liveä ilman keinotekoisia värejä tai aromivahventeita.\n\nKostoretki on elämys, jossa haluat olla mukana!\n\n\nARSEENI\n\nArseeni on vuonne 2022 Päijät-Hämeessä perustettu raskaan musiikin valmistaja. Yhtye ottaa vaikutteensa metallista, hardcore-punkista, räpistä ja kenties jopa noisesta, tarjoillen raivokasta suomalaista katumetallia. Arseeni on mytkyllinen typpiryhmään kuuluva puolimetalli.",
       "price": "14",
@@ -962,7 +922,7 @@
       "date": "2027-01-08T18:00:00.000Z",
       "venue": {
         "name": "Semifinal",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Kuun Pimeä Puoli - Black metallia Helsingin pimenevässä illassa.\n\nSemifinalin lavalle nousevat kolme raudan kovaa modernin black metalin yhtyettä: Einvigi, The Mist From The Mountains ja Venunum Dei.\n\nEINVIGI\nKotimainen post-black metallia soittava Einvigi julkaisee neljännen albuminsa \"Latent\" 2. lokakuuta ja saapuu Helsingin Semifinaliin juhlimaan uutta levyänsä. Yhtyeen moderni black metal soi raskaammin kuin aiemmin ja sen laulukieli on vaihtunut suomesta englantiin. Vuosien saatossa yhtye on kulkenut päämäärätietoisesti kohti metallisempaa sointia ja Saksassa asti keikkaillut nelikko palaa Helsinkiin uuden musiikin kera.\n\n\"Se mitä Agalloch on Yhdysvalloille, Harakiri For The Sky Itävallalle, Alcest Ranskalle, sitä Einvigi on Suomelle\" (Jürgen/folkmetal.nl 23.12.2020)\n\nTHE MIST FROM THE MOUNTAINS\nOn pk-seudulla vuonna 2020 perustettu 7-henkinen melodisen black metalin taitaja mm. Arckanumin, vanhan Borknagarin, vanhan Dimmu Borgirin, Gehennan, Kvistin ja Old Man’s Childin hengessä. Kotimaisen black metalin nimimuusikoista kasatun kokoonpanon jäsenet ovat tuttuja mm. yhtyeistä kuten Alghazanth, …and Oceans, Black Beast ja Rapture.\n\nBändi on julkaissut kaksi albumia, joista viimeisin \"Portal – The Gathering of Storms\" sijoittui Kaaoszinen toimittajien vuoden 2024 parhaat albumit -listauksessa toiseksi: \"The Mist From the Mountainsin kakkoslevy ei jäänyt kauaksi listan ykkössijasta. Tämä melodisen, kansantaruista ammentavan metallin järkäle on black metalin genrerajoja rikkova mestariteos\". Yhtye on esiintynyt tiiviisti kotimaan eturivin klubeilla ja Semifinalissa tullaan kuulemaan myös uutta musiikkia yhtyeeltä.",
       "price": "17,50",
@@ -976,7 +936,7 @@
       "date": "2027-01-09T18:00:00.000Z",
       "venue": {
         "name": "Lepakkomies",
-        "address": ""
+        "address": "Helsinginkatu 1, Helsinki"
       },
       "description": "Admire The Grim\n\nVuonna 2021 toimintansa aloittanut lappeenrantalainen Admire the Grim on ottanut nopean lähdön kohti maailmanlaajuista melodisen death metallin skeneä.\n\n‘Rogue Five’ EP:n ja sitä seuranneen, 31.1.2025 julkaistun ‘Resist’ pitkäsoiton myötä bändi lähtee tiivistahtiselle Suomen kiertueelle. Odotetulla albumidebyytillä vierailee myös Stam1nan Antti Hyyrynen.\n\nAdmire the Grim yhdistelee musiikissaan aggressiivista kitarariffittelyä nopeatempoisiin vokaaleihin ja tuttu 90-luvun Göteborg saundi yhdistyy uuden aallon suomalaisen metallin tyyliin. Bändi on tunnettu räjähtävästä lavaesiintymisestään ja viihdyttävistä, mukaansa tempaavista keikoistaan.\n\nIrrational Cause\n\nHelsingistä ponnistava Irrational Cause yhdistelee musiikissaan metalcorea ja melodista death metallia, saaden inspiraationsa modernin metallin jättiläisistä.\n\nEnergisistä ja mukaansatempaavista live-esiintymisistään tunnettu yhtye luo uniikin sekoituksen kovia ja raskaita riffejä, jotka soljuvat tarttuviin melodisiin kertosäkeisiin, josta toukokuussa julkaistu Shade-single antaa tiukkaa esimerkkiä.\n\nIrrational Cause julkaisi debyyttialbuminsa When The Lies Have Taken Control kesällä 2023 ja yhtye on esiintynyt kotimaan ja lähinaapureiden klubikeikkojen lisäksi myös esimerkiksi Tuska-festivaaleilla. Kuluvan vuoden aikana bändi työstää uutta musiikkia, josta myös Lepakkomiehessä kuullaan esimakua.\n\nBISA\n\nHelsingissä tukikohtaa pitävä BISA palaa keikkalavoille kovempana kuin koskaan! Melodista death metallia soittava yhtye tykitti viime vuonna useita loppuunmyytyjä klubikeikkoja ja teki festivaalidebyyttinsä Tuskassa.\n\nKeikkatauon aikana yhtye on valmistellut kolmatta levyään ja keikalla kuullaankin uutta julkaisematonta materiaalia! Tulevalta levyltä on julkaistu jo ”Death’s Shade”-nimeä kantava single, joka kuultiin mm. YleX:n ennakkosoitossa.\n\nLuvassa siis armotonta tykitystä, kauniita melodioita ja isoja kitarasooloja!",
       "price": "12",
@@ -990,7 +950,7 @@
       "date": "2027-01-16T15:00:00.000Z",
       "venue": {
         "name": "Ääniwalli",
-        "address": ""
+        "address": "Pälkäneentie 13, Helsinki"
       },
       "description": "Nordic Death Mass täyttää Ääniwallin lauantaina 16. Tammikuuta. Yhden päivän minifesteillä nähdään Pohjoismaiden kovimmat uuden death metal -aallon nimet, kun lavalle nousevat kotimaiset Malformed, Disguised Malignance ja Azatoth sekä ruotsalaiset Cryptorium, Xorsist ja Impurity. Luvassa on talven brutaalein ilta. Tätä ei kannata missata!\n\nTarkemmat aikataulut julkaistaan lähempänä tapahtumaa.\n\nTapahtuman järjestää All Out Productions.",
       "price": "17",
@@ -1018,7 +978,7 @@
       "date": "2027-01-16T18:00:00.000Z",
       "venue": {
         "name": "Lepakkomies",
-        "address": ""
+        "address": "Helsinginkatu 1, Helsinki"
       },
       "description": "We are bringing you a relentless night of crushing melodic death and epic symphonic metal.\n\nSCHEDULE:\n\n20:00 - Doors\n20:30 - Rose Heaven\n21:30 - Frostbite Terror\n22:30 - Scythe Of Sorrow\n\n***\n\nScythe Of Sorrow (Melodic Death Metal)\nScythe Of Sorrow is a melodic death metal band born in Finland in 2021, created by guitarist Piotr \"Petteri Scythe\" Krysiak. The band is all about blending heavy riffs, technical solos, and charismatic vocals into music that truly hits hard.\nThe support for their 2023 debut album, Raven’s Cry of Despair, has been incredible, with physical copies completely selling out worldwide. They live for the energy of live shows and have already played over 20 gigs across 3 countries, including a huge milestone for the band: playing Tuska Festival in 2026. Right now, Scythe Of Sorrow is pouring all their energy into writing their second album and searching for the right label to partner with on this journey.\n\nFrostbite Terror (Melodic Death Metal)\nFrostbite Terror is a melodic death metal band from Turku, Finland. Since 2022, Frostbite Terror has combined melodeath, thrashy riffing, and symphonic arrangements. The songs subject both serious and comedic topics to dark humor. When playing live, Frostbite Terror conquers stages with their tight playing and spicy, yet melancholy riffs.\n\nRose Heaven (Symphonic Metal)\nRose Heaven is a Finnish symphonic metal band founded in 2023, combining grand orchestral atmospheres, heavy riffs, strong melodies, and emotional vocals. The band released their debut album, Dream Of Symphony, in July 2025 and is currently working on their second studio album. In Rose Heaven’s music, heaviness and beauty go hand in hand. The songs range from epic atmospheres to more delicate moments.",
       "price": "10",
@@ -1046,7 +1006,7 @@
       "date": "2027-01-22T17:00:00.000Z",
       "venue": {
         "name": "Sellosali",
-        "address": ""
+        "address": "Soittoniekanaukio 1 A, Espoo"
       },
       "description": "",
       "price": "32,50",
@@ -1060,7 +1020,7 @@
       "date": "2027-01-23T18:00:00.000Z",
       "venue": {
         "name": "Skenesali",
-        "address": ""
+        "address": "Jönsaksentie 6, Vantaa"
       },
       "description": "Samuraimiekka on hyvässä terässä – Japanilaisesta kansanmusiikista ja mytologiasta ponnistava yhtye Whispered kiertää alkuvuodesta 2027 Suomea.\nBändin omaperäinen, melodinen death metal soi livenä Tampereella, Seinäjoella, Hämeenlinnassa, Jyväskylässä, Turussa ja Vantaalla. Kiertue alkaa keskellä pimeintä ja kylmintä talvea 8. tammikuuta Tampereen TalviHelvetti-tapahtumasta.\n\nWhisperedin neljäs albumi Honorbound ilmestyi syyskuussa 2026. Levy nousi Suomen virallisen albumilistan sijalle viisi ja oli fyysisten levyjen sarjassa peräti listaykkönen. Tuore julkaisu syntyi lähes kymmenen vuoden periodin aikana ja tarjoaa Whisperediä parhaimmillaan: bändin samuraimiekka viiltää vuonna 2026 todella terävästi.\n\nWhispered on aktivoitunut myös keikkarintamalla. Loppuunmyyty keikka keväällä Helsingin On the Rocksissa, esiintyminen kesällä Tampereen SaariHelvetissä, syyskuiset vedot Englannissa ja Skotlannissa ja täyteläinen Honorbound-julkaisukeikka Helsingin Kuudennella Linjalla puskevat yhtyeen tarjoamaan lisää synkkää ja eeppistä raskasta musiikkia livenä vuoden 2027 alkuun.",
       "price": "18",
@@ -1074,7 +1034,7 @@
       "date": "2027-01-29T18:00:00.000Z",
       "venue": {
         "name": "Tavastia klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Kotimaisen vaihtoehtometallin pioneeriyhtye Sara julkaisee 11. albuminsa tammikuussa ja suuntaa sen myötä laajalle klubikiertueelle ympäri Suomen. 22.1.2027 ilmestyvä uusi levy kantaa nimeä Ì heiminum, joka on islantia ja tarkoittaa ”Maailmassa”. Levyn ensimmäinen single Harhailija on nyt kuunneltavissa suoratoistopalveluista.\n\nKaskisissa vuonna 1995 perustettu Sara on kulkenut vertaansa vailla olevan omaleimaisen polun kotimaisessa musiikkikentässä. Yhtye tunnetaan visuaalisesti näyttävistä keikoistaan, koukuttavista riffeistään sekä laulaja-kitaristi Joa Korhosen ainutlaatuisesta ja herkästä laulusta.\n\nSaran edellinen albumi Hallava sinetöi yhtyeen aseman takaisin kotimaisen vaihtoehtometallin huipulla; Levy meni suoraan Suomen fyysisen albumilistan kärkeen ja se valittiin sekä Soundin että Infernon kriitikoiden vuoden levyksi 2025. Muun muassa Anhedonia ja Valtameri ovella kappaleet sisältänyt levy toi yhtyeelle myös Emma-ehdokkuuden Vuoden Metalli -kategoriassa.\n\nAlbumin levynjulkaisukiertue oli yhtyeen tähän asti menestynein sisältäen useita loppuunmyytyjä rokkiklubeja, isoimpia festivaaleja ja huipentuen yhtyeen 30-vuotisjuhliin loppuunmyydylle Tampereen Tavara-asemalle marraskuussa 2025.",
       "price": "32,50",
@@ -1088,7 +1048,7 @@
       "date": "2027-01-30T18:00:00.000Z",
       "venue": {
         "name": "Skenesali",
-        "address": ""
+        "address": "Jönsaksentie 6, Vantaa"
       },
       "description": "AZGAROTH\n\nHelsinkiläinen Azgaroth on vuonna 2016 perustettu black metal -yhtye, jonka musiikissa yhdistyvät melodinen black metal ja folk metal. Yhtyeen tematiikka ammentaa pakanuudesta, luonnosta ja kuolemasta.\n\nAzgaroth julkaisi uuden Aavekipu-EP:n 2.10.2026, ja nyt sen kappaleita kuullaan ensimmäistä kertaa koskaan livenä. Yhtye palaa lavalle kolmen vuoden keikkatauon jälkeen.\n\nKARELIAN WARCRY\n\nKarelian Warcryn musiikki oli alun perin selkeämmin black metalia, mutta vuosien mittaan yhtyeen tyyliin on tullut vaikutteita myös muista metallin alalajeista. Sanoituksissa käsitellään sodan ja väkivallan teemoja sekä ihmisyyden synkempiä puolia.\n\nVuonna 2014 yhtye jäi tauolle laulaja-kitaristi Matti Mikkosen menehdyttyä. Nyt, vuosikymmen myöhemmin, Karelian Warcry tekee paluun uudella Veripellot-albumillaan.\n\nWITHERING EMPTINESS\n\nWithering Emptiness yhdistää brutaalin intensiteetin ja eeppisen melodisuuden. Kylmät riffit, primitiivinen laulu ja riipaisevat harmoniat leikkaavat seremoniallisiin hymneihin. Tunnusomainen estetiikka ammentaa okkultismista ja olemassaolon varjoista.\n\nUusin EP Fimbulvetr (2026) on kuunneltavissa kaikissa suoratoistopalveluissa.",
       "price": "12",
@@ -1116,7 +1076,7 @@
       "date": "2027-02-02T16:30:00.000Z",
       "venue": {
         "name": "Kulttuuritalo",
-        "address": ""
+        "address": "Sturenkatu 4, Helsinki"
       },
       "description": "Elokuvallisesta soundistaan, intensiivisistä live‑esiintymisistään sekä omaleimaisesta, viululla höystetyn metalcoren ja tunnelmallisten elementtien yhdistelmästään tunnettu Imminence palaa Helsinkiin ja tarkemmin ottaen Kulttuuritalolle 2.2.2027. Yhtenä modernin vaihtoehtoisen raskaan musiikin kärkinimistä asemansa vakiinnuttaneen Imminencen Helsingin konsertti on osa yhtyeen tulevaa Euroopan kiertuetta.",
       "price": "53",
@@ -1130,7 +1090,7 @@
       "date": "2027-02-05T17:00:00.000Z",
       "venue": {
         "name": "Tavastia-klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Ruotsalainen sleaze-rockin kärkinimi Crashdïet palaa Suomeen uuden, odotetun \"Art Of Chaos”-studioalbumin julkaisun myötä. Yhtye nähdään Tavastialla Helsingissä 5. helmikuuta 2027.\n\nRäjähtävästä lavakarismastaan, energisistä live-esiintymisistään ja tarttuvista rock-hymneistään tunnettu Crashdïet on vakiinnuttanut asemansa modernin hard rockin johtavien yhtyeiden joukossa. Yhtyeen tuore albumi tarjoaa bändille tunnuksenomaisia tarttuvia melodioita, voimakkaita kitarariffejä ja tinkimätöntä asennetta, joiden ansiosta Crashdïet on saavuttanut uskollisen kansainvälisen fanikunnan.\n\nSuomi on jo pitkään ollut yksi Crashdïetin vahvimmista ja tärkeimmistä markkina-alueista. Suomalaisyleisö on ottanut yhtyeen vastaan kerta toisensa jälkeen loppuunmyytyjen konserttien ja ainutlaatuisen intensiivisen live-tunnelman siivittämänä.",
       "price": "46,50",
@@ -1144,7 +1104,7 @@
       "date": "2027-02-07T15:30:00.000Z",
       "venue": {
         "name": "Kulttuuritalo",
-        "address": ""
+        "address": "Sturenkatu 4, Helsinki"
       },
       "description": "Nightwishin laulajana tunnettu hollantilainen Floor Jansen saapuu oman yhtyeensä kanssa Helsinkiin alkuvuodesta 2027. Jansen esiintyy Helsingin Kulttuuritalolla sunnuntaina 7. helmikuuta osana uutta HYTRESS Tour 2027 -kiertuettaan.\n\nKiertue rakentuu 15. tammikuuta 2027 ilmestyvän Hytress-albumin ympärille. Levy avaa Jansenin mukaan hänen soolourallaan aiempaa raskaamman ja suoraviivaisemman luvun, jossa laulajan metallitausta nousee jälleen entistä selvemmin esiin.\n\nUutta materiaalia on saatu kuultavaksi jo 21. elokuuta julkaistulla Bring Me Silence -singlellä. Matalalle viritettyihin kitaroihin, kerrostettuihin lauluraitoihin ja Jansenin voimakkaaseen lauluun nojaavassa kappaleessa yhdistyvät artistin mukaan metallin voima ja intensiteetti sekä hänen soolotuotannossaan korostuneet avoimuus ja haavoittuvuus. Uutta soolovaihetta pohjusti myös kesäkuussa julkaistu RUN-single. Jansen julkaisi ensimmäisen varsinaisen sooloalbuminsa, Paragonin, vuonna 2023. Hytress vie hänen omaa tuotantoaan selvästi metallisempaan suuntaan.\n\nUuden kiertueen konserteissa artistia säestää täysi live-yhtye. Kiertue tulee yhdistämään hänen viimeaikaisten festivaaliesiintymistensä energian ja loppuunmyytyjen teatterikiertueiden intiimimmän tunnelman.\nFloor Jansen on kuulunut Nightwishiin vakituisena laulajana vuodesta 2013 lähtien. Ennen Nightwishiä hänet tunnettiin etenkin hollantilaisista After Forever- ja ReVamp-yhtyeistä.",
       "price": "31",
@@ -1158,7 +1118,7 @@
       "date": "2027-02-09T17:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "Norjalainen stoner rockin ja raskaan vaihtoehtorockin nouseva nimi Slomosa esiintyy Helsingissä tiistaina 9. helmikuuta 2027. Yhtye nousee lavalle mikonkadun pitkän linjan rock-pyhätössä On The Rocksissa.\n\nVuonna 2016 Bergenissä perustettu Slomosa on saavuttanut kansainvälistä huomiota omaleimaisella, tundra rockiksi nimetyllä soundillaan, jossa yhdistyvät raskaat riffit ja tarttuvat melodiat vuonojen tuulahduksella höystettynä. Slomosan viimeisin studioalbumi on juurikin ”Tundra Rock”-nimeä kantava, ylistystä kerännyt kakkosalbumi.\n\nLipunmyynti keikalle alkaa torstaina 1.10.2026 klo 11:00 Tiketissä.",
       "price": "35",
@@ -1186,7 +1146,7 @@
       "date": "2027-02-12T18:00:00.000Z",
       "venue": {
         "name": "Tavastia-klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Helsingissä ja Tampereella jyrisee helmikuun puolivälissä.\n\nVuonna 2014 Pittsburghissa perustettu deathcorea ja raskasta death metal -vyörytystä suosiva Signs of the Swarm saapuu helmikuussa Suomeen. Esiintymiset Helsingin Tavastialla perjantaina 12. helmikuuta ja lauantaina 13. helmikuuta Tampereen Olympiassa ovat osa tiivistä noin 30 keikan pyörähdystä Euroopassa.\n\nSigns of the Swarmin seurassa Suomeen matkustaa kolme modernia, kovaa metallilähettilästä: ranskalainen, Aaron Mattsin (ex-Betraying the Martyrs) johtama Ten56, brittibändi Oceans Ate Alaska sekä ranskalais-amerikkalainen deathcore-ryhmä Face Yourself.\n\nCentury Media Recordsin kautta musiikkia julkaiseva Signs of the Swarm tavoittaa biiseissään äärimetallin monipuoliset piirteet. Ahkerasti keikkaileva ryhmä on matkalla kohti massiivista läpimurtoa, jossa ei kuitenkaan himmata. Luvassa on armottomia, raakoja ja murskaavia iskuja, joissa yhdistyvät tummin ja syvin tunnelma sekä groove.",
       "price": "42,50",
@@ -1200,7 +1160,7 @@
       "date": "2027-02-13T16:00:00.000Z",
       "venue": {
         "name": "Tavastia-klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "YHDYSVALTALAINEN MODERNIN ROCKIN LUPAUS CATCH YOUR BREATH ENSIMMÄISTÄ KERTAA SUOMEEN\n\nDebyyttialbumillaan kansainvälistä suosiota saavuttanut Catch Your Breath saapuu Helsinkiin ensi talvena ja nähdään Tavastialla lauantaina 13. helmikuuta 2027. Lipunmyynti keikalle käynnistyy Tiketissä perjantaina 29. toukokuuta klo 12.\n\nVuonna 2017 Texasissa perustetun Catch Your Breathin musiikissa kuuluu uuden sukupolven hard rock, jossa raskaat kitaravallit, moderni synth-tuotanto ja herkät melodiat kulkevat rinnakkain. Laulaja Joshin, kitaristi Teddyn, basisti Ciananin ja rumpali Onellin muodostama bändi nousi läpimurtosinglellään Dial Tone nopeasti vaihtoehtorockin yleisön tietoisuuteen ja kipusi Spotifyn ja Billboardin raskaamman musiikin listojen kärkisijoille. Debyyttialbumi (2023) Shame On Me sementoi yhtyeen asemaa yhtenä modernin raskaan rockin kiinnostavimmista uusista nimistä.\n\nViime vuosina Catch Your Breath on kiertänyt aktiivisesti Yhdysvalloissa yhdessä suurten rock- ja metallinimien kanssa kasvattaen samalla uskollista fanikuntaansa. Tuleva Tavastian-keikka tuo yhtyeen intensiivisen live-shown suomalaisyleisön eteen.\n\nErityisenä lisänä iltaa täydentävät modernin rockin kiinnostaviin nimiin lukeutuvat Ocean Sleeper ja elijah. Australialainen Ocean Sleeper tunnetaan murskaavien breakdownien ja jättimäisten kertosäkeiden täyttämästä soundistaan, ja yhtye on viime vuosina nähty mm. Good Things Festivalin lavoilla sekä kiertämässä While She Sleepsin ja Polarisin kaltaisten nimien kanssa. Tummasävyistä kattausta vahvistaa myös Tennesseestä ponnistava elijah, jonka mielenterveyden teemoihin sukeltavissa kappaleissa yhdistyvät henkilökohtaiset tarinat, teräksinen metallisoundi ja melodinen herkkyys.",
       "price": "38,50",
@@ -1214,7 +1174,7 @@
       "date": "2027-02-16T17:00:00.000Z",
       "venue": {
         "name": "Tavastia-klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Valtavan kysynnän ja nopeasti kasvavan eurooppalaisen fanikunnan siivittämänä modernin rockin kuumimpiin uusiin nimiin lukeutuva Melrose Avenue palaa Eurooppaan tähänastisen uransa suurimmalle headliner-kiertueelle.\n\nMarraskuussa 2025 loppuunmyydyllä On The Rocks -klubilla Helsingissä esiintynyt australialaisyhtye tekee odotetun paluun Suomeen helmikuussa 2027 kahden oman klubikeikan merkeissä. Melrose Avenue nähdään Helsingin Tavastialla 16. helmikuuta ja Tampereen Olympiassa 17. helmikuuta.\n\nEnergisistä live-esiintymisistään, tarttuvista kappaleistaan ja vahvasta yhteydestään yleisöön tunnettu Melrose Avenue on noussut nopeasti yhdeksi rockkentän puhutuimmista uusista nimistä. Yhtyeen räjähdysmäinen kasvu suoratoistopalveluissa ja sosiaalisessa mediassa on näkynyt täysinä konserttisaleina ympäri maailmaa, ja tulevat Suomen-keikat tarjoavat ainutlaatuisen mahdollisuuden päästä todistamaan hurjassa nousukiidossa olevan yhtyeen tämän hetkistä live-kuntoa.",
       "price": "48",
@@ -1242,7 +1202,7 @@
       "date": "2027-02-22T16:00:00.000Z",
       "venue": {
         "name": "Ääniwalli",
-        "address": ""
+        "address": "Pälkäneentie 13, Helsinki"
       },
       "description": "Raskasta psykedeliarockia soittava brittibändi Uncle Acid and the Deadbeats palaa vuosien odotuksen jälkeen vihdoin Suomeen. Helsingin Ääniwallissa maanantaina 22. helmikuuta toteutuvan tapahtuman liput tulevat myyntiin Tiketissä perjantaina 4. syyskuuta.\n\nVuonna 2009 Cambridgessa vokalisti/kitaristi Kevin Starrsin perustama Uncle Acid and the Deadbeats on viime vuosien aikana noussut yhdeksi psykedeelisen happorockin suosituimmista yhtyeistä. Suomessakin loppuunmyytyjä klubikeikkoja soittanut kokoonpano valmistautuu parhaillaan syyskuussa julkaistavan seitsemännen pitkäsoittonsa \"Shapes of Midnight\":in ilmestymiseen. Yhtye nähtiin edellisen kerran Suomessa keväällä 2022 kun se lämmitteli Ghost -yhtyettä Tampereen Nokia Arenalla näiden Euroopan-kiertueella.\n\nIllan ohjelmiston täydentää kaksi ajankohtaista ja mielenkiintoista raskaan musiikin nimeä. Pitkän linjan brittiläinen sludge/doom-trio Conan on täkäläisen yleisön rakastama, tällä kertaa trio saapuu Suomeen ylistetyn seitsemännen albuminsa \"Violence Dimension\" kera. Alunperin Uudesta-Seelannista ponnistava, tätä nykyä Berliinistä käsin operoiva psykerock-duo Earth Tongue saapuu sensijaan ensikertaa Suomeen. Yhtyeen kolmas studioalbumi, Ty Segallin tuottama \"Dungen Vision\", ilmestyi alkuvuodesta In The Red-levymerkillä.",
       "price": "45",
@@ -1269,7 +1229,7 @@
       "date": "2027-02-26T18:00:00.000Z",
       "venue": {
         "name": "Tavastia-klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Punkrock-yhtye HUORA ja räppiä heviriffeihin yhdistelevä LÄHIÖBOTOX nähdään yhteiskeikalla Helsingin Tavastialla perjantaina 26. helmikuuta. Alkuvuoden riehakkaimpiin liveiltoihin lukeutuvassa perjantai-illassa kuullaan täysmittaiset setit kummaltakin bändiltä. \n\nRäyhäkkäästi riffittelevä ja kantaaottava Huora on yksi maamme energisimmistä livebändeistä. Vankkaa livesuosiota nauttiva yhtye esiintyi viimeksi Helsingissä kesällä 2025, joten paluu kaupunkiin on odotettu tapaus. Tavastian keikalla juhlistetaan myös yhtyeen uutta, alkuvuodesta 2027 ilmestyvää albumia. Illan toisena kärkinimenä nähdään räpin ja metallin raja-aitoja kaatava Lähiöbotox, joka tunnetaan niinikään hurjasta live-energiastaan. Parhaillaan uutta materiaalia valmistelevan yhtyeen nousua on siivittänyt ahkeran keikkailun ohella Ylen kanavilla ensi-iltansa saanut African Metal Tour -dokumenttisarja.",
       "price": "32",
@@ -1283,7 +1243,7 @@
       "date": "2027-02-27T16:00:00.000Z",
       "venue": {
         "name": "Kulttuuritalo",
-        "address": ""
+        "address": "Sturenkatu 4, Helsinki"
       },
       "description": "Synkän historian omaavan lontoolaiskaupunginosan mukaan nimetty amerikkalainen deathcore-ryhmä Whitechapel saapuu Suomeen kahdelle keikalle helmikuussa 2027. Bändi esiintyy Tampereen Tavara-asemalla 26. helmikuuta ja seuraavana päivänä 27. helmikuuta tanner tärisee Helsingin Kulttuuritalossa.\n\nHelsingin Ääniwalliin alunperin julkaistu keikka myi loppuun ja keikka siirtyy nyt vastaamaan kysyntää suurempaan saliin, Helsingin Kulttuuritalolle. Ääniwalliin ostetut liput käyvät Kulttuuritalolle sellaisenaan ja toimivat permantolippuina. Mikäli haluat palauttaa ostetun lipun keikkapaikan vaihdoksen vuoksi, lipun voi palauttaa Tikettiin marraskuun loppuun mennessä.\n\nVuonna 2006 perustettu Whitechapel on aina kuulunut genrensä ehdottomaan kärkikastiin ja bändi nähtiin hiljattain Lorna Shoren lämppärinä, Helsingin jäähallin ja Logomon lauteilla löylyttelemässä. Tenneseeläis-yhtye veistelee deathcoreaan hyvin progressiivisella kulmalla ja yhtyeen jäsenten henkilökohtaiset death metal ja hardcore-vaikutteet paistavat läpi selvästi. Whitechapel julkaisi taannoin jämäkän ”Hymns in Dissonance”-nimeä kantavan, yhdeksännen studioalbuminsa.\n\nÄärimmäisen raskaan kiertuepaketin täydentävät metalligenrejen välimaastossa taiteileva englantilainen Sylosis, amerikkalainen lempeästi nimetty death metal -jyrä 200 Stab Wounds sekä niinikään amerikkalainen kuolonmetallia tulkitseva Tribal Gaze.",
       "price": "53",
@@ -1297,7 +1257,7 @@
       "date": "2027-03-06T18:00:00.000Z",
       "venue": {
         "name": "On The Rocks",
-        "address": ""
+        "address": "Mikonkatu 15, Helsinki"
       },
       "description": "",
       "price": "39,50",
@@ -1325,7 +1285,7 @@
       "date": "2027-03-17T16:00:00.000Z",
       "venue": {
         "name": "Kulttuuritalo",
-        "address": ""
+        "address": "Sturenkatu 4, Helsinki"
       },
       "description": "Ruotsalainen melodisen death-metallin perintöä kantava The Halo Effect saapuu Suomeen keväällä 2027 ja esiintyy kahdella keikalla Helsingin Kulttuuritalolla 17. maaliskuuta.\n\nJylhiä kitaravalleja ja tarttuvia melodioita raskaiksi äänimaisemiksi yhdistelevä The Halo Effect on saanut kiitosta ikonisen Göteborg-soundin palauttamisesta. Yhtyeen jäsenet tunnetaan keskeisistä rooleistaan In Flamesissa ja Dark Tranquillityssa – kahdessa genren suuntaa näyttäneessä kulmakivessä, jotka nostivat sen maailmanlaajuiseen suosioon 2000-luvun taitteessa. Vuoden 2022 debyyttialbumi Days of the Lost ansaitsi kärkisijoituksia listoilla sekä Ruotsissa että Suomessa ja sitä seurannut kakkoslevy March of the Unheard (2025) on entisestään vahvistanut yhtyeen asemaa genren perinteitä kunnioittavana tekijänä, jonka liekki palaa yhä kirkkaammin.\n\nThe Halo Effectin viimeisimmät klubikeikat Suomessa nähtiin alkutalvella 2025, jonka jälkeen bändi on ehtinyt vierailla Suomessa myös useammalla festivaalilla. Kevään 2027 keikat varmistavat, että entistä laajempi yleisö pääsee kokemaan tinkimättömän liveilmaisun täydessä loistossaan.\n\nYhtyeen kitaristi Niclas Engelin kommentoi tulevaa kiertuetta innostuneena: “Halos in Europe, we can't wait to be back on the road in 2027! This time we bring the almighty Lacuna Coil and Omnium Gatherum with us, who we have been friends with for a long time. We look forward to an amazing time with you all!”\n\nSähköistä kattausta täydentää erityisenä lisänä italialainen modernin metallin kärkinimi Lacuna Coil. Isoiksi huipentumiksi rakentuvia goottihevi-anthmeja tarjoilevan viisihenkisen yhtyeen soundi saa inspiraationsa Bring me The Horizonin, Hans Zimmerin ja Paradise Lostin kaltaisilta nimiltä.\n\nIllan avaa kotimainen pitkän linjan metallijätti Omnium Gatherum, joka on jo 90-luvulta lähtien vakuuttanut yleisöjä tunnistettavalla tyylillään. Bändin jylisevät riffit, tarttuvat melodiat ja pauhaavat rytmit yhdistyvät suvereeniksi skandinaavisen kuolonmetalin ja melodisen harmonisoinnin liitoksi.",
       "price": "39,90",
@@ -1352,7 +1312,7 @@
       "date": "2027-05-29T20:00:00.000Z",
       "venue": {
         "name": "Tavastia-klubi",
-        "address": ""
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "description": "Ruotsalaisen progressiivisen melodisen death metallin mestari SCAR SYMMETRY palaa Suomeen kahdelle klubikeikalle toukokuussa 2027. Yhtye esiintyy sekä Tampereella että Helsingissä vierainaan espanjalainen melodeath konkari Rise To Fall sekä debyyttialbumiaan työstävä ja Heinolasta ponnistava tunnelmallisempaan metalliin kallistuva Meret. Suomen keikat ovat osa kevään 2027 kiertuetta, joka kattaa kaupunkeja myös Ruotsissa.\n\nScar Symmetryn Singularity- trilogian toinen osa ”Singularity (Phase II – Xenotaph)” julkaistiin vuonna 2023, jonka jälkeen yhtye on kiertänyt myös juhlavuosikeikkojen parissa. Yhtyeen läpimurtoalbumit “Symmetric In Design” ja “Pitch Black Progress” täyttivät kumpikin hiljattain 20 vuotta. Tähän mennessä Scar Symmetry on julkaissut kuusi studioalbumia, joista viisi Nuclear Blastin kautta.\n\nScar Symmetry on vakiinnuttanut yleisönsä kuluneiden vuosikymmenien aikana suomalaisten keskuudessa. Yhtyeen lyriikoissa vilisevät tekoälyn valtaan nousuun sekä neohumanismiin viittaavat teemat ovat nyt ajankohtaisempia kuin koskaan. Olet sitten teknologian vallankumouksen puolestapuhuja tai sitä vastaan, kunnon progemelodeath- mättö yhdistää parhaimmillaan meitä kaikkia.",
       "price": "30",
