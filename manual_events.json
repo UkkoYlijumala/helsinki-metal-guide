@@ -11,7 +11,7 @@
     "price": "45 €",
     "ticketUrl": "https://www.lippu.fi/artist/insomnium/insomnium-4119309/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791711840335",
@@ -25,7 +25,7 @@
     "price": "26 €",
     "ticketUrl": "https://www.lippu.fi/artist/brymir/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791711933526",
@@ -53,7 +53,7 @@
     "price": "29 €",
     "ticketUrl": "https://www.lippu.fi/artist/timo-kotipelto/timo-kotipelto-robustik-4199362/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791712192970",
@@ -67,7 +67,7 @@
     "price": "",
     "ticketUrl": "https://www.lippu.fi/artist/napalm-death/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791712513332",
@@ -95,7 +95,7 @@
     "price": "27,50 €",
     "ticketUrl": "https://www.lippu.fi/artist/havukruunu/havukruunu-4233529/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791712713613",
@@ -109,7 +109,7 @@
     "price": "28,10",
     "ticketUrl": "https://www.lippu.fi/artist/unkind/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791712790402",
@@ -179,7 +179,7 @@
     "price": "53 €",
     "ticketUrl": "https://www.lippu.fi/artist/whitechapel/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791713413670",
@@ -193,7 +193,7 @@
     "price": "33,60 €",
     "ticketUrl": "https://www.lippu.fi/artist/brujeria/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791713519883",
@@ -249,7 +249,7 @@
     "price": "20 €",
     "ticketUrl": "https://www.tiketti.fi/noumena-voidfallen-bloody-falls-skenesali-vantaa-lippuja/119405",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791714346940",
@@ -263,7 +263,7 @@
     "price": "25 €",
     "ticketUrl": "https://www.tiketti.fi/pagan-weekend-2026-on-the-rocks-helsinki-lippuja/119431",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791714516047",
@@ -277,7 +277,7 @@
     "price": "25 €",
     "ticketUrl": "https://www.tiketti.fi/pagan-weekend-2026-on-the-rocks-helsinki-lippuja/119431",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791714555003",
@@ -291,7 +291,7 @@
     "price": "45,50 €",
     "ticketUrl": "https://www.tiketti.fi/lost-society-hokka-aaniwalli-helsinki-lippuja/118583",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791714690161",
@@ -305,7 +305,7 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/dreamtale-skenesali-vantaa-lippuja/120746",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791714756590",
@@ -319,7 +319,7 @@
     "price": "29 €",
     "ticketUrl": "https://www.tiketti.fi/for-my-pain-scars-of-solitude-on-the-rocks-helsinki-lippuja/119846",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791714808843",
@@ -333,7 +333,7 @@
     "price": "14 €",
     "ticketUrl": "https://www.tiketti.fi/artkills-melankolia-lust-for-lily-semifinal-helsinki-lippuja/120720",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791714975282",
@@ -347,7 +347,7 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/ian-highhill-crimson-day-dol-skenesali-vantaa-lippuja/119370",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791715067436",
@@ -361,7 +361,7 @@
     "price": "23 €",
     "ticketUrl": "https://www.tiketti.fi/temic-joviac-on-the-rocks-helsinki-lippuja/120580",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791715204862",
@@ -375,7 +375,7 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/hauta-wizard-sumea-nick-cavea-suomeksi-kuudes-linja-helsinki-lippuja/121264",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791715294092",
@@ -389,7 +389,7 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/halloween-pre-party-on-the-rocks-helsinki-lippuja/121391",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791715360657",
@@ -403,7 +403,7 @@
     "price": "23 €",
     "ticketUrl": "https://www.tiketti.fi/dirt-halloween-special-vol-5-pretty-on-the-rocks-helsinki-lippuja/120702",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791715420890",
@@ -417,7 +417,7 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/sf-perkele-presents-halloween-night-bar-loose-helsinki-lippuja/120884",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791716094522",
@@ -431,7 +431,7 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/emodisko-halloween-special-take-to-the-skis-tavastia-klubi-lippuja/121004",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791716179644",
@@ -445,7 +445,7 @@
     "price": "13 €",
     "ticketUrl": "https://www.tiketti.fi/i-think-i-broke-something-khroma-iha-sama-semifinal-helsinki-lippuja/121408",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791716523957",
@@ -459,7 +459,7 @@
     "price": "28 €",
     "ticketUrl": "https://www.tiketti.fi/pimento-vatsatanssia-metallimusiikkiin-on-the-rocks-helsinki-lippuja/119513",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791716574966",
@@ -487,7 +487,7 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/sf-perkele-presents-spiritus-mortis-counting-hours-bar-lippuja/121077",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791716717328",
@@ -501,7 +501,7 @@
     "price": "16,50 €",
     "ticketUrl": "https://www.tiketti.fi/freakangel-ee-sugar-rody-ee-lirpo-club-underground-helsinki-lippuja/121169",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791719790588",
@@ -515,7 +515,7 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/after-infinity-gladenfold-lepakkomies-helsinki-lippuja/119408",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791720021837",
@@ -529,7 +529,7 @@
     "price": "20 €",
     "ticketUrl": "https://www.tiketti.fi/assemble-the-chariots-plaguebreeder-on-the-rocks-helsinki-lippuja/120714",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791720075101",
@@ -543,7 +543,7 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/rats-will-feast-kannabinoid-ee-kuudes-linja-helsinki-lippuja/121122",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791720161171",
@@ -557,7 +557,7 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/kahtia-lupiinit-astral-sleep-vernissa-vantaa-lippuja/118772",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791720374168",
@@ -571,7 +571,7 @@
     "price": "37,50 €",
     "ticketUrl": "https://www.tiketti.fi/the-obsessed-us-klastos-swe-kuudes-linja-helsinki-lippuja/118318",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791720459128",
@@ -585,7 +585,7 @@
     "price": "39,90 €",
     "ticketUrl": "https://www.tiketti.fi/battle-beast-tavastia-klubi-helsinki-lippuja/119778",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791720589861",
@@ -599,7 +599,7 @@
     "price": "27 €",
     "ticketUrl": "https://www.tiketti.fi/legion-of-the-damned-ned-torchia-rebellix-on-the-rocks-lippuja/121024",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791720639635",
@@ -613,7 +613,7 @@
     "price": "17 €",
     "ticketUrl": "https://www.tiketti.fi/paara-on-the-rocks-helsinki-lippuja/120406",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791721033702",
@@ -627,7 +627,7 @@
     "price": "49,50 €",
     "ticketUrl": "https://www.tiketti.fi/archspire-crown-magnetar-the-zenith-passage-analepsy-lippuja/117416",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791721110978",
@@ -641,7 +641,7 @@
     "price": "49,50 €",
     "ticketUrl": "https://www.tiketti.fi/archspire-crown-magnetar-the-zenith-passage-analepsy-lippuja/118889",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791721747953",
@@ -655,7 +655,7 @@
     "price": "22 €",
     "ticketUrl": "https://www.tiketti.fi/torture-killer-psychoparalysis-metempsychos-lt-whisper-lippuja/121139",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791721855912",
@@ -669,7 +669,7 @@
     "price": "43 €",
     "ticketUrl": "https://www.tiketti.fi/melancholy-mass-helsinki-2026-aaniwalli-helsinki-lippuja/119062",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791722973040",
@@ -683,7 +683,7 @@
     "price": "52,50 €",
     "ticketUrl": "https://www.tiketti.fi/the-hardkiss-ua-tavastia-klubi-helsinki-lippuja/112283",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791723145782",
@@ -697,7 +697,7 @@
     "price": "37,50 €",
     "ticketUrl": "https://www.tiketti.fi/anvil-can-killer-be-on-the-rocks-helsinki-lippuja/117803",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791723211860",
@@ -711,7 +711,7 @@
     "price": "",
     "ticketUrl": "https://www.tiketti.fi/allt-swe-avralize-ger-bite-down-swe-on-the-rocks-helsinki-lippuja/116078",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791723390048",
@@ -725,7 +725,7 @@
     "price": "16 €",
     "ticketUrl": "https://www.tiketti.fi/kausti-on-the-rocks-helsinki-lippuja/121286",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791723882202",
@@ -739,7 +739,7 @@
     "price": "20 €",
     "ticketUrl": "https://www.tiketti.fi/marianas-rest-on-the-rocks-helsinki-lippuja/120876",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791723932690",
@@ -753,7 +753,7 @@
     "price": "41,50 €",
     "ticketUrl": "https://www.tiketti.fi/the-ocean-psychonaut-pothamus-on-the-rocks-helsinki-lippuja/118883",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791723990739",
@@ -767,7 +767,7 @@
     "price": "14 €",
     "ticketUrl": "https://www.tiketti.fi/kosto-ep-julkkarit-arseeni-semifinal-helsinki-lippuja/121117",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791726819908",
@@ -781,7 +781,7 @@
     "price": "17,50 €",
     "ticketUrl": "https://www.tiketti.fi/einvigi-the-mist-from-the-mountains-venunum-dei-semifinal-lippuja/120784",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791726936877",
@@ -795,7 +795,7 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/bisa-irrational-cause-admire-the-grim-lepakkomies-helsinki-lippuja/118712",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727014598",
@@ -809,7 +809,7 @@
     "price": "17 €",
     "ticketUrl": "https://www.tiketti.fi/nordic-death-mass-aaniwalli-helsinki-lippuja/121220",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727077996",
@@ -823,7 +823,7 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/demonic-death-judge-sunniva-elektrus-erektus-kuudes-linja-lippuja/121367",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727134931",
@@ -837,7 +837,7 @@
     "price": "10 €",
     "ticketUrl": "https://www.tiketti.fi/scythe-of-sorrow-frostbite-terror-rose-heaven-lepakkomies-lippuja/121422",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727228257",
@@ -851,7 +851,7 @@
     "price": "18 €",
     "ticketUrl": "https://www.tiketti.fi/whispered-skenesali-vantaa-lippuja/121451",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727331499",
@@ -865,7 +865,7 @@
     "price": "32,50 €",
     "ticketUrl": "https://www.tiketti.fi/sara-tavastia-klubi-helsinki-lippuja/120427",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727392350",
@@ -879,7 +879,7 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/azgaroth-karelian-warcry-withering-emptiness-skenesali-lippuja/121474",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727476833",
@@ -893,7 +893,7 @@
     "price": "46,50 €",
     "ticketUrl": "https://www.tiketti.fi/crashdiet-swe-tavastia-klubi-helsinki-lippuja/119073",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727711237",
@@ -907,7 +907,7 @@
     "price": "35 €",
     "ticketUrl": "https://www.tiketti.fi/slomosa-on-the-rocks-helsinki-lippuja/121166",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727781920",
@@ -921,7 +921,7 @@
     "price": "42,50 €",
     "ticketUrl": "https://www.tiketti.fi/signs-of-the-swarm-usa-tavastia-klubi-helsinki-lippuja/120715",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727862436",
@@ -935,7 +935,7 @@
     "price": "38,50 €",
     "ticketUrl": "https://www.tiketti.fi/catch-your-breath-usa-tavastia-klubi-helsinki-lippuja/118623",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791727980891",
@@ -949,7 +949,7 @@
     "price": "48 €",
     "ticketUrl": "https://www.tiketti.fi/melrose-avenue-aus-tavastia-klubi-helsinki-lippuja/118668",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791728049148",
@@ -963,7 +963,7 @@
     "price": "45 €",
     "ticketUrl": "https://www.tiketti.fi/uncle-acid-and-the-deadbeats-aaniwalli-helsinki-lippuja/120423",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791728275941",
@@ -977,7 +977,7 @@
     "price": "32 €",
     "ticketUrl": "https://www.tiketti.fi/huora-lahiobotox-tavastia-klubi-helsinki-lippuja/121056",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791728520281",
@@ -991,7 +991,7 @@
     "price": "39,50 €",
     "ticketUrl": "https://www.tiketti.fi/party-cannon-internal-bleeding-guttural-slug-on-the-rocks-lippuja/121222",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791728595157",
@@ -1005,7 +1005,7 @@
     "price": "30 €",
     "ticketUrl": "https://www.tiketti.fi/scar-symmentry-swe-rise-to-fall-es-meret-tavastia-klubi-lippuja/121326",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791728708860",
@@ -1019,7 +1019,7 @@
     "price": "249 €",
     "ticketUrl": "https://www.tiketti.fi/tuska-festival-2027-suvilahti-helsinki-lippuja/119147",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791729924013",
@@ -1033,7 +1033,7 @@
     "price": "15 €",
     "ticketUrl": "",
     "image": "",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791730397043",
@@ -1076,7 +1076,7 @@
     "ticketUrl": "https://www.ticketmaster.fi/event/turmion-katilot-colossal-disco-lippuja/321927330",
     "image": "https://s1.ticketm.net/dam/e/461/23b2ba98-a62d-41f4-ac94-c61511303461_RECOMENDATION_16_9.jpg",
     "price": "59,90 €",
-    "ageLimit": 18
+    "ageLimit": "K-18"
   },
   {
     "id": "tm-Z698xZ8KZ16vu0QdPI",
@@ -1098,7 +1098,7 @@
       "name": "Helsingin jäähalli",
       "address": "Nordenskiöldinkatu 11-13, Helsinki"
     },
-    "date": "2026-10-27",
+    "date": "2026-10-27T16:00:00.000Z",
     "endTime": null,
     "description": "BLACK METAL TITANS BEHEMOTH AND DIMMU BORGIR TO HELSINKI IN OCTOBER 2026 The ominous magic of black metal will be spreading through Helsinki next autumn, as Poland's progressive black metal unit Behemoth and iconic Norwegian symphonic black metal ambassadors Dimmu Borgir will be bringing their In League With Satan co-headlining tour to Helsinki Ice hall on October 27th 2026. Behemoth's flawless execution combined with superb theatrical elements have truly pushed the boundaries of metal bands. Over their career of over 30 years, Behemoth has added layers of death metal and middle eastern flavor to their black metal rooted sonic mayhem. Behemoth will be releasing their new \"The Shit Ov God\"-album in spring 2026. The flagship of symphonic black metal, Dimmu Borgir was founded in Jessheim, Norway in 1993. The band took its name from a volcanic area in Iceland, and over the years the name has become iconic beyond metal, to say the least. Dimmu Borgir's extensive body of work is astonishing. A catalog full of milestone releases, such as the sophomore album \"Stormblåst\", which is considered widely influential and the band's last pure black metal album, and the legendary \"Death Cult Armageddon\" album from 2003, which took symphonic black metal to new spheres, to name a few. The show will be opened by Sweden's black metal legion Dark Funeral. Presented by TuskaLive and Grey Beard: Behemoth & Dimmu Borgir - In League With Satan Tour 2026 Support: Dark Funeral 27.10.2026 Helsinki - Ice hall Tickets from 89,00€ | Ticketmaster All ages | doors 18:00 www.behemoth.pl/ www.dimmu-borgir.com/ www.darkfuneral.se/ www.tuska.fi/tuskalive",
     "ticketUrl": "https://www.ticketmaster.fi/event/behemoth--dimmu-borgir-in-league-with-satan-tour-2026-lippuja/947153130",
@@ -1117,7 +1117,7 @@
     "description": "MENTAL CRUELTY Mental Cruelty saapuu Suomeen joulukuussa! Saksalainen deathcoren ja black metalin elementtejä yhdistelevä yhtye nähdään Helsingin Ääniwallissa 11.12.2026. Vuonna 2016 perustettu Mental Cruelty on noussut kansainväliseen metallikenttään intensiivisten live-esiintymistensä ja neljän julkaisunsa myötä. Yhtyeen soundissa yhdistyvät demoniset vokaalit, tunnepitoiset riffit, raskaat breakdownit ja eeppiset orkesterisovitukset. Vuonna 2022 mukaan liittynyt vokalisti Lukas Nicolai aloitti yhtyeelle uuden aikakauden, joka huipentui Century Median kautta julkaistuun ZWIELICHT-albumiin. Iltojen lämppärinä nähdään mm. Las Vegasista ponnistava Ov Sulfur. Entisen Suffokate-vokalisti Ricky Hooverin luotsaama blackened deathcore -yhtye syntyi pandemian keskellä ja on sittemmin noussut nopeasti genrensä kiinnostavimpien nimien joukkoon. Ov Sulfurin musiikissa yhdistyvät synkät deathcore-breakdownit, black metal -vaikutteet, melodiset kertosäkeet ja uskonnollisia teemoja haastava lyriikka. Mukana kiertueella myös Extermination Dismemberment ja Acranius. Hellsinki Metal Festival & Kingstar present: MENTAL CRUELTY - EUROPE 2026 Special Guests: Ov Sulfur, Extermination Dismemberment, Arcranius 11.12.2026 Ääniwalli, Helsinki Iköraja: K18 Liput tulevat myyntiin 22.5. klo 12 osoitteeseen www.ticketmaster.fi/mentalcruelty. Keikka on K18.",
     "ticketUrl": "https://www.ticketmaster.fi/event/mental-cruelty-lippuja/585297311",
     "image": "https://s1.ticketm.net/dam/a/b7e/6281c75b-d546-4e46-b157-fec024563b7e_RETINA_LANDSCAPE_16_9.jpg",
-    "ageLimit": 18,
+    "ageLimit": "K-18",
     "price": ""
   },
   {
@@ -1132,7 +1132,7 @@
     "description": "Týr Twilight Force / Ignea / Vanaheim Ääniwalli, Helsinki 20.12.2026 K18 TÝR saapuu Helsingin Ääniwalliin 20. joulukuuta! Färsaarelainen folk- ja viikinkimetallin suurnimi TÝR saapuu osana mittavaa Valhalla Calling Europe Tour 2026 -kiertuetta Helsingin Ääniwalliin 20. joulukuuta 2026. Illan täydentävät ruotsalaiset power metal -suosikit Twilight Force ja Dragonland sekä hollantilainen folk metal -nousija Vanaheim. Yli kahden vuosikymmenen ajan TÝR on ollut yksi modernin melodisen folk metalin tunnistettavimmista nimistä. Yhtye julkaisee tänä vuonna uransa kymmenennen studioalbumin, omalla nimellään kulkevan TÝR-levyn, joka avaa uuden luvun bändin pitkällä uralla. Euroopan-kiertue seuraa albumin julkaisua, ja yleisö pääsee kuulemaan uutta materiaalia ensimmäistä kertaa livenä legendaaristen fanisuosikkien rinnalla. Menestyksekkään Paganfest 2025 -kiertueen jälkeen yhtye vetäytyi kotisaarilleen Färsaarille työstämään uutta musiikkia. Tulevalla kiertueella nämä tuoreet kappaleet heräävät eloon yhdessä niiden eeppisten hymneiden kanssa, jotka ovat tehneet TÝRistä kansainvälisesti arvostetun nimen metallikentällä. Mukana kiertueella nähdään kolme vahvaa yhtyettä modernin power-, fantasia- ja folk metalin kärjestä. Ruotsalainen Twilight Force tunnetaan näyttävästä sinfonisesta power metallistaan, suurista melodioista ja fantasiahenkisestä maailmastaan. Myös ruotsalainen Dragonland on pitkän linjan suosikki, jonka tavaramerkkeihin kuuluvat tarttuvat kertosäkeet, melodiset koskettimet ja eeppiset tarinat. Illan avaa hollantilainen Vanaheim, joka on noussut nopeasti folk metal -yleisön tietoisuuteen yhdistämällä raskaat riffit, tunnelmalliset sävellykset ja kansanmusiikkivaikutteet.",
     "ticketUrl": "https://www.ticketmaster.fi/event/tyr-lippuja/386000473",
     "image": "https://s1.ticketm.net/dam/e/8fa/d863cdf0-8600-4b33-89cc-41a3ad3af8fa_SOURCE",
-    "ageLimit": 18,
+    "ageLimit": "K-18",
     "price": ""
   },
   {
@@ -1148,7 +1148,7 @@
     "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-16/the-browning-within-destruction-abbie-falls/119003/",
     "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
     "price": "45,50-48 €",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "le-helsinkiagpuvuzzvq",
@@ -1163,7 +1163,7 @@
     "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-29/master-boot-record-ita-fulci-ita-arottenbit-ita/116589/",
     "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
     "price": "33-35 €",
-    "ageLimit": "18"
+    "ageLimit": "K-18"
   },
   {
     "id": "le-helsinkiagpe5q2ata",
@@ -1178,5 +1178,50 @@
     "ticketUrl": "https://www.ticketmaster.fi/artist/five-finger-death-punch-lippuja/41675",
     "image": "https://api.hel.fi/linkedevents/media/images/Shindov_00222_FFDP_F10_1.jpg",
     "price": "67-137 €"
+  },
+  {
+    "id": "le-helsinkiagqlutyz5y",
+    "title": "Deaf To The Truth",
+    "venue": {
+      "name": "Boothill Rock Club",
+      "address": "Lönnrotinkatu 25, Helsinki"
+    },
+    "date": "2026-10-17T18:00:00Z",
+    "endTime": "2026-10-17T20:30:00Z",
+    "description": "Uskallatko ottaa loikan tuntemattomaan ja lähteä katsomaan kenties vielä toistaiseksi sinulle tuntematonta bändiä? \n\n Tällä kertaa se todennäköisesti kannattaa, sillä tämän bändin live-energia on erinomainen. Bändistä löytyy useita ulottuvuuksia teatraalisuutta, huumoria, rajua otetta, aitoutta sekä karismaa.\n\n Boothill Rock Club\n\n 17.10.2026\n\n 21.00-23.30\n\n Vapaa pääsy, K-18",
+    "ticketUrl": "https://www.facebook.com/share/19AnpG4HLG/",
+    "image": "https://api.hel.fi/linkedevents/media/images/25605.jpg",
+    "price": "Free Entry",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "le-helsinkiagpwtjvpzm",
+    "title": "Humanity's Last Breath",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6, Helsinki"
+    },
+    "date": "2026-10-22T16:00:00Z",
+    "endTime": "2026-10-22T20:59:00Z",
+    "description": "Ruotsin deathcore-ylpeys Humanity's Last Breath tuo Euroopan-kiertueensa Tavastialle ensi lokakuussa, mukana myös Vildhjarta, Enterprise Earth ja Karmanjakah.\n\n Matalilla tajuuksilla operoiva Humanity's Last Breath on noussut vuoden 2010 Reanimated by Hate -EP:nsä ja sitä seuranneiden neljän albumin myötä yhdeksi tärkeimmistä uuden ruotsalaisen metalliaallon edustajista. \n\n Deathcorea, djentiä ja doom metalia taidolla yhdistelevä ja myös polyrytmiikalla seostaan sopivasti maustava Humanity's Last Breath on kuvannut omaa musiikkiaan sanalla \"thall\".\n\n Yhtyeen nykykokoonpanossa on mukana yhtyeen primus motorin ja perustajajäsen Buster Odeholmin lisäksi myös suomalaisverta Atlas-yhtyeen Tuomas Kurikan liityttyä yhtyeen riveihin kitaristiksi vuonna 2023. \n\n Yhtye julkaisi viimeisimmän Ashen-studioalbuminsa samana vuonna ja nähtiin myös Suomessa kahdella klubikeikalla. Viimeksi Humanity's Last Breath on vieraillut Suomessa Lorna Shoren lämmittelijänä Helsingin jäähallissa.\n\n Humanity's Last Breath on tiputellut kuluneen vuoden mittaan uusia singlejulkaisuja, joka antaa tulevan Euroopan headliner-kiertueen julkaisun ohella lupausta uudesta studioalbumista, vaikka virallisesti Humanity's Last Breath ei olekaan vielä asiasta puhunut. \n\n Viimeisin single Godhood julkaistiin tämän vuoden tammikuussa.\n\n Tavastia-klubi\n\n 22.10.2026\n\n Liput 41,50-44,50€ Tiketistä ja ovelta, K-18",
+    "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-22/humanitys-last-breath/116411/",
+    "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+    "price": "41,50-44,50€",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "le-helsinkiagpwjmsuni",
+    "title": "Gloryhammer",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6, Helsinki"
+    },
+    "date": "2026-10-28T16:00:00Z",
+    "endTime": "2026-10-28T21:59:00Z",
+    "description": "Intergalaktisen mahtipontisuuden multi-huipentuma, kansainvälinen power metal -kapteenisto Gloryhammer palaa Suomeen ja Helsinkiin ikoniselle Tavastia-klubille uuden albuminsa tiimoilta. \n\n Vuonna 2013 perustettu Gloryhammer kuuluu kiistatta voimametallin eliittiin. Omassa galaksissaan operoivan tarunhohtoisen yhtyeen jäsenet edustavat hahmoja konseptissa, joka sai alkunsa ”Tales from the Kingdom of Fife”-debyyttialbumista. Saagan viidettä osaa juhlitaan siis ensi syksynä Tavastialla!\n\n Keikan avaavat ruotsalainen, Tuskassakin esiintyvä power metal -ryhmä Majestica, sekä kotimaisen melodisen metallin kärkinimi Arion.\n\n Tavastia-klubi\n\n 28.10.2026\n\n Ovet 18.00, kesto avoin\n\n Liput 55,50-58€, K-18",
+    "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-28/gloryhammer-5th-album-release-tour-2026/114255/",
+    "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
+    "price": "55,50-58€",
+    "ageLimit": "K-18"
   }
 ]
