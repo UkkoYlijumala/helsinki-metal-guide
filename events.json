@@ -1,21 +1,6 @@
 {
   "events": [
     {
-      "id": "le-helsinkiagpwuxapui",
-      "title": "Hardcore Superstar",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "date": "2026-10-13T16:00:00Z",
-      "endTime": "2026-10-13T20:59:00Z",
-      "description": "Intensiivisen ja keikkatäyteisen vuoden jälkeen ruotsalainen street metal-yhtye Hardcore Superstar on valmis lähtemään jälleen kiertueelle.\n\n Syksyllä vuorossa on“Dirty Halo” Tour–yksi bändin suurimmista Skandinavian-kiertueista vuosiin.\n\n Kiertuevalmisteluiden ohella yhtye työskentelee studiossa valmistelemassa jatkoa ylistetylle Abrakadabra-albumilleen. Tuleva julkaisu on myös bändin ensimmäinen uuden rumpalin Efraim Larssonin kanssa. Larsson tunnetaan muun muassa yhtyeistä Gathering of Kings ja Masterplan. \n\n Viime vuosina yhtye on jatkanut maailmanlaajuisen yleisönsä kasvattamista kiertämällä intensiivisesti ympäri maailmaa. Lisäksi bändi on saanut huomiota muun muassa useiden kappaleidensa mukanaolosta James Gunnin luomassa HBO Max-sarjassa Peacemaker.\n\n Tavastia-klubi\n\n 13.10.2026\n\n 19.00, kesto avoin\n\n Liput 45-48€ Tiketistä ja ovelta, K-18",
-      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-13/hardcore-superstar-swe/118482/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
-      "price": "45-48€",
-      "ageLimit": "18"
-    },
-    {
       "id": "le-helsinkiagpwt3cgkm",
       "title": "Zero Nine",
       "venue": {
