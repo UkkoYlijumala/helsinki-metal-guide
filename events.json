@@ -1,21 +1,6 @@
 {
   "events": [
     {
-      "id": "le-helsinkiagpwt3cgkm",
-      "title": "Zero Nine",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "date": "2026-10-14T16:00:00Z",
-      "endTime": "2026-10-14T20:59:00Z",
-      "description": "Lokakuussa Tavastialla on tarjolla harvinaista herkkua, kun Zero Nine saapuu Tavastia-klubille.\n\n Zero Nine on yksi suomalaisen hard rockin ja heavy metalin kulmakivistä, jonka juuret ulottuvat 1970-luvun loppuun. \n\n Yhtye nousi tunnetuksi energisestä live-esiintymisestään ja tarttuvista kappaleistaan. \n\n Tavastia-klubi\n\n 14.10.2026\n\n 19.00, kesto avoin\n\n Liput 27-30€ Tiketistä ja ovelta, K-18",
-      "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-14/zero-nine/119303/",
-      "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
-      "price": "27-30€",
-      "ageLimit": "18"
-    },
-    {
       "id": "manual-1791714346940",
       "title": "Pagan Weekend 2026",
       "date": "2026-10-15T21:00:00.000Z",
