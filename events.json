@@ -1,20 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791714346940",
-      "title": "Pagan Weekend 2026",
-      "date": "2026-10-15T21:00:00.000Z",
-      "venue": {
-        "name": "On the Rocks",
-        "address": "Mikonkatu 15, Helsinki"
-      },
-      "description": "Pagan Weekend -kinkerit ensimmäistä kertaa Helsingissä\nOn the Rocksiin saapuu lokakuun puolivälissä kuusi riivattua esiintyjää.\n\nPagan Weekend 2026 -festivaali soi Helsingin On the Rocks -klubilla perjantaina 16. ja lauantaina 17. lokakuuta. Perjantaina lavalla esiintyvät Vermilia, Kallomäki ja Folkrim. Lauantain synkät saattajat ovat Hindarfjäll, Noiduin ja Vetten Äpärät.\n\nPerjantain pääesiintyjä Vermilia yhdistää pohjoisen melankolian, luonnon mystiikan ja äärimetallin vahvan ilmaisun ainutlaatuiseksi äänimaailmaksi. Kolme albumia julkaissut artisti tekee kansainvälistä uraa ja keikkaileekin enemmän ulkomailla kuin Suomessa.\n\nMyös perjantaina soittava Kallomäki on saavuttanut globaalia suosiota. Riihimäkeläisyhtyeen jouhikkometalli ja dark folk vie kuulijat kulttijohtaja Roka Ukrin myytin ääreen ja bändi tarjoaa joka kerta rituaalisen elämyksen. Perjantain kolmas esiintyjä Folkrim tarjoaa modernia otetta folkmetalliin. Kopla lupaa dödistä, menoa ja meihemiä, eikä orkesteri säästele humppahulluudessa.\n\nLauantaina Pagan Weekend 2026 esittää täyden annoksen ruotsalaista laajakatseista viikinkimetallia. Hindarfjäll katsoo muinaiseen aikaan laajasti ja pukee musiikkiinsa niin luonnon, vanhat jumaltarut kuin muuttuvan maailman. Myös suomalainen “viikinki” Peter Franzén tuntee yhtyeen ja vierailee Hindarfjäll Lärads Grenar -albumilla. Vuonna 2015 perustettu bändi on julkaissut yhteensä kolme pitkäsoittoa.\n\nPorilainen darkfolk-yhtye Noiduin esittää mystistä musiikkia itse tehdyillä soittimilla. Muinaiseen pohjoismaiseen kulttuuriin nojaava bändi on matkalla pitkälle: bändin ja saksalaisen Bjorthin yhteiskappale Svinfylking soi Call of Duty: Black Ops 6 -pelin Season 4 -trailerissa. Noiduin on julkaissut tähän mennessä yhden albumin, jolla bändin tie mystisyyden ytimeen sai komean alun.\n\nLauantaina esiintykatraan kolmas yhtye Vetten Äpärät tuo lavalle raivokkaiden melodioiden maailman, jossa ihminen ottaa mittaa luonnonvoimien kanssa ja löytää itsensä. Luvassa on vankkaa fantasiaheviä.",
-      "price": "25 €",
-      "ticketUrl": "https://www.tiketti.fi/pagan-weekend-2026-on-the-rocks-helsinki-lippuja/119431",
-      "image": "",
-      "ageLimit": "K-18"
-    },
-    {
       "id": "manual-1791711455518",
       "title": "Insomnium",
       "date": "2026-10-16T15:00:00.000Z",
