@@ -607,6 +607,19 @@
       "ageLimit": "K-18"
     },
     {
+      "id": "tm-Z698xZ8KZ16vfZaFP9",
+      "title": "Suurten laulujen ilta",
+      "venue": {
+        "name": "FINLANDIA-TALO",
+        "address": "Mannerheimintie 13 E, Helsinki"
+      },
+      "date": "2026-11-21T17:00:00Z",
+      "endTime": null,
+      "description": "Suurten laulujen ilta Finlandia-talossa marraskuussa! Tarja Turunen ja Jarkko Ahola loistavat suuren gaalakonsertin tähtinä Finlandia-talossa marraskuussa. Tässä Suurten laulujen ilta -nimisessä kansainvälisessä konsertissa nousevat lauantaina 21. marraskuuta lavalle myös Riku Niemi Orchestra, Viron vuoden 2021 euroviisuedustaja Uku Suviste, ukrainalaiset Zhanna Bodnaruk ja Anatoli Karpenko sekä Elena Kettunen. Konsertissa kohtaavat musiikin voima, täyteläinen tunne ja upea loisto. Lava syttyy eloon, kun estradille nousee suuri joukko upeita artisteja. Luvassa on monia ikivihreitä sävelmiä, koskettavia tulkintoja ja mielenkiintoisia yhteisnumeroita, joissa eri maiden taiteilijat esiintyvät yhdessä. Varaa paikkasi unohtumattomaan iltaan, jossa suuret melodiat, sykähdyttävät tulkinnat ja Riku Niemi Orchestran sointi yhdistyvät ainutlaatuiseksi elämykseksi. Konsertin järjestäjä Musiikkisilta ry, joka on järjestänyt vastaavanlaisia kansainvälisiä viihdekonsertteja jo yli kahdenkymmenen vuoden ajan. Kesto 2 tuntia Tapahtumassa on väliaika Suurten laulujen ilta: www.facebook.com/musiikkisilta",
+      "ticketUrl": "https://www.ticketmaster.fi/event/suurten-laulujen-ilta-lippuja/1500248957",
+      "image": "https://s1.ticketm.net/dam/a/139/65cc49fc-2c28-490a-b656-5603748f4139_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
       "id": "manual-1791720639635",
       "title": "Paara (levyjulkkarit), Svarta Havet",
       "date": "2026-11-21T18:00:00.000Z",
