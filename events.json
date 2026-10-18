@@ -1,35 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791714555003",
-      "title": "Lost Society & HOKKA",
-      "date": "2026-10-17T15:00:00.000Z",
-      "venue": {
-        "name": "Ääniwalli",
-        "address": "Pälkäneentie 13, Helsinki"
-      },
-      "description": "Lost Society ja HOKKA yhdistävät syksyllä voimansa Suomen-kiertueelle\nSuomalaisen modernin metallin kärkinimi Lost Society ja raskaan musiikin kuumin tulokas HOKKA suuntaavat yhteiselle Suomen-kiertueelle syys-lokakuussa. Kiertue tavoittaa kymmenen kaupunkia ympäri Suomen ja tarjoilee yleisölle ainutlaatuisen paketin modernia thrashia, groovea ja vaihtoehtorockia.\n\nRäjähtävästä live-energiastan tunnettu Lost Society palaa lavoille esittelemään tuoreen, äärimmäisen iskevän ”Hell Is A State Of Mind”-albumin materiaalia, ja HOKKA puolestaan tuo uuden ”Via Miseria IV” -debyyttilevyn hittikimaran koko kansan kuultavaksi.\n\nKiertueella special guestin ominaisuudessa nähdään vaihtoehtorock-ryhmä St. Aurora.\n\nLost Societyn Samy Elbanna kommentoi kiertuetta:\n\n”Kaksi loistavaa uutta levyä ja kaksi bändiä täynnä ystäviä rundaamassa ympäri Suomen, se kuulostaa unohtumattomalta syksyltä. Meillä on älyttömästi uutta materiaalia esiteltävänä uudelta albumiltamme, ja kun HOKKA ja St. Aurora tulevat ns. räjäyttämään pankin joka ilta, tästä rundista tulee jotain todella erityistä!”\n\nJoel Hokka lisää:\n\n”Tämä on uuden bändini ensimmäinen varsinainen kiertue, eikä seura voisi olla parempi.\nOlen todella innoissani päästessäni jakamaan lavan Samyn ja Lost Societyn kanssa (sekä tietysti myös St. Auroran!). Nämä keikat tullaan muistamaan.”",
-      "price": "45,50 €",
-      "ticketUrl": "https://www.tiketti.fi/lost-society-hokka-aaniwalli-helsinki-lippuja/118583",
-      "image": "",
-      "ageLimit": "K-18"
-    },
-    {
-      "id": "le-helsinkiagqlutyz5y",
-      "title": "Deaf To The Truth",
-      "venue": {
-        "name": "Boothill Rock Club",
-        "address": "Lönnrotinkatu 25, Helsinki"
-      },
-      "date": "2026-10-17T18:00:00Z",
-      "endTime": "2026-10-17T20:30:00Z",
-      "description": "Uskallatko ottaa loikan tuntemattomaan ja lähteä katsomaan kenties vielä toistaiseksi sinulle tuntematonta bändiä? \n\n Tällä kertaa se todennäköisesti kannattaa, sillä tämän bändin live-energia on erinomainen. Bändistä löytyy useita ulottuvuuksia teatraalisuutta, huumoria, rajua otetta, aitoutta sekä karismaa.\n\n Boothill Rock Club\n\n 17.10.2026\n\n 21.00-23.30\n\n Vapaa pääsy, K-18",
-      "ticketUrl": "https://www.facebook.com/share/19AnpG4HLG/",
-      "image": "https://api.hel.fi/linkedevents/media/images/25605.jpg",
-      "price": "Free Entry",
-      "ageLimit": "K-18"
-    },
-    {
       "id": "le-helsinkiagpwtjvpzm",
       "title": "Humanity's Last Breath",
       "venue": {
@@ -620,6 +591,20 @@
       "ageLimit": ""
     },
     {
+      "id": "manual-1792271061670",
+      "title": "Stam1na",
+      "date": "2026-11-27T18:00:00.000Z",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
+      "description": "STAM1NA JUHLISTAA 30-VUOTISTA TAIVALTAAN DIRTY YEARS 2026 -KIERTUEELLA\n\nKotimaisen metallin kulmakivi Stam1na juhlistaa 30-vuotista uraansa syksyllä ja alkutalvella Dirty Years 2026 -kiertueella. Yhteensä 18 keikkaa käsittävä juhlakiertue käynnistyy yhtyeen kotikunnasta Lemiltä perjantaina 23. lokakuuta ja saapuu muun muassa Helsinkiin, Tampereelle, Turkuun, Ouluun ja Jyväskylään. Kiertueen liput ovat nyt myynnissä.\n\nTuoreeltaan 11. studioalbuminsa Apnean julkaissut Stam1na palaa juhlakiertueellaan myös kymmenen vuoden taakse. Vuonna 2016 ilmestynyt Elokuutio on yksi yhtyeen rakastetuimmista albumeista, ja sen materiaali nousee merkittävään rooliin syksyn konserteissa. Luvassa on lisäksi harvemmin kuultuja kappaleita koko uran varrelta sekä yllätyksiä pitkäaikaisille faneille.\n\n\"Likaiset asfalttisoturit palaavat tien päälle! Syksyn pukukoodi on oranssi ja musta. Jyräämme tällä rundilla bändin kolmekymppisten lisäksi vuoden 2016 Elokuutio-albumin tahtiin. Tulemme soittamaan keikoilla erittäin harvinaista materiaalia, plus jopa cover-matskua. Itse odotan erityisellä innolla Lemin avauskeikkaa... Sieltähän tämä kaikki mielipuolisuus sai alkunsa.”",
+      "price": "42 €",
+      "ticketUrl": "https://www.tiketti.fi/stam1na-dirty-years-2026-tavastia-klubi-helsinki-lippuja/120340",
+      "image": "",
+      "ageLimit": "k-18"
+    },
+    {
       "id": "manual-1791721747953",
       "title": "Vernissa Rot Club: Torture Killer, (Psychoparalysis), Metempsychos (LT), Whisper",
       "date": "2026-11-28T17:00:00.000Z",
@@ -830,6 +815,20 @@
       "image": "https://s1.ticketm.net/dam/a/5d7/e0eeb1cf-92ec-415c-a933-e437883bf5d7_SOURCE"
     },
     {
+      "id": "manual-1792271458841",
+      "title": "Combichrist (USA)",
+      "date": "2026-12-18T18:00:00.000Z",
+      "venue": {
+        "name": "On The Rocks",
+        "address": "Mikonkatu 15, Helsinki"
+      },
+      "description": "Amerikkalaiskokoonpano Combichrist tanssittaa painavasti Tampereella ja Helsingissä. Norjalaisen Andy LaPleguan vuonna 2003 Yhdysvalloissa perustama ja sieltä käsin koko uransa toiminut Combichrist menee joulukuussa Suomessa juurilleen. Perjantaina 18. joulukuuta On the Rocksissa kuullaan bändin Old school electro set -ohjelmisto. \n\nLuvassa on raivokas setti aggrotech-biittiä, jossa industrial kohtaa teknon todella tehokkaalla tavalla. Vuoden 2005 Everybody Hates You -albumi ja vuonna 2007 ilmestynyt What the Fuck Is Wrong with You People -levy tarjoavat hittikimaran, joka vei bändin aikoinaan mm. Rammstein lämppäriksi sekä Euroopan maissa että Yhdysvalloissa. Get Your Body Beat -single vietti vuonna 2006 kuusi viikkoa Billboardin tanssilistalla ja paljastaa samalla tulevien Suomen-keikkojen hengen: Combichristin biitti kulkee raskaasti ja tehokkaasti, tavalla, joka imaisee mukaansa maagisesti ja hypnoottisesti. ",
+      "price": "37,50 €",
+      "ticketUrl": "https://www.tiketti.fi/combichrist-usa-on-the-rocks-helsinki-lippuja/118419",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
       "id": "tm-Z698xZ8KZ1kCkZZoS",
       "title": "Týr",
       "venue": {
@@ -1009,6 +1008,20 @@
       "description": "Walesilainen metalcore-jätti Bullet For My Valentine esiintyy Helsingin Jäähallissa tiistaina 2. helmikuuta 2027. Yhtyeen Social Apocalypse 2027 -kiertueen erikoisvieraana nähdään australialainen Pendulum ja illan avaa yhdysvaltalainen Dark Divine.\n\nBridgendissä vuonna 1998 perustettu Bullet For My Valentine kuuluu modernin metalcoren merkittävimpiin nimiin. Miljoonia albumeita myynyt ja miljardeja striimejä kerännyt yhtye nousi kansainväliseen suosioon vuonna 2005 julkaistulla läpimurtoalbumillaan The Poison. Raskaat riffit, tarttuvat melodiat ja suuret kertosäkeet ovat sittemmin vieneet yhtyeen maailman suurimmille lavoille.\n\nSocial Apocalypse 2027 on Bullet For My Valentinen tähänastisen uran suurin kiertue, ja se vie yhtyeen areenoille ympäri Eurooppaa.\n\nBullet For My Valentinen kahdeksas studioalbumi Social Apocalypse julkaistaan 19. maaliskuuta 2027 Spinefarmin kautta. Albumin nimikappale on yhtyeen ensimmäinen uusi julkaisu neljään vuoteen. Carl Bownin tuottamalla kymmenen kappaleen levyllä vierailevat Against The Currentin Chrissy Costanza ja Lorna Shoren Will Ramos.\n\nKiertueen erikoisvieras Pendulum kuuluu elektronisen rockin ja drum’n’bassin kansainvälisiin kärkinimiin. Australialaisyhtye tunnetaan energisistä live-esiintymisistään sekä kappaleista Propane Nightmares, Watercolour, Witchcraft ja The Island. Vuonna 2025 julkaistu Inertia oli Pendulumin ensimmäinen studioalbumi 15 vuoteen, ja levyllä kuullaan myös yhteistyötä Bullet For My Valentinen Matt Tuckin kanssa.\n\nIllan avaava Dark Divine on Orlandosta ponnistava modernin metalcoren nousija, jonka musiikissa raskaat riffit, tarttuvat melodiat ja kauhuelokuvamainen estetiikka muodostavat tunnistettavan kokonaisuuden. Yhtye on kiertänyt muun muassa Black Veil Bridesin, Ville Valon, Holding Absencen ja Crown The Empiren kanssa.",
       "price": "59 €",
       "ticketUrl": "https://www.lippu.fi/artist/bullet-for-my-valentine/?cityname=Helsinki",
+      "image": "",
+      "ageLimit": ""
+    },
+    {
+      "id": "manual-1792271680031",
+      "title": "Bullet For My Valentine (UK)",
+      "date": "2027-02-02T16:00:00.000Z",
+      "venue": {
+        "name": "Helsingin jäähalli",
+        "address": "Nordenskiöldinkatu 11-13, Helsinki"
+      },
+      "description": "METALCORE-JÄTTI BULLET FOR MY VALENTINE HELSINGIN JÄÄHALLIIN HELMIKUUSSA 2027\nSocial Apocalypse 2027 -kiertueella nähdään myös Pendulum ja Dark Divine.\n\nWalesilainen metalcore-jätti Bullet For My Valentine esiintyy Helsingin Jäähallissa tiistaina 2. helmikuuta 2027. Yhtyeen Social Apocalypse 2027 -kiertueen erikoisvieraana nähdään australialainen Pendulum ja illan avaa yhdysvaltalainen Dark Divine.\n\nBridgendissä vuonna 1998 perustettu Bullet For My Valentine kuuluu modernin metalcoren merkittävimpiin nimiin. Miljoonia albumeita myynyt ja miljardeja striimejä kerännyt yhtye nousi kansainväliseen suosioon vuonna 2005 julkaistulla läpimurtoalbumillaan The Poison. Raskaat riffit, tarttuvat melodiat ja suuret kertosäkeet ovat sittemmin vieneet yhtyeen maailman suurimmille lavoille.\n\nSocial Apocalypse 2027 on Bullet For My Valentinen tähänastisen uran suurin kiertue, ja se vie yhtyeen areenoille ympäri Eurooppaa.\n\nBullet For My Valentinen kahdeksas studioalbumi Social Apocalypse julkaistaan 19. maaliskuuta 2027 Spinefarmin kautta. Albumin nimikappale on yhtyeen ensimmäinen uusi julkaisu neljään vuoteen. Carl Bownin tuottamalla kymmenen kappaleen levyllä vierailevat Against The Currentin Chrissy Costanza ja Lorna Shoren Will Ramos.\n\nKiertueen erikoisvieras Pendulum kuuluu elektronisen rockin ja drum’n’bassin kansainvälisiin kärkinimiin. Australialaisyhtye tunnetaan energisistä live-esiintymisistään sekä kappaleista Propane Nightmares, Watercolour, Witchcraft ja The Island. Vuonna 2025 julkaistu Inertia oli Pendulumin ensimmäinen studioalbumi 15 vuoteen, ja levyllä kuullaan myös yhteistyötä Bullet For My Valentinen Matt Tuckin kanssa.\n\nIllan avaava Dark Divine on Orlandosta ponnistava modernin metalcoren nousija, jonka musiikissa raskaat riffit, tarttuvat melodiat ja kauhuelokuvamainen estetiikka muodostavat tunnistettavan kokonaisuuden. Yhtye on kiertänyt muun muassa Black Veil Bridesin, Ville Valon, Holding Absencen ja Crown The Empiren kanssa.",
+      "price": "59 €",
+      "ticketUrl": "https://www.lippu.fi/artist/bullet-for-my-valentine/",
       "image": "",
       "ageLimit": ""
     },
