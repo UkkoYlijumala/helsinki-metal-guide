@@ -27,7 +27,29 @@
       "description": "Meksikosta metallin maahan. Battle of Metal saapuu Helsinkiin, kun People As Machines tuo 2026 European Tour -kiertueensa Suomeen ja jakaa lavan suomalaisen metalliskenen yhtyeiden kanssa.\n\n Meksikoa edustava People As Machines palaa Suomeen neljän vuoden jälkeen mukanaan voimakas live-show, raskaat riffit, intensiivinen energia ja moderni metallisoundi.\n\n Chainline soittaa melodista metallia, jossa yhdistyvät skandinaavinen melodinen death metal, klassinen heavy metal ja progressiiviset vaikutteet. Yhtyeen live-esiintymiset tunnetaan intensiivisyydestä ja tiukasta soitosta.\n\n Helsinkiläinen Averlanche tuo lavalle melodista metallia, jossa yhdistyvät vahvat melodiat, tunnelmallisuus ja ilmeikäs laulu. Yhtyeen soundissa kuuluu vaikutteita suomalaisen melodisen heavy metalin 1990-luvun ja 2000-luvun alun perinteestä.\n\n Louhi & the Tropical Sauna tuo iltaan monikulttuurisen säväyksen yhdistäen suomalaisia ja brasilialaisia juuria. Yhtye tuo oman energiansa iltaan, jossa kohtaavat eri puolilta maailmaa tulevat metallivaikutteet ja musiikilliset taustat.\n\n Yksi ilta. Meksiko ja Suomi. Neljä bändiä. Eri juuret. Yksi lava.\n\nPeople As Machines\n\nChainline\n\nAverlanche\n\nLouhi & the Tropical Sauna\n\nLepakkomies\n\n 22.10.2026\n\n 20.00-22.30\n\n Liput 8 € ennakkoon Tiketti-palvelusta, ovelta 12 €",
       "ticketUrl": "https://www.tiketti.fi/battle-of-metal-mexico-vs-finland-lepakkomies-helsinki-lippuja/121126",
       "image": "https://api.hel.fi/linkedevents/media/images/Helsinki_-_arte_-_Final.jpeg",
-      "price": "€8 Presale €12 Door"
+      "price": "€8 Presale €12 Door",
+      "lineup": [
+        {
+          "id": "band-1792395510578",
+          "artist": "People As Machines",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792395519055",
+          "artist": "Chainline",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792395528437",
+          "artist": "Averlanche",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792395536036",
+          "artist": "Louhi & the Tropical Sauna",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791714690161",
@@ -70,7 +92,24 @@
       "ticketUrl": "https://www.ticketmaster.fi/event/turmion-katilot-colossal-disco-lippuja/321927330",
       "image": "https://s1.ticketm.net/dam/e/461/23b2ba98-a62d-41f4-ac94-c61511303461_RECOMENDATION_16_9.jpg",
       "price": "59,90 €",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792396041096",
+          "artist": "Turmion Kätilöt",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792396049727",
+          "artist": "Skynd",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792396056806",
+          "artist": "Business City",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791714808843",
@@ -84,7 +123,24 @@
       "price": "14 €",
       "ticketUrl": "https://www.tiketti.fi/artkills-melankolia-lust-for-lily-semifinal-helsinki-lippuja/120720",
       "image": "",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792401276465",
+          "artist": "Artkkills",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792401294150",
+          "artist": "Melankolia",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792401311965",
+          "artist": "Lust For Lily",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791714756590",
@@ -98,7 +154,19 @@
       "price": "29 €",
       "ticketUrl": "https://www.tiketti.fi/for-my-pain-scars-of-solitude-on-the-rocks-helsinki-lippuja/119846",
       "image": "",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792401326870",
+          "artist": "For My Pain...",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792401344953",
+          "artist": "Scars of Solitude",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791714975282",
@@ -126,7 +194,24 @@
       "description": "AMON AMARTH TUO MASSIIVISEN KIERTUEENSA HELSINGIN JÄÄHALLIIN LOKAKUUSSA \n\nViikinkimetallin kiistaton valtias Amon Amarth tuo massiivisen The Allfather Awakens -kiertueensa Suomeen lokakuussa 2026. Yhtye nousee Helsingin Jäähallin lavalle maanantaina 26. lokakuuta ja keikan avauksesta vastaavat kaksi ruotsalaisen metallin kärkinimeä, Orbit Culture sekä Soilwork. Amon Amarth on viettänyt kiireisen keikka-kesän ja -syksyn muun muassa Slayerin Cardiffin- ja Lontoon-konserttien erikoisvieraana sekä kiertänyt Yhdysvalloissa Panteran kanssa. Syksyn 2026 Euroopan ja Ison-Britannian kiertueelle yhtye tuo mukanaan täysin uuden teatraalisen lavaproduktion ja pidennetyn headline-setin, joten Helsingissä saadaan todistaa todellista metallispektaakkelia. Kiertue juhlistaa yhtyeen uutta kappaletta We Rule the Waves ja valmistelee faneja vuoden 2026 lopulla ilmestyvän uuden albumin ilmestymiseen, jonka luvataan olevan yksi bändin uran eeppisimmistä ja barbaarisimmista julkaisuista. Amon Amarthin supporteina nähdään lavalla viime vuosien modernin death metalin kansainvälinen tähti Orbit Culture sekä ruotsalaisen melodisen death metalin klassikko Soilwork. KEIKKA: AMON AMARTH (SE) -- The Allfather Awakens 26.10.2026, Helsinki, Jäähalli Support: Orbit Culture (SE), Soilwork (SE) Permanto: palvelumaksuineen alk. 85€ +tilauskulut 1,50€/tilauskulu Alakatsomo, pitkät sivut: palvelumaksuineen 75€-90€+1,50€/tilauskulu Päätykatsomo + kaarteet: palvelumaksuineen 53€-80€+1,50€/tilauskulu Pyörätuolikatsomo 53€+1,50€/tilauskulu",
       "ticketUrl": "https://www.ticketmaster.fi/event/amon-amarth-lippuja/1364683968",
       "image": "https://s1.ticketm.net/dam/a/536/6cf709e4-c71b-4f99-9e90-f08f0a163536_SOURCE",
-      "price": "53 €"
+      "price": "53 €",
+      "lineup": [
+        {
+          "id": "band-1792401401232",
+          "artist": "Amon Amarth",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792401402983",
+          "artist": "Orbit Culture",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792401415648",
+          "artist": "Soilwork",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791715067436",
