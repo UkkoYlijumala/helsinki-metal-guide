@@ -13,7 +13,29 @@
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-22/humanitys-last-breath/116411/",
       "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
       "price": "41,50-44,50€",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792416513491",
+          "artist": "Humanity's Last Breath",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416578153",
+          "artist": "Vildhjarta",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416587116",
+          "artist": "Enterprise Earth",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416594020",
+          "artist": "Karmanjakah",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "le-helsinkiagqokjsxgy",
@@ -180,7 +202,24 @@
       "price": "12 €",
       "ticketUrl": "https://www.tiketti.fi/ian-highhill-crimson-day-dol-skenesali-vantaa-lippuja/119370",
       "image": "",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792416698834",
+          "artist": "Ian Highhill",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416707117",
+          "artist": "Crimson Day",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416726651",
+          "artist": "Dol",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "tm-Z698xZ8KZ16vu0QdPI",
@@ -225,7 +264,19 @@
       "price": "23 €",
       "ticketUrl": "https://www.tiketti.fi/temic-joviac-on-the-rocks-helsinki-lippuja/120580",
       "image": "",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792416796955",
+          "artist": "Temic",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416801621",
+          "artist": "Joviac",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "tm-Z698xZ8KZ1kP6AK7Y",
@@ -236,10 +287,22 @@
       },
       "date": "2026-10-27T16:00:00.000Z",
       "endTime": null,
-      "description": "BLACK METAL TITANS BEHEMOTH AND DIMMU BORGIR TO HELSINKI IN OCTOBER 2026 The ominous magic of black metal will be spreading through Helsinki next autumn, as Poland's progressive black metal unit Behemoth and iconic Norwegian symphonic black metal ambassadors Dimmu Borgir will be bringing their In League With Satan co-headlining tour to Helsinki Ice hall on October 27th 2026. Behemoth's flawless execution combined with superb theatrical elements have truly pushed the boundaries of metal bands. Over their career of over 30 years, Behemoth has added layers of death metal and middle eastern flavor to their black metal rooted sonic mayhem. Behemoth will be releasing their new \"The Shit Ov God\"-album in spring 2026. The flagship of symphonic black metal, Dimmu Borgir was founded in Jessheim, Norway in 1993. The band took its name from a volcanic area in Iceland, and over the years the name has become iconic beyond metal, to say the least. Dimmu Borgir's extensive body of work is astonishing. A catalog full of milestone releases, such as the sophomore album \"Stormblåst\", which is considered widely influential and the band's last pure black metal album, and the legendary \"Death Cult Armageddon\" album from 2003, which took symphonic black metal to new spheres, to name a few. The show will be opened by Sweden's black metal legion Dark Funeral. Presented by TuskaLive and Grey Beard: Behemoth & Dimmu Borgir - In League With Satan Tour 2026 Support: Dark Funeral 27.10.2026 Helsinki - Ice hall Tickets from 89,00€ | Ticketmaster All ages | doors 18:00 www.behemoth.pl/ www.dimmu-borgir.com/ www.darkfuneral.se/ www.tuska.fi/tuskalive",
+      "description": "BLACK METAL TITANS BEHEMOTH AND DIMMU BORGIR TO HELSINKI IN OCTOBER 2026 \n\nThe ominous magic of black metal will be spreading through Helsinki next autumn, as Poland's progressive black metal unit Behemoth and iconic Norwegian symphonic black metal ambassadors Dimmu Borgir will be bringing their In League With Satan co-headlining tour to Helsinki Ice hall on October 27th 2026. Behemoth's flawless execution combined with superb theatrical elements have truly pushed the boundaries of metal bands. Over their career of over 30 years, Behemoth has added layers of death metal and middle eastern flavor to their black metal rooted sonic mayhem. Behemoth will be releasing their new \"The Shit Ov God\"-album in spring 2026. The flagship of symphonic black metal, Dimmu Borgir was founded in Jessheim, Norway in 1993. The band took its name from a volcanic area in Iceland, and over the years the name has become iconic beyond metal, to say the least. Dimmu Borgir's extensive body of work is astonishing. A catalog full of milestone releases, such as the sophomore album \"Stormblåst\", which is considered widely influential and the band's last pure black metal album, and the legendary \"Death Cult Armageddon\" album from 2003, which took symphonic black metal to new spheres, to name a few. The show will be opened by Sweden's black metal legion Dark Funeral. Presented by TuskaLive and Grey Beard: Behemoth & Dimmu Borgir - In League With Satan Tour 2026 Support: Dark Funeral 27.10.2026 Helsinki - Ice hall Tickets from 89,00€ | Ticketmaster All ages | doors 18:00 www.behemoth.pl/ www.dimmu-borgir.com/ www.darkfuneral.se/ www.tuska.fi/tuskalive",
       "ticketUrl": "https://www.ticketmaster.fi/event/behemoth--dimmu-borgir-in-league-with-satan-tour-2026-lippuja/947153130",
       "image": "https://s1.ticketm.net/dam/a/053/9f442e14-7c63-4042-8a50-3b01c9953053_RETINA_PORTRAIT_16_9.jpg",
-      "price": "89 €"
+      "price": "89 €",
+      "lineup": [
+        {
+          "id": "band-1792416821334",
+          "artist": "Behemoth",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416834316",
+          "artist": "Dimmu Borgir",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "le-helsinkiagpwjmsuni",
@@ -254,7 +317,24 @@
       "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-28/gloryhammer-5th-album-release-tour-2026/114255/",
       "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
       "price": "55,50-58€",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792416868729",
+          "artist": "Gloryhammer",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416881031",
+          "artist": "Majestica",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416887612",
+          "artist": "Arion",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791715204862",
