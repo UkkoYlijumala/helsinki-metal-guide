@@ -1006,7 +1006,24 @@
     "ticketUrl": "https://www.ticketmaster.fi/event/turmion-katilot-colossal-disco-lippuja/321927330",
     "image": "https://s1.ticketm.net/dam/e/461/23b2ba98-a62d-41f4-ac94-c61511303461_RECOMENDATION_16_9.jpg",
     "price": "59,90 €",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792396041096",
+        "artist": "Turmion Kätilöt",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792396049727",
+        "artist": "Skynd",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792396056806",
+        "artist": "Business City",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "tm-Z698xZ8KZ16vu0QdPI",
