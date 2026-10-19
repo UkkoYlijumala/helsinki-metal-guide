@@ -249,7 +249,19 @@
     "price": "29 €",
     "ticketUrl": "https://www.tiketti.fi/for-my-pain-scars-of-solitude-on-the-rocks-helsinki-lippuja/119846",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792401326870",
+        "artist": "For My Pain...",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792401344953",
+        "artist": "Scars of Solitude",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791714808843",
@@ -263,7 +275,24 @@
     "price": "14 €",
     "ticketUrl": "https://www.tiketti.fi/artkills-melankolia-lust-for-lily-semifinal-helsinki-lippuja/120720",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792401276465",
+        "artist": "Artkkills",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792401294150",
+        "artist": "Melankolia",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792401311965",
+        "artist": "Lust For Lily",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791714975282",
@@ -1037,7 +1066,24 @@
     "description": "AMON AMARTH TUO MASSIIVISEN KIERTUEENSA HELSINGIN JÄÄHALLIIN LOKAKUUSSA \n\nViikinkimetallin kiistaton valtias Amon Amarth tuo massiivisen The Allfather Awakens -kiertueensa Suomeen lokakuussa 2026. Yhtye nousee Helsingin Jäähallin lavalle maanantaina 26. lokakuuta ja keikan avauksesta vastaavat kaksi ruotsalaisen metallin kärkinimeä, Orbit Culture sekä Soilwork. Amon Amarth on viettänyt kiireisen keikka-kesän ja -syksyn muun muassa Slayerin Cardiffin- ja Lontoon-konserttien erikoisvieraana sekä kiertänyt Yhdysvalloissa Panteran kanssa. Syksyn 2026 Euroopan ja Ison-Britannian kiertueelle yhtye tuo mukanaan täysin uuden teatraalisen lavaproduktion ja pidennetyn headline-setin, joten Helsingissä saadaan todistaa todellista metallispektaakkelia. Kiertue juhlistaa yhtyeen uutta kappaletta We Rule the Waves ja valmistelee faneja vuoden 2026 lopulla ilmestyvän uuden albumin ilmestymiseen, jonka luvataan olevan yksi bändin uran eeppisimmistä ja barbaarisimmista julkaisuista. Amon Amarthin supporteina nähdään lavalla viime vuosien modernin death metalin kansainvälinen tähti Orbit Culture sekä ruotsalaisen melodisen death metalin klassikko Soilwork. KEIKKA: AMON AMARTH (SE) -- The Allfather Awakens 26.10.2026, Helsinki, Jäähalli Support: Orbit Culture (SE), Soilwork (SE) Permanto: palvelumaksuineen alk. 85€ +tilauskulut 1,50€/tilauskulu Alakatsomo, pitkät sivut: palvelumaksuineen 75€-90€+1,50€/tilauskulu Päätykatsomo + kaarteet: palvelumaksuineen 53€-80€+1,50€/tilauskulu Pyörätuolikatsomo 53€+1,50€/tilauskulu",
     "ticketUrl": "https://www.ticketmaster.fi/event/amon-amarth-lippuja/1364683968",
     "image": "https://s1.ticketm.net/dam/a/536/6cf709e4-c71b-4f99-9e90-f08f0a163536_SOURCE",
-    "price": "53 €"
+    "price": "53 €",
+    "lineup": [
+      {
+        "id": "band-1792401401232",
+        "artist": "Amon Amarth",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792401402983",
+        "artist": "Orbit Culture",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792401415648",
+        "artist": "Soilwork",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "tm-Z698xZ8KZ1kP6AK7Y",
