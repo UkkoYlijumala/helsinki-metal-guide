@@ -11,7 +11,14 @@
     "price": "26 €",
     "ticketUrl": "https://www.lippu.fi/artist/brymir/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792478887039",
+        "artist": "Brymir",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791711933526",
@@ -30,7 +37,7 @@
   {
     "id": "manual-1791711995308",
     "title": "Timo Kotipelto & Robustik",
-    "date": "2026-11-04T10:46:00.000Z",
+    "date": "2026-11-04T18:30:00.000Z",
     "venue": {
       "name": "Tähti",
       "address": "Aleksis Kiven katu 17, Helsinki"
@@ -363,7 +370,24 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/hauta-wizard-sumea-nick-cavea-suomeksi-kuudes-linja-helsinki-lippuja/121264",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792478471056",
+        "artist": "Hauta Wizard",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792478489475",
+        "artist": "Sumea",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792478495794",
+        "artist": "Nick Cavea suomeksi",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791715294092",
@@ -1015,13 +1039,35 @@
     "date": "2026-10-31T18:00:00.000Z",
     "venue": {
       "name": "Playhouse Bar",
-      "address": ""
+      "address": "Nokiantie 2-4, Helsinki"
     },
-    "description": "",
+    "description": "𝐀𝐆𝐀𝐑𝐖𝐀𝐄𝐍\n\nAgarwaen is a Finnish avant-garde extreme metal band. The band has performed extensively across Finland, toured Europe, and appeared at Tuska Festival in 2024. In the summer of 2026, Agarwaen released its third full-length album, The Murder Trend, through the Italian record label Over the Border Records.\n\nAgarwaen delivers wild and deranged soundscapes, combining infectious riffs with intense, immersive atmospheres. Their theatrical live performances feel like scenes from a horror film set in a mental asylum. A bizarre and uncompromising force, Agarwaen blends a wide range of metal styles into one furious, chaotic, and utterly insane musical experience.\n\n𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞 𝐏𝐨𝐢𝐧𝐭𝐬\n\nPressure Points is a Finnish melodic progressive metal band founded in Heinola in 2004. Known for their strong melodies and dynamic compositions, the band blends elements of melodic and progressive metal with influences from acts such as Porcupine Tree, Rush, Dream Theater, and Leprous.\n\nThe band has shared stages with Katatonia, Samael, and Omnium Gatherum, and toured Northern Europe alongside bands including Insomnium, Nile, and Keep of Kalessin.\n\nSigned to Spain’s Art Gates Records, Pressure Points released their critically acclaimed album The Island in 2023, followed by extensive touring in Finland and the Baltics. The band released new singles The Chase and Shapeless in 2024 while working on their fourth studio album. In 2025, they performed at events including Maaliskuun Musta Messu in Finland and Masters of Rock in the Czech Republic.\n\n𝐋𝐢𝐠𝐡𝐭𝐬 𝐭𝐨 𝐑𝐞𝐦𝐚𝐢𝐧\n\nLights to Remain is one of the fastest growing metal bands from Finland. Lights to Remain was formed in Lappeenranta and combines complex, melodic riffage with fast-paced rhythmic parts, culminating in powerful choruses, bringing together the best parts of 90’s melodic death metal mixed with 00’s metalcore. Lights to Remain released their debut full-length album in December 2024, which has received praises all over the world especially in their homeland. On stage the band will not leave anyone cold with their energetic live show, and your neck will hurt the next day. With the moshpit circling around and everyone chanting together, you can almost feel the energy by hand.\n\n𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥 𝐀𝐜𝐚𝐝𝐞𝐦𝐲\n\nFounded in 2021, Carnival Academy is a band formed by experienced musicians from Assemble the Chariots, Wake Up Frankie, and Resonance. The members bring years of live experience from venues and festivals across Finland, including appearances at Tuska and Nummirock.\n\nCarnival Academy’s music is a style of metal they have dubbed Carnivalcore, where electronic elements play a major role. Catchy pop-inspired clean choruses and aggressive screams are combined with dubstep-influenced breakdowns and infectious, easy-to-follow grooves. The band dusts off the top shelf of the “circus theme” with playful concepts and lyrics that don’t take themselves too seriously.\n\nWith influences such as Eskimo Callboy, One Morning Left, and Turmion Kätilöt, Carnival Academy delivers a colorful and energetic live show with a professional approach. In addition to the music, the band aims to create a visually engaging experience for the audience.",
     "price": "15 €",
-    "ticketUrl": "",
+    "ticketUrl": "https://fienta.com/clowny-business-helsinki",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792478698600",
+        "artist": "𝐀𝐆𝐀𝐑𝐖𝐀𝐄𝐍",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792478709700",
+        "artist": "𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞 𝐏𝐨𝐢𝐧𝐭𝐬",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792478717381",
+        "artist": "𝐋𝐢𝐠𝐡𝐭𝐬 𝐭𝐨 𝐑𝐞𝐦𝐚𝐢𝐧",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792478751760",
+        "artist": "𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥 𝐀𝐜𝐚𝐝𝐞𝐦𝐲",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791730397043",
