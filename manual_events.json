@@ -139,7 +139,7 @@
   {
     "id": "manual-1791712713613",
     "title": "UNKIND 30 VUOTTA",
-    "date": "2027-01-22T10:58:00.000Z",
+    "date": "2027-01-22T16:00:00.000Z",
     "venue": {
       "name": "KULT",
       "address": ""
@@ -148,7 +148,19 @@
     "price": "28,10",
     "ticketUrl": "https://www.lippu.fi/artist/unkind/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499057585",
+        "artist": "Unkind",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499086142",
+        "artist": "Kürøishi",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791712790402",
@@ -162,21 +174,14 @@
     "price": "53 €",
     "ticketUrl": "https://www.lippu.fi/artist/imminence/?cityname=Helsinki",
     "image": "",
-    "ageLimit": ""
-  },
-  {
-    "id": "manual-1791712949305",
-    "title": "BULLET FOR MY VALENTINE (UK) + PENDULUM (AU)",
-    "date": "2027-02-02T16:00:00.000Z",
-    "venue": {
-      "name": "Helsingin jäähalli",
-      "address": ""
-    },
-    "description": "Walesilainen metalcore-jätti Bullet For My Valentine esiintyy Helsingin Jäähallissa tiistaina 2. helmikuuta 2027. Yhtyeen Social Apocalypse 2027 -kiertueen erikoisvieraana nähdään australialainen Pendulum ja illan avaa yhdysvaltalainen Dark Divine.\n\nBridgendissä vuonna 1998 perustettu Bullet For My Valentine kuuluu modernin metalcoren merkittävimpiin nimiin. Miljoonia albumeita myynyt ja miljardeja striimejä kerännyt yhtye nousi kansainväliseen suosioon vuonna 2005 julkaistulla läpimurtoalbumillaan The Poison. Raskaat riffit, tarttuvat melodiat ja suuret kertosäkeet ovat sittemmin vieneet yhtyeen maailman suurimmille lavoille.\n\nSocial Apocalypse 2027 on Bullet For My Valentinen tähänastisen uran suurin kiertue, ja se vie yhtyeen areenoille ympäri Eurooppaa.\n\nBullet For My Valentinen kahdeksas studioalbumi Social Apocalypse julkaistaan 19. maaliskuuta 2027 Spinefarmin kautta. Albumin nimikappale on yhtyeen ensimmäinen uusi julkaisu neljään vuoteen. Carl Bownin tuottamalla kymmenen kappaleen levyllä vierailevat Against The Currentin Chrissy Costanza ja Lorna Shoren Will Ramos.\n\nKiertueen erikoisvieras Pendulum kuuluu elektronisen rockin ja drum’n’bassin kansainvälisiin kärkinimiin. Australialaisyhtye tunnetaan energisistä live-esiintymisistään sekä kappaleista Propane Nightmares, Watercolour, Witchcraft ja The Island. Vuonna 2025 julkaistu Inertia oli Pendulumin ensimmäinen studioalbumi 15 vuoteen, ja levyllä kuullaan myös yhteistyötä Bullet For My Valentinen Matt Tuckin kanssa.\n\nIllan avaava Dark Divine on Orlandosta ponnistava modernin metalcoren nousija, jonka musiikissa raskaat riffit, tarttuvat melodiat ja kauhuelokuvamainen estetiikka muodostavat tunnistettavan kokonaisuuden. Yhtye on kiertänyt muun muassa Black Veil Bridesin, Ville Valon, Holding Absencen ja Crown The Empiren kanssa.",
-    "price": "59 €",
-    "ticketUrl": "https://www.lippu.fi/artist/bullet-for-my-valentine/?cityname=Helsinki",
-    "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792499236598",
+        "artist": "Imminence",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791713046694",
@@ -190,7 +195,14 @@
     "price": "31 €",
     "ticketUrl": "https://www.lippu.fi/event/floor-jansen-helsingin-kulttuuritalo-22039346/",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792499342337",
+        "artist": "Floor Jansen",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791713137102",
@@ -204,7 +216,14 @@
     "price": "69 €",
     "ticketUrl": "https://www.lippu.fi/artist/hollywood-undead/?cityname=Helsinki",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792499381953",
+        "artist": "Hollywood Undead",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791713354575",
@@ -622,6 +641,11 @@
       {
         "id": "band-1792479635186",
         "artist": "Sugar Rody",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792498502381",
+        "artist": "Lirpo",
         "stageTime": ""
       }
     ]
@@ -1273,7 +1297,24 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/demonic-death-judge-sunniva-elektrus-erektus-kuudes-linja-lippuja/121367",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792498950455",
+        "artist": "Demonic Death Judge",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792498978782",
+        "artist": "Sunniva",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792498981216",
+        "artist": "Elektrus Erektus",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727134931",
@@ -1283,11 +1324,28 @@
       "name": "Lepakkomies",
       "address": "Helsinginkatu 1, Helsinki"
     },
-    "description": "We are bringing you a relentless night of crushing melodic death and epic symphonic metal.\n\nSCHEDULE:\n\n20:00 - Doors\n20:30 - Rose Heaven\n21:30 - Frostbite Terror\n22:30 - Scythe Of Sorrow\n\n***\n\nScythe Of Sorrow (Melodic Death Metal)\nScythe Of Sorrow is a melodic death metal band born in Finland in 2021, created by guitarist Piotr \"Petteri Scythe\" Krysiak. The band is all about blending heavy riffs, technical solos, and charismatic vocals into music that truly hits hard.\nThe support for their 2023 debut album, Raven’s Cry of Despair, has been incredible, with physical copies completely selling out worldwide. They live for the energy of live shows and have already played over 20 gigs across 3 countries, including a huge milestone for the band: playing Tuska Festival in 2026. Right now, Scythe Of Sorrow is pouring all their energy into writing their second album and searching for the right label to partner with on this journey.\n\nFrostbite Terror (Melodic Death Metal)\nFrostbite Terror is a melodic death metal band from Turku, Finland. Since 2022, Frostbite Terror has combined melodeath, thrashy riffing, and symphonic arrangements. The songs subject both serious and comedic topics to dark humor. When playing live, Frostbite Terror conquers stages with their tight playing and spicy, yet melancholy riffs.\n\nRose Heaven (Symphonic Metal)\nRose Heaven is a Finnish symphonic metal band founded in 2023, combining grand orchestral atmospheres, heavy riffs, strong melodies, and emotional vocals. The band released their debut album, Dream Of Symphony, in July 2025 and is currently working on their second studio album. In Rose Heaven’s music, heaviness and beauty go hand in hand. The songs range from epic atmospheres to more delicate moments.",
+    "description": "We are bringing you a relentless night of crushing melodic death and epic symphonic metal.\n\nSCHEDULE:\n\n20:00 - Doors\n20:30 - Rose Heaven\n21:30 - Frostbite Terror\n22:30 - Scythe Of Sorrow\n\n***\n\nScythe Of Sorrow is a melodic death metal band born in Finland in 2021, created by guitarist Piotr \"Petteri Scythe\" Krysiak. The band is all about blending heavy riffs, technical solos, and charismatic vocals into music that truly hits hard.\nThe support for their 2023 debut album, Raven’s Cry of Despair, has been incredible, with physical copies completely selling out worldwide. They live for the energy of live shows and have already played over 20 gigs across 3 countries, including a huge milestone for the band: playing Tuska Festival in 2026. Right now, Scythe Of Sorrow is pouring all their energy into writing their second album and searching for the right label to partner with on this journey.\n\nFrostbite Terror is a melodic death metal band from Turku, Finland. Since 2022, Frostbite Terror has combined melodeath, thrashy riffing, and symphonic arrangements. The songs subject both serious and comedic topics to dark humor. When playing live, Frostbite Terror conquers stages with their tight playing and spicy, yet melancholy riffs.\n\nRose Heaven is a Finnish symphonic metal band founded in 2023, combining grand orchestral atmospheres, heavy riffs, strong melodies, and emotional vocals. The band released their debut album, Dream Of Symphony, in July 2025 and is currently working on their second studio album. In Rose Heaven’s music, heaviness and beauty go hand in hand. The songs range from epic atmospheres to more delicate moments.",
     "price": "10 €",
     "ticketUrl": "https://www.tiketti.fi/scythe-of-sorrow-frostbite-terror-rose-heaven-lepakkomies-lippuja/121422",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499031345",
+        "artist": "Scythe Of Sorrow",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499035396",
+        "artist": "Frostbite Terror",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499039679",
+        "artist": "Rose Heaven",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727228257",
@@ -1301,7 +1359,14 @@
     "price": "18 €",
     "ticketUrl": "https://www.tiketti.fi/whispered-skenesali-vantaa-lippuja/121451",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499123767",
+        "artist": "Whispered",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727331499",
@@ -1315,7 +1380,14 @@
     "price": "32,50 €",
     "ticketUrl": "https://www.tiketti.fi/sara-tavastia-klubi-helsinki-lippuja/120427",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499163451",
+        "artist": "Sara",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727392350",
@@ -1329,11 +1401,28 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/azgaroth-karelian-warcry-withering-emptiness-skenesali-lippuja/121474",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499197821",
+        "artist": "Azgaroth",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499202565",
+        "artist": "Karelian Warcry",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499206030",
+        "artist": "Withering Emptiness",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727476833",
-    "title": "Crashdiet (SWE)",
+    "title": "Crashdïet (SWE)",
     "date": "2027-02-05T17:00:00.000Z",
     "venue": {
       "name": "Tavastia-klubi",
@@ -1343,7 +1432,14 @@
     "price": "46,50 €",
     "ticketUrl": "https://www.tiketti.fi/crashdiet-swe-tavastia-klubi-helsinki-lippuja/119073",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499259180",
+        "artist": "Crashdïet",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727711237",
@@ -1357,7 +1453,14 @@
     "price": "35 €",
     "ticketUrl": "https://www.tiketti.fi/slomosa-on-the-rocks-helsinki-lippuja/121166",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499354861",
+        "artist": "Slomosa",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727781920",
@@ -1371,7 +1474,29 @@
     "price": "42,50 €",
     "ticketUrl": "https://www.tiketti.fi/signs-of-the-swarm-usa-tavastia-klubi-helsinki-lippuja/120715",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499437211",
+        "artist": "Signs of the Swarm",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499452836",
+        "artist": "Ten56",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499460534",
+        "artist": "Oceans Ate Alaska",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499469741",
+        "artist": "Face Yourself",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727862436",
@@ -1385,7 +1510,24 @@
     "price": "38,50 €",
     "ticketUrl": "https://www.tiketti.fi/catch-your-breath-usa-tavastia-klubi-helsinki-lippuja/118623",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499487095",
+        "artist": "Catch Your Breath",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499506720",
+        "artist": "Ocean Sleeper",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792499523545",
+        "artist": "elijah",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727980891",
@@ -1399,7 +1541,14 @@
     "price": "48 €",
     "ticketUrl": "https://www.tiketti.fi/melrose-avenue-aus-tavastia-klubi-helsinki-lippuja/118668",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792499538021",
+        "artist": "Melrose Avenue",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791728049148",
@@ -1790,10 +1939,17 @@
     },
     "date": "2027-02-22T16:00:00Z",
     "endTime": "2027-02-22T21:59:00Z",
-    "description": "Five Finger Death Punch (USA) – 20th Anniversary World Tour\n\n Tämän hetken suosituimpiin metalliyhtyeisiin lukeutuva yhdysvaltalainen Five Finger Death Punch konsertoi Veikkaus Arenalla erikoisvierainaan yhdysvaltalainen groove metal -suuruus Lamb of God ja skotlantilainen Bleed From Within. \n\n 20-vuotisjuhlakiertue kunnioittaa vuonna 2005 perustetun Five Finger Death Punchin uraa – debyyttialbumista The Way of the Fist (2007) aina maailmanlaajuiseksi areenapääesiintyjäksi.\n\nYhtyeen kymmenennen studioalbumin odotetaan ilmestyvän myöhemmin vuonna 2026 ja ensimmäisen singlen julkaisu ajoittuu toukokuulle. \n\n Juhlakiertueella kuullaan sekä uutta materiaalia tulevalta albumilta että yhtyeen klassikkokappaleita uran varrelta.\n\n Yhtyeen tuoreimmat albumit, Best Of – Volume 1 ja Best Of – Volume 2, sisältävät uudelleenäänitettyjä versioita heidän suurimmista hiteistään.\n\nVeikkaus Arena\n\n22.2.2027\n\nOvet 18.00, kesto avoin\n\nLiput 67-137€ Ticketmasterista",
+    "description": "Five Finger Death Punch (USA) – 20th Anniversary World Tour\n\nTämän hetken suosituimpiin metalliyhtyeisiin lukeutuva yhdysvaltalainen Five Finger Death Punch konsertoi Veikkaus Arenalla erikoisvierainaan yhdysvaltalainen groove metal -suuruus Lamb of God ja skotlantilainen Bleed From Within. \n\n20-vuotisjuhlakiertue kunnioittaa vuonna 2005 perustetun Five Finger Death Punchin uraa – debyyttialbumista The Way of the Fist (2007) aina maailmanlaajuiseksi areenapääesiintyjäksi.\n\nYhtyeen kymmenennen studioalbumin odotetaan ilmestyvän myöhemmin vuonna 2026 ja ensimmäisen singlen julkaisu ajoittuu toukokuulle. \n\nJuhlakiertueella kuullaan sekä uutta materiaalia tulevalta albumilta että yhtyeen klassikkokappaleita uran varrelta.\n\nYhtyeen tuoreimmat albumit, Best Of – Volume 1 ja Best Of – Volume 2, sisältävät uudelleenäänitettyjä versioita heidän suurimmista hiteistään.\n\nVeikkaus Arena\n\n22.2.2027\n\nOvet 18.00, kesto avoin\n\nLiput 67-137€ Ticketmasterista",
     "ticketUrl": "https://www.ticketmaster.fi/artist/five-finger-death-punch-lippuja/41675",
     "image": "https://api.hel.fi/linkedevents/media/images/Shindov_00222_FFDP_F10_1.jpg",
-    "price": "67-137 €"
+    "price": "67-137 €",
+    "lineup": [
+      {
+        "id": "band-1792499554877",
+        "artist": "Five Finger Death Punch",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "le-helsinkiagpwtjvpzm",
@@ -1951,9 +2107,26 @@
     },
     "description": "METALCORE-JÄTTI BULLET FOR MY VALENTINE HELSINGIN JÄÄHALLIIN HELMIKUUSSA 2027\nSocial Apocalypse 2027 -kiertueella nähdään myös Pendulum ja Dark Divine.\n\nWalesilainen metalcore-jätti Bullet For My Valentine esiintyy Helsingin Jäähallissa tiistaina 2. helmikuuta 2027. Yhtyeen Social Apocalypse 2027 -kiertueen erikoisvieraana nähdään australialainen Pendulum ja illan avaa yhdysvaltalainen Dark Divine.\n\nBridgendissä vuonna 1998 perustettu Bullet For My Valentine kuuluu modernin metalcoren merkittävimpiin nimiin. Miljoonia albumeita myynyt ja miljardeja striimejä kerännyt yhtye nousi kansainväliseen suosioon vuonna 2005 julkaistulla läpimurtoalbumillaan The Poison. Raskaat riffit, tarttuvat melodiat ja suuret kertosäkeet ovat sittemmin vieneet yhtyeen maailman suurimmille lavoille.\n\nSocial Apocalypse 2027 on Bullet For My Valentinen tähänastisen uran suurin kiertue, ja se vie yhtyeen areenoille ympäri Eurooppaa.\n\nBullet For My Valentinen kahdeksas studioalbumi Social Apocalypse julkaistaan 19. maaliskuuta 2027 Spinefarmin kautta. Albumin nimikappale on yhtyeen ensimmäinen uusi julkaisu neljään vuoteen. Carl Bownin tuottamalla kymmenen kappaleen levyllä vierailevat Against The Currentin Chrissy Costanza ja Lorna Shoren Will Ramos.\n\nKiertueen erikoisvieras Pendulum kuuluu elektronisen rockin ja drum’n’bassin kansainvälisiin kärkinimiin. Australialaisyhtye tunnetaan energisistä live-esiintymisistään sekä kappaleista Propane Nightmares, Watercolour, Witchcraft ja The Island. Vuonna 2025 julkaistu Inertia oli Pendulumin ensimmäinen studioalbumi 15 vuoteen, ja levyllä kuullaan myös yhteistyötä Bullet For My Valentinen Matt Tuckin kanssa.\n\nIllan avaava Dark Divine on Orlandosta ponnistava modernin metalcoren nousija, jonka musiikissa raskaat riffit, tarttuvat melodiat ja kauhuelokuvamainen estetiikka muodostavat tunnistettavan kokonaisuuden. Yhtye on kiertänyt muun muassa Black Veil Bridesin, Ville Valon, Holding Absencen ja Crown The Empiren kanssa.",
     "price": "59 €",
-    "ticketUrl": "https://www.lippu.fi/artist/bullet-for-my-valentine/",
+    "ticketUrl": "https://www.lippu.fi/artist/bullet-for-my-valentine/?cityname=Helsinki",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792498603051",
+        "artist": "Bullet For My Valentine",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792498618248",
+        "artist": "Pendulum",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792498623361",
+        "artist": "Dark Divine",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "le-helsinkiagqokjsxgy",
