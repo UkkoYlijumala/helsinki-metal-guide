@@ -60,7 +60,29 @@
     "price": "",
     "ticketUrl": "https://www.lippu.fi/artist/napalm-death/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479911889",
+        "artist": "Napalm Death",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479939872",
+        "artist": "Master",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479943550",
+        "artist": "Brat",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479947524",
+        "artist": "Goatburner",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791712513332",
@@ -74,7 +96,24 @@
     "price": "20 €",
     "ticketUrl": "https://www.lippu.fi/artist/ikina/?cityname=Helsinki",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792480848183",
+        "artist": "IKINÄ",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480852031",
+        "artist": "Horizon Ignited",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480854510",
+        "artist": "Lowhill",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791712599004",
@@ -88,7 +127,14 @@
     "price": "27,50 €",
     "ticketUrl": "https://www.lippu.fi/artist/havukruunu/havukruunu-4233529/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480908536",
+        "artist": "Havukruunu",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791712713613",
@@ -214,7 +260,14 @@
     "price": "35 €",
     "ticketUrl": "https://www.lippu.fi/artist/stam1na/stam1na-dirty-years-2026-kiertue-4226888/?cityname=Espoo",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792480498414",
+        "artist": "Stam1na",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791713945920",
@@ -457,7 +510,24 @@
     "price": "13 €",
     "ticketUrl": "https://www.tiketti.fi/i-think-i-broke-something-khroma-iha-sama-semifinal-helsinki-lippuja/121408",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479513153",
+        "artist": "I Think I Broke Something",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479528050",
+        "artist": "Khroma",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479541385",
+        "artist": "Iha Sama",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791716523957",
@@ -481,11 +551,28 @@
       "name": "Skenesali",
       "address": "Jönsaksentie 6, Vantaa"
     },
-    "description": "Northwindin ikärajaton levyjulkkarikeikka Skenesalilla!\nNorthwind:\nNorthwind on vuonna 2019 perustettu Folk/Black Metal yhtye joka ammentaa inspiraationsa suomen muinaismytologiasta, luonnosta, ja pakanoiden ikuisesta taistosta kristinuskoa vastaan. Skenesalin illassa juhlitaan Northwindin debyyttialbumin nimeltä \"Tuhkasta Nouseva Mahti\" julkaisua ja levy tullaan kuulemaan livenä kokonaisuudessaan parin vamhemman klassikon kera!\n\nThrone Of Selene:\nThrone of Selene on oululainen melodista black -ja death metallia yhdistävä yhtye. Throne of Selene tunnetaan heidän tavastaan yhdistellä hienoja melodioita agressiivisen groovaavaan soittoonsa. Throne of Selene julkaisee debyyttialbuminsa 2026 syksyllä.\n\nKouta:\nKOUTA on vuonna 2021 perustettu suomalainen yhtye, joka yhdistelee black metalia ja folk-elementtejä omaperäiseksi, väkevän tunnelmalliseksi kokonaisuudeksi.\n\nKOUTA soittaa raskasta metsämetallia, jossa kauniit melodiat, raskaat harmoniat ja suuret kuorot kuljettavat kuulijan pohjoisen kansan tarinoihin. Voimakasta ja vaarallista - lavalla tukka pyörii ja rokki soi!",
+    "description": "Northwindin ikärajaton levyjulkkarikeikka Skenesalilla!\n\nNorthwind:\nNorthwind on vuonna 2019 perustettu Folk/Black Metal yhtye joka ammentaa inspiraationsa suomen muinaismytologiasta, luonnosta, ja pakanoiden ikuisesta taistosta kristinuskoa vastaan. Skenesalin illassa juhlitaan Northwindin debyyttialbumin nimeltä \"Tuhkasta Nouseva Mahti\" julkaisua ja levy tullaan kuulemaan livenä kokonaisuudessaan parin vamhemman klassikon kera!\n\nThrone Of Selene:\nThrone of Selene on oululainen melodista black -ja death metallia yhdistävä yhtye. Throne of Selene tunnetaan heidän tavastaan yhdistellä hienoja melodioita agressiivisen groovaavaan soittoonsa. Throne of Selene julkaisee debyyttialbuminsa 2026 syksyllä.\n\nKouta:\nKOUTA on vuonna 2021 perustettu suomalainen yhtye, joka yhdistelee black metalia ja folk-elementtejä omaperäiseksi, väkevän tunnelmalliseksi kokonaisuudeksi.\n\nKOUTA soittaa raskasta metsämetallia, jossa kauniit melodiat, raskaat harmoniat ja suuret kuorot kuljettavat kuulijan pohjoisen kansan tarinoihin. Voimakasta ja vaarallista - lavalla tukka pyörii ja rokki soi!",
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/northwind-throne-of-selene-kouta-skenesali-vantaa-lippuja/121047",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792479591532",
+        "artist": "Northwind",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479597336",
+        "artist": "Throne Of Selene",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479603330",
+        "artist": "Kouta",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791716652458",
@@ -499,7 +586,19 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/sf-perkele-presents-spiritus-mortis-counting-hours-bar-lippuja/121077",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479686016",
+        "artist": "Spiritus Mortis",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479689109",
+        "artist": "Counting Hours",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791716717328",
@@ -513,7 +612,19 @@
     "price": "16,50 €",
     "ticketUrl": "https://www.tiketti.fi/freakangel-ee-sugar-rody-ee-lirpo-club-underground-helsinki-lippuja/121169",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479628772",
+        "artist": "Freakangel",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479635186",
+        "artist": "Sugar Rody",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791719790588",
@@ -527,7 +638,19 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/after-infinity-gladenfold-lepakkomies-helsinki-lippuja/119408",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479655856",
+        "artist": "After Infinity",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479664199",
+        "artist": "Gladenfold",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791720021837",
@@ -541,7 +664,19 @@
     "price": "20 €",
     "ticketUrl": "https://www.tiketti.fi/assemble-the-chariots-plaguebreeder-on-the-rocks-helsinki-lippuja/120714",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479831495",
+        "artist": "Assemble The Chariots",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479844263",
+        "artist": "Plaguebreeder",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791720075101",
@@ -551,11 +686,23 @@
       "name": "Kuudes Linja",
       "address": "Hämeentie 13 B, Helsinki"
     },
-    "description": "ATS WILL FEAST:\n\nAnkaralla kansainvälisellä keikkailulla erittäin kovan keikkamaineen ansaitusti omaava Rats Will Feast julkaisi keväällä uuden albumin - An Evocation EP:n -, joka on laajasti erittäin pidetty levy. Heidän levyjulkkarikeikkansa Helsingissä oli loppuunmyyty ja meno keikalla oli äärimmäisen kova! Tästä on olemassa monta tarinaa kerrottavana.\n\nRats Will Feast on äärimmäisen aggressiivinen ja raivoisa, kaoottinen mutta hallittu vaihtoehtoisen hardcoren ykkösnimi koko Scandinaviassa. Kuitenkin RWF:n musiikillinen skaala on laaja, sillä esimerkiksi uusimmalla EP:llä on yhtyeen raskaimmat ja kauniimmat hetket. An Evocation albumin Observer -biisin virallinen musiikkivideo on saanut youtubessa 133 000 toistoa!\n\nKANNABINOID:\n\nMetal-doom-trio Kannabinõid julkaisi tähänastisen uransa vaikuttavimman teoksen – kriitikoidenkin ylistämän ”Mass”-albumin.\n\nKannabinoid yhdistele taidokkaasti doomia, psykedeelistä rockia ja ambienttia luoden äänimaiseman, joka on yhtä aikaa murskaavan raskas sekä transsendentaalinen. Albumi palkittiin vuoden parhaana metallialbumina Estonian Music Awards -gaalassa 2024, mikä oli yhtyeelle jo toinen voitto vuoden 2019 ”3”-albumin jälkeen.\n\nViime kuukausina Kannabinõid on kasvattanut kansainvälistä fanikuntaansa menestyksekkäillä klubi- ja festivaalikeikoilla eri puolilla Skandinaviaa ja Itä-Eurooppaa, vahvistaen entisestään mainettaan intensiivisten ja kuulijan täysin mukaansa tempaavien keikkojen ansioista. Yhtye on kiertänyt ja esiintynyt samoilla festivaalilavoilla muun muassa sellaisten artistien kuin Stam1na, 1000mods, Mars Red Sky, Dopelord, Nadja, Poison Ruin ja Eivør kanssa.",
+    "description": "RATS WILL FEAST:\n\nAnkaralla kansainvälisellä keikkailulla erittäin kovan keikkamaineen ansaitusti omaava Rats Will Feast julkaisi keväällä uuden albumin - An Evocation EP:n -, joka on laajasti erittäin pidetty levy. Heidän levyjulkkarikeikkansa Helsingissä oli loppuunmyyty ja meno keikalla oli äärimmäisen kova! Tästä on olemassa monta tarinaa kerrottavana.\n\nRats Will Feast on äärimmäisen aggressiivinen ja raivoisa, kaoottinen mutta hallittu vaihtoehtoisen hardcoren ykkösnimi koko Scandinaviassa. Kuitenkin RWF:n musiikillinen skaala on laaja, sillä esimerkiksi uusimmalla EP:llä on yhtyeen raskaimmat ja kauniimmat hetket. An Evocation albumin Observer -biisin virallinen musiikkivideo on saanut youtubessa 133 000 toistoa!\n\nKANNABINOID:\n\nMetal-doom-trio Kannabinõid julkaisi tähänastisen uransa vaikuttavimman teoksen – kriitikoidenkin ylistämän ”Mass”-albumin.\n\nKannabinoid yhdistele taidokkaasti doomia, psykedeelistä rockia ja ambienttia luoden äänimaiseman, joka on yhtä aikaa murskaavan raskas sekä transsendentaalinen. Albumi palkittiin vuoden parhaana metallialbumina Estonian Music Awards -gaalassa 2024, mikä oli yhtyeelle jo toinen voitto vuoden 2019 ”3”-albumin jälkeen.\n\nViime kuukausina Kannabinõid on kasvattanut kansainvälistä fanikuntaansa menestyksekkäillä klubi- ja festivaalikeikoilla eri puolilla Skandinaviaa ja Itä-Eurooppaa, vahvistaen entisestään mainettaan intensiivisten ja kuulijan täysin mukaansa tempaavien keikkojen ansioista. Yhtye on kiertänyt ja esiintynyt samoilla festivaalilavoilla muun muassa sellaisten artistien kuin Stam1na, 1000mods, Mars Red Sky, Dopelord, Nadja, Poison Ruin ja Eivør kanssa.",
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/rats-will-feast-kannabinoid-ee-kuudes-linja-helsinki-lippuja/121122",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479738871",
+        "artist": "Rats Will Feast",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479757420",
+        "artist": "Kannabinoid",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791720161171",
@@ -569,7 +716,24 @@
     "price": "15 €",
     "ticketUrl": "https://www.tiketti.fi/kahtia-lupiinit-astral-sleep-vernissa-vantaa-lippuja/118772",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479799430",
+        "artist": "Astral Sleep",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479803877",
+        "artist": "Lupiinit",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479808066",
+        "artist": "Kahtia",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791720374168",
@@ -583,7 +747,19 @@
     "price": "37,50 €",
     "ticketUrl": "https://www.tiketti.fi/the-obsessed-us-klastos-swe-kuudes-linja-helsinki-lippuja/118318",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479868000",
+        "artist": "The Obsessed",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479899470",
+        "artist": "Klastos",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791720459128",
@@ -597,7 +773,14 @@
     "price": "39,90 €",
     "ticketUrl": "https://www.tiketti.fi/battle-beast-tavastia-klubi-helsinki-lippuja/119778",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792479988406",
+        "artist": "Battle Beast",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791720589861",
@@ -611,7 +794,24 @@
     "price": "27 €",
     "ticketUrl": "https://www.tiketti.fi/legion-of-the-damned-ned-torchia-rebellix-on-the-rocks-lippuja/121024",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480048742",
+        "artist": "Legion Of The Damned",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480052844",
+        "artist": "Torchia",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480055530",
+        "artist": "Rebellix",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791720639635",
@@ -625,7 +825,19 @@
     "price": "17 €",
     "ticketUrl": "https://www.tiketti.fi/paara-on-the-rocks-helsinki-lippuja/120406",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480163626",
+        "artist": "Paara",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480169040",
+        "artist": "Svarta Havet",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791721033702",
@@ -635,11 +847,33 @@
       "name": "Ääniwalli",
       "address": "Pälkäneentie 13, Helsinki"
     },
-    "description": "TuskaLive ja Grey Beard esittävät:\n\nKanadalainen, äärimmäisen teknistä death metallia tulittava Archspire saapuu Helsinkiin ja tarkemmin Ääniwalliin marraskuun 21. päivä näyttämään miten haipakkaa dödistä soitetaan ison veden tuolla puolen. Archspire tunnetaan poikkeuksellisesta soittonopeudestaan ja virtuoosimaisesta tarkkuudestaan, kuin myös ainutlaatuisista, lähes räppimäisellä sykkeellä kulkevista vokaaleistaan. Archspire julkaisi juuri uuden Too Fast To Die -albumin, jota tukevalla kiertueella yhtye saapuu Helsinkiin.\n\nTeknisen ja brutaalin kiertuepaketin muina bändeinä nähdään coloradolainen deathcore-ryhmä Crown Magentar, losangelesilainen teknistä dödistä työstävä The Zenith Passage sekä portugalilainen, brutaalia death metallia survova Analepsy.",
+    "description": "TuskaLive ja Grey Beard esittävät:\n\nKanadalainen, äärimmäisen teknistä death metallia tulittava Archspire saapuu Helsinkiin ja tarkemmin Ääniwalliin marraskuun 21. päivä näyttämään miten haipakkaa dödistä soitetaan ison veden tuolla puolen. Archspire tunnetaan poikkeuksellisesta soittonopeudestaan ja virtuoosimaisesta tarkkuudestaan, kuin myös ainutlaatuisista, lähes räppimäisellä sykkeellä kulkevista vokaaleistaan. Archspire julkaisi juuri uuden Too Fast To Die -albumin, jota tukevalla kiertueella yhtye saapuu Helsinkiin.\n\nTeknisen ja brutaalin kiertuepaketin muina bändeinä nähdään coloradolainen deathcore-ryhmä Crown Magentar, los angelesilainen teknistä dödistä työstävä The Zenith Passage sekä portugalilainen, brutaalia death metallia survova Analepsy.",
     "price": "49,50 €",
     "ticketUrl": "https://www.tiketti.fi/archspire-crown-magnetar-the-zenith-passage-analepsy-lippuja/117416",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480100303",
+        "artist": "Archspire",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480103959",
+        "artist": "Crown Magnetar",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480109281",
+        "artist": "The Zenith Passage",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480112266",
+        "artist": "Analepsy",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791721110978",
@@ -653,7 +887,29 @@
     "price": "49,50 €",
     "ticketUrl": "https://www.tiketti.fi/archspire-crown-magnetar-the-zenith-passage-analepsy-lippuja/118889",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480200682",
+        "artist": "Archspire",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480203883",
+        "artist": "Crown Magnetar",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480208343",
+        "artist": "The Zenith Passage",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480210960",
+        "artist": "Analepsy",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791721747953",
@@ -663,11 +919,33 @@
       "name": "Vernissa",
       "address": ""
     },
-    "description": "Vernissa Rot Club tuo death metallin seitsemän vuoden tauon jälkeenKulttuuritehdas Vernissalle. Paljon kerkesi vettä virtaamaan Vantaanjoessa, ja Vernissakin koki tässä välissä täyden remontin. Nyt syksyn vetäessä viimeisiä henkäyksiään soivat Itä-Vantaalla kuolonsävelet; vanhan koulukunnan inspiroima vaan ei rajoittama death metalveteraanien sekä uudemman aallon yhtyeiden esittämänä. \n\nTORTURE KILLER soittaa syksyn ainoan pk-seudun keikkansa Vantaalla lauantaina 28.11.2026. Vuonna 2002 perustettu bändi toimittaa groovea ja murskausta otteella, joka ei jätä edes ruumiskasoja kylmäksi. Bändi on suomalaisen death metallin murskaavinta kärkeä viimeisintä EP:tä myöten.\n\nTorture Killer \n\nKuolonmetallin äänipaletin spektriä laajentaa kuuden vuoden tauolta palannut (PSYCHOPARALYSIS). Dynaamista death metallia soittavan Vantaalta juurtavan yhtyeen uusi albumi 'Spectrum of Suffering' julkaistaan Inverse recordsin toimesta 20.11.2026. Omintakeisella tyylillä taottu death metal rakentuu vanhan koulukunnan perustuksista kiertäen suorat mutkiksi tavalla, jota ei voi sanoa moderniksi eikä täysin old schooliksi – jotain uutta, jotain vanhaa, jotain lainattua, jotain sairasta.\n\n(Psychoparalysis)\n\nVernissalla on luvassa ainutlaatuista herkkua, kun Liettuan pienestä mutta paahtavasta DM-skenestä ponnistava METEMPSYCHOS (LT) soittaa ensi esiintymisensä Suomessa. Bändin teknisessä ja 90-luvulle kumartavassa soundissa kuuluu vahvoja vaikutteita mm. bändeistä Atheist, Pestilence ja Death. 2025 julkaistu EP ‘Damned Souls Abide’ on erittäin vahva näyte siitä, miten vanhaa kunnioittaen veistetään todella kalloa kolistelevaa uutta musiikkia.\n\nMetempsychos (LT)\n\nIllan avaa Helsingin syvistä luolista noussut WHISPER, joka soittaa prog- ja melodista death metalia vaikutteita sisältävää vanhan koulukunnan death metalia ja tarjoaa raikkaan, uuden, mutta silti raivokkaasti makaaberin näkökulman genreen, joka on mädäntynyt jo vuosikymmenten ajan. Vuonna 2023 perustetun yhtyeen kaksi EP:tä, ”Xenogenesis” ja ”Gravemind”, ovat saaneet kiitosta brutaalista, mutta moniulotteisesta lähestymistavastaan. Bändiä kutsutaan toisinaan ”suomalaiseksi Blood Incantationiksi”, ja sen äänimaailmaa voisi parhaiten kuvata klassiseksi 90-luvun suomalaiseksi OSDM-tunnelmaksi, johon on sulautettu suomalaista prog- ja melodista death metalia sekä modernimpia kosmisia death metal -vaikutteita. Bändi on keikkaillut ahkerasti ympäri Suomea ja Viroa ja toiminut lämmittelijänä muun muassa Rippikoululle, Convulselle ja Ossuarylle.",
+    "description": "Vernissa Rot Club tuo death metallin seitsemän vuoden tauon jälkeenKulttuuritehdas Vernissalle. Paljon kerkesi vettä virtaamaan Vantaanjoessa, ja Vernissakin koki tässä välissä täyden remontin. Nyt syksyn vetäessä viimeisiä henkäyksiään soivat Itä-Vantaalla kuolonsävelet; vanhan koulukunnan inspiroima vaan ei rajoittama death metalveteraanien sekä uudemman aallon yhtyeiden esittämänä. \n\nTORTURE KILLER soittaa syksyn ainoan pk-seudun keikkansa Vantaalla lauantaina 28.11.2026. Vuonna 2002 perustettu bändi toimittaa groovea ja murskausta otteella, joka ei jätä edes ruumiskasoja kylmäksi. Bändi on suomalaisen death metallin murskaavinta kärkeä viimeisintä EP:tä myöten.\n\nKuolonmetallin äänipaletin spektriä laajentaa kuuden vuoden tauolta palannut (PSYCHOPARALYSIS). Dynaamista death metallia soittavan Vantaalta juurtavan yhtyeen uusi albumi 'Spectrum of Suffering' julkaistaan Inverse recordsin toimesta 20.11.2026. Omintakeisella tyylillä taottu death metal rakentuu vanhan koulukunnan perustuksista kiertäen suorat mutkiksi tavalla, jota ei voi sanoa moderniksi eikä täysin old schooliksi – jotain uutta, jotain vanhaa, jotain lainattua, jotain sairasta.\n\nVernissalla on luvassa ainutlaatuista herkkua, kun Liettuan pienestä mutta paahtavasta DM-skenestä ponnistava METEMPSYCHOS (LT) soittaa ensi esiintymisensä Suomessa. Bändin teknisessä ja 90-luvulle kumartavassa soundissa kuuluu vahvoja vaikutteita mm. bändeistä Atheist, Pestilence ja Death. 2025 julkaistu EP ‘Damned Souls Abide’ on erittäin vahva näyte siitä, miten vanhaa kunnioittaen veistetään todella kalloa kolistelevaa uutta musiikkia.\n\nIllan avaa Helsingin syvistä luolista noussut WHISPER, joka soittaa prog- ja melodista death metalia vaikutteita sisältävää vanhan koulukunnan death metalia ja tarjoaa raikkaan, uuden, mutta silti raivokkaasti makaaberin näkökulman genreen, joka on mädäntynyt jo vuosikymmenten ajan. Vuonna 2023 perustetun yhtyeen kaksi EP:tä, ”Xenogenesis” ja ”Gravemind”, ovat saaneet kiitosta brutaalista, mutta moniulotteisesta lähestymistavastaan. Bändiä kutsutaan toisinaan ”suomalaiseksi Blood Incantationiksi”, ja sen äänimaailmaa voisi parhaiten kuvata klassiseksi 90-luvun suomalaiseksi OSDM-tunnelmaksi, johon on sulautettu suomalaista prog- ja melodista death metalia sekä modernimpia kosmisia death metal -vaikutteita. Bändi on keikkaillut ahkerasti ympäri Suomea ja Viroa ja toiminut lämmittelijänä muun muassa Rippikoululle, Convulselle ja Ossuarylle.",
     "price": "22 €",
     "ticketUrl": "https://www.tiketti.fi/torture-killer-psychoparalysis-metempsychos-lt-whisper-lippuja/121139",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480312889",
+        "artist": "Torture Killer",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480317521",
+        "artist": "(Psychoparalysis)",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480322935",
+        "artist": "Metempsychos",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480343273",
+        "artist": "Whisper",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791721855912",
@@ -681,7 +959,29 @@
     "price": "43 €",
     "ticketUrl": "https://www.tiketti.fi/melancholy-mass-helsinki-2026-aaniwalli-helsinki-lippuja/119062",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480391466",
+        "artist": "Sólstafir",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480400309",
+        "artist": "Vorna",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480405839",
+        "artist": "Cryptic Hatred",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480413524",
+        "artist": "Ashen Tomb",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791722973040",
@@ -695,7 +995,14 @@
     "price": "52,50 €",
     "ticketUrl": "https://www.tiketti.fi/the-hardkiss-ua-tavastia-klubi-helsinki-lippuja/112283",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480454332",
+        "artist": "The Hardkiss",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791723145782",
@@ -709,7 +1016,19 @@
     "price": "37,50 €",
     "ticketUrl": "https://www.tiketti.fi/anvil-can-killer-be-on-the-rocks-helsinki-lippuja/117803",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480883912",
+        "artist": "Anvil",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480889388",
+        "artist": "Killer",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791723211860",
@@ -723,7 +1042,24 @@
     "price": "",
     "ticketUrl": "https://www.tiketti.fi/allt-swe-avralize-ger-bite-down-swe-on-the-rocks-helsinki-lippuja/116078",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480481015",
+        "artist": "Allt",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480485020",
+        "artist": "Avralize",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480489048",
+        "artist": "Bite Down",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791723390048",
@@ -737,7 +1073,14 @@
     "price": "16 €",
     "ticketUrl": "https://www.tiketti.fi/kausti-on-the-rocks-helsinki-lippuja/121286",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480585694",
+        "artist": "Kausti",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791723882202",
@@ -765,7 +1108,24 @@
     "price": "41,50 €",
     "ticketUrl": "https://www.tiketti.fi/the-ocean-psychonaut-pothamus-on-the-rocks-helsinki-lippuja/118883",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480924865",
+        "artist": "The Ocean",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480928913",
+        "artist": "Psychonaut",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480931463",
+        "artist": "Pothamus",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791723990739",
@@ -1081,7 +1441,19 @@
     "price": "59,90 €",
     "ticketUrl": "https://www.lippu.fi/artist/blind-channel/?cityname=Helsinki",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792479954189",
+        "artist": "Blind Channel",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792479963254",
+        "artist": "Atlas",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791730500801",
@@ -1095,7 +1467,14 @@
     "price": "21 €",
     "ticketUrl": "https://www.lippu.fi/artist/suomen-komediateatteri/hevisaurus-isaenpaeivaen-raeyhaeisin-keikka-4252757/?cityname=Helsinki",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792479850287",
+        "artist": "Hevisaurus",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "tm-Z698xZ8KZ1kG-0EGY",
@@ -1195,11 +1574,33 @@
     },
     "date": "2026-12-11",
     "endTime": null,
-    "description": "MENTAL CRUELTY Mental Cruelty saapuu Suomeen joulukuussa! Saksalainen deathcoren ja black metalin elementtejä yhdistelevä yhtye nähdään Helsingin Ääniwallissa 11.12.2026. Vuonna 2016 perustettu Mental Cruelty on noussut kansainväliseen metallikenttään intensiivisten live-esiintymistensä ja neljän julkaisunsa myötä. Yhtyeen soundissa yhdistyvät demoniset vokaalit, tunnepitoiset riffit, raskaat breakdownit ja eeppiset orkesterisovitukset. Vuonna 2022 mukaan liittynyt vokalisti Lukas Nicolai aloitti yhtyeelle uuden aikakauden, joka huipentui Century Median kautta julkaistuun ZWIELICHT-albumiin. Iltojen lämppärinä nähdään mm. Las Vegasista ponnistava Ov Sulfur. Entisen Suffokate-vokalisti Ricky Hooverin luotsaama blackened deathcore -yhtye syntyi pandemian keskellä ja on sittemmin noussut nopeasti genrensä kiinnostavimpien nimien joukkoon. Ov Sulfurin musiikissa yhdistyvät synkät deathcore-breakdownit, black metal -vaikutteet, melodiset kertosäkeet ja uskonnollisia teemoja haastava lyriikka. Mukana kiertueella myös Extermination Dismemberment ja Acranius. Hellsinki Metal Festival & Kingstar present: MENTAL CRUELTY - EUROPE 2026 Special Guests: Ov Sulfur, Extermination Dismemberment, Arcranius 11.12.2026 Ääniwalli, Helsinki Iköraja: K18 Liput tulevat myyntiin 22.5. klo 12 osoitteeseen www.ticketmaster.fi/mentalcruelty. Keikka on K18.",
+    "description": "Mental Cruelty saapuu Suomeen joulukuussa! Saksalainen deathcoren ja black metalin elementtejä yhdistelevä yhtye nähdään Helsingin Ääniwallissa 11.12.2026. Vuonna 2016 perustettu Mental Cruelty on noussut kansainväliseen metallikenttään intensiivisten live-esiintymistensä ja neljän julkaisunsa myötä. Yhtyeen soundissa yhdistyvät demoniset vokaalit, tunnepitoiset riffit, raskaat breakdownit ja eeppiset orkesterisovitukset. Vuonna 2022 mukaan liittynyt vokalisti Lukas Nicolai aloitti yhtyeelle uuden aikakauden, joka huipentui Century Median kautta julkaistuun ZWIELICHT-albumiin. Iltojen lämppärinä nähdään mm. Las Vegasista ponnistava Ov Sulfur. Entisen Suffokate-vokalisti Ricky Hooverin luotsaama blackened deathcore -yhtye syntyi pandemian keskellä ja on sittemmin noussut nopeasti genrensä kiinnostavimpien nimien joukkoon. Ov Sulfurin musiikissa yhdistyvät synkät deathcore-breakdownit, black metal -vaikutteet, melodiset kertosäkeet ja uskonnollisia teemoja haastava lyriikka. Mukana kiertueella myös Extermination Dismemberment ja Acranius. Hellsinki Metal Festival & Kingstar present: MENTAL CRUELTY - EUROPE 2026 Special Guests: Ov Sulfur, Extermination Dismemberment, Arcranius 11.12.2026 Ääniwalli, Helsinki Iköraja: K18 Liput tulevat myyntiin 22.5. klo 12 osoitteeseen www.ticketmaster.fi/mentalcruelty. Keikka on K18.",
     "ticketUrl": "https://www.ticketmaster.fi/event/mental-cruelty-lippuja/585297311",
     "image": "https://s1.ticketm.net/dam/a/b7e/6281c75b-d546-4e46-b157-fec024563b7e_RETINA_LANDSCAPE_16_9.jpg",
     "ageLimit": "K-18",
-    "price": ""
+    "price": "",
+    "lineup": [
+      {
+        "id": "band-1792480660798",
+        "artist": "Mental Cruelty",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480677385",
+        "artist": "Ov Sulfur",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480719474",
+        "artist": "Extermination Dismemberment",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480725648",
+        "artist": "Arcranius",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "tm-Z698xZ8KZ1kCkZZoS",
@@ -1225,11 +1626,28 @@
     },
     "date": "2026-11-16T16:00:00Z",
     "endTime": "2026-11-16T21:59:00Z",
-    "description": "Amerikkalainen electronicore -trio The Browning saapuu Tavastialle ensi marraskuussa. \n\n Kansas Cityssa perustettu The Browning yhdistelee äänitaiteessaan elektronisia äänimaisemia ja jyräävää deathcorea omintakeisella tavalla.\n\n Vuonna 2005 perustetulla bändillä on takanaan jo pitkä tie ja seitsemän täyspitkää albumia, joista viimeisimpänä tänä vuonna ilmestynyt, tyylikkään kolossaalinen “Burn This World [EVOLVED]”.\n\n Tavastian keikan erikoisvieraana nähdään Within Destruction ja Abbie Falls.\n\nTavastia-klubi\n\n 16.11.2026\n\n Ovet 18.00, kesto avoin\n\nLiput 45,50-48€ Tiketistä, K-18",
+    "description": "Amerikkalainen electronicore -trio The Browning saapuu Tavastialle ensi marraskuussa. \n\nKansas Cityssa perustettu The Browning yhdistelee äänitaiteessaan elektronisia äänimaisemia ja jyräävää deathcorea omintakeisella tavalla.\n\nVuonna 2005 perustetulla bändillä on takanaan jo pitkä tie ja seitsemän täyspitkää albumia, joista viimeisimpänä tänä vuonna ilmestynyt, tyylikkään kolossaalinen “Burn This World [EVOLVED]”.\n\n Tavastian keikan erikoisvieraana nähdään Within Destruction ja Abbie Falls.\n\nTavastia-klubi\n\n 16.11.2026\n\n Ovet 18.00, kesto avoin\n\nLiput 45,50-48€ Tiketistä, K-18",
     "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-16/the-browning-within-destruction-abbie-falls/119003/",
     "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
     "price": "45,50-48 €",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480000157",
+        "artist": "The Browning",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480026800",
+        "artist": "Within Destruction",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480031965",
+        "artist": "Abbie Falls",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "le-helsinkiagpuvuzzvq",
@@ -1244,7 +1662,24 @@
     "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-29/master-boot-record-ita-fulci-ita-arottenbit-ita/116589/",
     "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
     "price": "33-35 €",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792480432119",
+        "artist": "Master Boot Record",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480438607",
+        "artist": "Fulci",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480443397",
+        "artist": "Arottenbit",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "le-helsinkiagpe5q2ata",
@@ -1341,7 +1776,14 @@
     "price": "69,90 €",
     "ticketUrl": "https://www.lippu.fi/artist/europe/europe-4047194/?cityname=Helsinki",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792480216154",
+        "artist": "Europe",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1792184443933",
@@ -1369,7 +1811,14 @@
     "price": "42 €",
     "ticketUrl": "https://www.tiketti.fi/stam1na-dirty-years-2026-tavastia-klubi-helsinki-lippuja/120340",
     "image": "",
-    "ageLimit": "k-18"
+    "ageLimit": "k-18",
+    "lineup": [
+      {
+        "id": "band-1792480255449",
+        "artist": "Stam1na",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1792271458841",
@@ -1431,6 +1880,36 @@
       {
         "id": "band-1792395536036",
         "artist": "Louhi & the Tropical Sauna",
+        "stageTime": ""
+      }
+    ]
+  },
+  {
+    "id": "le-helsinkiagpucpka7y",
+    "title": "Beast in Black",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": "Nordenskiöldinkatu 11-13, Helsinki"
+    },
+    "date": "2026-12-05T16:00:00Z",
+    "endTime": "2026-12-05T21:59:00Z",
+    "description": "Beast in Black - Return of the Beast + The 69 Eyes, Rabbit Cult\n\nKotimaisen metallimusiikin kansainvälisiin kärkinimiin lukeutuva Beast In Black tekee näyttävän paluun Helsingin jäähallin lavalle.\n\nJäähallissa nähdään Beast In Blackin vuoden 2026 ainoa keikka pääkaupunkiseudulla, ja lavalle nousevat myös goottirock-legenda The 69 Eyes sekä kovassa nousussa oleva Rabbit Cult. \n\n Return Of The Beast -nimeä kantava heavy metal -spektaakkeli avaa uuden luvun parhaillaan uutta albumia valmistelevan yhtyeen tarinassa. \n\nBeast In Black on noussut vajaassa kymmenessä vuodessa kotimaisesta lupauksesta kansainvälisesti menestyneeksi yhtyeeksi, joka on rakentanut vahvan live-maineensa laajoilla kiertueilla muun muassa Nightwishin ja Helloweenin kaltaisten areenaluokan nimien kiertuekaverina. \n\n Yhtye palkittiin Vuoden Metalli -Emmalla vuonna 2022, ja se lukeutuu nykyisin Suomen merkittävimpiin musiikkivientimenestyksiin. \n\n Beast In Blackin kaksi ensimmäistä albumia, Berserker ja From Hell With Love, ovat molemmat myyneet platinaa, ja viimeisin albumi Dark Connection lähestyy samaa tasoa. \n\n Helsingin jäähalli\n\n 5.12.2026\n\n 18.00, kesto avoin\n\n Liput alk. 59€ Lippupisteestä",
+    "ticketUrl": "https://www.lippu.fi/artist/beast-in-black/",
+    "image": "https://api.hel.fi/linkedevents/media/images/BIB_chains.jpg",
+    "lineup": [
+      {
+        "id": "band-1792480520026",
+        "artist": "Beast in Black",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480532528",
+        "artist": "The 69 Eyes",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792480537120",
+        "artist": "Rabbit Cult",
         "stageTime": ""
       }
     ]
