@@ -1139,7 +1139,19 @@
     "price": "14 €",
     "ticketUrl": "https://www.tiketti.fi/kosto-ep-julkkarit-arseeni-semifinal-helsinki-lippuja/121117",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792492794573",
+        "artist": "Kosto",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492804186",
+        "artist": "Arseeni",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791726819908",
@@ -1153,7 +1165,24 @@
     "price": "17,50 €",
     "ticketUrl": "https://www.tiketti.fi/einvigi-the-mist-from-the-mountains-venunum-dei-semifinal-lippuja/120784",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792492819851",
+        "artist": "Einvigi",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492825954",
+        "artist": "The Mist From The Mountains",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492831090",
+        "artist": "Venunum Dei",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791726936877",
@@ -1167,7 +1196,24 @@
     "price": "12 €",
     "ticketUrl": "https://www.tiketti.fi/bisa-irrational-cause-admire-the-grim-lepakkomies-helsinki-lippuja/118712",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792492875597",
+        "artist": "BISA",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492881035",
+        "artist": "Irrational Cause",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492884527",
+        "artist": "Admire The Grim",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727014598",
@@ -1181,7 +1227,39 @@
     "price": "17 €",
     "ticketUrl": "https://www.tiketti.fi/nordic-death-mass-aaniwalli-helsinki-lippuja/121220",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792492898000",
+        "artist": "Malformed",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492903090",
+        "artist": "Disguised Malignance",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492911104",
+        "artist": "Azatoth",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492916269",
+        "artist": "Cryptorium",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492920332",
+        "artist": "Xorsist",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492926397",
+        "artist": "Impurity",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791727077996",
@@ -1611,11 +1689,33 @@
     },
     "date": "2026-12-20",
     "endTime": null,
-    "description": "Týr Twilight Force / Ignea / Vanaheim Ääniwalli, Helsinki 20.12.2026 K18 TÝR saapuu Helsingin Ääniwalliin 20. joulukuuta! Färsaarelainen folk- ja viikinkimetallin suurnimi TÝR saapuu osana mittavaa Valhalla Calling Europe Tour 2026 -kiertuetta Helsingin Ääniwalliin 20. joulukuuta 2026. Illan täydentävät ruotsalaiset power metal -suosikit Twilight Force ja Dragonland sekä hollantilainen folk metal -nousija Vanaheim. Yli kahden vuosikymmenen ajan TÝR on ollut yksi modernin melodisen folk metalin tunnistettavimmista nimistä. Yhtye julkaisee tänä vuonna uransa kymmenennen studioalbumin, omalla nimellään kulkevan TÝR-levyn, joka avaa uuden luvun bändin pitkällä uralla. Euroopan-kiertue seuraa albumin julkaisua, ja yleisö pääsee kuulemaan uutta materiaalia ensimmäistä kertaa livenä legendaaristen fanisuosikkien rinnalla. Menestyksekkään Paganfest 2025 -kiertueen jälkeen yhtye vetäytyi kotisaarilleen Färsaarille työstämään uutta musiikkia. Tulevalla kiertueella nämä tuoreet kappaleet heräävät eloon yhdessä niiden eeppisten hymneiden kanssa, jotka ovat tehneet TÝRistä kansainvälisesti arvostetun nimen metallikentällä. Mukana kiertueella nähdään kolme vahvaa yhtyettä modernin power-, fantasia- ja folk metalin kärjestä. Ruotsalainen Twilight Force tunnetaan näyttävästä sinfonisesta power metallistaan, suurista melodioista ja fantasiahenkisestä maailmastaan. Myös ruotsalainen Dragonland on pitkän linjan suosikki, jonka tavaramerkkeihin kuuluvat tarttuvat kertosäkeet, melodiset koskettimet ja eeppiset tarinat. Illan avaa hollantilainen Vanaheim, joka on noussut nopeasti folk metal -yleisön tietoisuuteen yhdistämällä raskaat riffit, tunnelmalliset sävellykset ja kansanmusiikkivaikutteet.",
+    "description": "TÝR saapuu Helsingin Ääniwalliin 20. joulukuuta! \n\nFärsaarelainen folk- ja viikinkimetallin suurnimi TÝR saapuu osana mittavaa Valhalla Calling Europe Tour 2026 -kiertuetta Helsingin Ääniwalliin 20. joulukuuta 2026. Illan täydentävät ruotsalaiset power metal -suosikit Twilight Force ja Dragonland sekä hollantilainen folk metal -nousija Vanaheim. Yli kahden vuosikymmenen ajan TÝR on ollut yksi modernin melodisen folk metalin tunnistettavimmista nimistä. Yhtye julkaisee tänä vuonna uransa kymmenennen studioalbumin, omalla nimellään kulkevan TÝR-levyn, joka avaa uuden luvun bändin pitkällä uralla. Euroopan-kiertue seuraa albumin julkaisua, ja yleisö pääsee kuulemaan uutta materiaalia ensimmäistä kertaa livenä legendaaristen fanisuosikkien rinnalla. Menestyksekkään Paganfest 2025 -kiertueen jälkeen yhtye vetäytyi kotisaarilleen Färsaarille työstämään uutta musiikkia. Tulevalla kiertueella nämä tuoreet kappaleet heräävät eloon yhdessä niiden eeppisten hymneiden kanssa, jotka ovat tehneet TÝRistä kansainvälisesti arvostetun nimen metallikentällä. Mukana kiertueella nähdään kolme vahvaa yhtyettä modernin power-, fantasia- ja folk metalin kärjestä. Ruotsalainen Twilight Force tunnetaan näyttävästä sinfonisesta power metallistaan, suurista melodioista ja fantasiahenkisestä maailmastaan. Myös ruotsalainen Dragonland on pitkän linjan suosikki, jonka tavaramerkkeihin kuuluvat tarttuvat kertosäkeet, melodiset koskettimet ja eeppiset tarinat. Illan avaa hollantilainen Vanaheim, joka on noussut nopeasti folk metal -yleisön tietoisuuteen yhdistämällä raskaat riffit, tunnelmalliset sävellykset ja kansanmusiikkivaikutteet.",
     "ticketUrl": "https://www.ticketmaster.fi/event/tyr-lippuja/386000473",
     "image": "https://s1.ticketm.net/dam/e/8fa/d863cdf0-8600-4b33-89cc-41a3ad3af8fa_SOURCE",
     "ageLimit": "K-18",
-    "price": ""
+    "price": "",
+    "lineup": [
+      {
+        "id": "band-1792492629345",
+        "artist": "Týr",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492639624",
+        "artist": "Vanaheim",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492672657",
+        "artist": "Twilight Force",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792492721200",
+        "artist": "Dragonland",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "le-helsinkiagpuwcp4d4",
@@ -1832,7 +1932,14 @@
     "price": "37,50 €",
     "ticketUrl": "https://www.tiketti.fi/combichrist-usa-on-the-rocks-helsinki-lippuja/118419",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792492606515",
+        "artist": "Combichrist",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1792271680031",
