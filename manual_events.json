@@ -2067,6 +2067,16 @@
         "id": "band-1792499554877",
         "artist": "Five Finger Death Punch",
         "stageTime": ""
+      },
+      {
+        "id": "band-1792591483644",
+        "artist": "Lamb Of God",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792591492533",
+        "artist": "Bleed From Within",
+        "stageTime": ""
       }
     ]
   },
@@ -2441,5 +2451,145 @@
     "ticketUrl": "https://www.ticketmaster.fi/event/hellsinki-metal-festival-2027-2-paivaa-lippuja/629391174",
     "image": "https://s1.ticketm.net/dam/e/131/55a4b141-e1ca-4755-b391-9d5245d03131_RETINA_LANDSCAPE_16_9.jpg",
     "price": "136 €"
+  },
+  {
+    "id": "manual-1792591611933",
+    "title": "DragonForce - Europe Tour 2027",
+    "date": "2027-04-23T17:00:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": "Sturenkatu 4, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792591671656",
+        "artist": "DragonForce",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792591673433",
+        "artist": "Visions of Atlantis",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792591680828",
+        "artist": "Wings of Steel",
+        "stageTime": ""
+      }
+    ],
+    "description": "Englantilainen power metal -yhtye DragonForce saapuu konsertoimaan Helsingin Kulttuuritalolle perjantaina 23. huhtikuuta 2027. Lipunmyynti keikalle alkaa keskiviikkona 30.9.2026 klo 11.00 osoitteessa Lippu.fi.\n\nDragonForcen turboahdettu voimametalli painii oman mahtipontisen lajityyppinsäkin sisällä vielä täysin omassa sarjassaan. Kitaristi-kaksikko Herman Lin ja Sam Totmanin alusta asti luotsaama yhtye toimittaa vähintäänkin eeppisiä kitarasoolojaan ja -osuuksiaan retro-videopeli-tunnelmissa äänivallin rikkovilla nopeuksilla. Viimeisimpänä kierrepallona DragonForce kiinnitti keulilleen Arch Enemyn ja The Agonistin riveistä maailmanmaineeseen nousseen, metallin valovoimaisimpiin keulakuviin lukeutuvan Alissa White-Gluzin.\n\nDragonForcen mittava ura sai alkunsa jo viime vuosisadan puolella. Bändin tähän mennessä kenties tunnetuin levy, kolmosalbumi ”Inhuman Rampage”, joka pitää sisällään Guitar Hero -pelistä tutun jättihitin ”Through The Fire and Flames”, julkaistiin sekin yli 20 vuotta sitten. Komea levykatalogi saa jatkoa maaliskuussa julkaistavan kymmenennen täyspitkän, ytimekkäästi DragonForce-nimeä kantavan albumin muodossa. Ensimmäisenä maistiaisena tulevasta saatiin juuri julkaistu “Hunger of the Beast” -sinkku.\n\nKiertueen erikoisvieraina nähdään itävaltalainen sinfonisen metallin airut Visions of Atlantis sekä losangelesilainen moderni ja dynaaminen heavy metal -yhtye Wings of Steel.",
+    "price": "49 €",
+    "ticketUrl": "https://www.lippu.fi/event/dragonforce-helsingin-kulttuuritalo-22152451/",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792591883409",
+    "title": "Ministry - Goodbye Europe Tour 2027",
+    "date": "2027-05-01T15:00:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": "Sturenkatu 4, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792591930833",
+        "artist": "Ministry",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792591943599",
+        "artist": "Die Krupps",
+        "stageTime": ""
+      }
+    ],
+    "description": "Industrial metalin kiistaton suunnannäyttäjä Ministry saapuu Suomeen viimeistä kertaa osana Hate To Go – Goodbye Europe 2027 jäähyväiskiertuettaan. Kiertueen viimeinen konsertti nähdään lauantaina 1. toukokuuta 2027 Helsingin Kulttuuritalolla, jossa erikoisvieraana esiintyy saksalainen industrial -legenda Die Krupps.\n\nAl Jourgensenin luotsaama Ministry päättää yli neljä vuosikymmentä kestäneen uransa uuden, 30.10.2026 julkaistavan Hate To Go (Take Out Or Delivery) -albumin siivittämänä. Yhtyeen 17. ja samalla viimeiseksi jäävällä studioalbumilla kuullaan jälleen mukana pitkäaikainen yhteistyökumppani Paul Barker, jonka paluu on ilouutinen yhtyeen pitkäaikaisille faneille. Albumi yhdistää Ministrylle tunnusomaisen aggressiivisen ja kantaa ottavan industrial metal -soundin sekä ajankohtaiset yhteiskunnalliset teemat.\n\nJourgensenin mukaan päätös lopettaa on lopullinen. ” I'm proud of what I've accomplished. It's been quite a ride, but I'm completely at peace with the fact that it's done.”\n\nHelsingin konsertti on koko Euroopan-kiertueen viimeinen esiintyminen. Illasta on tulossa pitkä, ja settilista tarjoaa kappaleita tulevalta Hate To Go -albumilta sekä kattavan läpileikkauksen yhtyeen klassikkotuotannosta aina The Land of Rape and Honey-, Psalm 69- ja myöhempien aikakausien merkkiteoksiin.\n\nKeikan avaa Die Krupps, yksi eurooppalaisen industrial- ja EBM-skenen merkittävimmistä nimistä. Vuonna 1980 perustettu saksalaisyhtye juhlii yli 45-vuotista uraansa uudella albumilla ja kiertueella, jotka osoittavat yhtyeen olevan edelleen genrensä kärkinimiä. Jürgen Englerin ja Ralf Dörperin johtama kokoonpano tunnetaan tinkimättömästä yhdistelmästään metallia, industrialia ja elektronista musiikkia, ja bändin vaikutus kuuluu lukemattomien myöhempien yhtyeiden soundissa.",
+    "price": "",
+    "ticketUrl": "https://www.lippu.fi/artist/ministry/",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792592189929",
+    "title": "Reaper Fest 2027",
+    "date": "2027-09-16T21:00:00.000Z",
+    "venue": {
+      "name": "Tavastia",
+      "address": "Urho Kekkosen katu 4-6, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792592309542",
+        "artist": "Wolfheart",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792592316233",
+        "artist": "April Art",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792592322301",
+        "artist": "Parasite Inc",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792592328751",
+        "artist": "Hammer King",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792592335345",
+        "artist": "Suotana",
+        "stageTime": ""
+      }
+    ],
+    "description": "REAPER FEST 2027 – CELEBRATING 10 YEARS OF REAPER ENTERTAINMENT!\n\n2 stages, 10 bands & countless specials... Join us in celebrating the 10th birthday of the finest record label in the universe: REAPER ENTERTAINMENT!",
+    "price": "49 €",
+    "ticketUrl": "https://www.tiketti.fi/reaper-fest-2027-tavastia-klubi-helsinki-tickets/119662",
+    "image": "",
+    "ageLimit": ""
+  },
+  {
+    "id": "manual-1792592444537",
+    "title": "The Mission",
+    "date": "2027-10-02T17:00:00.000Z",
+    "venue": {
+      "name": "Tavastia",
+      "address": "Urho Kekkosen katu 4, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792592601819",
+        "artist": "The Mission",
+        "stageTime": ""
+      }
+    ],
+    "description": "Brittiläisen goottirockin pitkäikäisimpiin nimiin lukeutuva The Mission palaa Suomeen syksyllä 2027. Yhtye esiintyy Helsingin Tavastialla lauantaina 2. lokakuuta osana Euroopan-kiertuetta, jolla jatketaan vuonna 2026 käynnistynyttä God’s Own Medicine -debyyttialbumin 40-vuotisjuhlintaa.\n\nThe Missionin tarina sai alkunsa 1980-luvun puolivälissä, kun kitaristi-laulaja Wayne Hussey ja basisti Craig Adams jättivät The Sisters Of Mercyn. Kitaristi Simon Hinklerin ja rumpali Mick Brownin kanssa syntynyt yhtye nousi nopeasti brittiläisen vaihtoehto- ja goottirockin keskeisten nimien joukkoon.\n\nMarraskuussa 1986 julkaistu debyyttialbumi God’s Own Medicine nousi Britannian albumilistan sijalle 14 ja sisälsi muun muassa yhtyeen klassikoiksi muodostuneet kappaleet Wasteland, Stay With Me ja Severina. Seuraavien vuosien albumit Children ja Carved In Sand kasvattivat yhtyeen suosiota entisestään, ja kappaleista kuten Tower Of Strength, Butterfly On A Wheel ja Deliverance tuli olennainen osa The Missionin tuotantoa. Yhtyeen albumeita on myyty maailmanlaajuisesti yli neljä miljoonaa kappaletta.\n\nGod’s Own Medicine -albumin 40-vuotisjuhla huipentuu marraskuussa 2026 neljän konsertin erikoisresidenssiin Lontoon O2 Forum Kentish Townissa. Marraskuun 4.–7. päivinä järjestettävissä konserteissa kuullaan toisistaan poikkeavat ohjelmistot yhtyeen uran eri vaiheilta, ja ensimmäisenä iltana The Mission esittää God’s Own Medicine -albumin kokonaisuudessaan. Juhlintaa jatketaan vuonna 2027 täysimittaisella Euroopan-kiertueella, joka tuo yhtyeen myös Helsinkiin.\n\nSuomessa The Mission esiintyi ensimmäisen kerran Provinssirockissa vuonna 1990. Seuraavaa Suomen-vierailua saatiin odottaa yli kolme vuosikymmentä, kun yhtye nousi lopulta Tavastian lavalle toukokuussa 2023. Lokakuussa 2027 The Mission palaa jälleen samalle legendaariselle klubilavalle.",
+    "price": "35,90 €",
+    "ticketUrl": "https://www.tiketti.fi/the-mission-uk-tavastia-klubi-helsinki-lippuja/120433",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792592676545",
+    "title": "Kanonenfieber - KRIEGSTAGE 2027 Tour",
+    "date": "2026-10-21T15:30:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": "Sturenkatu 4, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792592701786",
+        "artist": "Kanonenfieber",
+        "stageTime": ""
+      }
+    ],
+    "description": "Saksalainen blackened death metal -yhtye Kanonenfieber saapuu loppuvuodesta 2027 Suomeen. Ensimmäisen maailmansodan historiaa vaikuttaviksi metalliesityksiksi muovaava yhtye esiintyy maanantaina 22. marraskuuta Helsingin Kulttuuritalolla. Liput keikalle tulevat myyntiin keskiviikkona 29. heinäkuuta 2026 klo 17.\n\nAnonyymin saksalaismuusikko Noisen vuonna 2020 perustama Kanonenfieber alkoi yhden miehen studioprojektina. Yhtyeen musiikki perustuu ensimmäisen maailmansodan aikaiseen todistusaineistoon, kuten rintamakirjeisiin, raportteihin ja muihin alkuperäisiin dokumentteihin. Kanonenfieber kertoo musiikissaan sodan seurauksista, ja sanoitukset nostavat sodan uhrit unohduksesta.\n\nMusiikillisesti Kanonenfieber yhdistää melodisen black metalin, death metalin ja marssimaiset rytmit tarttuvaan mutta raskaaseen kokonaisuuteen. Yhtyeen konserteissa musiikki kasvaa teatterimaiseksi spektaakkeliksi: kasvonsa peittävistä muusikoista, ensimmäisen maailmansodan aikakauteen pohjautuvista puvuista, lavasteista ja pukuvaihdoksista rakentuu esitys, joka erottuu metallikiertueiden tavanomaisesta kuvastosta.\n\nKanonenfieber nousi nopeasti kansainväliseen tunnettuuteen helmikuussa 2021 julkaistulla debyyttialbumillaan Menschenmühle. Sitä seurasivat EP-julkaisut Yankee Division, Der Füsilier ja U-Bootsmann sekä syyskuussa 2024 ilmestynyt toinen studioalbumi Die Urkatastrophe. Huhtikuussa 2025 julkaistu yhtyeen toinen livealbumi Live in Oberhausen tallensi Kanonenfieberin loppuunmyydyn konsertin Oberhausenissa, ja helmikuussa 2026 ilmestynyt Soldatenschicksale kokosi yhteen uudistettuja EP-kappaleita sekä uutta materiaalia.\n\nYhtye on nähty maassamme aikaisemmin vain festarilavoilla vuoden 2025 Nummirockissa ja Hellsinki Metal Festivalilla, ja tulevana kesänä heitä kuullaan myös Tuska Festivaalissa – Kanonenfieberin synkkä, historiallinen ja visuaalisesti vahva show nähdään siis marraskuun 2027 konserteissa ensi kertaa sisälavoilla Suomessa. ",
+    "price": "35 €",
+    "ticketUrl": "https://www.lippu.fi/event/kanonenfieber-kriegstage-2027-tour-helsingin-kulttuuritalo-21965323/",
+    "image": "",
+    "ageLimit": ""
   }
 ]
