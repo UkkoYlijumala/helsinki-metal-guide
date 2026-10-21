@@ -237,7 +237,29 @@
     "price": "53 €",
     "ticketUrl": "https://www.lippu.fi/artist/whitechapel/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792565559259",
+        "artist": "Whitechapel",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565564264",
+        "artist": "Sylosis",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565568668",
+        "artist": "200 Stab Wounds",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565573275",
+        "artist": "Tribal Gaze",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791713413670",
@@ -251,7 +273,24 @@
     "price": "33,60 €",
     "ticketUrl": "https://www.lippu.fi/artist/brujeria/?cityname=Helsinki",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792565637085",
+        "artist": "Brujeria",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565642925",
+        "artist": "Criminal",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565648926",
+        "artist": "Terror Shark",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791713519883",
@@ -265,7 +304,24 @@
     "price": "39,90 €",
     "ticketUrl": "https://www.lippu.fi/artist/the-halo-effect/?cityname=Helsinki",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792565963039",
+        "artist": "The Halo Effect",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565970510",
+        "artist": "Lacuna Coil",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565979344",
+        "artist": "Omnium Gatherum",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791713645372",
@@ -1562,7 +1618,24 @@
     "price": "45 €",
     "ticketUrl": "https://www.tiketti.fi/uncle-acid-and-the-deadbeats-aaniwalli-helsinki-lippuja/120423",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792565468749",
+        "artist": "Uncle Acid and The Deadbeats",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565473634",
+        "artist": "Conan",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565477331",
+        "artist": "Earth Tongue",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791728275941",
@@ -1576,7 +1649,19 @@
     "price": "32 €",
     "ticketUrl": "https://www.tiketti.fi/huora-lahiobotox-tavastia-klubi-helsinki-lippuja/121056",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792565510135",
+        "artist": "Huora",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565512815",
+        "artist": "Lähiöbotox",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791728520281",
@@ -1590,7 +1675,24 @@
     "price": "39,50 €",
     "ticketUrl": "https://www.tiketti.fi/party-cannon-internal-bleeding-guttural-slug-on-the-rocks-lippuja/121222",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792565596374",
+        "artist": "Party Cannon",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565601159",
+        "artist": "Internal Bleeding",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565603814",
+        "artist": "Guttural Slug",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791728595157",
@@ -1604,7 +1706,24 @@
     "price": "30 €",
     "ticketUrl": "https://www.tiketti.fi/scar-symmentry-swe-rise-to-fall-es-meret-tavastia-klubi-lippuja/121326",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792566950699",
+        "artist": "Scar Symmentry",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792566955977",
+        "artist": "Rise To Fall",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792566959201",
+        "artist": "Meret",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791728708860",
@@ -2053,7 +2172,14 @@
     "price": "85,90 €",
     "ticketUrl": "https://www.ticketmaster.fi/event/nickelback-everything-under-the-sun-tour-lippuja/1771131528?language=en-us",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "",
+    "lineup": [
+      {
+        "id": "band-1792566992302",
+        "artist": "Nickelback",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1792271061670",
@@ -2193,5 +2319,127 @@
         "stageTime": ""
       }
     ]
+  },
+  {
+    "id": "le-helsinkiagptzdjfga",
+    "title": "Tarja Turunen",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": "Sturenkatu 4, Helsinki"
+    },
+    "date": "2027-02-24T15:30:00Z",
+    "endTime": "2027-02-24T21:59:00Z",
+    "description": "Suomalaisen metallin ikoninen ääni Tarja Turunen tuo Frisson Live 2027 -kiertueensa Kulttuuritalolle.\n\n Frisson Live 2027 merkitsee Turusen paluuta raskaan musiikin ytimeen uuden studioalbumin myötä. \n\n Luvassa on intensiivinen konserttikokonaisuus, jossa klassinen sopraano yhdistyy raskaaseen soundiin, ja settilista kokoaa yhteen uusia kappaleita sekä uran tunnetuimpia hittejä.\n\n Turunen nousi kansainväliseen läpimurtoon Nightwishin alkuperäisenä laulajana. Helmikuun Suomen-keikoilla luvassa on raskasta soundia, suuria melodioita ja näyttävää live-energiaa.\n\nKulttuuritalo\n\n24.2.2027\n\n17.30, kesto avoin\n\n Liput Lippupisteestä",
+    "ticketUrl": "https://www.lippu.fi/artist/tarja-turunen/",
+    "image": "https://api.hel.fi/linkedevents/media/images/kult_talo_672k.jpg",
+    "lineup": [
+      {
+        "id": "band-1792565494121",
+        "artist": "Tarja Turunen",
+        "stageTime": ""
+      }
+    ]
+  },
+  {
+    "id": "le-helsinkiagqvqgayey",
+    "title": "Toxic Fest 2027",
+    "venue": {
+      "name": "Lepakkomies",
+      "address": "Helsinginkatu 1, Helsinki"
+    },
+    "date": "2027-03-12T18:00:00Z",
+    "endTime": "2027-03-13T21:30:00Z",
+    "description": "Kolmatta kertaa järjestettävä Toxic Fest laajenee kaksipäiväiseksi festivaaliksi, kun tapahtuma valtaa Lepakkomiehen ensi maaliskuussa.\n\nFestivaali kokoaa yhteen suomalaisen death metalin, grindcoren ja muun äärimmäisemmän metallin kiinnostavimpia nimiä sekä kansainvälisiä vieraita.\n\nVuoden 2027 festivaalin ulkomaisena päävierailijana nähdään ruotsalainen grindcore-legenda The Arson Project, joka palaa Suomeen peräti 16 vuoden tauon jälkeen. Yhtye esiintyi Suomessa viimeksi Tuska-festivaalilla vuonna 2010.\n\nKotimaisesta kattauksesta mukana ovat viime vuosina ahkerasti Suomen festivaalilavoja kiertänyt Cumbeast sekä Unknown Subject, Sonic Poison, Refusal, Putrid Defecation, Grave Hex, Frigid Winter ja Deathfuckingwound.\n\nLepakkomies\n\n12.-13.3.2027\n\nLiput 36 € 2 pv, 20 € 1 pv, K-18",
+    "ticketUrl": "https://www.facebook.com/events/4447868932206338",
+    "image": "https://api.hel.fi/linkedevents/media/images/Toxic_Fest_2027_IG.jpg",
+    "price": "36 € 2 pv, 20 € 1 pv",
+    "ageLimit": "18",
+    "lineup": [
+      {
+        "id": "band-1792565715771",
+        "artist": "The Arson Project",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565723881",
+        "artist": "Cumbeast",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565728841",
+        "artist": "Unknown Subject",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565733774",
+        "artist": "Sonic Poison",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565738859",
+        "artist": "Refusal",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565745658",
+        "artist": "Putrid Defecation",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565750367",
+        "artist": "Grave Hex",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565755322",
+        "artist": "Frigid Winter",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792565760915",
+        "artist": "Deathfuckingwound",
+        "stageTime": ""
+      }
+    ]
+  },
+  {
+    "id": "tm-Z698xZ8KZ16vj0jto6",
+    "title": "SABATON The Legendary Tour Part 2 - Europe 2027",
+    "venue": {
+      "name": "Veikkaus Arena",
+      "address": "Areenankuja 1, Helsinki"
+    },
+    "date": "2027-05-08T15:00:00Z",
+    "endTime": null,
+    "description": "SABATON HELSINGIN VEIKKAUS ARENALLE TOUKOKUUSSA 2027 \n\nMaailman johtaviin metallibändeihin lukeutuva ruotsin heavy metal- panssaripataljoona Sabaton saapuu konsertoimaan Helsingin Veikkaus Arenalle 8. toukokuuta 2027. Konsertti on osa Sabatonin tuoretta \"Legends\"-albumia tukevaa The Legendary Tour Part 2 -jättikiertuetta. Veikkaus Arenan konsertin avaa The Legendary Orchestra.\n\nEi ikärajaa | ovet 18:00 Liput: Ticketmaster Permanto alk. 133,90€ Lower bowl 1 alk. 122,90€ Lower bowl 2 alk. 113,90€ Upper bowl 1 alk. 93,90€ Upper bowl 2 alk. 83,90€ \n\nVIP-paketit: \n\nLEGENDARY SHIELD VIP EXPERIENCE - Yksi premium-istumapaikkalippu, jolta avautuu erinomainen näkymä Sabatonin konserttiin. - Ainutlaatuinen, täysikokoinen Legendary Tour Shield -kilpi kaikkien Sabatonin jäsenten nimikirjoituksilla. - Yksityinen ryhmämuotoinen backstage-kierros yhden Sabatonin kiertuehenkilökunnan jäsenen johdolla -- koe Legendary Castlen kulissien takainen maailma. - VIP-lahjapaketti, joka sisältää kaikkien Sabatonin jäsenten signeeraaman Legendary-kiertuekirjan. - Muistoksi tarkoitettu VIP-laminaatti ja kaulanauha. - Mahdollisuus ostaa fanituotteita ennen ovien avautumista yleisölle ilman ruuhkia. - Prioriteettisisäänkirjautuminen, oma pikasisäänkäynti ennen ovien avautumista yleisölle, säilytyslokero tavaroidesi säilyttämistä varten keikan aikana sekä tapahtumakohtainen asiakaspalvelunumero Hinta: 622,80€ + tilausmaksu 2€/tilaus \n\nLEGENDS STORYTELLER PREMIUM SEATING VIP EXPERIENCE - Yksi premium-istumapaikkalippu, jolta avautuu erinomainen näkymä Sabatonin konserttiin. - Yksityinen ryhmämuotoinen backstage-kierros yhden Sabatonin kiertuehenkilökunnan jäsenen johdolla -- koe Legendary Castlen kulissien takainen maailma. - VIP-lahjapaketti, joka sisältää kaikkien Sabatonin jäsenten signeeraaman Legendary-kiertuekirjan. - Muistoksi tarkoitettu VIP-laminaatti ja kaulanauha. - Mahdollisuus ostaa fanituotteita ennen ovien avautumista yleisölle ilman ruuhkia. - Prioriteettisisäänkirjautuminen, oma pikasisäänkäynti ennen ovien avautumista yleisölle, säilytyslokero tavaroidesi säilyttämistä varten keikan aikana sekä tapahtumakohtainen asiakaspalvelunumero Hinta: 372,90€ + tilausmaksu 2€/tilaus \n\nHEROES EARLY ENTRY GA VIP PACKAGE - Yksi seisomapaikkalippu sekä ennakkosisäänpääsy permantoalueelle. - VIP-lahjapaketti, joka sisältää kaikkien Sabatonin jäsenten signeeraaman Legendary-kiertuekirjan. - Saavu paikalle suosikki-Legendary-asussasi ja osallistu arvontaan, jossa voit voittaa erityisen Sabaton-fanituotteen. - Muistoksi tarkoitettu VIP-laminaatti ja kaulanauha. - Mahdollisuus ostaa fanituotteita ennen ovien avautumista yleisölle ilman ruuhkia. - Prioriteettisisäänkirjautuminen, oma pikasisäänkäynti ennen ovien avautumista yleisölle, säilytyslokero tavaroidesi säilyttämistä varten keikan aikana sekä tapahtumakohtainen asiakaspalvelunumero Hinta: 258,90€ + tilausmaksu 2€/tilaus",
+    "ticketUrl": "https://www.ticketmaster.fi/event/sabaton-the-legendary-tour-part-2-europe-2027-lippuja/1724729447",
+    "image": "https://s1.ticketm.net/dam/a/6af/faa2c053-7247-49f9-9cd2-9dd6512986af_EVENT_DETAIL_PAGE_16_9.jpg",
+    "lineup": [
+      {
+        "id": "band-1792566673826",
+        "artist": "Sabaton",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792566682075",
+        "artist": "The Legendary Orchestra",
+        "stageTime": ""
+      }
+    ],
+    "price": "83,90 €"
+  },
+  {
+    "id": "tm-Z698xZ8KZ1kbtCoAV",
+    "title": "HELLSINKI METAL FESTIVAL 2027 - 2 Päivää",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": "Nordenskiöldinkatu 11-13, Helsinki"
+    },
+    "date": "2027-08-07",
+    "endTime": null,
+    "description": "Pyörätuoliasiakas voi ostaa tavallisen lipun, saattaja pääsee samalla lipulla. Avustajakortti esitettävä kulunvalvonnassa.",
+    "ticketUrl": "https://www.ticketmaster.fi/event/hellsinki-metal-festival-2027-2-paivaa-lippuja/629391174",
+    "image": "https://s1.ticketm.net/dam/e/131/55a4b141-e1ca-4755-b391-9d5245d03131_RETINA_LANDSCAPE_16_9.jpg",
+    "price": "136 €"
   }
 ]
