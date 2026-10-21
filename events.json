@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1792592676545",
-      "title": "Kanonenfieber - KRIEGSTAGE 2027 Tour",
-      "date": "2026-10-21T15:30:00.000Z",
-      "venue": {
-        "name": "Kulttuuritalo",
-        "address": "Sturenkatu 4, Helsinki"
-      },
-      "lineup": [
-        {
-          "id": "band-1792592701786",
-          "artist": "Kanonenfieber",
-          "stageTime": ""
-        }
-      ],
-      "description": "Saksalainen blackened death metal -yhtye Kanonenfieber saapuu loppuvuodesta 2027 Suomeen. Ensimmäisen maailmansodan historiaa vaikuttaviksi metalliesityksiksi muovaava yhtye esiintyy maanantaina 22. marraskuuta Helsingin Kulttuuritalolla. Liput keikalle tulevat myyntiin keskiviikkona 29. heinäkuuta 2026 klo 17.\n\nAnonyymin saksalaismuusikko Noisen vuonna 2020 perustama Kanonenfieber alkoi yhden miehen studioprojektina. Yhtyeen musiikki perustuu ensimmäisen maailmansodan aikaiseen todistusaineistoon, kuten rintamakirjeisiin, raportteihin ja muihin alkuperäisiin dokumentteihin. Kanonenfieber kertoo musiikissaan sodan seurauksista, ja sanoitukset nostavat sodan uhrit unohduksesta.\n\nMusiikillisesti Kanonenfieber yhdistää melodisen black metalin, death metalin ja marssimaiset rytmit tarttuvaan mutta raskaaseen kokonaisuuteen. Yhtyeen konserteissa musiikki kasvaa teatterimaiseksi spektaakkeliksi: kasvonsa peittävistä muusikoista, ensimmäisen maailmansodan aikakauteen pohjautuvista puvuista, lavasteista ja pukuvaihdoksista rakentuu esitys, joka erottuu metallikiertueiden tavanomaisesta kuvastosta.\n\nKanonenfieber nousi nopeasti kansainväliseen tunnettuuteen helmikuussa 2021 julkaistulla debyyttialbumillaan Menschenmühle. Sitä seurasivat EP-julkaisut Yankee Division, Der Füsilier ja U-Bootsmann sekä syyskuussa 2024 ilmestynyt toinen studioalbumi Die Urkatastrophe. Huhtikuussa 2025 julkaistu yhtyeen toinen livealbumi Live in Oberhausen tallensi Kanonenfieberin loppuunmyydyn konsertin Oberhausenissa, ja helmikuussa 2026 ilmestynyt Soldatenschicksale kokosi yhteen uudistettuja EP-kappaleita sekä uutta materiaalia.\n\nYhtye on nähty maassamme aikaisemmin vain festarilavoilla vuoden 2025 Nummirockissa ja Hellsinki Metal Festivalilla, ja tulevana kesänä heitä kuullaan myös Tuska Festivaalissa – Kanonenfieberin synkkä, historiallinen ja visuaalisesti vahva show nähdään siis marraskuun 2027 konserteissa ensi kertaa sisälavoilla Suomessa. ",
-      "price": "35 €",
-      "ticketUrl": "https://www.lippu.fi/event/kanonenfieber-kriegstage-2027-tour-helsingin-kulttuuritalo-21965323/",
-      "image": "",
-      "ageLimit": ""
-    },
-    {
       "id": "le-helsinkiagpwtjvpzm",
       "title": "Humanity's Last Breath",
       "venue": {
@@ -2632,6 +2611,27 @@
       "ticketUrl": "https://www.tiketti.fi/the-mission-uk-tavastia-klubi-helsinki-lippuja/120433",
       "image": "",
       "ageLimit": "K-18"
+    },
+    {
+      "id": "manual-1792592676545",
+      "title": "Kanonenfieber - KRIEGSTAGE 2027 Tour",
+      "date": "2027-11-22T16:30:00.000Z",
+      "venue": {
+        "name": "Kulttuuritalo",
+        "address": "Sturenkatu 4, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792592701786",
+          "artist": "Kanonenfieber",
+          "stageTime": ""
+        }
+      ],
+      "description": "Saksalainen blackened death metal -yhtye Kanonenfieber saapuu loppuvuodesta 2027 Suomeen. Ensimmäisen maailmansodan historiaa vaikuttaviksi metalliesityksiksi muovaava yhtye esiintyy maanantaina 22. marraskuuta Helsingin Kulttuuritalolla. Liput keikalle tulevat myyntiin keskiviikkona 29. heinäkuuta 2026 klo 17.\n\nAnonyymin saksalaismuusikko Noisen vuonna 2020 perustama Kanonenfieber alkoi yhden miehen studioprojektina. Yhtyeen musiikki perustuu ensimmäisen maailmansodan aikaiseen todistusaineistoon, kuten rintamakirjeisiin, raportteihin ja muihin alkuperäisiin dokumentteihin. Kanonenfieber kertoo musiikissaan sodan seurauksista, ja sanoitukset nostavat sodan uhrit unohduksesta.\n\nMusiikillisesti Kanonenfieber yhdistää melodisen black metalin, death metalin ja marssimaiset rytmit tarttuvaan mutta raskaaseen kokonaisuuteen. Yhtyeen konserteissa musiikki kasvaa teatterimaiseksi spektaakkeliksi: kasvonsa peittävistä muusikoista, ensimmäisen maailmansodan aikakauteen pohjautuvista puvuista, lavasteista ja pukuvaihdoksista rakentuu esitys, joka erottuu metallikiertueiden tavanomaisesta kuvastosta.\n\nKanonenfieber nousi nopeasti kansainväliseen tunnettuuteen helmikuussa 2021 julkaistulla debyyttialbumillaan Menschenmühle. Sitä seurasivat EP-julkaisut Yankee Division, Der Füsilier ja U-Bootsmann sekä syyskuussa 2024 ilmestynyt toinen studioalbumi Die Urkatastrophe. Huhtikuussa 2025 julkaistu yhtyeen toinen livealbumi Live in Oberhausen tallensi Kanonenfieberin loppuunmyydyn konsertin Oberhausenissa, ja helmikuussa 2026 ilmestynyt Soldatenschicksale kokosi yhteen uudistettuja EP-kappaleita sekä uutta materiaalia.\n\nYhtye on nähty maassamme aikaisemmin vain festarilavoilla vuoden 2025 Nummirockissa ja Hellsinki Metal Festivalilla, ja tulevana kesänä heitä kuullaan myös Tuska Festivaalissa – Kanonenfieberin synkkä, historiallinen ja visuaalisesti vahva show nähdään siis marraskuun 2027 konserteissa ensi kertaa sisälavoilla Suomessa. ",
+      "price": "35 €",
+      "ticketUrl": "https://www.lippu.fi/event/kanonenfieber-kriegstage-2027-tour-helsingin-kulttuuritalo-21965323/",
+      "image": "",
+      "ageLimit": ""
     }
   ]
 }
