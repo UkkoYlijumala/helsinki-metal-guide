@@ -1908,6 +1908,11 @@
         "id": "band-1792416834316",
         "artist": "Dimmu Borgir",
         "stageTime": ""
+      },
+      {
+        "id": "band-1792745467606",
+        "artist": "Dark Funeral",
+        "stageTime": ""
       }
     ]
   },
@@ -2081,43 +2086,6 @@
     ]
   },
   {
-    "id": "le-helsinkiagpwtjvpzm",
-    "title": "Humanity's Last Breath",
-    "venue": {
-      "name": "Tavastia-klubi",
-      "address": "Urho Kekkosen katu 4-6, Helsinki"
-    },
-    "date": "2026-10-22T16:00:00Z",
-    "endTime": "2026-10-22T20:59:00Z",
-    "description": "Ruotsin deathcore-ylpeys Humanity's Last Breath tuo Euroopan-kiertueensa Tavastialle ensi lokakuussa, mukana myös Vildhjarta, Enterprise Earth ja Karmanjakah.\n\n Matalilla tajuuksilla operoiva Humanity's Last Breath on noussut vuoden 2010 Reanimated by Hate -EP:nsä ja sitä seuranneiden neljän albumin myötä yhdeksi tärkeimmistä uuden ruotsalaisen metalliaallon edustajista. \n\n Deathcorea, djentiä ja doom metalia taidolla yhdistelevä ja myös polyrytmiikalla seostaan sopivasti maustava Humanity's Last Breath on kuvannut omaa musiikkiaan sanalla \"thall\".\n\n Yhtyeen nykykokoonpanossa on mukana yhtyeen primus motorin ja perustajajäsen Buster Odeholmin lisäksi myös suomalaisverta Atlas-yhtyeen Tuomas Kurikan liityttyä yhtyeen riveihin kitaristiksi vuonna 2023. \n\n Yhtye julkaisi viimeisimmän Ashen-studioalbuminsa samana vuonna ja nähtiin myös Suomessa kahdella klubikeikalla. Viimeksi Humanity's Last Breath on vieraillut Suomessa Lorna Shoren lämmittelijänä Helsingin jäähallissa.\n\n Humanity's Last Breath on tiputellut kuluneen vuoden mittaan uusia singlejulkaisuja, joka antaa tulevan Euroopan headliner-kiertueen julkaisun ohella lupausta uudesta studioalbumista, vaikka virallisesti Humanity's Last Breath ei olekaan vielä asiasta puhunut. \n\n Viimeisin single Godhood julkaistiin tämän vuoden tammikuussa.\n\n Tavastia-klubi\n\n 22.10.2026\n\n Liput 41,50-44,50€ Tiketistä ja ovelta, K-18",
-    "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-22/humanitys-last-breath/116411/",
-    "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
-    "price": "41,50-44,50€",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792416513491",
-        "artist": "Humanity's Last Breath",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416578153",
-        "artist": "Vildhjarta",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416587116",
-        "artist": "Enterprise Earth",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416594020",
-        "artist": "Karmanjakah",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
     "id": "le-helsinkiagpwjmsuni",
     "title": "Gloryhammer",
     "venue": {
@@ -2260,42 +2228,6 @@
       {
         "id": "band-1792498623361",
         "artist": "Dark Divine",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "le-helsinkiagqokjsxgy",
-    "title": "Battle of Metal - Mexico vs Finland",
-    "venue": {
-      "name": "Lepakkomies",
-      "address": "Helsinginkatu 1, Helsinki"
-    },
-    "date": "2026-10-22T17:00:00Z",
-    "endTime": "2026-10-22T19:30:00Z",
-    "description": "Meksikosta metallin maahan. Battle of Metal saapuu Helsinkiin, kun People As Machines tuo 2026 European Tour -kiertueensa Suomeen ja jakaa lavan suomalaisen metalliskenen yhtyeiden kanssa.\n\n Meksikoa edustava People As Machines palaa Suomeen neljän vuoden jälkeen mukanaan voimakas live-show, raskaat riffit, intensiivinen energia ja moderni metallisoundi.\n\n Chainline soittaa melodista metallia, jossa yhdistyvät skandinaavinen melodinen death metal, klassinen heavy metal ja progressiiviset vaikutteet. Yhtyeen live-esiintymiset tunnetaan intensiivisyydestä ja tiukasta soitosta.\n\n Helsinkiläinen Averlanche tuo lavalle melodista metallia, jossa yhdistyvät vahvat melodiat, tunnelmallisuus ja ilmeikäs laulu. Yhtyeen soundissa kuuluu vaikutteita suomalaisen melodisen heavy metalin 1990-luvun ja 2000-luvun alun perinteestä.\n\n Louhi & the Tropical Sauna tuo iltaan monikulttuurisen säväyksen yhdistäen suomalaisia ja brasilialaisia juuria. Yhtye tuo oman energiansa iltaan, jossa kohtaavat eri puolilta maailmaa tulevat metallivaikutteet ja musiikilliset taustat.\n\n Yksi ilta. Meksiko ja Suomi. Neljä bändiä. Eri juuret. Yksi lava.\n\nPeople As Machines\n\nChainline\n\nAverlanche\n\nLouhi & the Tropical Sauna\n\nLepakkomies\n\n 22.10.2026\n\n 20.00-22.30\n\n Liput 8 € ennakkoon Tiketti-palvelusta, ovelta 12 €",
-    "ticketUrl": "https://www.tiketti.fi/battle-of-metal-mexico-vs-finland-lepakkomies-helsinki-lippuja/121126",
-    "image": "https://api.hel.fi/linkedevents/media/images/Helsinki_-_arte_-_Final.jpeg",
-    "price": "€8 Presale €12 Door",
-    "lineup": [
-      {
-        "id": "band-1792395510578",
-        "artist": "People As Machines",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792395519055",
-        "artist": "Chainline",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792395528437",
-        "artist": "Averlanche",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792395536036",
-        "artist": "Louhi & the Tropical Sauna",
         "stageTime": ""
       }
     ]
