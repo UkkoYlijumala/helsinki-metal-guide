@@ -2591,5 +2591,36 @@
     "ticketUrl": "https://www.lippu.fi/event/kanonenfieber-kriegstage-2027-tour-helsingin-kulttuuritalo-21965323/",
     "image": "",
     "ageLimit": ""
+  },
+  {
+    "id": "manual-1792744682527",
+    "title": "Erottaja",
+    "date": "2026-10-24T18:00:00.000Z",
+    "venue": {
+      "name": "Ravintola Käpygrilli",
+      "address": "Osmontie 5, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792744811472",
+        "artist": "Erottaja",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792744815297",
+        "artist": "My Bloodline",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792744827183",
+        "artist": "Atomitie",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "10 €",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "K-18"
   }
 ]
