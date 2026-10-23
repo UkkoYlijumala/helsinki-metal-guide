@@ -149,6 +149,37 @@
       ]
     },
     {
+      "id": "manual-1792744682527",
+      "title": "Erottaja",
+      "date": "2026-10-24T18:00:00.000Z",
+      "venue": {
+        "name": "Ravintola Käpygrilli",
+        "address": "Osmontie 5, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792744811472",
+          "artist": "Erottaja",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792744815297",
+          "artist": "My Bloodline",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792744827183",
+          "artist": "Atomitie",
+          "stageTime": ""
+        }
+      ],
+      "description": "",
+      "price": "10 €",
+      "ticketUrl": "",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
       "id": "tm-Z698xZ8KZ16vu0QdPI",
       "title": "Amon Amarth",
       "venue": {
@@ -227,6 +258,11 @@
         {
           "id": "band-1792416834316",
           "artist": "Dimmu Borgir",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792745467606",
+          "artist": "Dark Funeral",
           "stageTime": ""
         }
       ]
