@@ -2683,5 +2683,62 @@
     "ticketUrl": "",
     "image": "",
     "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792830304586",
+    "title": "Wyatt E. + Five The Hierophants + Radien",
+    "date": "2026-11-27T18:30:00.000Z",
+    "venue": {
+      "name": "Bar Loose",
+      "address": "Annankatu 21, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792830518605",
+        "artist": "Wyatt E.",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792830523514",
+        "artist": "Five The Hierophants",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792830548971",
+        "artist": "Radien",
+        "stageTime": ""
+      }
+    ],
+    "description": "Luvassa on rituaalista doom-metallia, dronea, jazzvaikutteita ja raskaita, hypnoottisia äänimaisemia.",
+    "price": "14 €",
+    "ticketUrl": "https://www.tiketti.fi/wyatt-e-be-five-the-hierophant-uk-w-radien-bar-loose-lippuja/121030",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792830838897",
+    "title": "Lavina",
+    "date": "2026-10-31T17:00:00.000Z",
+    "venue": {
+      "name": "Kuudes linja",
+      "address": "Hämeentie 13 B, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792830969194",
+        "artist": "Lavina",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792830972750",
+        "artist": "Numento",
+        "stageTime": ""
+      }
+    ],
+    "description": "Lavina is a six-piece alternative-modern metal powerhouse from Niš, Serbia, formed in the middle of 2020. Known for their explosive mix of crushing guitar riffs, atmospheric keyboards, cold electronic textures and raw, introspective lyrics, the band has rapidly risen as one of the most exciting acts on the Balkan metal scene. With a sound that bridges modern metal and progressive elements, Lavina delivers epic, cinematic live shows that leave audiences breathless. Their debut album Odyssey (2022) established Lavina as a serious force, showcasing complex compositions and emotional depth. The band has since released a string of strong standalone singles and continues to tour clubs and festivals across Europe.\n\nIn August and November of 2024, the group released two singles titled In Your Absence, Iron Will. In March of 2025, they released their latest single ,\"This, Too, Will Pass.\" , which marked a transition in sound and style. In February 2026, Lavina made history by winning Pesma za Evroviziju: ’26 (Serbian Eurovision Contest) with their powerful single \"Kraj mene\" (which has double meaning in Serbian - \"The End Of Me\"/\"By My Side\"), earning the honor of representing Serbia at the Eurovision Song Contest 2026 in Vienna.\n\nTheir sophomore album is expected in fall of 2026. and will undoubtedly be their most ambitious project yet.",
+    "price": "30.25 €",
+    "ticketUrl": "https://gotobeat.com/gig/lavina-live-in-helsinki-Jp/",
+    "image": "",
+    "ageLimit": "K-18"
   }
 ]
