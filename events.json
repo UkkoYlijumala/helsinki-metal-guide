@@ -342,7 +342,19 @@
       "price": "23 €",
       "ticketUrl": "https://www.tiketti.fi/dirt-halloween-special-vol-5-pretty-on-the-rocks-helsinki-lippuja/120702",
       "image": "",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792827583831",
+          "artist": "DIRT",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792827585446",
+          "artist": "Pretty",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791715420890",
@@ -355,6 +367,32 @@
       "description": "Halloween-illan pimeydessä Bar Loosen lavalle nousevat:\n\nTHE GHOULSTARS\nDAN GLENNZIG plays DANZIG\n\nTHE GHOULSTARS on horror punk -superyhtye, joka yhdistelee klassista metallia, punkia, 80-luvun estetiikkaa ja B-kauhuelokuvien henkeä. Yhtyeen riveissä vaikuttaa tuttuja nimiä mm. Kuolemanlaakson, Hooded Menacen ja Thermaten riveistä. Esikoisalbumi The Dark Overlords of the Universe on täynnä tarttuvia kertosäkeitä, raskaita riffejä, kauhua ja hyväntuulista hulluutta.\n\nDAN GLENNZIG tarjoilee puolestaan Danzigin kolmen ensimmäisen albumin parhaat palat. Yhtyeen jäsenistöä löytyy mm. Huntersin, Mangled Handsin ja COBRALIFEn riveistä.\n\nPukeudu Halloween-hengessä – jos uskallat! Tätä iltaa ei kannata jättää väliin.",
       "price": "15 €",
       "ticketUrl": "https://www.tiketti.fi/sf-perkele-presents-halloween-night-bar-loose-helsinki-lippuja/120884",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
+      "id": "manual-1792830838897",
+      "title": "Lavina",
+      "date": "2026-10-31T17:00:00.000Z",
+      "venue": {
+        "name": "Kuudes linja",
+        "address": "Hämeentie 13 B, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792830969194",
+          "artist": "Lavina",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792830972750",
+          "artist": "Numento",
+          "stageTime": ""
+        }
+      ],
+      "description": "Lavina is a six-piece alternative-modern metal powerhouse from Niš, Serbia, formed in the middle of 2020. Known for their explosive mix of crushing guitar riffs, atmospheric keyboards, cold electronic textures and raw, introspective lyrics, the band has rapidly risen as one of the most exciting acts on the Balkan metal scene. With a sound that bridges modern metal and progressive elements, Lavina delivers epic, cinematic live shows that leave audiences breathless. Their debut album Odyssey (2022) established Lavina as a serious force, showcasing complex compositions and emotional depth. The band has since released a string of strong standalone singles and continues to tour clubs and festivals across Europe.\n\nIn August and November of 2024, the group released two singles titled In Your Absence, Iron Will. In March of 2025, they released their latest single ,\"This, Too, Will Pass.\" , which marked a transition in sound and style. In February 2026, Lavina made history by winning Pesma za Evroviziju: ’26 (Serbian Eurovision Contest) with their powerful single \"Kraj mene\" (which has double meaning in Serbian - \"The End Of Me\"/\"By My Side\"), earning the honor of representing Serbia at the Eurovision Song Contest 2026 in Vienna.\n\nTheir sophomore album is expected in fall of 2026. and will undoubtedly be their most ambitious project yet.",
+      "price": "30.25 €",
+      "ticketUrl": "https://gotobeat.com/gig/lavina-live-in-helsinki-Jp/",
       "image": "",
       "ageLimit": "K-18"
     },
@@ -402,7 +440,7 @@
         "name": "Korjaamo",
         "address": ""
       },
-      "description": "Melodisen death metalin nopeimpiin, kauneimpiin ja raskaimpiin yhtyeisiin kuuluva Brymir lähtee peräti 13 keikkaa kattavalle kotimaan-kiertueelle syksyllä 2026.",
+      "description": "Melodisen death metalin nopeimpiin, kauneimpiin ja raskaimpiin yhtyeisiin kuuluva Brymir lähtee peräti 13 keikkaa kattavalle kotimaan-kiertueelle syksyllä 2026.\n\nMahtipontisista melodioista, hengästyttävän nopeista temmoista ja sopivan typerästä hölmöilystä tunnettu Brymir palaa ryminällä keikkalavoille tänä syksynä. Viime ajat tiukasti studiossa viettänyt yhtye on julkaissut neljä albumia, jotka saavat seuraa kenties jo aivan pian. Illassa nähdään myös äärimmäisen tiukka blackened death metal -yhtye Omnivortex.",
       "price": "26 €",
       "ticketUrl": "https://www.lippu.fi/artist/brymir/?cityname=Helsinki",
       "image": "",
@@ -411,6 +449,11 @@
         {
           "id": "band-1792478887039",
           "artist": "Brymir",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792827469544",
+          "artist": "Omnivortex",
           "stageTime": ""
         }
       ]
@@ -439,9 +482,21 @@
       },
       "description": "Japanilaisyhtye Boris saapuu loppuvuodesta Suomeen. Yhtye nähdään KULT Helsingissä 4. marraskuuta, ja illan lämmittelijana esiintyy yhdysvaltalainen Planning For Burial.",
       "price": "",
-      "ticketUrl": "",
+      "ticketUrl": "https://www.lippu.fi/artist/boris/",
       "image": "",
-      "ageLimit": ""
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792827802049",
+          "artist": "Boris",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792827806754",
+          "artist": "Planning For Burial",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791711995308",
@@ -591,6 +646,37 @@
       ]
     },
     {
+      "id": "manual-1792828170553",
+      "title": "Terromania",
+      "date": "2026-11-06T18:00:00.000Z",
+      "venue": {
+        "name": "Playhouse Bar",
+        "address": "Nokiantie 2-4, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792828243114",
+          "artist": "Terromania",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792828244485",
+          "artist": "Tuosa",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792828282731",
+          "artist": "Alive Alive",
+          "stageTime": ""
+        }
+      ],
+      "description": "Terromania, Tuosa & Alive Alive will perform at Playhouse Bar, Helsinki on Friday Nov 6th!\n\nDoors open: 20:00\nTickets: 8€ (from the door)\nK18\n\nTerromania is releasing their second full length album 'Lamentations For A Sunless World' on November 26th!",
+      "price": "8 €",
+      "ticketUrl": "",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
       "id": "manual-1791716652458",
       "title": "SF Perkele Presents: Spiritus Mortis + Counting Hours",
       "date": "2026-11-06T18:30:00.000Z",
@@ -672,6 +758,37 @@
           "stageTime": ""
         }
       ]
+    },
+    {
+      "id": "manual-1792828466087",
+      "title": "Unsainted",
+      "date": "2026-11-07T17:00:00.000Z",
+      "venue": {
+        "name": "Club Underground",
+        "address": "Muusantori 5, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792828539928",
+          "artist": "Unsainted",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792828545071",
+          "artist": "Malummeh",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792828612088",
+          "artist": "Dying reverie",
+          "stageTime": ""
+        }
+      ],
+      "description": "",
+      "price": "10 €",
+      "ticketUrl": "https://www.elektrikproducts.com/club-underground",
+      "image": "",
+      "ageLimit": "K-18"
     },
     {
       "id": "manual-1791720021837",
@@ -893,6 +1010,58 @@
       ]
     },
     {
+      "id": "manual-1792829240704",
+      "title": "Monsternaut + Mount Palatine + Astral Sleep",
+      "date": "2026-11-20T18:00:00.000Z",
+      "venue": {
+        "name": "Bar Lepakkomies",
+        "address": "Helsinginkatu 1, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792829248841",
+          "artist": "Monsternaut",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792829250300",
+          "artist": "Mount Palatine",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792829253881",
+          "artist": "Astral Sleep",
+          "stageTime": ""
+        }
+      ],
+      "description": "Lepiksellä jyrisee, kun kolme raskaan ja psykedeelisen undergroundin yhtyettä valtaa lavan! Luvassa on murskaavia riffejä, hypnoottista groovea ja synkkiä tunnelmia stonerin, sludgen ja doomin maailmoista.\n\nOvet: 20:00\nSoitto: 20:30.\nLiput: 12€\n\nMONSTERNAUT\nStoner metal -trio Monsternaut on vakiinnuttanut mainettaan kotimaan lisäksi Euroopassa ja Yhdysvalloissa. Yhtyeen tunnistaa raskaan grooven ja tarttuvien riffien yhdistelmästä. Tänä vuonna Heavy Psych Sounds Recordsin kautta julkaistu Approaching Doom -albumi on yhtyeen tähän asti raskain ja synkin kokonaisuus.\n\nMOUNT PALATINE\nMount Palatine on helsinkiläinen vuonna 2020 perustettu yhtye, jonka musiikki yhdistää psykedeeliset äänimaisemat, raskaat riffit ja hypnoottisen grooven. Soundi ammentaa stonerin ja sludgen rouheista elementeistä, mutta kulkee rohkeasti myös genrerajojen ulkopuolella.\nYhtye julkaisi kiittävää palautetta saaneen Wormholy World -albuminsa helmikuussa 2026. Levyn julkaisun ympärillä Mount Palatine on keikkaillut aktiivisesti ympäri Suomea ja jakanut lavan useiden kotimaisten stoner-, sludge- ja doom-skenen yhtyeiden kanssa.\n\nASTRAL SLEEP\nAstral Sleep on keikkaillut harvoin ja tarkoin valituissa tilaisuuksissa ja pyrkinyt aina tarjoamaan yleisölleen ainutlaatuisen kokemuksen. Bändin yhteissoittoa ja live-esiintymistä on hiottu vuosia. Yhtye on jakanut lavan niin genren suomalaisten huippujen (mm. Skepticism, Colosseum, Spiritus Mortis, Saattue, The Wandering Midget ja Garden of Worm) kuin lukuisten undergroundin laatubändien (mm. Seal of Beleth, The Fertility Cult, Bloody Heathen ja Ciminero) kanssa.",
+      "price": "12 €",
+      "ticketUrl": "https://www.lepis.fi/tapahtumat/monsternaut-mount-palatine-astral-sleep/",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
+      "id": "manual-1792829996392",
+      "title": "Ceased Sunfire",
+      "date": "2026-11-20T18:00:00.000Z",
+      "venue": {
+        "name": "Hard Rock House",
+        "address": "Roihuvuorentie 1, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792830009335",
+          "artist": "Ceased Sunfire",
+          "stageTime": ""
+        }
+      ],
+      "description": "",
+      "price": "",
+      "ticketUrl": "",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
       "id": "manual-1791721033702",
       "title": "Archspire + Crown Magnetar, The Zenith Passage, Analepsy",
       "date": "2026-11-21T15:00:00.000Z",
@@ -1044,6 +1213,37 @@
           "stageTime": ""
         }
       ]
+    },
+    {
+      "id": "manual-1792830304586",
+      "title": "Wyatt E. + Five The Hierophants + Radien",
+      "date": "2026-11-27T18:30:00.000Z",
+      "venue": {
+        "name": "Bar Loose",
+        "address": "Annankatu 21, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792830518605",
+          "artist": "Wyatt E.",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792830523514",
+          "artist": "Five The Hierophants",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792830548971",
+          "artist": "Radien",
+          "stageTime": ""
+        }
+      ],
+      "description": "Luvassa on rituaalista doom-metallia, dronea, jazzvaikutteita ja raskaita, hypnoottisia äänimaisemia.",
+      "price": "14 €",
+      "ticketUrl": "https://www.tiketti.fi/wyatt-e-be-five-the-hierophant-uk-w-radien-bar-loose-lippuja/121030",
+      "image": "",
+      "ageLimit": "K-18"
     },
     {
       "id": "manual-1791721747953",
@@ -1200,6 +1400,58 @@
           "stageTime": ""
         }
       ]
+    },
+    {
+      "id": "manual-1792831342432",
+      "title": "Dreadsight + Rylos + Nuutti Hannula Radianssi",
+      "date": "2026-12-04T18:00:00.000Z",
+      "venue": {
+        "name": "Club Underground",
+        "address": "Muusantori 5, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792831457833",
+          "artist": "Dreadsight",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792831463511",
+          "artist": "Rylos",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792831469004",
+          "artist": "Nuutti Hannula Radianssi",
+          "stageTime": ""
+        }
+      ],
+      "description": "",
+      "price": "10 €",
+      "ticketUrl": "https://www.elektrikproducts.com/club-underground",
+      "image": "",
+      "ageLimit": ""
+    },
+    {
+      "id": "manual-1792831692466",
+      "title": "Stråle",
+      "date": "2026-12-04T20:00:00.000Z",
+      "venue": {
+        "name": "Ravintola West Side Story",
+        "address": "Kivivuorentie 4, Vantaa"
+      },
+      "lineup": [
+        {
+          "id": "band-1792831804302",
+          "artist": "Stråle",
+          "stageTime": ""
+        }
+      ],
+      "description": "",
+      "price": "Free enrty",
+      "ticketUrl": "",
+      "image": "",
+      "ageLimit": "K-18"
     },
     {
       "id": "manual-1791713645372",
@@ -1432,6 +1684,37 @@
           "stageTime": ""
         }
       ]
+    },
+    {
+      "id": "manual-1792832392765",
+      "title": "FI/LV METAL MADNESS: Iron Wings (LV) + Barrel + Ratbreed",
+      "date": "2026-12-12T18:00:00.000Z",
+      "venue": {
+        "name": "Bar Lepakkomies",
+        "address": "Helsinginkatu 1, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792832398453",
+          "artist": "Iron Wings",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792832406041",
+          "artist": "Barrel",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792832413261",
+          "artist": "Ratbreed",
+          "stageTime": ""
+        }
+      ],
+      "description": "Thrashia. Speediä. Heavyä. Progea.\n\nJa tuoretta materiaalia:\nBARREL – Triptych\nIRON WINGS – Alpha & Omega\n\nIron Wings × Finland – first time ever.\n\nMetal knows no borders.",
+      "price": "10 €",
+      "ticketUrl": "https://www.lepis.fi/tapahtumat/fi-lv-metal-madness-iron-wings-lv-barrel-ratbreed/",
+      "image": "",
+      "ageLimit": "K-18"
     },
     {
       "id": "tm-Z698xZ8KZ16vZdqa7N",
