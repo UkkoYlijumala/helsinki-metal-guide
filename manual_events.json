@@ -7,7 +7,7 @@
       "name": "Korjaamo",
       "address": ""
     },
-    "description": "Melodisen death metalin nopeimpiin, kauneimpiin ja raskaimpiin yhtyeisiin kuuluva Brymir lähtee peräti 13 keikkaa kattavalle kotimaan-kiertueelle syksyllä 2026.",
+    "description": "Melodisen death metalin nopeimpiin, kauneimpiin ja raskaimpiin yhtyeisiin kuuluva Brymir lähtee peräti 13 keikkaa kattavalle kotimaan-kiertueelle syksyllä 2026.\n\nMahtipontisista melodioista, hengästyttävän nopeista temmoista ja sopivan typerästä hölmöilystä tunnettu Brymir palaa ryminällä keikkalavoille tänä syksynä. Viime ajat tiukasti studiossa viettänyt yhtye on julkaissut neljä albumia, jotka saavat seuraa kenties jo aivan pian. Illassa nähdään myös äärimmäisen tiukka blackened death metal -yhtye Omnivortex.",
     "price": "26 €",
     "ticketUrl": "https://www.lippu.fi/artist/brymir/?cityname=Helsinki",
     "image": "",
@@ -16,6 +16,11 @@
       {
         "id": "band-1792478887039",
         "artist": "Brymir",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792827469544",
+        "artist": "Omnivortex",
         "stageTime": ""
       }
     ]
@@ -30,9 +35,21 @@
     },
     "description": "Japanilaisyhtye Boris saapuu loppuvuodesta Suomeen. Yhtye nähdään KULT Helsingissä 4. marraskuuta, ja illan lämmittelijana esiintyy yhdysvaltalainen Planning For Burial.",
     "price": "",
-    "ticketUrl": "",
+    "ticketUrl": "https://www.lippu.fi/artist/boris/",
     "image": "",
-    "ageLimit": ""
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792827802049",
+        "artist": "Boris",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792827806754",
+        "artist": "Planning For Burial",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791711995308",
@@ -359,20 +376,6 @@
     "ageLimit": ""
   },
   {
-    "id": "manual-1791714690161",
-    "title": "Dreamtale",
-    "date": "2026-10-23T17:00:00.000Z",
-    "venue": {
-      "name": "Skenesali",
-      "address": "Jönsaksentie 6, Vantaa"
-    },
-    "description": "Tampereelta jo 27 vuotta sitten ponnistanut power metalin sanansaattaja Dreamtale julkaisi 31.7. uuden albuminsa Aetherbound, ja sitä juhlistaakseen yhtye kiertää syksyn mittaan Suomea ja Ruotsia. Perjantaina 23.10. Skenesali saa kokea erityispitkän esityksen, sillä koko ilta on varattu pelkästään Dreamtalelle. Yleisö saa kuulla niin uutta materiaalia kuin vanhojakin klassikoita.\n\n\nAetherbound on Dreamtalen yhdeksäs kokopitkä albumi. Tämä eeppinen kokonaisuus vie kuulijan matkalle taivaanrannan tuolle puolen, missä kohtalo, rohkeus ja mystiikka kietoutuvat yhteen huikeaksi äänimaisemaksi. Levy yhdistää yhtyeen tunnistettavan melodisuuden entistä raskaampiin riffeihin ja elokuvalliseen tunnelmaan kertoen tarinoita vapaudesta, sisäisestä voimasta ja rajojen rikkomisesta. Tämä ei ole vain musiikkialbumi vaan matka, jolla jokainen sävel kantaa kuulijan yhä syvemmälle eetterin syövereihin. Valmistaudu kohoamaan sfääreihin. Olet nyt Aetherbound.",
-    "price": "15 €",
-    "ticketUrl": "https://www.tiketti.fi/dreamtale-skenesali-vantaa-lippuja/120746",
-    "image": "",
-    "ageLimit": "K-18"
-  },
-  {
     "id": "manual-1791714756590",
     "title": "For My Pain…, Scars Of Solitude",
     "date": "2026-10-24T17:00:00.000Z",
@@ -543,7 +546,19 @@
     "price": "23 €",
     "ticketUrl": "https://www.tiketti.fi/dirt-halloween-special-vol-5-pretty-on-the-rocks-helsinki-lippuja/120702",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1792827583831",
+        "artist": "DIRT",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792827585446",
+        "artist": "Pretty",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791715420890",
@@ -2551,6 +2566,120 @@
     ],
     "description": "",
     "price": "10 €",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792828170553",
+    "title": "Terromania",
+    "date": "2026-11-06T18:00:00.000Z",
+    "venue": {
+      "name": "Playhouse Bar",
+      "address": "Nokiantie 2-4, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792828243114",
+        "artist": "Terromania",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792828244485",
+        "artist": "Tuosa",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792828282731",
+        "artist": "Alive Alive",
+        "stageTime": ""
+      }
+    ],
+    "description": "Terromania, Tuosa & Alive Alive will perform at Playhouse Bar, Helsinki on Friday Nov 6th!\n\nDoors open: 20:00\nTickets: 8€ (from the door)\nK18\n\nTerromania is releasing their second full length album 'Lamentations For A Sunless World' on November 26th!",
+    "price": "8 €",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792828466087",
+    "title": "Unsainted",
+    "date": "2026-11-07T17:00:00.000Z",
+    "venue": {
+      "name": "Club Underground",
+      "address": "Muusantori 5, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792828539928",
+        "artist": "Unsainted",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792828545071",
+        "artist": "Malummeh",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792828612088",
+        "artist": "Dying reverie",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "10 €",
+    "ticketUrl": "https://www.elektrikproducts.com/club-underground",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792829240704",
+    "title": "Monsternaut + Mount Palatine + Astral Sleep",
+    "date": "2026-11-20T18:00:00.000Z",
+    "venue": {
+      "name": "Bar Lepakkomies",
+      "address": "Helsinginkatu 1, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792829248841",
+        "artist": "Monsternaut",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792829250300",
+        "artist": "Mount Palatine",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792829253881",
+        "artist": "Astral Sleep",
+        "stageTime": ""
+      }
+    ],
+    "description": "Lepiksellä jyrisee, kun kolme raskaan ja psykedeelisen undergroundin yhtyettä valtaa lavan! Luvassa on murskaavia riffejä, hypnoottista groovea ja synkkiä tunnelmia stonerin, sludgen ja doomin maailmoista.\n\nOvet: 20:00\nSoitto: 20:30.\nLiput: 12€\n\nMONSTERNAUT\nStoner metal -trio Monsternaut on vakiinnuttanut mainettaan kotimaan lisäksi Euroopassa ja Yhdysvalloissa. Yhtyeen tunnistaa raskaan grooven ja tarttuvien riffien yhdistelmästä. Tänä vuonna Heavy Psych Sounds Recordsin kautta julkaistu Approaching Doom -albumi on yhtyeen tähän asti raskain ja synkin kokonaisuus.\n\nMOUNT PALATINE\nMount Palatine on helsinkiläinen vuonna 2020 perustettu yhtye, jonka musiikki yhdistää psykedeeliset äänimaisemat, raskaat riffit ja hypnoottisen grooven. Soundi ammentaa stonerin ja sludgen rouheista elementeistä, mutta kulkee rohkeasti myös genrerajojen ulkopuolella.\nYhtye julkaisi kiittävää palautetta saaneen Wormholy World -albuminsa helmikuussa 2026. Levyn julkaisun ympärillä Mount Palatine on keikkaillut aktiivisesti ympäri Suomea ja jakanut lavan useiden kotimaisten stoner-, sludge- ja doom-skenen yhtyeiden kanssa.\n\nASTRAL SLEEP\nAstral Sleep on keikkaillut harvoin ja tarkoin valituissa tilaisuuksissa ja pyrkinyt aina tarjoamaan yleisölleen ainutlaatuisen kokemuksen. Bändin yhteissoittoa ja live-esiintymistä on hiottu vuosia. Yhtye on jakanut lavan niin genren suomalaisten huippujen (mm. Skepticism, Colosseum, Spiritus Mortis, Saattue, The Wandering Midget ja Garden of Worm) kuin lukuisten undergroundin laatubändien (mm. Seal of Beleth, The Fertility Cult, Bloody Heathen ja Ciminero) kanssa.",
+    "price": "12 €",
+    "ticketUrl": "https://www.lepis.fi/tapahtumat/monsternaut-mount-palatine-astral-sleep/",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792829996392",
+    "title": "Ceased Sunfire",
+    "date": "2026-11-20T18:00:00.000Z",
+    "venue": {
+      "name": "Hard Rock House",
+      "address": "Roihuvuorentie 1, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792830009335",
+        "artist": "Ceased Sunfire",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "",
     "ticketUrl": "",
     "image": "",
     "ageLimit": "K-18"
