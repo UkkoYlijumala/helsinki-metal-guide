@@ -1,52 +1,6 @@
 {
   "events": [
     {
-      "id": "le-helsinkiagqj7zjozq",
-      "title": "KontuRock 2026",
-      "venue": {
-        "name": "Luuppi Nuorisotalo",
-        "address": "Ostostie 4, Helsinki"
-      },
-      "date": "2026-10-24T12:30:00Z",
-      "endTime": "2026-10-24T18:00:00Z",
-      "description": "KontuRock 2026 on kolmatta kertaa järjestettävä maksuton ja kaikille avoin musiikkitapahtuma nuorisotalo Luupissa Kontulan ostoskeskuksessa.\n\n Luupin lavalla kuullaan ja nähdään monipuolinen kattaus suomalaisia rockbändejä. Esiintymässä ovat Jiri Nikkinen The Beatles Tribute Band, The Mule, Daizy Pinehill Band ja East Electric.\n\n Aikataulu \n\n klo 15.30 Ovet auki\n\nklo 16.00 Daizy Pinehill Band\n\nklo 17.30 East Electric\n\nklo 18.45 The Mule\n\nklo 20.00 Jiri Nikkinen The Beatles Tribute Band\n\nklo 21.00 Tapahtuma päättyy\n\n Tilaisuus on maksuton ja päihteetön. \n\n Myynnissä on kahvia, teetä ja pientä purtavaa käteismaksulla. \n\n Tapahtuman järjestää KontuRock-tuotantotiimi Kontulan kulttuuriostarin tuella. \n\n KontuRockin jatkot pidetään Mr. Melodyssa, jossa on open stage -jamit klo 22-01 (Kontulankaari 1, Kontulan ostari).\n\n Bändit \n\n Jiri Nikkinen The Beatles Tribute Band on erikoistunut The Beatlesin ja muun sixties-musiikin esittämiseen. Tämä kansainvälistä tunnustusta saanut ryhmä vie kuulijansa aikamatkalle Beatlesin moninaisiin vaiheisiin. \n\n The Mule on suomalainen tribuuttiyhtye, joka soittaa legendaarisen Deep Purplen musiikkia suurella sydämellä. Solistina laulaa Sanna Jäänvirta. \n\n Daizy Pinehill Band on rouheaa indierockia soittava bändi, jonka tummaäänisenä laulajana toimii bändin perustaja Päivi Petäjämäki, taiteilijanimeltä Daizy Pinehill. \n\n East Electricin jäsenten taustat eri bändeistä ja musiikkityyleistä synnyttää omaleimaisen yhdistelmän 1970-luvun bluesrockia ja modernia vaihtoehtorockia.",
-      "ticketUrl": "",
-      "image": "https://api.hel.fi/linkedevents/media/images/tijs-van-leur-So6YckShOVA-unsplash.jpg",
-      "price": "Free Entry"
-    },
-    {
-      "id": "tm-Z698xZ8KZ1kG-0EGY",
-      "title": "Turmion Kätilöt - Colossal Disco",
-      "venue": {
-        "name": "Helsingin jäähalli",
-        "address": "Nordenskiöldinkatu 11-13, Helsinki"
-      },
-      "date": "2026-10-24T15:00:00Z",
-      "endTime": null,
-      "description": "Turmion Kätilöt 24.10.2026 Helsingin Jäähalli S / K18 Special Guest: Skynd (AUS) Support: Business City Turmion Kätilöiden Colossal Disco laajenee Helsingin jäähallissa soittavat myös australialainen Skynd sekä Business City Lahdesta. Lauantaina 24. lokakuuta Helsingin jäähallissa raikuva Turmion Kätilöt -yhtyeen COLOSSAL DISCO laajenee ohjelmaltaan. Ennen savolaista industrial metal -annosta lavalta saadaan kokea australialaisen Skyndin sähköistä industrialia ja lahtelaisen Business Cityn happoteknoa. TURMION KÄTILÖT VALTAA HELSINGIN JÄÄHALLIN -- COLOSSAL DISCO ON INDUSTRIAL METAL -YHTYEEN URAN SUURIN SPEKTAAKKELI Lokakuussa Helsingin jäähalli kokee muodonmuutoksen. Siitä tulee Turmion Kätilöiden oma Colosseum. Lipunmyynti käynnistyy perjantaina 20.2. klo 9.00. ENNAKKOMYYNTI: Radio Rock tarjoaa lippujen ennakko-ostooikeuden, mutta vain livenä Sanomatalossa keskiviikkona 18.helmikuuta klo 17-19, jolloin paikalla on myös koko Turmion Kätilöt. Liput alkaen 59,90 €. Permanto: 69,90 € (K18) Hyvissä Höyryissä, Golden Circle: 79,90 € (K18) Istumakatsomot: 59,90--79,90 € (S/K18) Konsertti on sallittu kaikenikäisille, lukuun ottamatta permantoa/golden circleä ja rajattuja anniskelukatsomoita (K18). Lipulla pääsee areenalle sisään vain kerran. AIKATAULU: 17:30 Ovet 18:40 Business City 19:35 Skynd 21:00 Turmion Kätilöt Huom! Aikataulut ovat arvioituja ja muutokset ovat mahdollisia. Huomioithan, että aikataulut ovat arvioita ja voivat muuttua vielä konserttipäivänä. Saavuthan paikalle ajoissa, sillä sisäänkäynti keikalle voi olla ruuhkainen. TURVALLISUUS & HELSINGIN JÄÄHALLI Sisääntuloväylillä tarkistetaan pääsyliput ja suoritetaan turvatarkastus. Voit tutustua tarkemmin Helsingin jäähallin turvallisuuteen ja palveluihin täällä: https://helsinginjaahalli.fi/vieraile-hallilla FANITUOTEMYYNTI Paikan päällä myydään fanituotteita. Varaathan hyvin aikaa myyntipisteillä asiointiin. YLEISET TIEDUSTELUT Lisätiedot konsertista ja yhteyden konserttijärjestäjiin saat sähköpostitse: info.fi@allthingslive.com Lipunmyyntiin liittyvissä asioissa otathan yhteyttä viralliseen lipunmyyjään",
-      "ticketUrl": "https://www.ticketmaster.fi/event/turmion-katilot-colossal-disco-lippuja/321927330",
-      "image": "https://s1.ticketm.net/dam/e/461/23b2ba98-a62d-41f4-ac94-c61511303461_RECOMENDATION_16_9.jpg",
-      "price": "59,90 €",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792396041096",
-          "artist": "Turmion Kätilöt",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792396049727",
-          "artist": "Skynd",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792396056806",
-          "artist": "Business City",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
       "id": "manual-1791714808843",
       "title": "ARTKILLS, Melankolia, Lust For Lily",
       "date": "2026-10-24T16:00:00.000Z",
@@ -166,6 +120,32 @@
       "ageLimit": "K-18"
     },
     {
+      "id": "manual-1791715067436",
+      "title": "Temic, Joviac",
+      "date": "2026-10-26T17:00:00.000Z",
+      "venue": {
+        "name": "On The Rocks",
+        "address": "Mikonkatu 15, Helsinki"
+      },
+      "description": "TEMIC saapuu Suomeen syksyllä julkaistavan albuminsa myötä. Progemuusikoiden superkokoonpano nähdään Helsingin On The Rocksissa maanantaina 26. päivä lokakuuta, 2026. Liput keikalle myynnissä nyt!\n\n\nJo ennen debyyttialbumiaan TEMIC on tullut tutuksi nimeksi progressiivisen musiikin ystävien huulilla. Yhtyeen kokoonpano koostuu nimekkäistä muusikoista, jotka ovat tuttuja esimerkiksi Devin Townsendin, Shattered Fortressin, Hakenin ja SHININGIN riveistä.\n\n\n\nDebyyttialbuminsa \"Terror Management Theory\" kautta yhtye on täytti kaikki superkokoonpanon odotukset –albumi saavutti komeita listapaikkoja ja sai ylistystä niin faneilta kuin kriitikoiltakin. TEMIC on progediggaajien unelmien täyttymys –ja yhtyeen kiusoittelema uusi albumi \"Ceiba\" tarjoillaan livenautintona myös Suomessa syksyllä 2026.\n\n\n\nIllan avaa kotimainen Joviac, jonka musiikissa progressiivinen sovitustyö yhdistyy tarttuviin melodioihin.",
+      "price": "23 €",
+      "ticketUrl": "https://www.tiketti.fi/temic-joviac-on-the-rocks-helsinki-lippuja/120580",
+      "image": "",
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792416796955",
+          "artist": "Temic",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792416801621",
+          "artist": "Joviac",
+          "stageTime": ""
+        }
+      ]
+    },
+    {
       "id": "tm-Z698xZ8KZ16vu0QdPI",
       "title": "Amon Amarth",
       "venue": {
@@ -192,32 +172,6 @@
         {
           "id": "band-1792401415648",
           "artist": "Soilwork",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
-      "id": "manual-1791715067436",
-      "title": "Temic, Joviac",
-      "date": "2026-10-26T17:00:00.000Z",
-      "venue": {
-        "name": "On The Rocks",
-        "address": "Mikonkatu 15, Helsinki"
-      },
-      "description": "TEMIC saapuu Suomeen syksyllä julkaistavan albuminsa myötä. Progemuusikoiden superkokoonpano nähdään Helsingin On The Rocksissa maanantaina 26. päivä lokakuuta, 2026. Liput keikalle myynnissä nyt!\n\n\nJo ennen debyyttialbumiaan TEMIC on tullut tutuksi nimeksi progressiivisen musiikin ystävien huulilla. Yhtyeen kokoonpano koostuu nimekkäistä muusikoista, jotka ovat tuttuja esimerkiksi Devin Townsendin, Shattered Fortressin, Hakenin ja SHININGIN riveistä.\n\n\n\nDebyyttialbuminsa \"Terror Management Theory\" kautta yhtye on täytti kaikki superkokoonpanon odotukset –albumi saavutti komeita listapaikkoja ja sai ylistystä niin faneilta kuin kriitikoiltakin. TEMIC on progediggaajien unelmien täyttymys –ja yhtyeen kiusoittelema uusi albumi \"Ceiba\" tarjoillaan livenautintona myös Suomessa syksyllä 2026.\n\n\n\nIllan avaa kotimainen Joviac, jonka musiikissa progressiivinen sovitustyö yhdistyy tarttuviin melodioihin.",
-      "price": "23 €",
-      "ticketUrl": "https://www.tiketti.fi/temic-joviac-on-the-rocks-helsinki-lippuja/120580",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792416796955",
-          "artist": "Temic",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792416801621",
-          "artist": "Joviac",
           "stageTime": ""
         }
       ]
@@ -1098,19 +1052,6 @@
       ]
     },
     {
-      "id": "tm-Z698xZ8KZ16vfZaFP9",
-      "title": "Suurten laulujen ilta",
-      "venue": {
-        "name": "FINLANDIA-TALO",
-        "address": "Mannerheimintie 13 E, Helsinki"
-      },
-      "date": "2026-11-21T17:00:00Z",
-      "endTime": null,
-      "description": "Suurten laulujen ilta Finlandia-talossa marraskuussa! Tarja Turunen ja Jarkko Ahola loistavat suuren gaalakonsertin tähtinä Finlandia-talossa marraskuussa. Tässä Suurten laulujen ilta -nimisessä kansainvälisessä konsertissa nousevat lauantaina 21. marraskuuta lavalle myös Riku Niemi Orchestra, Viron vuoden 2021 euroviisuedustaja Uku Suviste, ukrainalaiset Zhanna Bodnaruk ja Anatoli Karpenko sekä Elena Kettunen. Konsertissa kohtaavat musiikin voima, täyteläinen tunne ja upea loisto. Lava syttyy eloon, kun estradille nousee suuri joukko upeita artisteja. Luvassa on monia ikivihreitä sävelmiä, koskettavia tulkintoja ja mielenkiintoisia yhteisnumeroita, joissa eri maiden taiteilijat esiintyvät yhdessä. Varaa paikkasi unohtumattomaan iltaan, jossa suuret melodiat, sykähdyttävät tulkinnat ja Riku Niemi Orchestran sointi yhdistyvät ainutlaatuiseksi elämykseksi. Konsertin järjestäjä Musiikkisilta ry, joka on järjestänyt vastaavanlaisia kansainvälisiä viihdekonsertteja jo yli kahdenkymmenen vuoden ajan. Kesto 2 tuntia Tapahtumassa on väliaika Suurten laulujen ilta: www.facebook.com/musiikkisilta",
-      "ticketUrl": "https://www.ticketmaster.fi/event/suurten-laulujen-ilta-lippuja/1500248957",
-      "image": "https://s1.ticketm.net/dam/a/139/65cc49fc-2c28-490a-b656-5603748f4139_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
       "id": "manual-1791720639635",
       "title": "Paara (levyjulkkarit), Svarta Havet",
       "date": "2026-11-21T18:00:00.000Z",
@@ -1715,19 +1656,6 @@
       "ticketUrl": "https://www.lepis.fi/tapahtumat/fi-lv-metal-madness-iron-wings-lv-barrel-ratbreed/",
       "image": "",
       "ageLimit": "K-18"
-    },
-    {
-      "id": "tm-Z698xZ8KZ16vZdqa7N",
-      "title": "Raskasta Joulua",
-      "venue": {
-        "name": "Veikkaus Arena",
-        "address": "Areenankuja 1, Helsinki"
-      },
-      "date": "2026-12-18T18:00:00Z",
-      "endTime": null,
-      "description": "EEPPINEN RASKASTA JOULUA -SUURKIERTUE TULEE TAAS Suomen suurin ja eeppisin joulukiertue Raskasta Joulua saapuu taas monipuolisempana kuin koskaan. Raskasta Joulua on koko kansan ilmiö, jonka selkärankana toimivat sykähdyttävät sovitukset, sielukkaat tulkinnat ja näyttävä lavashow. Joulumusiikin ystäviä hemmotellaan koko Suomen kattavalla kiertueella nyt jo 23. kertaa. Raskasta Joulua kajahtaa marras---joulukuussa niin kirkoissa, konserttisaleissa kuin areenoillakin. Tänä vuonna kiertue ulottuu ensimmäistä kertaa myös Suomen rajojen ulkopuolelle, kun ensimmäinen Raskasta Joulua -konsertti toteutuu Tallinnassa. Liput Raskasta Joulua -kiertueelle tulevat myyntiin maanantaina 4. toukokuuta klo 9. Raskasta Joulua -konsertit ovat elämyksiä, joissa ikoniset raskaamman musiikin tulkitsijat herättävät rakastetuimmat joululaulut henkiin ainutlaatuisella tavalla. Tavoitteena on tuoda jouluiloa yhä suuremmalle yleisölle ja luoda uusia perinteitä raskaamman musiikin ystäville. Konserteissa ovat mukana Marko Hietala, JP Leppäluoto, Tony Kakko, Antti Railio, Timo Kotipelto, Elize Ryd, Tommy Karevik, Laura Ruusumaa, Antony Parviainen, Tuple Salmela, Pekka Heino, Ville Tuomi ja Ilja Jalkanen. Rautaista bändiä liidaa Raskasta Joulua -idean isä, kitaristi Erkka Korhonen. Yhtyeessä soittavat myös aiemmilta vuosilta tutut Tuomas Wäinölä (kitara), Erkki Silvennoinen (basso), Timo Pudas (kosketinsoittimet) ja Mirka Rantanen (rummut). Lisäksi yksi vieraileva solisti tullaan julkistamaan myöhemmin keväällä. --- En olisi ollut mukana parikytä vuotta ellei kiertueella olisi niin hyviä tyyppejä ja jos en pitäisi sovituksista. On ollut todella hienoa seurata miten koko proggis on kasvanut pienestä isoksi. Kiertue on joka vuosi kokoontumisajotapahtuma kaikille meille mukanaolijoille. Raskaamman rockin laulaminen on solisteille yleisesti raskasta hommaa, mutta kun ei ole yksin vetovastuussa niin paine on pienempi. Yhdessä tehdään, ja hyvässä yhteishengessä, alusta asti mukana ollut ja kaikissa konserteissa laulava Marko Hietala kommentoi. Kiertueen paikkakunnat ja kaikkien konserttien tarkat solistilistat löytyvät osoitteesta: warnermusiclive.fi/raskastajoulua Raskasta Joulua, Veikkaus Arena 18.12.2026, Show time 20, ovet 18.30",
-      "ticketUrl": "https://www.ticketmaster.fi/event/raskasta-joulua-lippuja/1003749123",
-      "image": "https://s1.ticketm.net/dam/a/5d7/e0eeb1cf-92ec-415c-a933-e437883bf5d7_SOURCE"
     },
     {
       "id": "manual-1792271458841",
