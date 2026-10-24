@@ -1,20 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791714690161",
-      "title": "Dreamtale",
-      "date": "2026-10-23T17:00:00.000Z",
-      "venue": {
-        "name": "Skenesali",
-        "address": "Jönsaksentie 6, Vantaa"
-      },
-      "description": "Tampereelta jo 27 vuotta sitten ponnistanut power metalin sanansaattaja Dreamtale julkaisi 31.7. uuden albuminsa Aetherbound, ja sitä juhlistaakseen yhtye kiertää syksyn mittaan Suomea ja Ruotsia. Perjantaina 23.10. Skenesali saa kokea erityispitkän esityksen, sillä koko ilta on varattu pelkästään Dreamtalelle. Yleisö saa kuulla niin uutta materiaalia kuin vanhojakin klassikoita.\n\n\nAetherbound on Dreamtalen yhdeksäs kokopitkä albumi. Tämä eeppinen kokonaisuus vie kuulijan matkalle taivaanrannan tuolle puolen, missä kohtalo, rohkeus ja mystiikka kietoutuvat yhteen huikeaksi äänimaisemaksi. Levy yhdistää yhtyeen tunnistettavan melodisuuden entistä raskaampiin riffeihin ja elokuvalliseen tunnelmaan kertoen tarinoita vapaudesta, sisäisestä voimasta ja rajojen rikkomisesta. Tämä ei ole vain musiikkialbumi vaan matka, jolla jokainen sävel kantaa kuulijan yhä syvemmälle eetterin syövereihin. Valmistaudu kohoamaan sfääreihin. Olet nyt Aetherbound.",
-      "price": "15 €",
-      "ticketUrl": "https://www.tiketti.fi/dreamtale-skenesali-vantaa-lippuja/120746",
-      "image": "",
-      "ageLimit": "K-18"
-    },
-    {
       "id": "le-helsinkiagqj7zjozq",
       "title": "KontuRock 2026",
       "venue": {
