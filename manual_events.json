@@ -2771,5 +2771,57 @@
     "ticketUrl": "https://www.elektrikproducts.com/club-underground",
     "image": "",
     "ageLimit": ""
+  },
+  {
+    "id": "manual-1792831692466",
+    "title": "Stråle",
+    "date": "2026-12-04T20:00:00.000Z",
+    "venue": {
+      "name": "Ravintola West Side Story",
+      "address": "Kivivuorentie 4, Vantaa"
+    },
+    "lineup": [
+      {
+        "id": "band-1792831804302",
+        "artist": "Stråle",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "Free enrty",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792832392765",
+    "title": "FI/LV METAL MADNESS: Iron Wings (LV) + Barrel + Ratbreed",
+    "date": "2026-12-12T18:00:00.000Z",
+    "venue": {
+      "name": "Bar Lepakkomies",
+      "address": "Helsinginkatu 1, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792832398453",
+        "artist": "Iron Wings",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792832406041",
+        "artist": "Barrel",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792832413261",
+        "artist": "Ratbreed",
+        "stageTime": ""
+      }
+    ],
+    "description": "Thrashia. Speediä. Heavyä. Progea.\n\nJa tuoretta materiaalia:\nBARREL – Triptych\nIRON WINGS – Alpha & Omega\n\nIron Wings × Finland – first time ever.\n\nMetal knows no borders.",
+    "price": "10 €",
+    "ticketUrl": "https://www.lepis.fi/tapahtumat/fi-lv-metal-madness-iron-wings-lv-barrel-ratbreed/",
+    "image": "",
+    "ageLimit": "K-18"
   }
 ]
