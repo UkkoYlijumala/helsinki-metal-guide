@@ -2740,5 +2740,36 @@
     "ticketUrl": "https://gotobeat.com/gig/lavina-live-in-helsinki-Jp/",
     "image": "",
     "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792831342432",
+    "title": "Dreadsight + Rylos + Nuutti Hannula Radianssi",
+    "date": "2026-12-04T18:00:00.000Z",
+    "venue": {
+      "name": "Club Underground",
+      "address": "Muusantori 5, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1792831457833",
+        "artist": "Dreadsight",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792831463511",
+        "artist": "Rylos",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792831469004",
+        "artist": "Nuutti Hannula Radianssi",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "10 €",
+    "ticketUrl": "https://www.elektrikproducts.com/club-underground",
+    "image": "",
+    "ageLimit": ""
   }
 ]
