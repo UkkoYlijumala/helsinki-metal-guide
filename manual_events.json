@@ -197,6 +197,11 @@
         "id": "band-1792499236598",
         "artist": "Imminence",
         "stageTime": ""
+      },
+      {
+        "id": "band-1792923060009",
+        "artist": "August Burns Red",
+        "stageTime": ""
       }
     ]
   },
@@ -1618,6 +1623,16 @@
         "id": "band-1792499538021",
         "artist": "Melrose Avenue",
         "stageTime": ""
+      },
+      {
+        "id": "band-1792923232649",
+        "artist": "ARANKAI",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792923292935",
+        "artist": "Call Me Amour",
+        "stageTime": ""
       }
     ]
   },
@@ -2855,5 +2870,27 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-10-25T10:02:32.404Z"
+  },
+  {
+    "id": "manual-1792923614930",
+    "title": "TX2",
+    "date": "2027-02-13T17:00:00.000Z",
+    "venue": {
+      "name": "Korjaamo",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1792923746507",
+        "artist": "TX2",
+        "stageTime": ""
+      }
+    ],
+    "description": "Fort Collinsin kaupungista, Coloradon osavaltiosta tuleva laulaja / biisintekijä Timothy Evan Thomasin perustama ja viraali-hiteillään kansansuosioon noussut TX2 saapuu ensimmäistä kertaa Suomeen. Sittemmin täysmittaiseksi bändiksi kasvanut emoa, vaihtoehtorockia, pop punkkia, metalcorea ja ajoittain jopa hip-hopia tyylikkäästi ja tarttuvasti yhdistelevä TX2 nähdään Tampereella Olympia-korttelissa 12. helmikuuta ja seuraavana päivänä 13. helmikuuta jenkit hurmaavat Helsingissä Korjaamolla.\n\nMusiikillisten ansioidensa lisäksi TX2 tunnetaan mielenterveyttä tukevasta ja turvallista tilaa faneilleen tarjoavasta X Movement -verkkoyhteisöstään.",
+    "price": "43,60 €",
+    "ticketUrl": "https://www.lippu.fi/event/tx2-us-kulttuuritehdas-korjaamo-21759025/",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-10-25T10:20:14.930Z"
   }
 ]
