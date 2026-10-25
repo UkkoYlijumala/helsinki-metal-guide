@@ -2958,5 +2958,37 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-10-25T11:16:08.015Z"
+  },
+  {
+    "id": "manual-1792928793131",
+    "title": "King Satan (levyjulkkarit), The Ghoulstars, Danger Håt",
+    "date": "2027-03-13T18:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1792928819844",
+        "artist": "King Satan",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792928828560",
+        "artist": "The Ghoulstars",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792928832260",
+        "artist": "Danger Håt",
+        "stageTime": ""
+      }
+    ],
+    "description": "King Satan on vuonna 2015 perustettu kotimainen industrial metal -yhtye, joka yhdistää elektronisen tanssimusiikin, groovaavan äärimetallin sekä filosofiset ja esoteeriset teemat ”death metal discoksi”. Mustasta huumorista, absurdismista ja mytologioiden pimeästä puolesta ammentavan yhtyeen tunnusmerkki on King Aleister Satanin ja Hekate ”Kate” Bossin voimakas laulu- ja lavadynamiikka.\n\nTampereelta lähtöisin oleva yhtye on noussut kansainvälisille alternative-, industrial- ja äärimetallikentille keikkailemalla 19 maassa, lämmitellen muun muassa Turmion Kätilöitä, Gothministeria ja Deathstarsia sekä esiintyen Tuskassa, Nummirockissa ja Masters of Rockissa. Viides albumi ilmestyy marraskuussa 2026. Sitä edelsi Erja Lyytisen kanssa tehty ”Black Magick Rock ’N’ Roll”, jonka musiikkivideo voitti Best Shock Award -palkinnon Europe Music Video Awardsissa 2026.\n\nLevyjulkkari-iltaa vahvistaa The Ghoulstars, joka ravistelee hautoja näyttävällä metallin ja horror punkin sekoituksellaan. B-luokan kauhu- ja scifi-estetiikasta ammentava yhtye mainitsee vaikutteikseen The Misfitsin, White Zombien, Entombedin ja Volbeatin. Illan avaa Tampereen Nekalasta ponnistava, härö rock n’ roll -yhtye Danger Håt.",
+    "price": "18 €",
+    "ticketUrl": "https://www.tiketti.fi/king-satan-the-ghoulstars-danger-hat-on-the-rocks-helsinki-lippuja/121731",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-10-25T11:46:33.131Z"
   }
 ]
