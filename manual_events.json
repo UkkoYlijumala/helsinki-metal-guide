@@ -2936,5 +2936,27 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-10-25T10:57:56.726Z"
+  },
+  {
+    "id": "manual-1792926968015",
+    "title": "Britallica (Britney Spears Metal Tribute)",
+    "date": "2027-10-15T16:00:00.000Z",
+    "venue": {
+      "name": "Lepakkomies",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1792926983617",
+        "artist": "Britallica",
+        "stageTime": ""
+      }
+    ],
+    "description": "Valmistaudu, Helsinki...\n\nBritallica saapuu rokkaamaan kanssanne vuonna 2027!\n\nBRITALLICA muuttaa Britneyn suurimmat hitit täysiverisiksi headbangaushymneiksi\nLuvassa on jyliseviä riffejä ja raivokkaita vokaaleja\nTribuuttishow vailla vertaa – valtavasti energiaa, korviahuumaava äänenvoimakkuus ja 100-prosenttisen tinkimätön asenne\n\n”Toxicista” ”...Baby One More Timeen” – jokainen kappale saa kunnon metallikäsittelyn tässä villissä juhlassa, jossa kaksi musiikillista maailmaa törmäävät toisiinsa.",
+    "price": "20 €",
+    "ticketUrl": "https://www.tickettailor.com/events/britallica/2262128",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-10-25T11:16:08.015Z"
   }
 ]
