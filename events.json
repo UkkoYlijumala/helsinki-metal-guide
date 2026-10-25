@@ -308,6 +308,22 @@
       "ageLimit": "K-18"
     },
     {
+      "id": "manual-1792938830536",
+      "title": "Testi notifikaatioille",
+      "date": "2026-11-02T14:33:00.000Z",
+      "venue": {
+        "name": "Testi",
+        "address": ""
+      },
+      "lineup": [],
+      "description": "Testi muistutukselle keikasta viikkoa ennen",
+      "price": "",
+      "ticketUrl": "",
+      "image": "",
+      "ageLimit": "",
+      "addedDate": "2026-10-25T14:33:50.537Z"
+    },
+    {
       "id": "manual-1791711933526",
       "title": "Boris (JPN) & Planning For Burial (US)",
       "date": "2026-11-04T17:00:00.000Z",
