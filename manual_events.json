@@ -2823,5 +2823,37 @@
     "ticketUrl": "https://www.lepis.fi/tapahtumat/fi-lv-metal-madness-iron-wings-lv-barrel-ratbreed/",
     "image": "",
     "ageLimit": "K-18"
+  },
+  {
+    "id": "manual-1792922552404",
+    "title": "Never Obey Again (ITA), Balance Breach, Silence The Echo",
+    "date": "2027-01-16T17:00:00.000Z",
+    "venue": {
+      "name": "Tiivistämö",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1792922608288",
+        "artist": "Never Obey Again",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792922612513",
+        "artist": "Balance Breach",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1792922617228",
+        "artist": "Silence The Echo",
+        "stageTime": ""
+      }
+    ],
+    "description": "Tammikuun pimeys kohtaa modernin metallin raskaimmat riffit, tarttuvimmat melodiat ja intensiivisen live-energian, kun Afterlight Modern Metal Evening valtaa Helsingin Tiivistämön lauantaina 16. tammikuuta 2027!\n\nIllan co-headlinereina nähdään italialainen Never Obey Again ja suomalainen Balance Breach.\n\nNever Obey Again on italialainen modern metal -yhtye, jonka soundissa yhdistyvät raskaat riffit, tarttuvat melodiat ja moderni, iskevä tuotanto. Miljoonia kuunteluita kerännyt yhtye saapuu Suomeen ensimmäistä kertaa – eikä syyttä. Suomesta on muodostunut yksi yhtyeen vahvimmista kuuntelualueista, mikä tekee ensivierailusta erityisen sekä bändille että suomalaisille faneille. Nyt on aika kokea Never Obey Again livenä! \n\nKotimaan lupaavimpiin metalliyhtyeisiin kuuluva Balance Breach tekee matkaansa Mikkelistä maailmanmaineeseen, eikä sitä tunnu pysäyttävän enää mikään. Isojen ja kansainvälisten metallinimien kanssa lavaa jakaneen yhtyeen musiikissa yhdistyvät haikeat melodiat, raivokas energia ja isot kertosäkeet niin vastustamattomalla tavalla, että se on huomattu kotimaan lisäksi myös Keski-Euroopassa.\n\nIllan täydentää Silence The Echo, jonka massiiviset riffit, elektroniset elementit, tunnelmalliset äänimaisemat ja vahvat melodiat luovat oman tunnistettavan yhdistelmänsä modernia metallia.\n\nIllan neljäs esiintyjä julkaistaan myöhemmin.",
+    "price": "27 €",
+    "ticketUrl": "https://www.tiketti.fi/never-obey-again-ita-balance-breach-silence-the-echo-lippuja/121621",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-10-25T10:02:32.404Z"
   }
 ]
