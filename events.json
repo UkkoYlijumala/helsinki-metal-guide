@@ -2405,6 +2405,28 @@
       ]
     },
     {
+      "id": "manual-1792925876726",
+      "title": "D’espairsRay",
+      "date": "2027-03-08T16:30:00.000Z",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": ""
+      },
+      "lineup": [
+        {
+          "id": "band-1792925942361",
+          "artist": "D’espairsRay",
+          "stageTime": ""
+        }
+      ],
+      "description": "Japanilaisen visual rockin uranuurtajiin kuuluva D'ESPAIRSRAY palaa Suomeen odotetulle keikalle Helsingin Tavastialle maanantaina 8. maaliskuuta 2027.\n\nD'ESPAIRSRAY on yksi japanilaisen visual rockin pioneeriyhtyeistä, joka tunnetaan maailmanlaajuisesti voimakkaista live-esiintymisistään, raskaasta soundistaan ja omaleimaisesta estetiikastaan. Vuonna 1999 perustettu yhtye on esiintynyt laajasti Japanissa, Euroopassa ja Pohjois-Amerikassa sekä merkittävillä festivaaleilla, kuten Wacken Open Airissa, Tuska Festivalilla, Ruisrockissa ja Taste of Chaos -kiertueella. Pitkän tauon jälkeen yhtye teki paluun vuonna 2025 julkaisemalla uuden \"RAPTURE\"-singlen sekä esiintymällä loppuunmyydyillä paluukonserteilla.\n\nIntensiivisestä lavailmaisustaan ja genrerajoja rikkovasta soundistaan tunnettu D'ESPAIRSRAY on rakentanut yli kahden vuosikymmenen aikana uskollisen kansainvälisen fanikunnan. Yhtyeen paluu Helsinkiin on merkittävä tapahtuma niin pitkäaikaisille faneille kuin myös uusille kuulijoille, jotka pääsevät kokemaan yhtyeen ylistetyn live-esiintymisen.",
+      "price": "Sold out",
+      "ticketUrl": "https://www.tiketti.fi/d-espairsray-jpn-tavastia-klubi-helsinki-lippuja/119573",
+      "image": "",
+      "ageLimit": "K-18",
+      "addedDate": "2026-10-25T10:57:56.726Z"
+    },
+    {
       "id": "le-helsinkiagqvqgayey",
       "title": "Toxic Fest 2027",
       "venue": {
@@ -2527,6 +2549,28 @@
       "ticketUrl": "https://www.lippu.fi/event/dragonforce-helsingin-kulttuuritalo-22152451/",
       "image": "",
       "ageLimit": "K-18"
+    },
+    {
+      "id": "manual-1792925266808",
+      "title": "Amorphis - Borderland Finland 2027",
+      "date": "2027-04-24T15:00:00.000Z",
+      "venue": {
+        "name": "Kulttuuritalo",
+        "address": ""
+      },
+      "lineup": [
+        {
+          "id": "band-1792925291407",
+          "artist": "Amorphis",
+          "stageTime": ""
+        }
+      ],
+      "description": "Suomalaisen metallin soihdunkantaja Amorphis palaa tien päälle ympäri Suomen keväällä 2027.",
+      "price": "64,90 €",
+      "ticketUrl": "https://www.lippu.fi/event/amorphis-borderland-finland-2027-helsingin-kulttuuritalo-22035551/",
+      "image": "",
+      "ageLimit": "",
+      "addedDate": "2026-10-25T10:47:46.808Z"
     },
     {
       "id": "manual-1792591883409",
