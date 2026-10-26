@@ -689,6 +689,21 @@
       ]
     },
     {
+      "id": "le-helsinkiagqwsd2jjm",
+      "title": "Subseconds: Half-Open Doors, levyjulkkarit",
+      "venue": {
+        "name": "Laterna Magica",
+        "address": "Rauhankatu 7, Helsinki"
+      },
+      "date": "2026-11-10T16:00:00Z",
+      "endTime": "2026-11-10T18:00:00Z",
+      "description": "Helsinkiläinen metallia ja art rokkia musiikissaan yhdistelevä Subseconds julkaisee uuden EP:nsä ”Half-Open Doors” 11.11.2026. Musiikissa on mukana myös saksofoni, jousisoittimet, piano ja vaikutteita elektronisesta musiikista.\n\n Päivää ennen yhtye järjestää levyn ennakkokuuntelutilaisuuden yhdessä Helsingin keskustan ainutlaatuisimmista kirjagallerioista.\n\n Kaikki uteliaat mielet sekä muutoin kiinnostuneet ovat lämpimästi tervetulleita viettämään iltaa EP:n kuuntelun parissa.\n\n Toiveena on, että tapahtuma toimisi myös paikkana luoville ihmisille tavata toisiaan. Jos tunnet jonkun, jolle tapahtuma voisi olla hyödyllinen ja kiinnostava, kerrothan siitä heille ja kutsuthan heidät mukaan!\n\n Laterna Magica\n\n 10.11.2026\n\n 18.00-20.00\n\n Ohjelma:\n\n Artistin hostaama tilaisuus\n\nKaksi levynkuuntelusessiota 18.15 ja 19.00.\n\nArvotaan vieraiden kesken uniikkeja, käsintehtyjä fyysisiä versioita levystä, joita on myös myynnissä\n\nMusiikkivideon näytös\n\nVapaa pääsy, paikkoja on rajoitetusti, jonka vuoksi pyydetään ilmoittautumista ennakkoon.",
+      "ticketUrl": "https://luma.com/n4kaye0u",
+      "image": "https://api.hel.fi/linkedevents/media/images/Subseconds_Julkkarit_Hel.jpeg",
+      "price": "Free Entry",
+      "addedDate": "2026-10-23T13:59:31.980433Z"
+    },
+    {
       "id": "manual-1791720374168",
       "title": "The Obsessed (US) & Klastos (SWE)",
       "date": "2026-11-12T17:00:00.000Z",
