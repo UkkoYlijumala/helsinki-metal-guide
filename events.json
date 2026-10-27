@@ -1,63 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791715067436",
-      "title": "Temic, Joviac",
-      "date": "2026-10-26T17:00:00.000Z",
-      "venue": {
-        "name": "On The Rocks",
-        "address": "Mikonkatu 15, Helsinki"
-      },
-      "description": "TEMIC saapuu Suomeen syksyllä julkaistavan albuminsa myötä. Progemuusikoiden superkokoonpano nähdään Helsingin On The Rocksissa maanantaina 26. päivä lokakuuta, 2026. Liput keikalle myynnissä nyt!\n\n\nJo ennen debyyttialbumiaan TEMIC on tullut tutuksi nimeksi progressiivisen musiikin ystävien huulilla. Yhtyeen kokoonpano koostuu nimekkäistä muusikoista, jotka ovat tuttuja esimerkiksi Devin Townsendin, Shattered Fortressin, Hakenin ja SHININGIN riveistä.\n\n\n\nDebyyttialbuminsa \"Terror Management Theory\" kautta yhtye on täytti kaikki superkokoonpanon odotukset –albumi saavutti komeita listapaikkoja ja sai ylistystä niin faneilta kuin kriitikoiltakin. TEMIC on progediggaajien unelmien täyttymys –ja yhtyeen kiusoittelema uusi albumi \"Ceiba\" tarjoillaan livenautintona myös Suomessa syksyllä 2026.\n\n\n\nIllan avaa kotimainen Joviac, jonka musiikissa progressiivinen sovitustyö yhdistyy tarttuviin melodioihin.",
-      "price": "23 €",
-      "ticketUrl": "https://www.tiketti.fi/temic-joviac-on-the-rocks-helsinki-lippuja/120580",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792416796955",
-          "artist": "Temic",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792416801621",
-          "artist": "Joviac",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
-      "id": "tm-Z698xZ8KZ16vu0QdPI",
-      "title": "Amon Amarth",
-      "venue": {
-        "name": "Helsingin jäähalli",
-        "address": "Nordenskiöldinkatu 11-13, Helsinki"
-      },
-      "date": "2026-10-26T17:00:00.000Z",
-      "endTime": null,
-      "description": "AMON AMARTH TUO MASSIIVISEN KIERTUEENSA HELSINGIN JÄÄHALLIIN LOKAKUUSSA \n\nViikinkimetallin kiistaton valtias Amon Amarth tuo massiivisen The Allfather Awakens -kiertueensa Suomeen lokakuussa 2026. Yhtye nousee Helsingin Jäähallin lavalle maanantaina 26. lokakuuta ja keikan avauksesta vastaavat kaksi ruotsalaisen metallin kärkinimeä, Orbit Culture sekä Soilwork. Amon Amarth on viettänyt kiireisen keikka-kesän ja -syksyn muun muassa Slayerin Cardiffin- ja Lontoon-konserttien erikoisvieraana sekä kiertänyt Yhdysvalloissa Panteran kanssa. Syksyn 2026 Euroopan ja Ison-Britannian kiertueelle yhtye tuo mukanaan täysin uuden teatraalisen lavaproduktion ja pidennetyn headline-setin, joten Helsingissä saadaan todistaa todellista metallispektaakkelia. Kiertue juhlistaa yhtyeen uutta kappaletta We Rule the Waves ja valmistelee faneja vuoden 2026 lopulla ilmestyvän uuden albumin ilmestymiseen, jonka luvataan olevan yksi bändin uran eeppisimmistä ja barbaarisimmista julkaisuista. Amon Amarthin supporteina nähdään lavalla viime vuosien modernin death metalin kansainvälinen tähti Orbit Culture sekä ruotsalaisen melodisen death metalin klassikko Soilwork. KEIKKA: AMON AMARTH (SE) -- The Allfather Awakens 26.10.2026, Helsinki, Jäähalli Support: Orbit Culture (SE), Soilwork (SE) Permanto: palvelumaksuineen alk. 85€ +tilauskulut 1,50€/tilauskulu Alakatsomo, pitkät sivut: palvelumaksuineen 75€-90€+1,50€/tilauskulu Päätykatsomo + kaarteet: palvelumaksuineen 53€-80€+1,50€/tilauskulu Pyörätuolikatsomo 53€+1,50€/tilauskulu",
-      "ticketUrl": "https://www.ticketmaster.fi/event/amon-amarth-lippuja/1364683968",
-      "image": "https://s1.ticketm.net/dam/a/536/6cf709e4-c71b-4f99-9e90-f08f0a163536_SOURCE",
-      "price": "53 €",
-      "lineup": [
-        {
-          "id": "band-1792401401232",
-          "artist": "Amon Amarth",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792401402983",
-          "artist": "Orbit Culture",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792401415648",
-          "artist": "Soilwork",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
       "id": "tm-Z698xZ8KZ1kP6AK7Y",
       "title": "Behemoth & Dimmu Borgir - In League With Satan Tour 2026",
       "venue": {
