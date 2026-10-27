@@ -3142,5 +3142,91 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-10-27T06:53:53.059Z"
+  },
+  {
+    "id": "manual-1793133222542",
+    "title": "Hårder I Drumsö",
+    "date": "2026-11-07T18:00:00.000Z",
+    "venue": {
+      "name": "BAR 52",
+      "address": "Heikkiläntie 2, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1793133270222",
+        "artist": "Carbuncle",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793133276256",
+        "artist": "Jailbreak",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793133281843",
+        "artist": "MonDeGos",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793133287286",
+        "artist": "Clarkkent",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793133522000",
+        "artist": "Alive Alive",
+        "stageTime": ""
+      }
+    ],
+    "description": "Hårder i Drumsö tuo yhden illan ajaksi raskaan musiikin keskelle saarta. Luvassa on useita hevi- ja rockbändejä – mukana sekä omaa musiikkiaan esittäviä bändejä että tuttuja hard rock- ja metalliklassikoita soittavia kokoonpanoja.\n\nIllan aikana bändejä nähdään kahdessa paikassa: BAR52 ja Lemmenhotellilla. Tarkoituksena on rakentaa rento, matalan kynnyksen metalli-ilta, jossa voi kiertää paikasta toiseen ja löytää samalla sekä uusia bändejä että tuttuja biisejä.",
+    "price": "Free entry",
+    "ticketUrl": "https://allevents.in/helsinki/h%C3%A5rder-i-drums%C3%B6/200030841461721",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-10-27T20:33:42.542Z"
+  },
+  {
+    "id": "manual-1793134148022",
+    "title": "Bombus (SWE)",
+    "date": "2027-05-21T17:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1793134157669",
+        "artist": "Bombus",
+        "stageTime": ""
+      }
+    ],
+    "description": "Ruotsin raskas ja energinen rokkikone toukokuussa 2027 Helsinkiin\nBombusin albumikiertue saapuu On the Rocksiin perjantaina 21. toukokuuta.\n\nBombus perustettiin Göteborgissa vuonna 2008. Yhtye on alusta asti yhdistänyt metallin, punkin ja stoner rockin ja paahtanut häpeilemättömästi musiikkigenrejen välillä. Yksi asia on kuitenkin muovannut kuvaa bändistä koko sen uran ajan: energisyys.\n\nNeljä albumia myöhemmin Bombus on jo ehtinyt jakaa esiintymislavoja mm. Clutchin, Danko Jonesin, Graveyardin ja Monster Magnetin kanssa. Vastaanotto kaikkialla ja kaikenkokoisissa tilaisuuksissa puskee Bombusia eteenpäin. Bändin viides albumi ilmestyy alkuvuodesta 2027 ja sen myötä Bombus iskee rokkikansan hampaat kurkkuun myös Helsingissä saman vuoden toukokuussa.",
+    "price": "25 €",
+    "ticketUrl": "https://www.tiketti.fi/bombus-swe-on-the-rocks-helsinki-lippuja/119130",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-10-27T20:49:08.022Z"
+  },
+  {
+    "id": "manual-1793134396393",
+    "title": "Caliber Orders",
+    "date": "2027-05-29T17:00:00.000Z",
+    "venue": {
+      "name": "Underground Club",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1793134403961",
+        "artist": "Caliber Orders",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "10 €",
+    "ticketUrl": "https://www.elektrikproducts.com/club-underground",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-10-27T20:53:16.393Z"
   }
 ]
