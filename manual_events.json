@@ -3006,5 +3006,141 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-10-26T21:20:28.715Z"
+  },
+  {
+    "id": "manual-1793083558332",
+    "title": "Pentacle (NL)",
+    "date": "2026-11-06T18:00:00.000Z",
+    "venue": {
+      "name": "Pub Olarin Ossi",
+      "address": "Sammalkalliontie 5, Espoo"
+    },
+    "lineup": [
+      {
+        "id": "band-1793083578874",
+        "artist": "Pentacle",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793083586154",
+        "artist": "Vitriolic",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793083598966",
+        "artist": "Black Rock",
+        "stageTime": ""
+      }
+    ],
+    "description": "Dutch ancient death metal masters Pentacle first time in Finland!\n\nPENTACLE\n\nChained within the mythical realms of primeaval black/death metal, so graciously unveiled in the early 80's by hallowed cults such as Venom, Hellhammer, Celtic Frost, Possessed, Messiah, Necrovore, Death, Pentagram (CH), Slaughter (CAN) and Necrophagia, Pentacle's sepulchral tribute, to this unforgotten legacy, started back in winter 1989 when Mike Verhoeven (guitar) and Wannes Gubbels (bass/vocals) joined forces in their quest for Ancient Death Metal madness...\n\nThrough the years, the band entered many stages in Europe, North and South America. Still firmly rooted in the underground scene Pentacle spawned forth many (split) releases on vinyl, CD and tape. The newest nine track split release (w/Italian Death Metallers Deathfucker) is called “Spawn of the Graveless Deity”, again released through Iron Pegasus Records on vinyl and CD while both Unholy Domain and Goatthrone Records have released the tape version.\n\nPentacle’s five new songs were recorded at Toneshed Recording Studio and this deathly offering presents the band in full gear showing no signs of decay, moving further into the realm of Ancient Death Metal, utterly proud of this morbid achievement.\n\nAfter more than 37 years of active (!) service, the musical concept of the band is still firmly rooted in the golden ‘80’s, though remains far from being a mere copy-cat of the forefathers of extreme Metal. Do not make the mistake to file Pentacle under any retro-trend. They started performing their music when only a selected (and loyal) audience was interested in this honest style of music. While others sailed the seas of successive trends, Pentacle did not. Together with an obscure, yet individual lyrical approach, the band always worked hard to create a personal style, based on ancient Metal values. Remember this when listening to Pentacle’s releases...",
+    "price": "25 €",
+    "ticketUrl": "https://biletti.fi/e/pentacle-espoo",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-10-27T06:45:58.332Z"
+  },
+  {
+    "id": "manual-1793083802370",
+    "title": "Olari Annihilation Fest II",
+    "date": "2026-11-13T13:00:00.000Z",
+    "venue": {
+      "name": "Pub Olarin Ossi",
+      "address": "Sammalkalliontie 5, Espoo"
+    },
+    "lineup": [
+      {
+        "id": "band-1793083948574",
+        "artist": "Purtenance",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793083954807",
+        "artist": "Corpsessed",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793083960482",
+        "artist": "Cadaveric Incubator",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793083965219",
+        "artist": "Morte Profana",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793083970824",
+        "artist": "The Carnival",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793083975868",
+        "artist": "Houreet",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793083981076",
+        "artist": "Vināykas",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "30 €",
+    "ticketUrl": "https://olariannihilation.bigcartel.com/",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-10-27T06:50:02.370Z"
+  },
+  {
+    "id": "manual-1793084033059",
+    "title": "Olari Annihilation Fest II",
+    "date": "2026-11-14T13:00:00.000Z",
+    "venue": {
+      "name": "Pub Olarin Ossi",
+      "address": "Sammalkalliontie 5, Espoo"
+    },
+    "lineup": [
+      {
+        "id": "band-1793084077911",
+        "artist": "Barathrum",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793084084904",
+        "artist": "Goatsmegma (EST)",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793084089611",
+        "artist": "The Mist From The Mountains",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793084094027",
+        "artist": "Hellgate Necrosodomy",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793084098465",
+        "artist": "Black Mass Pervertor",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793084103058",
+        "artist": "Moonstruck",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793084108926",
+        "artist": "Uhrilahja",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "35 €",
+    "ticketUrl": "https://olariannihilation.bigcartel.com/",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-10-27T06:53:53.059Z"
   }
 ]
