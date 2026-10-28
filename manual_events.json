@@ -381,120 +381,6 @@
     "ageLimit": ""
   },
   {
-    "id": "manual-1791714756590",
-    "title": "For My Pain…, Scars Of Solitude",
-    "date": "2026-10-24T17:00:00.000Z",
-    "venue": {
-      "name": "On The Rocks",
-      "address": "Mikonkatu 15, Helsinki"
-    },
-    "description": "Yli kahden vuosikymmenen odotus päättyi tammikuussa 2026, kun For My Pain... julkaisi kauan odotetun toisen albuminsa “Buried Blue”. Sekä fanien että musiikkimedian ylistämä levy osoittaa, että yhtye on varmistanut asemansa melodisen goottimetallin kärkinimien joukossa.\n\nLokakuussa For My Pain… palaa Helsingin On The Rocksiin ja luvassa on ilta täynnä vahvaa tunnelmaa ja kaihoisaa nostalgiaa. Yhtye on lupaillut, että setti tulisi sisältämään sekä uuden albumin materiaalia että fanien rakastamia klassikoita.\n\nIllan avaa äänekoskelainen Scars of Solitude, jonka tunnelmallinen ja raskas ilmaisu virittää yleisön täydellisesti syysillan pimenevään syliin.\n\nTule kokemaan yksi syksyn odotetuimmista kotimaisista goottimetallikeikoista!",
-    "price": "29 €",
-    "ticketUrl": "https://www.tiketti.fi/for-my-pain-scars-of-solitude-on-the-rocks-helsinki-lippuja/119846",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792401326870",
-        "artist": "For My Pain...",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792401344953",
-        "artist": "Scars of Solitude",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791714808843",
-    "title": "ARTKILLS, Melankolia, Lust For Lily",
-    "date": "2026-10-24T16:00:00.000Z",
-    "venue": {
-      "name": "Semifinal",
-      "address": "Urho Kekkosen katu 4-6, Helsinki"
-    },
-    "description": "ARTKILLS\n\nHelsingissä vuonna 2020 perustettu ARTKILLS on noussut nopeasti tulevaiduuden suomalaisen modernin metallin terävimpään kärkeen.\n\nYhtyeen soundi rakentuu raskaiden riffien, tarttuvien groovejen ja vahvojen melodioiden ympärille yhdistellen uudistuvaa metallimaailmaa ja tinkimätöntä old school -asennetta tavalla, joka erottuu välittömästi.\n\nEnsijulkaisu Last Goodbyes kasvatti bändin ympärille nopeasti kiinnostusta ja toi mukanaan kymmeniä tuhansia striimejä.\n\nSeuraava single The Fall vahvisti ARTKILLSin profiilia entisestään ja toi yhtyeelle ensimmäisen musiikkivideon, jonka ohjasi mm. Battle Beastin videoista tunnettu Esa Jussila.\n\nMyöhemmät julkaisut – The Game, remix-kokoelma Remix That Shi#t sekä viiden kappaleen KillGallery – EP tekivät selväksi, että ARTKILLS ei ole hetken ilmiö vaan nopeasti kehittyvä tulokas, joka tähtää korkealle.\n\nMELANKOLIA\n\nMELANKOLIA on oululainen murhemetalliyhtye, jonka tarina alkaa neljän ystävyksen ollessa teinejä. Elämä vei jäsenet kymmeneksi vuodeksi eri suuntiin, kunnes vuoden 2024 lopulla kerran kuopattu bändi päätettiin aloittaa uudestaan. Ei siksi, että pitäisi palata vanhaan, vaan siksi, että jotkut asiat eivät suostu kuolemaan.\n\nEnsimmäinen single Blue valittiin YleX:n Anne Lainto <3 Rockin viikon tulokkaaksi, ja alkuvuonna 2026 MELANKOLIA nostettiin Tulevaisuuden tekijät -listalle. KaaosZine on valinnut yhtyeen yhdeksi tämän hetken kiinnostavimmista nuorista metalliyhtyeistä.\n\nMaaliskuussa 2026 julkaistu debyytti-EP Step 1: I Admit I’m a Melancholic on uudelleen alkaneen tarinan ensimmäinen luku.\n\nBändin laulut sukeltavat itseinhon, riippuvuuksien ja elämän pienten ilojen äärelle – sinne, missä kauneus ja kurjuus kulkevat käsi kädessä.\n\nMELANKOLIA kutsuu sitä murhemetalliksi.\n\nLUST FOR LILY\n\nLust For Lily perustettiin vuonna 2022 Tuusulassa ja yhtye alkoi nopeasti raivata paikkaansa maan uuden aallon metalcore-skenessä. Yhtyeen musiikki rakentuu vahvan emotionaalisen intensiteetin ja modernin raskaan tuotannon varaan, yhdistäen melodisen haavoittuvuuden teräväreunaisiin riffeihin ja dynaamisiin sovituksiin.",
-    "price": "14 €",
-    "ticketUrl": "https://www.tiketti.fi/artkills-melankolia-lust-for-lily-semifinal-helsinki-lippuja/120720",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792401276465",
-        "artist": "Artkkills",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792401294150",
-        "artist": "Melankolia",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792401311965",
-        "artist": "Lust For Lily",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791714975282",
-    "title": "Hard Rock Motors: Ian Highhill, Crimson Day, DOL",
-    "date": "2026-10-24T17:00:00.000Z",
-    "venue": {
-      "name": "Skenesali",
-      "address": "Jönsaksentie 6, Vantaa"
-    },
-    "description": "Hard Rock Motors on bändiryhmittymä, joka on koottu bluespohjaisista hard rock -yhtyeistä unohtamatta hieman metallisemman tai progressiivisemman tulkinnan kokoonpanoja.\n\nSkenesalissa järjestetään Moottoreiden kokoontumisajot, ja tarjoillaan raskaan rockin kattaus sopivan erilaisin maustein.",
-    "price": "12 €",
-    "ticketUrl": "https://www.tiketti.fi/ian-highhill-crimson-day-dol-skenesali-vantaa-lippuja/119370",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792416698834",
-        "artist": "Ian Highhill",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416707117",
-        "artist": "Crimson Day",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416726651",
-        "artist": "Dol",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791715067436",
-    "title": "Temic, Joviac",
-    "date": "2026-10-26T17:00:00.000Z",
-    "venue": {
-      "name": "On The Rocks",
-      "address": "Mikonkatu 15, Helsinki"
-    },
-    "description": "TEMIC saapuu Suomeen syksyllä julkaistavan albuminsa myötä. Progemuusikoiden superkokoonpano nähdään Helsingin On The Rocksissa maanantaina 26. päivä lokakuuta, 2026. Liput keikalle myynnissä nyt!\n\n\nJo ennen debyyttialbumiaan TEMIC on tullut tutuksi nimeksi progressiivisen musiikin ystävien huulilla. Yhtyeen kokoonpano koostuu nimekkäistä muusikoista, jotka ovat tuttuja esimerkiksi Devin Townsendin, Shattered Fortressin, Hakenin ja SHININGIN riveistä.\n\n\n\nDebyyttialbuminsa \"Terror Management Theory\" kautta yhtye on täytti kaikki superkokoonpanon odotukset –albumi saavutti komeita listapaikkoja ja sai ylistystä niin faneilta kuin kriitikoiltakin. TEMIC on progediggaajien unelmien täyttymys –ja yhtyeen kiusoittelema uusi albumi \"Ceiba\" tarjoillaan livenautintona myös Suomessa syksyllä 2026.\n\n\n\nIllan avaa kotimainen Joviac, jonka musiikissa progressiivinen sovitustyö yhdistyy tarttuviin melodioihin.",
-    "price": "23 €",
-    "ticketUrl": "https://www.tiketti.fi/temic-joviac-on-the-rocks-helsinki-lippuja/120580",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792416796955",
-        "artist": "Temic",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416801621",
-        "artist": "Joviac",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
     "id": "manual-1791715204862",
     "title": "Hauta Wizard, Sumea, Nick Cavea suomeksi",
     "date": "2026-10-29T17:00:00.000Z",
@@ -1853,100 +1739,6 @@
     ]
   },
   {
-    "id": "tm-Z698xZ8KZ1kG-0EGY",
-    "title": "Turmion Kätilöt - Colossal Disco",
-    "venue": {
-      "name": "Helsingin jäähalli",
-      "address": "Nordenskiöldinkatu 11-13, Helsinki"
-    },
-    "date": "2026-10-24T15:00:00Z",
-    "endTime": null,
-    "description": "Turmion Kätilöt 24.10.2026 Helsingin Jäähalli S / K18 Special Guest: Skynd (AUS) Support: Business City Turmion Kätilöiden Colossal Disco laajenee Helsingin jäähallissa soittavat myös australialainen Skynd sekä Business City Lahdesta. Lauantaina 24. lokakuuta Helsingin jäähallissa raikuva Turmion Kätilöt -yhtyeen COLOSSAL DISCO laajenee ohjelmaltaan. Ennen savolaista industrial metal -annosta lavalta saadaan kokea australialaisen Skyndin sähköistä industrialia ja lahtelaisen Business Cityn happoteknoa. TURMION KÄTILÖT VALTAA HELSINGIN JÄÄHALLIN -- COLOSSAL DISCO ON INDUSTRIAL METAL -YHTYEEN URAN SUURIN SPEKTAAKKELI Lokakuussa Helsingin jäähalli kokee muodonmuutoksen. Siitä tulee Turmion Kätilöiden oma Colosseum. Lipunmyynti käynnistyy perjantaina 20.2. klo 9.00. ENNAKKOMYYNTI: Radio Rock tarjoaa lippujen ennakko-ostooikeuden, mutta vain livenä Sanomatalossa keskiviikkona 18.helmikuuta klo 17-19, jolloin paikalla on myös koko Turmion Kätilöt. Liput alkaen 59,90 €. Permanto: 69,90 € (K18) Hyvissä Höyryissä, Golden Circle: 79,90 € (K18) Istumakatsomot: 59,90--79,90 € (S/K18) Konsertti on sallittu kaikenikäisille, lukuun ottamatta permantoa/golden circleä ja rajattuja anniskelukatsomoita (K18). Lipulla pääsee areenalle sisään vain kerran. AIKATAULU: 17:30 Ovet 18:40 Business City 19:35 Skynd 21:00 Turmion Kätilöt Huom! Aikataulut ovat arvioituja ja muutokset ovat mahdollisia. Huomioithan, että aikataulut ovat arvioita ja voivat muuttua vielä konserttipäivänä. Saavuthan paikalle ajoissa, sillä sisäänkäynti keikalle voi olla ruuhkainen. TURVALLISUUS & HELSINGIN JÄÄHALLI Sisääntuloväylillä tarkistetaan pääsyliput ja suoritetaan turvatarkastus. Voit tutustua tarkemmin Helsingin jäähallin turvallisuuteen ja palveluihin täällä: https://helsinginjaahalli.fi/vieraile-hallilla FANITUOTEMYYNTI Paikan päällä myydään fanituotteita. Varaathan hyvin aikaa myyntipisteillä asiointiin. YLEISET TIEDUSTELUT Lisätiedot konsertista ja yhteyden konserttijärjestäjiin saat sähköpostitse: info.fi@allthingslive.com Lipunmyyntiin liittyvissä asioissa otathan yhteyttä viralliseen lipunmyyjään",
-    "ticketUrl": "https://www.ticketmaster.fi/event/turmion-katilot-colossal-disco-lippuja/321927330",
-    "image": "https://s1.ticketm.net/dam/e/461/23b2ba98-a62d-41f4-ac94-c61511303461_RECOMENDATION_16_9.jpg",
-    "price": "59,90 €",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792396041096",
-        "artist": "Turmion Kätilöt",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792396049727",
-        "artist": "Skynd",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792396056806",
-        "artist": "Business City",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "tm-Z698xZ8KZ16vu0QdPI",
-    "title": "Amon Amarth",
-    "venue": {
-      "name": "Helsingin jäähalli",
-      "address": "Nordenskiöldinkatu 11-13, Helsinki"
-    },
-    "date": "2026-10-26T17:00:00.000Z",
-    "endTime": null,
-    "description": "AMON AMARTH TUO MASSIIVISEN KIERTUEENSA HELSINGIN JÄÄHALLIIN LOKAKUUSSA \n\nViikinkimetallin kiistaton valtias Amon Amarth tuo massiivisen The Allfather Awakens -kiertueensa Suomeen lokakuussa 2026. Yhtye nousee Helsingin Jäähallin lavalle maanantaina 26. lokakuuta ja keikan avauksesta vastaavat kaksi ruotsalaisen metallin kärkinimeä, Orbit Culture sekä Soilwork. Amon Amarth on viettänyt kiireisen keikka-kesän ja -syksyn muun muassa Slayerin Cardiffin- ja Lontoon-konserttien erikoisvieraana sekä kiertänyt Yhdysvalloissa Panteran kanssa. Syksyn 2026 Euroopan ja Ison-Britannian kiertueelle yhtye tuo mukanaan täysin uuden teatraalisen lavaproduktion ja pidennetyn headline-setin, joten Helsingissä saadaan todistaa todellista metallispektaakkelia. Kiertue juhlistaa yhtyeen uutta kappaletta We Rule the Waves ja valmistelee faneja vuoden 2026 lopulla ilmestyvän uuden albumin ilmestymiseen, jonka luvataan olevan yksi bändin uran eeppisimmistä ja barbaarisimmista julkaisuista. Amon Amarthin supporteina nähdään lavalla viime vuosien modernin death metalin kansainvälinen tähti Orbit Culture sekä ruotsalaisen melodisen death metalin klassikko Soilwork. KEIKKA: AMON AMARTH (SE) -- The Allfather Awakens 26.10.2026, Helsinki, Jäähalli Support: Orbit Culture (SE), Soilwork (SE) Permanto: palvelumaksuineen alk. 85€ +tilauskulut 1,50€/tilauskulu Alakatsomo, pitkät sivut: palvelumaksuineen 75€-90€+1,50€/tilauskulu Päätykatsomo + kaarteet: palvelumaksuineen 53€-80€+1,50€/tilauskulu Pyörätuolikatsomo 53€+1,50€/tilauskulu",
-    "ticketUrl": "https://www.ticketmaster.fi/event/amon-amarth-lippuja/1364683968",
-    "image": "https://s1.ticketm.net/dam/a/536/6cf709e4-c71b-4f99-9e90-f08f0a163536_SOURCE",
-    "price": "53 €",
-    "lineup": [
-      {
-        "id": "band-1792401401232",
-        "artist": "Amon Amarth",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792401402983",
-        "artist": "Orbit Culture",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792401415648",
-        "artist": "Soilwork",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "tm-Z698xZ8KZ1kP6AK7Y",
-    "title": "Behemoth & Dimmu Borgir - In League With Satan Tour 2026",
-    "venue": {
-      "name": "Helsingin jäähalli",
-      "address": "Nordenskiöldinkatu 11-13, Helsinki"
-    },
-    "date": "2026-10-27T16:00:00.000Z",
-    "endTime": null,
-    "description": "BLACK METAL TITANS BEHEMOTH AND DIMMU BORGIR TO HELSINKI IN OCTOBER 2026 \n\nThe ominous magic of black metal will be spreading through Helsinki next autumn, as Poland's progressive black metal unit Behemoth and iconic Norwegian symphonic black metal ambassadors Dimmu Borgir will be bringing their In League With Satan co-headlining tour to Helsinki Ice hall on October 27th 2026. Behemoth's flawless execution combined with superb theatrical elements have truly pushed the boundaries of metal bands. Over their career of over 30 years, Behemoth has added layers of death metal and middle eastern flavor to their black metal rooted sonic mayhem. Behemoth will be releasing their new \"The Shit Ov God\"-album in spring 2026. The flagship of symphonic black metal, Dimmu Borgir was founded in Jessheim, Norway in 1993. The band took its name from a volcanic area in Iceland, and over the years the name has become iconic beyond metal, to say the least. Dimmu Borgir's extensive body of work is astonishing. A catalog full of milestone releases, such as the sophomore album \"Stormblåst\", which is considered widely influential and the band's last pure black metal album, and the legendary \"Death Cult Armageddon\" album from 2003, which took symphonic black metal to new spheres, to name a few. The show will be opened by Sweden's black metal legion Dark Funeral. Presented by TuskaLive and Grey Beard: Behemoth & Dimmu Borgir - In League With Satan Tour 2026 Support: Dark Funeral 27.10.2026 Helsinki - Ice hall Tickets from 89,00€ | Ticketmaster All ages | doors 18:00 www.behemoth.pl/ www.dimmu-borgir.com/ www.darkfuneral.se/ www.tuska.fi/tuskalive",
-    "ticketUrl": "https://www.ticketmaster.fi/event/behemoth--dimmu-borgir-in-league-with-satan-tour-2026-lippuja/947153130",
-    "image": "https://s1.ticketm.net/dam/a/053/9f442e14-7c63-4042-8a50-3b01c9953053_RETINA_PORTRAIT_16_9.jpg",
-    "price": "89 €",
-    "lineup": [
-      {
-        "id": "band-1792416821334",
-        "artist": "Behemoth",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416834316",
-        "artist": "Dimmu Borgir",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792745467606",
-        "artist": "Dark Funeral",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
     "id": "tm-Z698xZ8KZ1kpA19Go",
     "title": "Mental Cruelty",
     "venue": {
@@ -2555,37 +2347,6 @@
     "ageLimit": ""
   },
   {
-    "id": "manual-1792744682527",
-    "title": "Erottaja",
-    "date": "2026-10-24T18:00:00.000Z",
-    "venue": {
-      "name": "Ravintola Käpygrilli",
-      "address": "Osmontie 5, Helsinki"
-    },
-    "lineup": [
-      {
-        "id": "band-1792744811472",
-        "artist": "Erottaja",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792744815297",
-        "artist": "My Bloodline",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792744827183",
-        "artist": "Atomitie",
-        "stageTime": ""
-      }
-    ],
-    "description": "",
-    "price": "10 €",
-    "ticketUrl": "",
-    "image": "",
-    "ageLimit": "K-18"
-  },
-  {
     "id": "manual-1792828170553",
     "title": "Terromania",
     "date": "2026-11-06T18:00:00.000Z",
@@ -2992,22 +2753,6 @@
     "addedDate": "2026-10-25T11:46:33.131Z"
   },
   {
-    "id": "manual-1793049628715",
-    "title": "Testi keikka",
-    "date": "2026-11-04T17:00:00.000Z",
-    "venue": {
-      "name": "Tavastia-klubi",
-      "address": ""
-    },
-    "lineup": [],
-    "description": "Testi notifikaatioita varten",
-    "price": "Sold out",
-    "ticketUrl": "",
-    "image": "",
-    "ageLimit": "",
-    "addedDate": "2026-10-26T21:20:28.715Z"
-  },
-  {
     "id": "manual-1793083558332",
     "title": "Pentacle (NL)",
     "date": "2026-11-06T18:00:00.000Z",
@@ -3228,5 +2973,37 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-10-27T20:53:16.393Z"
+  },
+  {
+    "id": "manual-1793193577842",
+    "title": "Testi keikka",
+    "date": "2026-11-05T17:00:00.000Z",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": ""
+    },
+    "lineup": [],
+    "description": "Testi notifikaatiolle",
+    "price": "Sold out",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-10-28T13:19:37.843Z"
+  },
+  {
+    "id": "manual-1793049628715",
+    "title": "Testikeikka",
+    "date": "2026-11-04T17:00:00.000Z",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": ""
+    },
+    "lineup": [],
+    "description": "Testi notifikaatioita varten",
+    "price": "Sold out",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-10-26T21:20:28.715Z"
   }
 ]
