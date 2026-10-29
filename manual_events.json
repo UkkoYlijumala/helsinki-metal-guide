@@ -1908,38 +1908,6 @@
     ]
   },
   {
-    "id": "le-helsinkiagpwjmsuni",
-    "title": "Gloryhammer",
-    "venue": {
-      "name": "Tavastia-klubi",
-      "address": "Urho Kekkosen katu 4-6, Helsinki"
-    },
-    "date": "2026-10-28T16:00:00Z",
-    "endTime": "2026-10-28T21:59:00Z",
-    "description": "Intergalaktisen mahtipontisuuden multi-huipentuma, kansainvälinen power metal -kapteenisto Gloryhammer palaa Suomeen ja Helsinkiin ikoniselle Tavastia-klubille uuden albuminsa tiimoilta. \n\n Vuonna 2013 perustettu Gloryhammer kuuluu kiistatta voimametallin eliittiin. Omassa galaksissaan operoivan tarunhohtoisen yhtyeen jäsenet edustavat hahmoja konseptissa, joka sai alkunsa ”Tales from the Kingdom of Fife”-debyyttialbumista. Saagan viidettä osaa juhlitaan siis ensi syksynä Tavastialla!\n\n Keikan avaavat ruotsalainen, Tuskassakin esiintyvä power metal -ryhmä Majestica, sekä kotimaisen melodisen metallin kärkinimi Arion.\n\n Tavastia-klubi\n\n 28.10.2026\n\n Ovet 18.00, kesto avoin\n\n Liput 55,50-58€, K-18",
-    "ticketUrl": "https://tavastiaklubi.fi/events/2026-10-28/gloryhammer-5th-album-release-tour-2026/114255/",
-    "image": "https://api.hel.fi/linkedevents/media/images/Pietari_Purovaara_Tavastia_.jpg",
-    "price": "55,50-58€",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792416868729",
-        "artist": "Gloryhammer",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416881031",
-        "artist": "Majestica",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792416887612",
-        "artist": "Arion",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
     "id": "manual-1792184258031",
     "title": "Europe",
     "date": "2026-11-25T17:00:00.000Z",
@@ -2973,37 +2941,5 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-10-27T20:53:16.393Z"
-  },
-  {
-    "id": "manual-1793193577842",
-    "title": "Testi keikka",
-    "date": "2026-11-05T17:00:00.000Z",
-    "venue": {
-      "name": "Tavastia-klubi",
-      "address": ""
-    },
-    "lineup": [],
-    "description": "Testi notifikaatiolle",
-    "price": "Sold out",
-    "ticketUrl": "",
-    "image": "",
-    "ageLimit": "",
-    "addedDate": "2026-10-28T13:19:37.843Z"
-  },
-  {
-    "id": "manual-1793049628715",
-    "title": "Testikeikka",
-    "date": "2026-11-04T17:00:00.000Z",
-    "venue": {
-      "name": "Tavastia-klubi",
-      "address": ""
-    },
-    "lineup": [],
-    "description": "Testi notifikaatioita varten",
-    "price": "Sold out",
-    "ticketUrl": "",
-    "image": "",
-    "ageLimit": "",
-    "addedDate": "2026-10-26T21:20:28.715Z"
   }
 ]
