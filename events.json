@@ -214,22 +214,6 @@
       ]
     },
     {
-      "id": "manual-1793049628715",
-      "title": "Testikeikka",
-      "date": "2026-11-04T17:00:00.000Z",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": ""
-      },
-      "lineup": [],
-      "description": "Testi notifikaatioita varten",
-      "price": "Sold out",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "",
-      "addedDate": "2026-10-26T21:20:28.715Z"
-    },
-    {
       "id": "manual-1791711995308",
       "title": "Timo Kotipelto & Robustik",
       "date": "2026-11-04T18:30:00.000Z",
@@ -287,22 +271,6 @@
       "ticketUrl": "https://www.tiketti.fi/pimento-vatsatanssia-metallimusiikkiin-on-the-rocks-helsinki-lippuja/119513",
       "image": "",
       "ageLimit": "K-18"
-    },
-    {
-      "id": "manual-1793193577842",
-      "title": "Testi keikka",
-      "date": "2026-11-05T17:00:00.000Z",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": ""
-      },
-      "lineup": [],
-      "description": "Testi notifikaatiolle",
-      "price": "Sold out",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "",
-      "addedDate": "2026-10-28T13:19:37.843Z"
     },
     {
       "id": "manual-1791716574966",
