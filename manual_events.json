@@ -1437,7 +1437,7 @@
       "address": "Urho Kekkosen katu 4-6, Helsinki"
     },
     "description": "Punkrock-yhtye HUORA ja räppiä heviriffeihin yhdistelevä LÄHIÖBOTOX nähdään yhteiskeikalla Helsingin Tavastialla perjantaina 26. helmikuuta. Alkuvuoden riehakkaimpiin liveiltoihin lukeutuvassa perjantai-illassa kuullaan täysmittaiset setit kummaltakin bändiltä. \n\nRäyhäkkäästi riffittelevä ja kantaaottava Huora on yksi maamme energisimmistä livebändeistä. Vankkaa livesuosiota nauttiva yhtye esiintyi viimeksi Helsingissä kesällä 2025, joten paluu kaupunkiin on odotettu tapaus. Tavastian keikalla juhlistetaan myös yhtyeen uutta, alkuvuodesta 2027 ilmestyvää albumia. Illan toisena kärkinimenä nähdään räpin ja metallin raja-aitoja kaatava Lähiöbotox, joka tunnetaan niinikään hurjasta live-energiastaan. Parhaillaan uutta materiaalia valmistelevan yhtyeen nousua on siivittänyt ahkeran keikkailun ohella Ylen kanavilla ensi-iltansa saanut African Metal Tour -dokumenttisarja.",
-    "price": "32 €",
+    "price": "Sold out",
     "ticketUrl": "https://www.tiketti.fi/huora-lahiobotox-tavastia-klubi-helsinki-lippuja/121056",
     "image": "",
     "ageLimit": "K-18",
@@ -2808,5 +2808,48 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-11-04T07:45:41.214Z"
+  },
+  {
+    "id": "manual-1793779640301",
+    "title": "Huora, Lähiöbotox",
+    "date": "2027-02-27T18:00:00.000Z",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6, Helsinki"
+    },
+    "lineup": [
+      {
+        "id": "band-1793779645327",
+        "artist": "Huora",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793779649324",
+        "artist": "Lähiöbotox",
+        "stageTime": ""
+      }
+    ],
+    "description": "Punkrock-yhtye HUORA ja räppiä heviriffeihin yhdistelevä LÄHIÖBOTOX nähdään yhteiskeikalla Helsingin Tavastialla perjantaina 26. helmikuuta. Alkuvuoden riehakkaimpiin liveiltoihin lukeutuvassa perjantai-illassa kuullaan täysmittaiset setit kummaltakin bändiltä. \n\nRäyhäkkäästi riffittelevä ja kantaaottava Huora on yksi maamme energisimmistä livebändeistä. Vankkaa livesuosiota nauttiva yhtye esiintyi viimeksi Helsingissä kesällä 2025, joten paluu kaupunkiin on odotettu tapaus. Tavastian keikalla juhlistetaan myös yhtyeen uutta, alkuvuodesta 2027 ilmestyvää albumia. Illan toisena kärkinimenä nähdään räpin ja metallin raja-aitoja kaatava Lähiöbotox, joka tunnetaan niinikään hurjasta live-energiastaan. Parhaillaan uutta materiaalia valmistelevan yhtyeen nousua on siivittänyt ahkeran keikkailun ohella Ylen kanavilla ensi-iltansa saanut African Metal Tour -dokumenttisarja.",
+    "price": "32 €",
+    "ticketUrl": "https://www.tiketti.fi/huora-lahiobotox-tavastia-klubi-helsinki-lippuja/121492",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-11-04T08:07:20.301Z"
+  },
+  {
+    "id": "manual-1793779839449",
+    "title": "Levymessut",
+    "date": "2026-11-21T09:00:00.000Z",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": ""
+    },
+    "lineup": [],
+    "description": "Levykauppa Keltainen Jäänsärkijä -Record Store ylpeänä esittää!\n\nJa taas mennään musiikin valtameressä etsien helmiä ja muita mahtijuttuja!\n\nLauantaina 23.11 klo 11-15.00 Levymessut Tavastialla.\nTulkaas tekemään löytöjä!!\n\nLiput vain ovelta 3 €. ",
+    "price": "3 €, ovelta",
+    "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-21/levymessut/121706/",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-04T08:10:39.449Z"
   }
 ]
