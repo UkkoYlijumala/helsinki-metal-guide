@@ -2855,7 +2855,7 @@
   {
     "id": "manual-1793824944653",
     "title": "Power & Steel Festival 2027",
-    "date": "2027-06-04T21:00:00.000Z",
+    "date": "2027-11-04T22:00:00.000Z",
     "venue": {
       "name": "Kaapelitehdas",
       "address": "Tallberginkatu 1, Helsinki"
@@ -2923,5 +2923,21 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-04T20:42:24.653Z"
+  },
+  {
+    "id": "manual-1793825363085",
+    "title": "Power & Steel Festival 2027",
+    "date": "2027-11-05T22:00:00.000Z",
+    "venue": {
+      "name": "Kaapelitehdas",
+      "address": "Tallberginkatu 1, Helsinki"
+    },
+    "lineup": [],
+    "description": "Klassisen heavy- ja power metallin sisäfestivaali Helsingin Kaapelitehtaalla 5.–6.11.2027. Kahdella lavalla nähdään kahden päivän aikana yli 20 esiintyjää.\n\nVuonna 1991 São Paulossa perustettu Angra yhdisti esikoisalbumillaan \"Angels Cry\" (1993) eurooppalaisen power metallin melodisuuden, progressiivisen rockin rakenteet ja eteläamerikkalaiset rytmit tavalla, jollaista kukaan ei ollut aiemmin kuullut. Yli kolmen vuosikymmenen ja yhdentoista studioalbumin jälkeen yhtye on yhä genrensä mittatikku — ja saapuu nyt vihdoin Suomeen.\n\nMukana myös eeppisen heavy metallin kulttinimi Virgin Steele, NWOBHM-aallon perustajiin kuuluva Tygers Of Pan Tang ja power metalin tunnetuimpiin laulajiin lukeutuvan Fabio Lionen Dawn of Victory -kokoonpano. Uutta sukupolvea edustavat Seven Spires, Power Paladin ja Insania.\n\nVahvistuneet esiintyjät:\nANGRA (BRA)\nTygers Of Pan Tang (UK)\nVirgin Steele (US)\nFabio Lione's Dawn Of Victory (ITA)\nSeven Spires (US)\nPower Paladin (ISL)\nInsania (SWE)\nMetal De Facto (FIN)\nDreamtale (FIN)\nForce Majeure (FIN)\nStrider (FIN)\n\nLisää esiintyjiä julkaistaan lähitulevaisuudessa. Esiintymispäivät ja aikataulut ilmoitetaan myöhemmin.\nBaaritiskiltä saat Olvin ja Servaalin oluita, erikoisoluita ja viinejä sekä alkoholittomat vaihtoehdot. Ruokapuolen yhteistyökumppanin julkistamme myöhemmin.\n\nLiput: Rajoitettu erä kahden päivän Early Warrior -lippuja on nyt myynnissä. Hinta nousee portaittain. Yhden päivän liput tulevat myyntiin myöhemmin.",
+    "price": "138,60 €",
+    "ticketUrl": "https://www.lippu.fi/artist/power-steel-festival/",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-11-04T20:49:23.085Z"
   }
 ]
