@@ -2776,5 +2776,37 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-04T07:41:09.895Z"
+  },
+  {
+    "id": "manual-1793778341214",
+    "title": "Zilk, Incompitent Chainman, Report After Death",
+    "date": "2026-11-18T16:00:00.000Z",
+    "venue": {
+      "name": "Arabian nuorisotalo",
+      "address": "Arabianpolku 1 A2"
+    },
+    "lineup": [
+      {
+        "id": "band-1793778360350",
+        "artist": "Zilk",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793778366839",
+        "artist": "Incompitent Chainman",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1793778370970",
+        "artist": "Report After Death",
+        "stageTime": ""
+      }
+    ],
+    "description": "",
+    "price": "Free entry",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-04T07:45:41.214Z"
   }
 ]
