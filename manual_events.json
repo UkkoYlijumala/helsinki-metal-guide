@@ -1,31 +1,5 @@
 [
   {
-    "id": "manual-1791711840335",
-    "title": "Brymir",
-    "date": "2026-10-31T18:30:00.000Z",
-    "venue": {
-      "name": "Korjaamo",
-      "address": ""
-    },
-    "description": "Melodisen death metalin nopeimpiin, kauneimpiin ja raskaimpiin yhtyeisiin kuuluva Brymir lähtee peräti 13 keikkaa kattavalle kotimaan-kiertueelle syksyllä 2026.\n\nMahtipontisista melodioista, hengästyttävän nopeista temmoista ja sopivan typerästä hölmöilystä tunnettu Brymir palaa ryminällä keikkalavoille tänä syksynä. Viime ajat tiukasti studiossa viettänyt yhtye on julkaissut neljä albumia, jotka saavat seuraa kenties jo aivan pian. Illassa nähdään myös äärimmäisen tiukka blackened death metal -yhtye Omnivortex.",
-    "price": "26 €",
-    "ticketUrl": "https://www.lippu.fi/artist/brymir/?cityname=Helsinki",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792478887039",
-        "artist": "Brymir",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792827469544",
-        "artist": "Omnivortex",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
     "id": "manual-1791711933526",
     "title": "Boris (JPN) & Planning For Burial (US)",
     "date": "2026-11-04T17:00:00.000Z",
@@ -379,60 +353,6 @@
     "ticketUrl": "https://www.lippu.fi/artist/timo-kotipelto/timo-kotipelto-robustik-4199362/?cityname=Espoo",
     "image": "",
     "ageLimit": ""
-  },
-  {
-    "id": "manual-1791715360657",
-    "title": "DIRT – Halloween Special Vol. 5, Pretty",
-    "date": "2026-10-30T18:00:00.000Z",
-    "venue": {
-      "name": "On The Rocks",
-      "address": "Mikonkatu 15, Helsinki"
-    },
-    "description": "DIRTin Halloween Special on täällä taas – suurempana ja karmivampana kuin koskaan!\nOn taas se aika vuodesta! Jo viidettä kertaa Helsingin On The Rocksissa järjestettävät supersuositut halloween-bileet ovat paisuneet ainutlaatuisiksi karnevaaleiksi, jotka ovat naamiaiset, rock-keikka ja täysi hullunmylly samassa paketissa.\n\nIllan viihteestä vastaa Suomen kovimpiin livebändeihin lukeutuva DIRT, joka soittaa erikoispitkällä keikalla niin omia kappaleitaan kuin tarkoin valittuja pop-, rock- ja metalliklassikoitakin. Helsinkiläisyhtyeen ainutlaatuisen setin aikana nähdään myös kotimaiselta musiikkikentältä tuttuja yllätysvierailijoita. Jokainen DIRTin Halloween on erilainen kuin edellinen ja ehkä juuri siksi näihin kemuihin saavutaan yhä uudelleen ja uudelleen – jopa ulkomailta saakka.\n\nNiin yleisö, bändit kuin klubikin koristautuvat näyttävästi yhden illan ajaksi, joten luvassa on todellakin ilta täynnä yllätyksiä. Yleisön paras asu palkitaan DIRTin ja On The Rocksin toimesta!\n\nIllan avaa itseoikeutetusti raa’asta ja voimakkaasta soundistaan tunnettu raskaan musiikin kameleontti Pretty.",
-    "price": "23 €",
-    "ticketUrl": "https://www.tiketti.fi/dirt-halloween-special-vol-5-pretty-on-the-rocks-helsinki-lippuja/120702",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792827583831",
-        "artist": "DIRT",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792827585446",
-        "artist": "Pretty",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791715420890",
-    "title": "SF Perkele presents: Halloween Night",
-    "date": "2026-10-30T18:30:00.000Z",
-    "venue": {
-      "name": "Bar Loose",
-      "address": ""
-    },
-    "description": "Halloween-illan pimeydessä Bar Loosen lavalle nousevat:\n\nTHE GHOULSTARS\nDAN GLENNZIG plays DANZIG\n\nTHE GHOULSTARS on horror punk -superyhtye, joka yhdistelee klassista metallia, punkia, 80-luvun estetiikkaa ja B-kauhuelokuvien henkeä. Yhtyeen riveissä vaikuttaa tuttuja nimiä mm. Kuolemanlaakson, Hooded Menacen ja Thermaten riveistä. Esikoisalbumi The Dark Overlords of the Universe on täynnä tarttuvia kertosäkeitä, raskaita riffejä, kauhua ja hyväntuulista hulluutta.\n\nDAN GLENNZIG tarjoilee puolestaan Danzigin kolmen ensimmäisen albumin parhaat palat. Yhtyeen jäsenistöä löytyy mm. Huntersin, Mangled Handsin ja COBRALIFEn riveistä.\n\nPukeudu Halloween-hengessä – jos uskallat! Tätä iltaa ei kannata jättää väliin.",
-    "price": "15 €",
-    "ticketUrl": "https://www.tiketti.fi/sf-perkele-presents-halloween-night-bar-loose-helsinki-lippuja/120884",
-    "image": "",
-    "ageLimit": "K-18"
-  },
-  {
-    "id": "manual-1791716094522",
-    "title": "Emodisko Halloween Special: Take to the Skis",
-    "date": "2026-10-31T21:30:00.000Z",
-    "venue": {
-      "name": "Tavastia klubi",
-      "address": "Urho Kekkosen katu 4-6, Helsinki"
-    },
-    "description": "EMODISKON HALLOWEEN-ERIKOINEN JUHLITAAN JÄLLEEN TAVASTIALLA: TAKE TO THE SKIS!\nVuonna 2025 juhlittu kaikkien aikojen ensimmäinen Emodiskon kipparoima Halloween Tavastialla oli jymymenestys... eikä kevään 2026 tulikuuma ED's on the Beach -spektaakkeli hävinnyt Halloween-keikaukselle lainkaan. Koska meitä ED:ssä ja entouragessamme kiehtovat sekä jyrkät kontrastit että vastakohtaisuudet, mennään tämän syksyn Halloween-spessussa kevään rantabileiden vastaisesti ankarasti pakkasen puolelle: Take to the Skis!\n\nLauantaina 31.10.2026 on jälleen luvassa valtakunnan hurjin Halloween-hurvittelu pukukilpailuineen, yllätyksellisine ohjelmanumeroineen ja vierailijoineen. Inspiroidu pukeutumisessasi kylmistä tai lumisista asioista: ks. esim. lumi, jää, jääkausi, absoluuttinen nollapiste, Mount Gagazet Final Fantasy X:stä, kukkulallinen valkoista asiaa \"Scarfacen\" Tony Montanan toimiston pöydällä, Calvon suhde Falling in Reverseen, snoukkaaminen, murtomaahiihto – you name it. Vain mielikuvituksesi on rajana!\n\nParhaat pukeutujat palkitaan. Ja kenties biisivalinnatkin ovat tavanomaista kylmempiä... mutta tunnelma vähemmän yllättäen ei. Tästä tulee absoluuttinen rager. Valmistaudu täyslaidalliseen proverbiaalisesta (ja ehkä ihan oikeasta?) lumitykistä!\n\nIllan avaa media- ja tapahtuma-alan moniosaaja Ron Forsmanin uusi The Style Is Death -klubi, jossa gootti- ja tummasävyinen synamusiikki kohtaa videotaiteen.",
-    "price": "12 €",
-    "ticketUrl": "https://www.tiketti.fi/emodisko-halloween-special-take-to-the-skis-tavastia-klubi-lippuja/121004",
-    "image": "",
-    "ageLimit": "K-18"
   },
   {
     "id": "manual-1791716179644",
@@ -1611,42 +1531,6 @@
     "ageLimit": "K-18"
   },
   {
-    "id": "manual-1791729924013",
-    "title": "Agarwaen + Pressure Points + Lights to Remain",
-    "date": "2026-10-31T18:00:00.000Z",
-    "venue": {
-      "name": "Playhouse Bar",
-      "address": "Nokiantie 2-4, Helsinki"
-    },
-    "description": "𝐀𝐆𝐀𝐑𝐖𝐀𝐄𝐍\n\nAgarwaen is a Finnish avant-garde extreme metal band. The band has performed extensively across Finland, toured Europe, and appeared at Tuska Festival in 2024. In the summer of 2026, Agarwaen released its third full-length album, The Murder Trend, through the Italian record label Over the Border Records.\n\nAgarwaen delivers wild and deranged soundscapes, combining infectious riffs with intense, immersive atmospheres. Their theatrical live performances feel like scenes from a horror film set in a mental asylum. A bizarre and uncompromising force, Agarwaen blends a wide range of metal styles into one furious, chaotic, and utterly insane musical experience.\n\n𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞 𝐏𝐨𝐢𝐧𝐭𝐬\n\nPressure Points is a Finnish melodic progressive metal band founded in Heinola in 2004. Known for their strong melodies and dynamic compositions, the band blends elements of melodic and progressive metal with influences from acts such as Porcupine Tree, Rush, Dream Theater, and Leprous.\n\nThe band has shared stages with Katatonia, Samael, and Omnium Gatherum, and toured Northern Europe alongside bands including Insomnium, Nile, and Keep of Kalessin.\n\nSigned to Spain’s Art Gates Records, Pressure Points released their critically acclaimed album The Island in 2023, followed by extensive touring in Finland and the Baltics. The band released new singles The Chase and Shapeless in 2024 while working on their fourth studio album. In 2025, they performed at events including Maaliskuun Musta Messu in Finland and Masters of Rock in the Czech Republic.\n\n𝐋𝐢𝐠𝐡𝐭𝐬 𝐭𝐨 𝐑𝐞𝐦𝐚𝐢𝐧\n\nLights to Remain is one of the fastest growing metal bands from Finland. Lights to Remain was formed in Lappeenranta and combines complex, melodic riffage with fast-paced rhythmic parts, culminating in powerful choruses, bringing together the best parts of 90’s melodic death metal mixed with 00’s metalcore. Lights to Remain released their debut full-length album in December 2024, which has received praises all over the world especially in their homeland. On stage the band will not leave anyone cold with their energetic live show, and your neck will hurt the next day. With the moshpit circling around and everyone chanting together, you can almost feel the energy by hand.\n\n𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥 𝐀𝐜𝐚𝐝𝐞𝐦𝐲\n\nFounded in 2021, Carnival Academy is a band formed by experienced musicians from Assemble the Chariots, Wake Up Frankie, and Resonance. The members bring years of live experience from venues and festivals across Finland, including appearances at Tuska and Nummirock.\n\nCarnival Academy’s music is a style of metal they have dubbed Carnivalcore, where electronic elements play a major role. Catchy pop-inspired clean choruses and aggressive screams are combined with dubstep-influenced breakdowns and infectious, easy-to-follow grooves. The band dusts off the top shelf of the “circus theme” with playful concepts and lyrics that don’t take themselves too seriously.\n\nWith influences such as Eskimo Callboy, One Morning Left, and Turmion Kätilöt, Carnival Academy delivers a colorful and energetic live show with a professional approach. In addition to the music, the band aims to create a visually engaging experience for the audience.",
-    "price": "15 €",
-    "ticketUrl": "https://fienta.com/clowny-business-helsinki",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792478698600",
-        "artist": "Agarwaen",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792478709700",
-        "artist": "Pressure Points",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792478717381",
-        "artist": "Lights to Remain",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792478751760",
-        "artist": "Carnival Academy",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
     "id": "manual-1791730397043",
     "title": "Blind Channel",
     "date": "2026-11-14T16:00:00.000Z",
@@ -2415,32 +2299,6 @@
     "ageLimit": "K-18"
   },
   {
-    "id": "manual-1792830838897",
-    "title": "Lavina",
-    "date": "2026-10-31T17:00:00.000Z",
-    "venue": {
-      "name": "Kuudes linja",
-      "address": "Hämeentie 13 B, Helsinki"
-    },
-    "lineup": [
-      {
-        "id": "band-1792830969194",
-        "artist": "Lavina",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792830972750",
-        "artist": "Numento",
-        "stageTime": ""
-      }
-    ],
-    "description": "Lavina is a six-piece alternative-modern metal powerhouse from Niš, Serbia, formed in the middle of 2020. Known for their explosive mix of crushing guitar riffs, atmospheric keyboards, cold electronic textures and raw, introspective lyrics, the band has rapidly risen as one of the most exciting acts on the Balkan metal scene. With a sound that bridges modern metal and progressive elements, Lavina delivers epic, cinematic live shows that leave audiences breathless. Their debut album Odyssey (2022) established Lavina as a serious force, showcasing complex compositions and emotional depth. The band has since released a string of strong standalone singles and continues to tour clubs and festivals across Europe.\n\nIn August and November of 2024, the group released two singles titled In Your Absence, Iron Will. In March of 2025, they released their latest single ,\"This, Too, Will Pass.\" , which marked a transition in sound and style. In February 2026, Lavina made history by winning Pesma za Evroviziju: ’26 (Serbian Eurovision Contest) with their powerful single \"Kraj mene\" (which has double meaning in Serbian - \"The End Of Me\"/\"By My Side\"), earning the honor of representing Serbia at the Eurovision Song Contest 2026 in Vienna.\n\nTheir sophomore album is expected in fall of 2026. and will undoubtedly be their most ambitious project yet.",
-    "price": "30.25 €",
-    "ticketUrl": "https://gotobeat.com/gig/lavina-live-in-helsinki-Jp/",
-    "image": "",
-    "ageLimit": "K-18"
-  },
-  {
     "id": "manual-1792831342432",
     "title": "Dreadsight + Rylos + Nuutti Hannula Radianssi",
     "date": "2026-12-04T18:00:00.000Z",
@@ -2896,5 +2754,27 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-10-27T20:53:16.393Z"
+  },
+  {
+    "id": "manual-1793778069895",
+    "title": "Dynazty (SWE)",
+    "date": "2027-02-24T17:00:00.000Z",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1793778081179",
+        "artist": "Dynazty",
+        "stageTime": ""
+      }
+    ],
+    "description": "Vuonna 2008 perustettu Dynazty on vuosien varrella kasvanut skandinaavisesta hard rock -skenestä todelliseksi voimatekijäksi ja merkittäväksi nimeksi modernin melodisen metallin huipulla.\n\nHelmikuussa 2027 yhtye saapuu jälleen tervehtimään suomalaisia ystäviään. Dynazty iskee 24.-27. helmikuuta Helsingissä, Tampereella, Jyväskylässä ja Kuopiossa. Ennakkoliput keikoille tulevat myyntiin keskiviikkona 4. marraskuuta 2026.\n\nDynaztyn uran merkittäviin virstanpylväisiin kuuluu vuonna 2020 julkaistu, listoja valloittanut albumi The Dark Delight, joka on myynyt kultaa sekä Ruotsissa että Suomessa. Myös albumin singlelohkaisu Heartless Madness on yltänyt platinalevyn myyntilukemiin.\n\nViime vuosina tehdyt kiertueet sellaisten yhtyeiden kuin Sabaton, Powerwolf, Battle Beast, Pain ja Kissin’ Dynamite kanssa ovat vakiinnuttaneet Dynaztyn aseman yhtenä Euroopan merkittävimmistä oman sukupolvensa live-esiintyjistä.\n\nElokuussa 2024 Dynazty päätti laajan Euroopan kesäfestivaalikiertueensa julkaisemalla uuden kappaleen Devilry of Ecstasy, jota seurasi seuraavana vuonna albumi Game of Faces, jonka julkaisi Napalm Records.\n\nBändin 10. pitkäsoitto Dark Arts ilmestyy 5. maaliskuuta 2027, joten Suomessa kuullaan helmikuussa livenä varmasti muutama uusi Dynazty-ralli.",
+    "price": "33,50 €",
+    "ticketUrl": "https://www.tiketti.fi/dynazty-swe-tavastia-klubi-helsinki-lippuja/121969",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-11-04T07:41:09.895Z"
   }
 ]
