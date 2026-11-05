@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791711933526",
-      "title": "Boris (JPN) & Planning For Burial (US)",
-      "date": "2026-11-04T17:00:00.000Z",
-      "venue": {
-        "name": "KULT",
-        "address": "Sturenkatu 4, Helsinki"
-      },
-      "description": "Japanilaisyhtye Boris saapuu loppuvuodesta Suomeen. Yhtye nähdään KULT Helsingissä 4. marraskuuta, ja illan lämmittelijana esiintyy yhdysvaltalainen Planning For Burial.",
-      "price": "",
-      "ticketUrl": "https://www.lippu.fi/artist/boris/",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792827802049",
-          "artist": "Boris",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792827806754",
-          "artist": "Planning For Burial",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
-      "id": "manual-1791711995308",
-      "title": "Timo Kotipelto & Robustik",
-      "date": "2026-11-04T18:30:00.000Z",
-      "venue": {
-        "name": "Tähti",
-        "address": "Aleksis Kiven katu 17, Helsinki"
-      },
-      "description": "",
-      "price": "29 €",
-      "ticketUrl": "https://www.lippu.fi/artist/timo-kotipelto/timo-kotipelto-robustik-4199362/?cityname=Helsinki",
-      "image": "",
-      "ageLimit": "K-18"
-    },
-    {
       "id": "manual-1791716179644",
       "title": "I Think I Broke Something, Khroma, Iha Sama",
       "date": "2026-11-05T17:00:00.000Z",
