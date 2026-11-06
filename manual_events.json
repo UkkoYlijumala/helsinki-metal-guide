@@ -3010,5 +3010,54 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-11-06T22:24:51.899Z"
+  },
+  {
+    "id": "manual-1794004329495",
+    "title": "Till Lindemann - World Tour 2027",
+    "date": "2027-10-04T17:00:00.000Z",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794004355445",
+        "artist": "Till Lindemann",
+        "stageTime": ""
+      }
+    ],
+    "description": "Rammstein-yhtyeestä tunnettu Till Lindemann saapuu Helsinkiin osana World Tour 2027 -kiertuettaan. Artistin energinen liveshow nähdään Helsingin Jäähallissa maanantaina 4.10.2027. Tapahtuman ikäraja on 18 vuotta.\n\nYli 50 konserttia käsittävä maailmankiertue käynnistyy keväällä 2027 muilla mantereilla ja jatkuu syksyllä Euroopassa. Euroopan-osuus kattaa 22 maata sisältäen 33 konserttia. Luvassa on äänekästä, radikaalia ja tinkimätöntä livemenoa.\n\nHelsingin lisäksi Lindemann konsertoi muun muassa Amsterdamissa, Lontoossa, Zürichissä, Milanossa ja Istanbulissa.\n\nVuonna 2025 toteutettu, menestyksekäs Meine Welt -soolokiertue keräsi Euroopassa yleisöä yli 200 000.",
+    "price": "70,10 €",
+    "ticketUrl": "https://www.lippu.fi/artist/till-lindemann/",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-11-06T22:32:09.495Z"
+  },
+  {
+    "id": "manual-1794004499438",
+    "title": "Bruce Dickinson - Psychogod Tour ’27",
+    "date": "2027-11-12T16:00:00.000Z",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794004565670",
+        "artist": "Bruce Dickinson",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794004714326",
+        "artist": "Evergrey",
+        "stageTime": ""
+      }
+    ],
+    "description": "Bruce Dickinson ja hänen sooloyhtyeensä palaavat konserttilavoille ensi vuonna PsychoGod-kiertueella. Kiertueen Helsingin-konsertti järjestetään perjantaina 12. marraskuuta 2027 Jäähallin Black Boxissa. Konsertin erityisvieraana nähdään ruotsalainen progressiivista metallia soittava Evergrey.\n\nBruce Dickinsonin PsychoGod-kiertue sisältää ensi kesän ja syksyn aikana järjestettäviä omia konsertteja sekä festivaaliesiintymisiä eri puolilla Eurooppaa. Tulevat esitykset ovat Dickinsonin ensimmäiset soolokonsertit sen jälkeen, kun The Mandrake Project -kiertue päättyi Brasiliassa syyskuussa 2025. Kiertue käsitti 71 konserttia kolmella mantereella.\n\nIron Maiden -kiireiden täyttämästä vuodesta 2026 huolimatta Dickinson on ehtinyt äänittää uutta materiaalia yhtyeensä kanssa. Kokoonpanoon kuuluvat kitaristit Chris Declercq ja Philip Näslund, basisti Tanya O’Callaghan, kosketinsoittaja Mistheria sekä rumpali Dave Moreno.\n\n“Se, mitä me teemme, on aitoa, ja se on juuri nyt niin tärkeää. Oikea rumpali, oikea basisti, oikeat kitaristit, oikeat koskettimet – tekoäly voi vain kopioida, se voi vain teeskennellä. Se ei voi koskaan olla rakastunut, eikä se voi koskaan soittaa. Tämä bändi? Se todellakin osaa soittaa!” Bruce Dickinson kommentoi.\n\nTulevissa konserteissa kuullaan uutta materiaalia sekä fanien suosikkeja ja harvinaisempia kappaleita Dickinsonin koko soolouran ajalta.",
+    "price": "75,50 €",
+    "ticketUrl": "https://www.ticketmaster.fi/event/2040634632",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-06T22:34:59.438Z"
   }
 ]
