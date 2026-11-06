@@ -2988,5 +2988,27 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-04T20:59:26.870Z"
+  },
+  {
+    "id": "manual-1794003891899",
+    "title": "Madmans Esprit",
+    "date": "2027-01-25T18:00:00.000Z",
+    "venue": {
+      "name": "Korjaamo",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794003909544",
+        "artist": "Madmans Esprit",
+        "stageTime": ""
+      }
+    ],
+    "description": "Madmans Esprit on eteläkorealainen visual kei -vaikutteinen extreme metal -yhtye, joka yhdistää extreme metalia voimakkaaseen tunneilmaisuun ja kerronnalliseen syvyyteen.\n\nYhtye on vakiinnuttanut asemansa maailmanlaajuisen yleisön keskuudessa, ja sillä on Spotifyssa noin 55 000 kuukausittaista kuuntelijaa.\n\nÄskettäisellä Euroopan-kiertueellaan, jolla yhtye toimi pääesiintyjänä, Madmans Esprit esiintyi noin 10 kaupungissa keräten yhteensä noin 4 500 hengen yleisön.\n\nKiertue sisälsi useita loppuunmyytyjä konsertteja useissa maissa, kuten Isossa-Britanniassa, Saksassa, Suomessa, Puolassa ja Romaniassa, mikä osoittaa vahvan ja tasaisen kysynnän eri alueilla.\n\nYhtye jatkaa kasvamistaan yhä mittavampien Euroopan-kiertueiden myötä, pitäen samalla yllä aktiivista keikkailua Japanissa ja Etelä-Koreassa.",
+    "price": "39,90 €",
+    "ticketUrl": "https://www.lippu.fi/artist/madmans-esprit/",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-06T22:24:51.899Z"
   }
 ]
