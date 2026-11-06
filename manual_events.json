@@ -3081,5 +3081,27 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-11-06T22:44:03.477Z"
+  },
+  {
+    "id": "manual-1794005567610",
+    "title": "Siamese (DEN) - Love Is Dissolution Tour 2027",
+    "date": "2027-04-23T17:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794005576054",
+        "artist": "Siamese",
+        "stageTime": ""
+      }
+    ],
+    "description": "Tanskalainen modernin metallin yhtye Siamese saapuu Suomeen keväällä 2027 kahdelle klubikeikalle. Melodista metalcorea, elektronisia elementtejä ja tarttuvia popvaikutteita yhdistelevä omaleimainen kvartetti esiintyy perjantaina 23. huhtikuuta Helsingin On the Rocksissa ja lauantaina 24. huhtikuuta Tampereen Klubilla. \n\nKööpenhaminasta nouseva Siamese on vakiinnuttanut asemansa eurooppalaisen modernin metallin kiinnostavimpien nimien joukossa. Yhtyeen musiikissa raskaat kitarariffit, elektroniset sävyt ja suuret, melodiset kertosäkeet kohtaavat tavalla, joka puhuttelee niin metalcoren kuin vaihtoehtorockin ystäviä. Siamese tunnetaan erityisesti vahvoista melodioistaan ja laulaja Mirza Radonjican tunnistettavasta äänestä. \n\n2011 perustettu Siamese on vuosien varrella kehittänyt ilmaisuaan aina vain monipuolisemmaksi musiikkinsa intensiteetistä tinkimättä. Bändin tuotannossa modernin metallin aggressiivisuus yhdistyy popmusiikin tarttuvuuteen, ja kappaleiden tunnelmat vaihtelevat herkistä melodioista räjähtäviin purkauksiin ja raskaisiin osuuksiin. Varsinkin 2024 julkaistu Elements-albumi vahvisti yhtyeen asemaa kansainvälisellä modernin metallin kentällä, ja yhtyeen uusin julkaisu on viime kesäkuussa ilmestynyt Dissolution-pitkäsoitto.\n\nSiamese on energinen liveyhtye, jonka esiintymisissä tarttuvat kertosäkeet, voimakkaat rytmit ja intensiivinen lavailmaisu pääsevät oikeuksiinsa. Huhtikuun kaksi Suomen-keikkaa tarjoavat mahdollisuuden kokea yhtyeen musiikki tiiviissä klubitunnelmassa.",
+    "price": "29,50 €",
+    "ticketUrl": "https://www.tiketti.fi/siamese-den-on-the-rocks-helsinki-lippuja/122196",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-11-06T22:52:47.610Z"
   }
 ]
