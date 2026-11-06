@@ -3059,5 +3059,27 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-11-06T22:34:59.438Z"
+  },
+  {
+    "id": "manual-1794005043477",
+    "title": "Saxon: Gods of Thunder Tour",
+    "date": "2027-03-06T14:45:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794005047710",
+        "artist": "Saxon",
+        "stageTime": ""
+      }
+    ],
+    "description": "Brittiläinen Saxon, yksi heavy metalin kestävimmistä ja vaikutusvaltaisimmista yhtyeistä, saapuu lauantaina 6. maaliskuuta 2027 Helsingin Kulttuuritalolle osana Gods of Thunder Tour -kiertuettaan. Yhtye on tänään julkistanut kiertueensa Euroopan-osuuden jäljellä olevat päivämäärät. Kyseessä on yhtyeen ensimmäinen Helsingin-keikka yli 15 vuoteen.\n\nYhtye perustettiin Barnsleyssa vuonna 1977, ja se julkaisi esikoisalbuminsa Saxon vuonna 1979. Saxon nousi New Wave of British Heavy Metal -liikkeen eturintamaan Iron Maidenin ja Def Leppardin rinnalle, samaan brittiläisen heavy metalin suureen jatkumoon, jota myös Judas Priest oli ollut rakentamassa.\n\nSaxonin tavaramerkiksi ovat muodostuneet jykevät kitarariffit, suuret kertosäkeet ja tinkimätön live-energia. Yhtyeen klassikoihin kuuluvat muun muassa Wheels of Steel, Denim and Leather, Princess of the Night ja 747 (Strangers in the Night). Vuosikymmenten aikana Saxon on säilyttänyt asemansa sukupolvia yhdistävänä metalliyhtyeenä, jonka vaikutus kuuluu yhä uuden polven heavy-bändeissä.\n\nYhtye ei osoita hidastumisen merkkejä. Saxonin 25. studioalbumi Gods of Thunder julkaistaan tammikuussa 2027.",
+    "price": "35 €",
+    "ticketUrl": "https://www.lippu.fi/artist/saxon/",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-06T22:44:03.477Z"
   }
 ]
