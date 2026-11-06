@@ -3103,5 +3103,27 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-06T22:52:47.610Z"
+  },
+  {
+    "id": "manual-1794006701367",
+    "title": "Uli Jon Roth (GER) - Virgin Killer 50th Anniversary Tour",
+    "date": "2026-12-06T17:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794006746722",
+        "artist": "Uli Jon Roth",
+        "stageTime": ""
+      }
+    ],
+    "description": "Kitaristilegenda ja rock-visionääri Uli Jon Roth esiintyy On The Rocksissa itsenäisyyspäivänä!\n\nOmaleimaisesta soittotyylistään sekä innovatiivisista kitarasoundeistaan tunnettu Uli Jon Roth juhlistaa vuonna 2026 Scorpionsin legendaarisen “Virgin Killer” -albumin 50-vuotista taivalta. Vuosina 1974–1978 Scorpionsin soolokitaristina toiminut saksalainen oli mukana luomassa sellaisia ​​klassikkoalbumeita kuin “Fly To The Rainbow”, “In Trance” sekä tietenkin maailmanlaajuisesti kultaa myynyt Virgin Killer. Hänen virtuoosimaiset soolonsa ja melodiakulkunsa tekivät hänestä paitsi uusklassisen rockin uranuurtajan, myös yhden aikansa vaikutusvaltaisimmista kitaristeista, joka inspiroi soittajasukupolvia ympäri maailmaa.\n\nVirgin Killer -50-vuotisjuhlakiertueella albumi esitetään ensimmäistä ja viimeistä kertaa kokonaisuudessaan – kyseessä on ainutlaatuinen tapahtuma, jota ei ole aiemmin nähty eikä tulla enää koskaan näkemään. Skandinavian halki kulkeva kiertue lupaa unohtumattomia hetkiä, jotka täyttyvät voimakkaista kitarariffeistä, tunteikkaista melodioista ja spontaaneista improvisaatioista – eli sellaisista inspiroituneista esityksistä, joihin vain Rothin tasoinen artisti kykenee.\n\nUli Jon Roth esittelee keikoilla myös ajankohtaista ohjelmistoaan ja avaa illan taiteellisesti kunnianhimoisella “Pictures Of Destiny” -kokonaisuudellaan. Luvassa on siis ilta täynnä historiaa, intohimoa ja vertaansa vailla olevaa musiikkia!",
+    "price": "37,50 €",
+    "ticketUrl": "https://www.tiketti.fi/uli-jon-roth-ger-on-the-rocks-helsinki-tickets/120881",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-11-06T23:11:41.367Z"
   }
 ]
