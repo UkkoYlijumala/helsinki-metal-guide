@@ -1,51 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791716179644",
-      "title": "I Think I Broke Something, Khroma, Iha Sama",
-      "date": "2026-11-05T17:00:00.000Z",
-      "venue": {
-        "name": "Semifinal",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "description": "I THINK I BROKE SOMETHING\n\nI Think I Broke Something (ITIBS) on electronic punk -duo, joka yhdistelee raakaa electroa, metallia, säröisiä syntikoita ja aggressiivisia rytmejä genrerajoista piittaamatta. ITIBS soundissa voi kuulla kaikuja artisteista kuten The Prodigy, Skinny Puppy ja 3TEETH, mutta ennen kaikkea se kuulostaa ITIBSä itseltään. \n\nVahvalla DIY-asenteella toimiva duo on tehnyt yhteistyötä mm. Maximin (The Prodigy), Zardonicin ja DJ Hyperin kanssa.\nSemifinalin keikka toimii samalla uuden Another Escape -EP julkaisukeikkana. Viiden biisin EP julkaistaan 5.11.2026. \n\nKeikalla kuullaan uutta materiaalia sekä biisejä yhtyeen aiemmasta tuotannosta.\n\nKHROMA\n\nHelsinkiläinen electro-metal-yhtye Khroma julkaisi lokakuussa 2025 omaa nimeään kantavan, yhtyeen neljännen albumin. Se esittelee Khroman\nmonipuolisimmillaan: yhtye laajentaa elektronisen vaihtoehtometallinsa rajoja suoraviivaisista death- ja groove metal -osuuksista täysimittaiseen grimeen, elektroon ja trip hopiin. Ultrapainavan aloituskappaleen \"Abattoir (Chosen)\" kautta \"NPCs\":n puhdasveriseen rapiin ja albumin päättävään, monimutkaisesti polveilevaan \"Carnivorous\"-kappaleeseen yltävä \"Khroma\" on rajattoman raskas albumi, joka ei jahtaa arkipäiväisiä genrekonventioita. \n\nKhroma valmistautuu viidennen albuminsa julkaisuun kevällä 2027 tekemällä muutaman valikoidun keikan.\n\nIHA SAMA\n\nIha Sama on vuonna 2011 Hämeenlinnassa perustettu kokeellista rokkia soittava yhtye. Bändin kategorisointi on haastavaa tyylin vaihdellessa aina NuMetal henkisestä rytkeestä kevyempään post punk henkiseen rallatteluun ja välissä uiskennellaan hieman progressiivisemmissa vesissä. Lyriikka on pääasiassa hämmentävää sen keskittyessä havaintoihin ja jargoniin erikoistyypeistä nyky-yhteiskunnassa ja sen ulkopuolella, jossa meininki on vähintääkin omituista. \n\nMusta huumori ja sarkasmi ovat ehkä niitä kantavia teemoja, mutta mukaan mahtuu myös vakavampiakin aiheita. Bändi on aina vahvoilla livenä -- pilke silmäkulmassa asenne on vahvasti läsnä tasokkaan soitannan lomassa nöyristelyn loistaessa poissaolollaan.. All-in, iha sama!",
-      "price": "13 €",
-      "ticketUrl": "https://www.tiketti.fi/i-think-i-broke-something-khroma-iha-sama-semifinal-helsinki-lippuja/121408",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792479513153",
-          "artist": "I Think I Broke Something",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792479528050",
-          "artist": "Khroma",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792479541385",
-          "artist": "Iha Sama",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
-      "id": "manual-1791716523957",
-      "title": "Pimento – Vatsatanssia metallimusiikkiin: The Cemetery",
-      "date": "2026-11-05T17:00:00.000Z",
-      "venue": {
-        "name": "On The Rocks",
-        "address": "Mikonkatu 15, Helsinki"
-      },
-      "description": "PIMENTO – Vatsatanssia metallimusiikkiin -spektaakkeli nähdään jälleen Helsingin On The Rocksissa marraskuussa!\nHistoriansa neljäs Pimento kutsuu levottomat henget esiin hautausmaa-teemallaan. Marraskuun viides ilta muuttaa On The Rocksin alakerran kuoleman kehdoksi, jossa mitä tahansa voi tapahtua. Luvassa on koko illan mittainen tarina, jossa äänen saavat niin vainajien varjot, varikset kuin kuoleman morsiametkin. Multaisilla mailla luitaan kolisuttelevat sekä metallivatsatanssin ammattilaiset että oppilasryhmät – synkkien sävelten ja hypnoottisen liikkeen johdattamina.\n\nIlta tarjoaa visuaalista inspiraatiota yön kulkijoille, kauhuromantiikan ystäville ja kaikille varjoissa viihtyville. Pue siis päällesi synkkääkin synkempi kaapu ja liity saattueeseen, sillä tätä spektaakkelia et halua jättää väliin!",
-      "price": "28 €",
-      "ticketUrl": "https://www.tiketti.fi/pimento-vatsatanssia-metallimusiikkiin-on-the-rocks-helsinki-lippuja/119513",
-      "image": "",
-      "ageLimit": "K-18"
-    },
-    {
       "id": "manual-1791716574966",
       "title": "Northwind, Throne Of Selene, Kouta",
       "date": "2026-11-06T18:00:00.000Z",
