@@ -320,203 +320,6 @@
     "ageLimit": ""
   },
   {
-    "id": "manual-1791716574966",
-    "title": "Northwind, Throne Of Selene, Kouta",
-    "date": "2026-11-06T18:00:00.000Z",
-    "venue": {
-      "name": "Skenesali",
-      "address": "Jönsaksentie 6, Vantaa"
-    },
-    "description": "Northwindin ikärajaton levyjulkkarikeikka Skenesalilla!\n\nNorthwind:\nNorthwind on vuonna 2019 perustettu Folk/Black Metal yhtye joka ammentaa inspiraationsa suomen muinaismytologiasta, luonnosta, ja pakanoiden ikuisesta taistosta kristinuskoa vastaan. Skenesalin illassa juhlitaan Northwindin debyyttialbumin nimeltä \"Tuhkasta Nouseva Mahti\" julkaisua ja levy tullaan kuulemaan livenä kokonaisuudessaan parin vamhemman klassikon kera!\n\nThrone Of Selene:\nThrone of Selene on oululainen melodista black -ja death metallia yhdistävä yhtye. Throne of Selene tunnetaan heidän tavastaan yhdistellä hienoja melodioita agressiivisen groovaavaan soittoonsa. Throne of Selene julkaisee debyyttialbuminsa 2026 syksyllä.\n\nKouta:\nKOUTA on vuonna 2021 perustettu suomalainen yhtye, joka yhdistelee black metalia ja folk-elementtejä omaperäiseksi, väkevän tunnelmalliseksi kokonaisuudeksi.\n\nKOUTA soittaa raskasta metsämetallia, jossa kauniit melodiat, raskaat harmoniat ja suuret kuorot kuljettavat kuulijan pohjoisen kansan tarinoihin. Voimakasta ja vaarallista - lavalla tukka pyörii ja rokki soi!",
-    "price": "12 €",
-    "ticketUrl": "https://www.tiketti.fi/northwind-throne-of-selene-kouta-skenesali-vantaa-lippuja/121047",
-    "image": "",
-    "ageLimit": "",
-    "lineup": [
-      {
-        "id": "band-1792479591532",
-        "artist": "Northwind",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479597336",
-        "artist": "Throne Of Selene",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479603330",
-        "artist": "Kouta",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791716652458",
-    "title": "SF Perkele Presents: Spiritus Mortis + Counting Hours",
-    "date": "2026-11-06T18:30:00.000Z",
-    "venue": {
-      "name": "Bar Loose",
-      "address": ""
-    },
-    "description": "KOTIMAISEN DOOM METALIN RASKAAT NIMET SAMALLA LAVALLA!\n\nSPIRITUS MORTIS juhlii vuonna 2027 40-vuotista taivaltaan ja saapuu Bar Loosen lavalle marraskuussa.\nSuomalaisen doom metalin pioneeri vie kuulijan ihmismielen pimeimpiin sopukoihin – hulluuteen, mysteereihin ja selittämättömiin ilmiöihin. Bändin tuore single The Hairy Tree ammentaa inspiraationsa Skotlannin synkistä Sawney Bean -legendoista.\n\nNeljä vuosikymmentä raskasta, hidasta ja tinkimätöntä doomia.\n\nIllan toisena bändinä nähdään COUNTING HOURS, jonka melodinen ja melankolinen death/doom metal kuljettaa kuulijan vanhan Katatonian, Anatheman, Paradise Lostin ja October Tiden kaltaisiin synkkiin maisemiin.",
-    "price": "15 €",
-    "ticketUrl": "https://www.tiketti.fi/sf-perkele-presents-spiritus-mortis-counting-hours-bar-lippuja/121077",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792479686016",
-        "artist": "Spiritus Mortis",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479689109",
-        "artist": "Counting Hours",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791716717328",
-    "title": "Freakangel (EE), Sugar Rody (EE), Lirpo",
-    "date": "2026-11-06T18:00:00.000Z",
-    "venue": {
-      "name": "Club Underground",
-      "address": ""
-    },
-    "description": "Baltian kovin industrialtykki Freakangel palaa Suomeen kahden keikan minirundille. \nMukana industrialpunkin kantaa-, muttei osaaottavat suurlähettiläät Lirpo ja monesssakin mielessä tuore Dark dance-tulokas Sugar Rody Tallinnasta.",
-    "price": "16,50 €",
-    "ticketUrl": "https://www.tiketti.fi/freakangel-ee-sugar-rody-ee-lirpo-club-underground-helsinki-lippuja/121169",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792479628772",
-        "artist": "Freakangel",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479635186",
-        "artist": "Sugar Rody",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792498502381",
-        "artist": "Lirpo",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791719790588",
-    "title": "A Celebration of Power Metal - After Infinity & Gladenfold",
-    "date": "2026-11-06T18:00:00.000Z",
-    "venue": {
-      "name": "Lepakkomies",
-      "address": "Helsinginkatu 1, Helsinki"
-    },
-    "description": "Neljä vuotta sitten perustettu vieraileviin laulajiin nojaava moderni power metal yhtye After Infinity tekee odotetun ensiesiintymisensä juhlistaakseen toisen kokopitkän albuminsa Beyond Eternity julkaisua. Yhtyeen perustaja Zsolt Szilagyi on vanhan liiton power metal jyrä Dreamtalen kitaristi, ja lavalla nähdään myös saman yhtyeen laulaja Nitte Valo sekä kosketinsoittaja Akseli Kaasalainen. Lauteille nousevat laulamaan myös Leveragesta ja Delainistä tuttu Paolo Ribaldini, Shereignistä ja Fear of Dominationista tuttu Sara Strömmer, sekä Frozen Factorystä tuttu Stephen Baker - voidaan siis puhua jo superkokoonpanosta!\n\nIllan avaajana toimiva Gladenfold ei kalpene pääesiintyjälle. Yhtye on hionut melodista death metalia ja power metalia yhdistelevää tyyliään jo yli kahden vuosikymmenen ajan. Alkuvuodesta yhtye julkaisi Reaper Entertainmentin kautta neljännen studioalbuminsa Soulbound, joka keräsi kehuja jopa Sonata Arctican Tony Kakolta.\n\nSaavu siis 6.11. Lepakkomieheen Helsingin Kallioon juhlistamaan power metalin ilosanomaa.",
-    "price": "12 €",
-    "ticketUrl": "https://www.tiketti.fi/after-infinity-gladenfold-lepakkomies-helsinki-lippuja/119408",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792479655856",
-        "artist": "After Infinity",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479664199",
-        "artist": "Gladenfold",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791720021837",
-    "title": "Assemble The Chariots, Plaguebreeder",
-    "date": "2026-11-07T18:00:00.000Z",
-    "venue": {
-      "name": "On The Rocks",
-      "address": "Mikonkatu 15, Helsinki"
-    },
-    "description": "Assemble The Chariots omalle headline keikalle Helsinkiin!\nMarraskuun On The Rocksin keikka tulee olemaan yhtyeen vuoden ainoa kotikaupungin headline keikka.\n\nHelsingissä koetaan elokuvallisen extreme metal -yhtye Assemble The Chariotsin hurmoksellinen klubikeikka Marraskuussa! Assemble The Chariotsin esikoisalbumi ”Unyielding Night” saavutti huikeita arvioita kautta maailman metallimedioiden ja vakiinnutti yhtyeen aseman Suomessa skenensä kovimpana tekijänä.\n\nAstraaliset ja elokuvamaiset teemat täydentyvät tiukalla blastillä, sekä tummalla extreme metallin tunnelmalla luoden oman maailmansa, joka täydentyy ilmiömäisillä ja raskailla vokaaleilla. ”Unyielding Night” vei yhtyeen kokeellisemmalle tasolle ja löytää yhtyeen musiikillisen ytimen, joka pääsee etuuksiinsa livenä!\n\nIllan avaa Plaguebreeder!",
-    "price": "20 €",
-    "ticketUrl": "https://www.tiketti.fi/assemble-the-chariots-plaguebreeder-on-the-rocks-helsinki-lippuja/120714",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792479831495",
-        "artist": "Assemble The Chariots",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479844263",
-        "artist": "Plaguebreeder",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791720075101",
-    "title": "Rats Will Feast, Kannabinoid (EE)",
-    "date": "2026-11-07T17:00:00.000Z",
-    "venue": {
-      "name": "Kuudes Linja",
-      "address": "Hämeentie 13 B, Helsinki"
-    },
-    "description": "RATS WILL FEAST:\n\nAnkaralla kansainvälisellä keikkailulla erittäin kovan keikkamaineen ansaitusti omaava Rats Will Feast julkaisi keväällä uuden albumin - An Evocation EP:n -, joka on laajasti erittäin pidetty levy. Heidän levyjulkkarikeikkansa Helsingissä oli loppuunmyyty ja meno keikalla oli äärimmäisen kova! Tästä on olemassa monta tarinaa kerrottavana.\n\nRats Will Feast on äärimmäisen aggressiivinen ja raivoisa, kaoottinen mutta hallittu vaihtoehtoisen hardcoren ykkösnimi koko Scandinaviassa. Kuitenkin RWF:n musiikillinen skaala on laaja, sillä esimerkiksi uusimmalla EP:llä on yhtyeen raskaimmat ja kauniimmat hetket. An Evocation albumin Observer -biisin virallinen musiikkivideo on saanut youtubessa 133 000 toistoa!\n\nKANNABINOID:\n\nMetal-doom-trio Kannabinõid julkaisi tähänastisen uransa vaikuttavimman teoksen – kriitikoidenkin ylistämän ”Mass”-albumin.\n\nKannabinoid yhdistele taidokkaasti doomia, psykedeelistä rockia ja ambienttia luoden äänimaiseman, joka on yhtä aikaa murskaavan raskas sekä transsendentaalinen. Albumi palkittiin vuoden parhaana metallialbumina Estonian Music Awards -gaalassa 2024, mikä oli yhtyeelle jo toinen voitto vuoden 2019 ”3”-albumin jälkeen.\n\nViime kuukausina Kannabinõid on kasvattanut kansainvälistä fanikuntaansa menestyksekkäillä klubi- ja festivaalikeikoilla eri puolilla Skandinaviaa ja Itä-Eurooppaa, vahvistaen entisestään mainettaan intensiivisten ja kuulijan täysin mukaansa tempaavien keikkojen ansioista. Yhtye on kiertänyt ja esiintynyt samoilla festivaalilavoilla muun muassa sellaisten artistien kuin Stam1na, 1000mods, Mars Red Sky, Dopelord, Nadja, Poison Ruin ja Eivør kanssa.",
-    "price": "12 €",
-    "ticketUrl": "https://www.tiketti.fi/rats-will-feast-kannabinoid-ee-kuudes-linja-helsinki-lippuja/121122",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792479738871",
-        "artist": "Rats Will Feast",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479757420",
-        "artist": "Kannabinoid",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
-    "id": "manual-1791720161171",
-    "title": "Let's Get Doomed: Kahtia, Lupiinit, Astral Sleep",
-    "date": "2026-11-07T17:00:00.000Z",
-    "venue": {
-      "name": "Vernissa",
-      "address": ""
-    },
-    "description": "Manataan marraskuusta normaaliakin synkempi Kulttuuritehdas Vernissassa.\nLet’s Get Doomed tuo Tikkurilaan illan täynnä raskaita riffejä, hidasta groovea ja synkän hypnoottista tunnelmaa. Lavalle nousevat suomalaisen doomin eri sävyjä edustavat Astral Sleep, Lupiinit ja Kahtia.\n\nAstral Sleep yhdistelee psykedeelistä doom-metallia raskaisiin ja avaruudellisiin tunnelmiin, kun taas Kahtia tuo iltaan runotyttö-doomia black metal -vivahteilla. Lupiinit täydentää kokonaisuuden omalla synkällä ja raskaalla otteellaan.\n\nIltaa säestävät raskas tunnelma ja Vernissan hämärään rakentuva doom-maailma.\n\nIllan mahdollistaa Velmu ry ja tuottaa Echo Collective.",
-    "price": "15 €",
-    "ticketUrl": "https://www.tiketti.fi/kahtia-lupiinit-astral-sleep-vernissa-vantaa-lippuja/118772",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792479799430",
-        "artist": "Astral Sleep",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479803877",
-        "artist": "Lupiinit",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479808066",
-        "artist": "Kahtia",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
     "id": "manual-1791720374168",
     "title": "The Obsessed (US) & Klastos (SWE)",
     "date": "2026-11-12T17:00:00.000Z",
@@ -2074,68 +1877,6 @@
     "ageLimit": ""
   },
   {
-    "id": "manual-1792828170553",
-    "title": "Terromania",
-    "date": "2026-11-06T18:00:00.000Z",
-    "venue": {
-      "name": "Playhouse Bar",
-      "address": "Nokiantie 2-4, Helsinki"
-    },
-    "lineup": [
-      {
-        "id": "band-1792828243114",
-        "artist": "Terromania",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792828244485",
-        "artist": "Tuosa",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792828282731",
-        "artist": "Alive Alive",
-        "stageTime": ""
-      }
-    ],
-    "description": "Terromania, Tuosa & Alive Alive will perform at Playhouse Bar, Helsinki on Friday Nov 6th!\n\nDoors open: 20:00\nTickets: 8€ (from the door)\nK18\n\nTerromania is releasing their second full length album 'Lamentations For A Sunless World' on November 26th!",
-    "price": "8 €",
-    "ticketUrl": "",
-    "image": "",
-    "ageLimit": "K-18"
-  },
-  {
-    "id": "manual-1792828466087",
-    "title": "Unsainted",
-    "date": "2026-11-07T17:00:00.000Z",
-    "venue": {
-      "name": "Club Underground",
-      "address": "Muusantori 5, Helsinki"
-    },
-    "lineup": [
-      {
-        "id": "band-1792828539928",
-        "artist": "Unsainted",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792828545071",
-        "artist": "Malummeh",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792828612088",
-        "artist": "Dying reverie",
-        "stageTime": ""
-      }
-    ],
-    "description": "",
-    "price": "10 €",
-    "ticketUrl": "https://www.elektrikproducts.com/club-underground",
-    "image": "",
-    "ageLimit": "K-18"
-  },
-  {
     "id": "manual-1792829240704",
     "title": "Monsternaut + Mount Palatine + Astral Sleep",
     "date": "2026-11-20T18:00:00.000Z",
@@ -2454,38 +2195,6 @@
     "addedDate": "2026-10-25T11:46:33.131Z"
   },
   {
-    "id": "manual-1793083558332",
-    "title": "Pentacle (NL)",
-    "date": "2026-11-06T18:00:00.000Z",
-    "venue": {
-      "name": "Pub Olarin Ossi",
-      "address": "Sammalkalliontie 5, Espoo"
-    },
-    "lineup": [
-      {
-        "id": "band-1793083578874",
-        "artist": "Pentacle",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793083586154",
-        "artist": "Vitriolic",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793083598966",
-        "artist": "Black Rock",
-        "stageTime": ""
-      }
-    ],
-    "description": "Dutch ancient death metal masters Pentacle first time in Finland!\n\nPENTACLE\n\nChained within the mythical realms of primeaval black/death metal, so graciously unveiled in the early 80's by hallowed cults such as Venom, Hellhammer, Celtic Frost, Possessed, Messiah, Necrovore, Death, Pentagram (CH), Slaughter (CAN) and Necrophagia, Pentacle's sepulchral tribute, to this unforgotten legacy, started back in winter 1989 when Mike Verhoeven (guitar) and Wannes Gubbels (bass/vocals) joined forces in their quest for Ancient Death Metal madness...\n\nThrough the years, the band entered many stages in Europe, North and South America. Still firmly rooted in the underground scene Pentacle spawned forth many (split) releases on vinyl, CD and tape. The newest nine track split release (w/Italian Death Metallers Deathfucker) is called “Spawn of the Graveless Deity”, again released through Iron Pegasus Records on vinyl and CD while both Unholy Domain and Goatthrone Records have released the tape version.\n\nPentacle’s five new songs were recorded at Toneshed Recording Studio and this deathly offering presents the band in full gear showing no signs of decay, moving further into the realm of Ancient Death Metal, utterly proud of this morbid achievement.\n\nAfter more than 37 years of active (!) service, the musical concept of the band is still firmly rooted in the golden ‘80’s, though remains far from being a mere copy-cat of the forefathers of extreme Metal. Do not make the mistake to file Pentacle under any retro-trend. They started performing their music when only a selected (and loyal) audience was interested in this honest style of music. While others sailed the seas of successive trends, Pentacle did not. Together with an obscure, yet individual lyrical approach, the band always worked hard to create a personal style, based on ancient Metal values. Remember this when listening to Pentacle’s releases...",
-    "price": "25 €",
-    "ticketUrl": "https://biletti.fi/e/pentacle-espoo",
-    "image": "",
-    "ageLimit": "K-18",
-    "addedDate": "2026-10-27T06:45:58.332Z"
-  },
-  {
     "id": "manual-1793083802370",
     "title": "Olari Annihilation Fest II",
     "date": "2026-11-13T13:00:00.000Z",
@@ -2588,48 +2297,6 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-10-27T06:53:53.059Z"
-  },
-  {
-    "id": "manual-1793133222542",
-    "title": "Hårder I Drumsö",
-    "date": "2026-11-07T18:00:00.000Z",
-    "venue": {
-      "name": "BAR 52",
-      "address": "Heikkiläntie 2, Helsinki"
-    },
-    "lineup": [
-      {
-        "id": "band-1793133270222",
-        "artist": "Carbuncle",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793133276256",
-        "artist": "Jailbreak",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793133281843",
-        "artist": "MonDeGos",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793133287286",
-        "artist": "Clarkkent",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793133522000",
-        "artist": "Alive Alive",
-        "stageTime": ""
-      }
-    ],
-    "description": "Hårder i Drumsö tuo yhden illan ajaksi raskaan musiikin keskelle saarta. Luvassa on useita hevi- ja rockbändejä – mukana sekä omaa musiikkiaan esittäviä bändejä että tuttuja hard rock- ja metalliklassikoita soittavia kokoonpanoja.\n\nIllan aikana bändejä nähdään kahdessa paikassa: BAR52 ja Lemmenhotellilla. Tarkoituksena on rakentaa rento, matalan kynnyksen metalli-ilta, jossa voi kiertää paikasta toiseen ja löytää samalla sekä uusia bändejä että tuttuja biisejä.",
-    "price": "Free entry",
-    "ticketUrl": "https://allevents.in/helsinki/h%C3%A5rder-i-drums%C3%B6/200030841461721",
-    "image": "",
-    "ageLimit": "",
-    "addedDate": "2026-10-27T20:33:42.542Z"
   },
   {
     "id": "manual-1793134148022",
@@ -3040,5 +2707,27 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-06T23:11:41.367Z"
+  },
+  {
+    "id": "le-helsinkiagqwsd2jjm",
+    "title": "Subseconds: Half-Open Doors, levyjulkkarit",
+    "venue": {
+      "name": "Laterna Magica",
+      "address": "Rauhankatu 7, Helsinki"
+    },
+    "date": "2026-11-10T16:00:00Z",
+    "endTime": "2026-11-10T18:00:00Z",
+    "description": "Helsinkiläinen metallia ja art rokkia musiikissaan yhdistelevä Subseconds julkaisee uuden EP:nsä ”Half-Open Doors” 11.11.2026. Musiikissa on mukana myös saksofoni, jousisoittimet, piano ja vaikutteita elektronisesta musiikista.\n\n Päivää ennen yhtye järjestää levyn ennakkokuuntelutilaisuuden yhdessä Helsingin keskustan ainutlaatuisimmista kirjagallerioista.\n\n Kaikki uteliaat mielet sekä muutoin kiinnostuneet ovat lämpimästi tervetulleita viettämään iltaa EP:n kuuntelun parissa.\n\n Toiveena on, että tapahtuma toimisi myös paikkana luoville ihmisille tavata toisiaan. Jos tunnet jonkun, jolle tapahtuma voisi olla hyödyllinen ja kiinnostava, kerrothan siitä heille ja kutsuthan heidät mukaan!\n\n Laterna Magica\n\n 10.11.2026\n\n 18.00-20.00\n\n Ohjelma:\n\n Artistin hostaama tilaisuus\n\nKaksi levynkuuntelusessiota 18.15 ja 19.00.\n\nArvotaan vieraiden kesken uniikkeja, käsintehtyjä fyysisiä versioita levystä, joita on myös myynnissä\n\nMusiikkivideon näytös\n\nVapaa pääsy, paikkoja on rajoitetusti, jonka vuoksi pyydetään ilmoittautumista ennakkoon.",
+    "ticketUrl": "https://luma.com/n4kaye0u",
+    "image": "https://api.hel.fi/linkedevents/media/images/Subseconds_Julkkarit_Hel.jpeg",
+    "price": "Free Entry",
+    "addedDate": "2026-10-23T13:59:31.980433Z",
+    "lineup": [
+      {
+        "id": "band-1794135104905",
+        "artist": "Subseconds",
+        "stageTime": ""
+      }
+    ]
   }
 ]
