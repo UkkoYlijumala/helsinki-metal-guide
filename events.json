@@ -34,7 +34,14 @@
       "ticketUrl": "https://luma.com/n4kaye0u",
       "image": "https://api.hel.fi/linkedevents/media/images/Subseconds_Julkkarit_Hel.jpeg",
       "price": "Free Entry",
-      "addedDate": "2026-10-23T13:59:31.980433Z"
+      "addedDate": "2026-10-23T13:59:31.980433Z",
+      "lineup": [
+        {
+          "id": "band-1794135104905",
+          "artist": "Subseconds",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791720374168",
