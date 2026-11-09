@@ -3053,5 +3053,143 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-11-09T21:06:25.214Z"
+  },
+  {
+    "id": "manual-1794258838518",
+    "title": "Sonic Rites Festival 2027",
+    "date": "2027-05-21T15:00:00.000Z",
+    "venue": {
+      "name": "Ääniwalli",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794259275718",
+        "artist": "YOB",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259278445",
+        "artist": "Witchcraft",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259288135",
+        "artist": "Kylesa",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259297585",
+        "artist": "Inter Arma",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259311657",
+        "artist": "Dissaffect",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259317671",
+        "artist": "Heathe",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259331199",
+        "artist": "Ensium",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259338346",
+        "artist": "Unkind",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259344080",
+        "artist": "Lana Del Rabies",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259351638",
+        "artist": "Kahtia",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259357484",
+        "artist": "Folk-Lauri",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259363182",
+        "artist": "Hämnd",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259369315",
+        "artist": "T. Jarva & The Dark Place",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259376862",
+        "artist": "Pääkallo",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259382502",
+        "artist": "Abysmal Rites",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259388156",
+        "artist": "Sunniva",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259394107",
+        "artist": "Patriarchy",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259399559",
+        "artist": "Radien",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259405380",
+        "artist": "K L P S",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259411369",
+        "artist": "Rats Will Feast",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794259417565",
+        "artist": "Tonne",
+        "stageTime": ""
+      }
+    ],
+    "description": "Sonic Rites is a Helsinki-based festival celebrating heavy, alternative, and experimental music. Known for its intense atmosphere and genre-blurring lineup, the event brings together music lovers from all walks of underground culture.\n\nThe event serves as an important meeting point for music enthusiasts, blurring genre boundaries and fostering a sense of community. It will particularly attract fans of doom, sludge, post-metal, industrial, and darker alternative rock.",
+    "price": "149,90 €",
+    "ticketUrl": "https://events.liveto.io/events/sonic-rites-2027",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-09T21:13:58.518Z"
+  },
+  {
+    "id": "manual-1794259046762",
+    "title": "Sonic Rites Festival 2027",
+    "date": "2027-05-22T15:00:00.000Z",
+    "venue": {
+      "name": "Ääniwalli",
+      "address": ""
+    },
+    "lineup": [],
+    "description": "Sonic Rites is a Helsinki-based festival celebrating heavy, alternative, and experimental music. Known for its intense atmosphere and genre-blurring lineup, the event brings together music lovers from all walks of underground culture.\n\nThe event serves as an important meeting point for music enthusiasts, blurring genre boundaries and fostering a sense of community. It will particularly attract fans of doom, sludge, post-metal, industrial, and darker alternative rock.",
+    "price": "149,90 €",
+    "ticketUrl": "https://events.liveto.io/events/sonic-rites-2027",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-09T21:17:26.762Z"
   }
 ]
