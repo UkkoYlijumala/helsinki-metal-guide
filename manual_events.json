@@ -1242,16 +1242,68 @@
   {
     "id": "manual-1791728708860",
     "title": "Tuska Festival 2027",
-    "date": "2027-07-02T14:25:00.000Z",
+    "date": "2027-07-02T10:00:00.000Z",
     "venue": {
       "name": "Suvilahti",
       "address": ""
     },
-    "description": "Hädin tuskin ollaan edellisestä selvitty niin Tuskalla on jo kesän 2027 artistikattaus niin hyvällä mallilla ettei paremmasta väliä. Pääesiintyjäkatraan täydentää maailman rakastetuimpiin heavy metal -yhtyeisiin lukeutuva englantilainen Judas Priest. Muut ensi kesän pääesiintyjät ovat jo aiemmin julkaistut Lorna Shore ja Children Of Bodom.\n\nVahvistuneet Tuska 2027 -esiintyjät:\nJudas Priest, Lorna Shore, Children Of Bodom\nHeaven Shall Burn, Kanonenfieber\nThe Devil Wears Prada, Guilt Trip\nStratovarius – Visions 30th Anniversary show, Danko Jones\nSmash Into Pieces, Green Lung, Fox Lake, Gaerea, Avralize, Sinizter\n\nLisää esiintyjiä julkaistaan myöhemmin.\nArtistien esiintymispäivät ilmoitetaan myöhemmin.",
-    "price": "249 €",
+    "description": "Heinäkuun ensimmäisenä viikonloppuna Helsingin Suvilahdessa porskuttava, Judas Priestin, Lorna Shoren ja Children Of Bodomin tähdittämä Tuska 2027 ottaa aimo harppauksen kohti ensi kesää. Artistien esiintymispäivät on nyt julkaistu ja kaikki lippukategoriat ovat saatavilla. Lisäksi on lisätty 14 uutta artistiryhmää jo valmiiksi tavarajunan painoluokassa mittelevään ohjelmistoon.\n\nKansainvälistä tähtipölyä, klassikoita ja uusia kykyjä\nUusia lisäyksiä ensi kesän ohjelmaan ovat modernin metalcoren kirkkaimpaan kärkeen lukeutuva amerikkalainen I Prevail, groovaavaa ja modernia melodista death metallia toimittava ruotsalainen Orbit Culture, Teksasin metalcore-mörssäri Fit For A King sekä goottimetallin uranuurtaja, englantilainen Paradise Lost.\n\nMuita englantia edustavia taiteilijaryhmiä ovat luolamiesmäisen raskaasti louhiva Conan, death metal -lupaus Celestial Sanctuary sekä korkeaoktaanista rokkia tarjoileva Split Dogs.\n\nAustralian värien puolesta liputtavat kovan nosteen aallonharjalla ratsastava hardcore-ylpeys Speed sekä naamion ja mystisyyden savuverhon taakse piiloutuva Cenobia.\n\nLänsinaapurimme osaamista esittelee Orbit Culturen lisäksi Tukholman katurock-poppoo The Baboon Show.\n\nKeskieurooppalaisen metalliperinteen jatkumoa ilmentää tarttuvia kertosakeitä, äkkiväärää ja orgaanista riffittelyä tarjoava ranskalaistaiteilija SUN. Kotimaista metalliasiantuntemusta edustavat juuri uuden “Resondance”-pitkäsoiton julkaissut rakastettu ja palkittu savolaisrevohka Turmion Kätilöt, lähiöbaarien tupakkapaikoilla pyörivä death metal -porukka Tukkanuotta sekä moderni mutta mystinen metalcore -ryhmä Atlas.\n\nVahvistuneet Tuska 2027 -esiintyjät esiintymispäivittäin:\n\nPerjantai 2.7.2027\nChildren Of Bodom\nHeaven Shall Burn, Stratovarius, Smash Into Pieces\nGuilt Trip, Gaerea, Fox Lake, Conan, The Baboon Show, Sinizter\n\nLauantai 3.7.2027\nJudas Priest\nI Prevail\nTurmion Kätilöt, Danko Jones, Kanonenfieber, Speed\nTukkanuotta, Atlas, Celestial Sanctuary, Green Lung, Avralize, Split Dogs\n\nSunnuntai 4.7.2027\nLorna Shore\nOrbit Culture, The Devil Wears Prada, Paradise Lost\nFit For A King, Cenobia, SUN\n\nTarkat soittoaikataulut ilmoitetaan lähempänä festivaaliajankohtaa.\nLisää esiintyjiä julkaistaan myöhemmin.",
+    "price": "149 €",
     "ticketUrl": "https://www.tiketti.fi/tuska-festival-2027-suvilahti-helsinki-lippuja/119147",
     "image": "",
-    "ageLimit": "K-18"
+    "ageLimit": "K-18",
+    "lineup": [
+      {
+        "id": "band-1794220929451",
+        "artist": "Children Of Bodom",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220936590",
+        "artist": "Heaven Shall Burn",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220941357",
+        "artist": "Stratovarius",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220946284",
+        "artist": "Smash Into Pieces",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220952750",
+        "artist": "Guilt Trip",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220958660",
+        "artist": "Gaerea",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220964510",
+        "artist": "Fox Lake",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220970151",
+        "artist": "Conan",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220975846",
+        "artist": "The Baboon Show",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220980009",
+        "artist": "Sinizter",
+        "stageTime": ""
+      }
+    ]
   },
   {
     "id": "manual-1791730397043",
@@ -2837,7 +2889,68 @@
       "name": "Suvilahti",
       "address": ""
     },
-    "lineup": [],
+    "lineup": [
+      {
+        "id": "band-1794220994350",
+        "artist": "Judas Priest",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220999578",
+        "artist": "I Prevail",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221004860",
+        "artist": "Turmion Kätilöt",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221010884",
+        "artist": "Danko Jones",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221015976",
+        "artist": "Kanonenfieber",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221024266",
+        "artist": "Speed",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221029476",
+        "artist": "Tukkanuotta",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221035181",
+        "artist": "Atlas",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221041812",
+        "artist": "Celestial Sanctuary",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221047950",
+        "artist": "Green Lung",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221054828",
+        "artist": "Avralize",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221061026",
+        "artist": "Split Dogs",
+        "stageTime": ""
+      }
+    ],
     "description": "Heinäkuun ensimmäisenä viikonloppuna Helsingin Suvilahdessa porskuttava, Judas Priestin, Lorna Shoren ja Children Of Bodomin tähdittämä Tuska 2027 ottaa aimo harppauksen kohti ensi kesää. Artistien esiintymispäivät on nyt julkaistu ja kaikki lippukategoriat ovat saatavilla. Lisäksi on lisätty 14 uutta artistiryhmää jo valmiiksi tavarajunan painoluokassa mittelevään ohjelmistoon.\n\nKansainvälistä tähtipölyä, klassikoita ja uusia kykyjä\nUusia lisäyksiä ensi kesän ohjelmaan ovat modernin metalcoren kirkkaimpaan kärkeen lukeutuva amerikkalainen I Prevail, groovaavaa ja modernia melodista death metallia toimittava ruotsalainen Orbit Culture, Teksasin metalcore-mörssäri Fit For A King sekä goottimetallin uranuurtaja, englantilainen Paradise Lost.\n\nMuita englantia edustavia taiteilijaryhmiä ovat luolamiesmäisen raskaasti louhiva Conan, death metal -lupaus Celestial Sanctuary sekä korkeaoktaanista rokkia tarjoileva Split Dogs.\n\nAustralian värien puolesta liputtavat kovan nosteen aallonharjalla ratsastava hardcore-ylpeys Speed sekä naamion ja mystisyyden savuverhon taakse piiloutuva Cenobia.\n\nLänsinaapurimme osaamista esittelee Orbit Culturen lisäksi Tukholman katurock-poppoo The Baboon Show.\n\nKeskieurooppalaisen metalliperinteen jatkumoa ilmentää tarttuvia kertosakeitä, äkkiväärää ja orgaanista riffittelyä tarjoava ranskalaistaiteilija SUN. Kotimaista metalliasiantuntemusta edustavat juuri uuden “Resondance”-pitkäsoiton julkaissut rakastettu ja palkittu savolaisrevohka Turmion Kätilöt, lähiöbaarien tupakkapaikoilla pyörivä death metal -porukka Tukkanuotta sekä moderni mutta mystinen metalcore -ryhmä Atlas.\n\nVahvistuneet Tuska 2027 -esiintyjät esiintymispäivittäin:\n\nPerjantai 2.7.2027\nChildren Of Bodom\nHeaven Shall Burn, Stratovarius, Smash Into Pieces\nGuilt Trip, Gaerea, Fox Lake, Conan, The Baboon Show, Sinizter\n\nLauantai 3.7.2027\nJudas Priest\nI Prevail\nTurmion Kätilöt, Danko Jones, Kanonenfieber, Speed\nTukkanuotta, Atlas, Celestial Sanctuary, Green Lung, Avralize, Split Dogs\n\nSunnuntai 4.7.2027\nLorna Shore\nOrbit Culture, The Devil Wears Prada, Paradise Lost\nFit For A King, Cenobia, SUN\n\nTarkat soittoaikataulut ilmoitetaan lähempänä festivaaliajankohtaa.\nLisää esiintyjiä julkaistaan myöhemmin.",
     "price": "149 €",
     "ticketUrl": "https://www.tiketti.fi/tuska-festival-2027-suvilahti-helsinki-lippuja/119147",
@@ -2853,7 +2966,43 @@
       "name": "Suvilahti",
       "address": ""
     },
-    "lineup": [],
+    "lineup": [
+      {
+        "id": "band-1794221170376",
+        "artist": "Lorna Shore",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221175560",
+        "artist": "Orbit Culture",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221184250",
+        "artist": "The Devil Wears Prada",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221190427",
+        "artist": "Paradise Lost",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221197442",
+        "artist": "Fit For A King",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221203660",
+        "artist": "Cenobia",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794221209509",
+        "artist": "SUN",
+        "stageTime": ""
+      }
+    ],
     "description": "Heinäkuun ensimmäisenä viikonloppuna Helsingin Suvilahdessa porskuttava, Judas Priestin, Lorna Shoren ja Children Of Bodomin tähdittämä Tuska 2027 ottaa aimo harppauksen kohti ensi kesää. Artistien esiintymispäivät on nyt julkaistu ja kaikki lippukategoriat ovat saatavilla. Lisäksi on lisätty 14 uutta artistiryhmää jo valmiiksi tavarajunan painoluokassa mittelevään ohjelmistoon.\n\nKansainvälistä tähtipölyä, klassikoita ja uusia kykyjä\nUusia lisäyksiä ensi kesän ohjelmaan ovat modernin metalcoren kirkkaimpaan kärkeen lukeutuva amerikkalainen I Prevail, groovaavaa ja modernia melodista death metallia toimittava ruotsalainen Orbit Culture, Teksasin metalcore-mörssäri Fit For A King sekä goottimetallin uranuurtaja, englantilainen Paradise Lost.\n\nMuita englantia edustavia taiteilijaryhmiä ovat luolamiesmäisen raskaasti louhiva Conan, death metal -lupaus Celestial Sanctuary sekä korkeaoktaanista rokkia tarjoileva Split Dogs.\n\nAustralian värien puolesta liputtavat kovan nosteen aallonharjalla ratsastava hardcore-ylpeys Speed sekä naamion ja mystisyyden savuverhon taakse piiloutuva Cenobia.\n\nLänsinaapurimme osaamista esittelee Orbit Culturen lisäksi Tukholman katurock-poppoo The Baboon Show.\n\nKeskieurooppalaisen metalliperinteen jatkumoa ilmentää tarttuvia kertosakeitä, äkkiväärää ja orgaanista riffittelyä tarjoava ranskalaistaiteilija SUN. Kotimaista metalliasiantuntemusta edustavat juuri uuden “Resondance”-pitkäsoiton julkaissut rakastettu ja palkittu savolaisrevohka Turmion Kätilöt, lähiöbaarien tupakkapaikoilla pyörivä death metal -porukka Tukkanuotta sekä moderni mutta mystinen metalcore -ryhmä Atlas.\n\nVahvistuneet Tuska 2027 -esiintyjät esiintymispäivittäin:\n\nPerjantai 2.7.2027\nChildren Of Bodom\nHeaven Shall Burn, Stratovarius, Smash Into Pieces\nGuilt Trip, Gaerea, Fox Lake, Conan, The Baboon Show, Sinizter\n\nLauantai 3.7.2027\nJudas Priest\nI Prevail\nTurmion Kätilöt, Danko Jones, Kanonenfieber, Speed\nTukkanuotta, Atlas, Celestial Sanctuary, Green Lung, Avralize, Split Dogs\n\nSunnuntai 4.7.2027\nLorna Shore\nOrbit Culture, The Devil Wears Prada, Paradise Lost\nFit For A King, Cenobia, SUN\n\nTarkat soittoaikataulut ilmoitetaan lähempänä festivaaliajankohtaa.\nLisää esiintyjiä julkaistaan myöhemmin.",
     "price": "149 €",
     "ticketUrl": "https://www.tiketti.fi/tuska-festival-2027-suvilahti-helsinki-lippuja/119147",
