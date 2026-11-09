@@ -2812,5 +2812,21 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-09T10:17:32.918Z"
+  },
+  {
+    "id": "manual-1794220141955",
+    "title": "Reaper Fest 2027",
+    "date": "2027-09-18T09:29:00.000Z",
+    "venue": {
+      "name": "Tavastia-klubi",
+      "address": "Urho Kekkosen katu 4-6, Helsinki"
+    },
+    "lineup": [],
+    "description": "REAPER FEST 2027 – CELEBRATING 10 YEARS OF REAPER ENTERTAINMENT!\n\n2 stages, 10 bands & countless specials... Join us in celebrating the 10th birthday of the finest record label in the universe: REAPER ENTERTAINMENT!",
+    "price": "49 €",
+    "ticketUrl": "https://www.tiketti.fi/reaper-fest-2027-tavastia-klubi-helsinki-tickets/119662",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-09T10:29:01.956Z"
   }
 ]
