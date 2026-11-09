@@ -3009,5 +3009,27 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-09T10:39:56.408Z"
+  },
+  {
+    "id": "manual-1794258171312",
+    "title": "Baby Lasagna - End the Party Tour",
+    "date": "2027-02-10T16:00:00.000Z",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794258237591",
+        "artist": "Baby Lasagna",
+        "stageTime": ""
+      }
+    ],
+    "description": "EUROVIISUSUOSIKKI BABY LASAGNA PALAA KULTTUURITALOLLE HELMIKUUSSA 2027\n\nEuroviisuista maailmanlaajuiseen suosioon noussut kroatialainen Baby Lasagna palaa Helsingin Kulttuuritalolle keskiviikkona 10. helmikuuta 2027 osana End the Party Tour -kiertuettaan. Eri genrejä ennakkoluulottomasti yhdistelevän artistin keikan liput tulevat myyntiin maanantaina 7. syyskuuta klo 12 Lippu.fi:ssä.\n\nBaby Lasagna (Marko Purišić) teki kansainvälisen läpimurtonsa vuonna 2024 kappaleella Rim Tim Tagi Dim, jonka jälkeen hänen uransa lähti nopeaan nousuun ympäri Eurooppaa. Helmikuussa 2025 ilmestynyt debyyttialbumi DMNS & MOSQUITOES toi yhteen artistin tunnusomaisen sekoituksen metallia, elektronista musiikkia, poppia ja tarttuvia melodioita.\n\nVuonna 2026 Baby Lasagna avasi urallaan uuden, aiempaa raskaamman luvun. End The Party julkaistiin 13. helmikuuta ja vei soundia selvemmin takaisin vaihtoehto- ja metallimusiikin suuntaan. Sitä seurasivat Sedated 5. toukokuuta sekä Face On Your Phone 7. elokuuta. Uudessa materiaalissa moderni metalli ja elektroniset elementit yhdistyvät edelleen Purišićille ominaiseen huumoriin, itseironiaan ja yhteiskunnallisiin aiheisiin. Tuore Face On Your Phone käsittelee verkkohäirintää, julkisuutta ja ruudun takana syntyvää anonymiteettiä. Uudet singlet avaavat tietä Baby Lasagnan toiselle studioalbumille, jonka on määrä ilmestyä syksyllä 2026.\n\nSuomessa Baby Lasagna nähtiin ensimmäisen kerran juuri Kulttuuritalolla maaliskuussa 2025. Suomi-yhteys sai jatkoa Käärijän kanssa tehdyllä #eurodab-singlellä. Kaksikko esiintyi yhdessä myös vuoden 2025 Euroviisufinaalin väliaikanumerossa Baselissa, jossa #eurodab yhdistyi Käärijän Cha Cha Cha -hitin ja Baby Lasagnan Rim Tim Tagi Dim -kappaleen mashupiin. Toukokuussa 2026 Baby Lasagna vieraili puolestaan Käärijän loppuunmyydyssä EURODISKO-konsertissa Helsingin Veikkaus Arenalla. Mitä yllätyksiä tuleva Kulttuuritalon keikka tuo tullessaan?",
+    "price": "28 €",
+    "ticketUrl": "https://www.lippu.fi/artist/baby-lasagna/",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-09T21:02:51.312Z"
   }
 ]
