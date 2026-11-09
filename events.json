@@ -1,27 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791730500801",
-      "title": "Hevisaurus",
-      "date": "2026-11-08T12:00:00.000Z",
-      "venue": {
-        "name": "Peacock",
-        "address": ""
-      },
-      "description": "Luvassa on jälleen ryminää ja ryskettä, kun koko perhettä viihdyttävä Hevisaurus valloittaa Suomen Komediateatterin\n\nIsänpäivän räyhäisimmällä keikalla 8.11.206 klo 14.00 \n\n\nTunnin mittaisen keikan aikana yleisönsä jurakautisen hevimusiikin pariin johdattaa kaikki tutut ystävämme: Komppi Momppi, Riffi Raffi, Milli Pilli, Muffi Puffi, sekä tietysti itse Herra Hevisaurus. Vauhdikkaan shown aikana kuullaan kaikki tutut kappaleet, eikä katsomossakaan tarvitse vain istua!\n\n\nMikä olisikaan parempi tapa juhlistaa isänpäivää, kuin viettää hetki yhdessä huikean Hevisauruksen kanssa. Valmistaudu siis unohtumattomaan keikkaan ja osta liput ajoissa, sillä tämä esitys ei jätä juroimpiakaan tallaajia kylmäksi!",
-      "price": "21 €",
-      "ticketUrl": "https://www.lippu.fi/artist/suomen-komediateatteri/hevisaurus-isaenpaeivaen-raeyhaeisin-keikka-4252757/?cityname=Helsinki",
-      "image": "",
-      "ageLimit": "",
-      "lineup": [
-        {
-          "id": "band-1792479850287",
-          "artist": "Hevisaurus",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
       "id": "le-helsinkiagqwsd2jjm",
       "title": "Subseconds: Half-Open Doors, levyjulkkarit",
       "venue": {
