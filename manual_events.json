@@ -3191,5 +3191,27 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-11-09T21:17:26.762Z"
+  },
+  {
+    "id": "manual-1794260100150",
+    "title": "Kotiteollisuus",
+    "date": "2026-12-05T18:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794260112136",
+        "artist": "Kotiteollisuus",
+        "stageTime": ""
+      }
+    ],
+    "description": "Kotiteollisuus on koko uransa ajan keikkaillut ahkerasti muun muassa festareilla ja kiertueilla. Jouni Hynynen summaa: ”Keikkailussa on parasta se, että silloin ollaan aidossa kontaktissa faneihin. Keikoista saa valtavasti virtaa, vaikka meidän energiatasolla sitä haihtuu samalla myös hikenä ja pieruina taivaan tuuliin. Mutta tietääpähän ainakin tehneensä jotain, kun valumme keikkojen jälkeen takahuoneeseen puuskuttamaan ja puristamaan hikeä läpimäristä paidoistamme. Mutta kontakti yleisöön, se on tärkeintä ja antavinta”",
+    "price": "37 €",
+    "ticketUrl": "https://www.tiketti.fi/kotiteollisuus-on-the-rocks-helsinki-lippuja/121251",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-11-09T21:35:00.150Z"
   }
 ]
