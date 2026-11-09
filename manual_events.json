@@ -1724,17 +1724,18 @@
   },
   {
     "id": "tm-Z698xZ8KZ1kbtCoAV",
-    "title": "HELLSINKI METAL FESTIVAL 2027 - 2 Päivää",
+    "title": "Hellsinki Metal Festival 2027",
     "venue": {
       "name": "Helsingin jäähalli",
       "address": "Nordenskiöldinkatu 11-13, Helsinki"
     },
-    "date": "2027-08-07",
+    "date": "2027-08-07T10:00:00.000Z",
     "endTime": null,
-    "description": "Pyörätuoliasiakas voi ostaa tavallisen lipun, saattaja pääsee samalla lipulla. Avustajakortti esitettävä kulunvalvonnassa.",
-    "ticketUrl": "https://www.ticketmaster.fi/event/hellsinki-metal-festival-2027-2-paivaa-lippuja/629391174",
+    "description": "Hellsinki Metal Festival on lunastanut paikkansa raskaamman musiikin festivaalitarjonnassa. Neljättä kertaa järjestettävä ulkoilmafestivaali järjestetään jälleen Helsingin jäähallin alueella Nordenskjöldinkadulla, tutummin sanottuna Nordiksella.",
+    "ticketUrl": "https://hellsinkimetalfestival.fi/",
     "image": "https://s1.ticketm.net/dam/e/131/55a4b141-e1ca-4755-b391-9d5245d03131_RETINA_LANDSCAPE_16_9.jpg",
-    "price": "136 €"
+    "price": "2pv lippu alk. 159 €",
+    "ageLimit": "K-18"
   },
   {
     "id": "manual-1792591611933",
@@ -2729,5 +2730,87 @@
         "stageTime": ""
       }
     ]
+  },
+  {
+    "id": "manual-1794219452918",
+    "title": "Hellsinki Metal Festival 2027",
+    "date": "2027-08-06T10:00:00.000Z",
+    "venue": {
+      "name": "Helsingin jäähalli",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794219939699",
+        "artist": "Edguy",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794219944729",
+        "artist": "Perturbator",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794219959508",
+        "artist": "Mantas & Abaddon Venom",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794219968967",
+        "artist": "Dark Funeral",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794219977145",
+        "artist": "Ensiferum",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794219985837",
+        "artist": "Rotting Christ",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794219995956",
+        "artist": "Nile",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220000318",
+        "artist": "Arcturus",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220012108",
+        "artist": "Akercocke",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220021970",
+        "artist": "Bloodred Hourglass",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220034205",
+        "artist": "Norther",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220038509",
+        "artist": "Havukruunu",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794220045013",
+        "artist": "Noiduin",
+        "stageTime": ""
+      }
+    ],
+    "description": "Hellsinki Metal Festival on lunastanut paikkansa raskaamman musiikin festivaalitarjonnassa. Neljättä kertaa järjestettävä ulkoilmafestivaali järjestetään jälleen Helsingin jäähallin alueella Nordenskjöldinkadulla, tutummin sanottuna Nordiksella.",
+    "price": "2pv lippu alk. 159 €",
+    "ticketUrl": "https://hellsinkimetalfestival.fi/",
+    "image": "",
+    "ageLimit": "K-18",
+    "addedDate": "2026-11-09T10:17:32.918Z"
   }
 ]
