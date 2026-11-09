@@ -3031,5 +3031,27 @@
     "image": "",
     "ageLimit": "",
     "addedDate": "2026-11-09T21:02:51.312Z"
+  },
+  {
+    "id": "manual-1794258385214",
+    "title": "Dawn Of Solace (levyjulkkarit)",
+    "date": "2027-02-12T18:00:00.000Z",
+    "venue": {
+      "name": "On The Rocks",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1794258593743",
+        "artist": "Dawn of Solace",
+        "stageTime": ""
+      }
+    ],
+    "description": "Metallin monitoimimies Tuomas Saukkosen (Wolfheart, Before The Dawn) ja Kaunis Kuolematon -yhtyeestä tunnetun Mikko Heikkilän Dawn of Solace julkaisee 12. tammikuuta uuden albumin nimeltä \"Skeletons\" ja soittaa sen kunniaksi vain yhden täyspitkän keikan vuonna 2027. Levyjulkkarit juhlitaan perjantaina 12. helmikuuta 2027 Helsingin On The Rocksissa.\n\nTuomas Saukkosen sooloprojektina alkunsa saanut Dawn of Solace julkaisi debyyttialbuminsa jo 2006 ja palasi levytyskantaan uudelleen vasta vuoden 2020 \"Waves\" -albumin myötä. Vuoden 2022 alussa julkaistiin kriitikoiden ja yleisön rakastama \"Flames of Perdition\" ja vuonna 2025 jylhä \"Affliction Vortex\". Tammikuussa 2027 julkaistava \"Skeletons\" on yhtyeen viides albumi.",
+    "price": "20 €",
+    "ticketUrl": "https://www.tiketti.fi/dawn-of-solace-on-the-rocks-helsinki-lippuja/121971",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-09T21:06:25.214Z"
   }
 ]
