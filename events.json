@@ -2262,6 +2262,28 @@
       ]
     },
     {
+      "id": "manual-1794393326306",
+      "title": "Spirit Possession (USA)",
+      "date": "2027-04-14T16:00:00.000Z",
+      "venue": {
+        "name": "Lepakkomies",
+        "address": ""
+      },
+      "lineup": [
+        {
+          "id": "band-1794393337002",
+          "artist": "Spirit Possession",
+          "stageTime": ""
+        }
+      ],
+      "description": "Spirit Possession yhdistelee omaleimaisella otteellaan raakaa, kaoottista ja kokeellista black metalia. Yhtyeen soundia leimaavat terävät kitarariffit, armoton rumpalointi, riipivä laulu ja kaoottiset äänimaisemat. Portlandista kotoisin oleva duo ammentaa vaikutteita 90-luvun ja 2000-luvun alun black metalin kokeellisimmilta ja omaperäisimmiltä yhtyeiltä, mutta vie ilmaisuaan jatkuvasti uusiin suuntiin ja haastaa underground-metallin rajoja.\n\nLokakuussa 2026 Profound Lore Recordsin ja Sepulchral Voice Recordsin kautta julkaistu uusin albumi Cathedral Speech vie yhtyeen tunnistettavan soundin entistä pidemmälle. Levyn kaoottinen riffittely, pahaenteiset tunnelmat ja monimutkaiset sävellykset muodostavat arvaamattoman ja hypnoottisen kokonaisuuden, joka ei päästä kuulijaa helpolla.\n\nTapahtuman avaava artisti sekä tarkemmat aikataulut julkaistaan lähempänä tapahtumaa.",
+      "price": "20 €",
+      "ticketUrl": "https://www.tiketti.fi/spirit-possession-usa-lepakkomies-helsinki-lippuja/122344",
+      "image": "",
+      "ageLimit": "K-18",
+      "addedDate": "2026-11-11T10:35:26.306Z"
+    },
+    {
       "id": "manual-1792591611933",
       "title": "DragonForce - Europe Tour 2027",
       "date": "2027-04-23T17:00:00.000Z",
