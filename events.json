@@ -1,32 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1791720374168",
-      "title": "The Obsessed (US) & Klastos (SWE)",
-      "date": "2026-11-12T17:00:00.000Z",
-      "venue": {
-        "name": "Kuudes Linja",
-        "address": "Hämeentie 13 B, Helsinki"
-      },
-      "description": "Legendary doom outfit The Obsessed return to Finland this November!\nFounded by Scott \"Wino\" Weinrich — known for his work with Saint Vitus, Spirit Caravan, and Shrinebuilder — The Obsessed emerged in the late 1970s and went on to become one of the most influential bands in doom metal and underground hard rock.\n\nThe band built its reputation in the Baltimore/Washington D.C. underground scene during the rise of hardcore punk in the early 1980s. Often credited as one of the key acts that helped bridge heavy metal and punk, The Obsessed earned the respect of genre-defining contemporaries such as Black Flag, Bad Brains, and Minor Threat. Their raw energy, uncompromising attitude, and thunderous sound have led many to describe them as “America’s Motörhead.”\n\nScott “Wino” Weinrich’s unmistakable vocals and legendary guitar work have left a lasting mark on the world of heavy music, continuing to inspire generations of musicians and fans alike.\n\nThe Obsessed will perform at Kuudes Linja in Helsinki on November 12, 2026.",
-      "price": "37,50 €",
-      "ticketUrl": "https://www.tiketti.fi/the-obsessed-us-klastos-swe-kuudes-linja-helsinki-lippuja/118318",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792479868000",
-          "artist": "The Obsessed",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792479899470",
-          "artist": "Klastos",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
       "id": "manual-1793083802370",
       "title": "Olari Annihilation Fest II",
       "date": "2026-11-13T13:00:00.000Z",
