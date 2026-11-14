@@ -1,41 +1,5 @@
 [
   {
-    "id": "manual-1791712192970",
-    "title": "Napalm Death (UK), Master (US), Brat (US), Goatburner (FI)",
-    "date": "2026-11-13T18:30:00.000Z",
-    "venue": {
-      "name": "Korjaamo",
-      "address": ""
-    },
-    "description": "Napalm Death tuo legendaarisen Campaign for Musical Destruction -kiertueensa Suomeen marraskuussa\n\nMaailman pisimpään kestänyt legendaarinen äärimetallikiertue, Campaign for Musical Destruction, saapuu Suomeen marraskuussa. Jo 1980-luvun lopulla alkaneesta ja Napalm Deathin ympärille muodostuneeta kiertueesta on tullut vuosikymmenten aikana yksi grindcoren ja death metalin tunnetuimmista kiertuekonsepteista Euroopassa, ja myös loppuvuodesta kuultava kiertue juhlii äärimetallia monissa eri muodoissaan.\n\nNapalm Death nähdään Helsingin Korjaamolla perjantaina 13. marraskuuta, ja siitä tie jatkuu seuraavana päivänä Jyväskylän Lutakkoon ja sunnuntaiksi Olympiaan Tampereelle. Kiertueen mukana matkaavat Nappisten lisäksi jo vuonna 1983 Paul Speckmannin perustama yhdysvaltalainen death metal -yhtye Master sekä New Orleansin lahja deathgrind/hardcore-väestölle, BRAT. Tulevilla keikoilla on mukana myös lisäksi helsinkiläinen, Rotten Soundista tutun Keijo Niinimaan alias Kaosin sekä esimerkiksi Ratfacen ja Skulmagotin riveistä tutun Spiderin eli Jaakko Forsmanin muodostama Goatburner.\n\nVuonna 1981 Birminghamissa perustettu Napalm Death on ehtinyt julkaista uransa aikana valtavan määrän julkaisuja sekä päätyä myös muun muassa Guinnessin ennätysten kirjaan maailman lyhyimmän kappaleen julkaisijana. Napalm Death julkaisi viime kuussa Melvins-yhtyeen kanssa Savage Imperial Death March -yhteisalbumin. Jo yli kaksi vuosikymmentä Century Media -levy-yhtiön kanssa toiminut yhtye julkaisi viimeisimmän oman kahdeksan biisin Resentment is Always Seismic - a final throw ot Throes -julkaisunsa vuonna 2022.\n\nYhtyeen alkulähteiden aikaan teini-ikäisten ja sittemmin yhtyeen toiminnasta vetäytyneiden Nicholas Bullenin ja Miles Ratledgen perustama yhtye koki alkuvuosinaan lukuisia muutoksia, ja Napalm Death on toiminut enemmän tai vähemmän nykyisessä ja legendaariseksi muodostueessa muodossaan 80-luvun lopulta alkaen. Mark \"Barney\" Greenwayn, Shane Emburyn, Mitch Harrisin ja Danny Herreran muodostama nelikko on vieraillut aiemmin menestyksekkäästi Suomessa useasti sekä osana kiertueitaan että maan merkittävimmillä metallifestivaaleilla.",
-    "price": "",
-    "ticketUrl": "https://www.lippu.fi/artist/napalm-death/?cityname=Helsinki",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792479911889",
-        "artist": "Napalm Death",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479939872",
-        "artist": "Master",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479943550",
-        "artist": "Brat",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479947524",
-        "artist": "Goatburner",
-        "stageTime": ""
-      }
-    ]
-  },
-  {
     "id": "manual-1791712513332",
     "title": "IKINÄ, Horizon Ignited, Lowhill",
     "date": "2026-12-11T18:00:00.000Z",
@@ -318,32 +282,6 @@
     "ticketUrl": "https://www.lippu.fi/artist/timo-kotipelto/timo-kotipelto-robustik-4199362/?cityname=Espoo",
     "image": "",
     "ageLimit": ""
-  },
-  {
-    "id": "manual-1791720374168",
-    "title": "The Obsessed (US) & Klastos (SWE)",
-    "date": "2026-11-12T17:00:00.000Z",
-    "venue": {
-      "name": "Kuudes Linja",
-      "address": "Hämeentie 13 B, Helsinki"
-    },
-    "description": "Legendary doom outfit The Obsessed return to Finland this November!\nFounded by Scott \"Wino\" Weinrich — known for his work with Saint Vitus, Spirit Caravan, and Shrinebuilder — The Obsessed emerged in the late 1970s and went on to become one of the most influential bands in doom metal and underground hard rock.\n\nThe band built its reputation in the Baltimore/Washington D.C. underground scene during the rise of hardcore punk in the early 1980s. Often credited as one of the key acts that helped bridge heavy metal and punk, The Obsessed earned the respect of genre-defining contemporaries such as Black Flag, Bad Brains, and Minor Threat. Their raw energy, uncompromising attitude, and thunderous sound have led many to describe them as “America’s Motörhead.”\n\nScott “Wino” Weinrich’s unmistakable vocals and legendary guitar work have left a lasting mark on the world of heavy music, continuing to inspire generations of musicians and fans alike.\n\nThe Obsessed will perform at Kuudes Linja in Helsinki on November 12, 2026.",
-    "price": "37,50 €",
-    "ticketUrl": "https://www.tiketti.fi/the-obsessed-us-klastos-swe-kuudes-linja-helsinki-lippuja/118318",
-    "image": "",
-    "ageLimit": "K-18",
-    "lineup": [
-      {
-        "id": "band-1792479868000",
-        "artist": "The Obsessed",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1792479899470",
-        "artist": "Klastos",
-        "stageTime": ""
-      }
-    ]
   },
   {
     "id": "manual-1791720459128",
@@ -2227,58 +2165,6 @@
     "addedDate": "2026-10-25T11:46:33.131Z"
   },
   {
-    "id": "manual-1793083802370",
-    "title": "Olari Annihilation Fest II",
-    "date": "2026-11-13T13:00:00.000Z",
-    "venue": {
-      "name": "Pub Olarin Ossi",
-      "address": "Sammalkalliontie 5, Espoo"
-    },
-    "lineup": [
-      {
-        "id": "band-1793083948574",
-        "artist": "Purtenance",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793083954807",
-        "artist": "Corpsessed",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793083960482",
-        "artist": "Cadaveric Incubator",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793083965219",
-        "artist": "Morte Profana",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793083970824",
-        "artist": "The Carnival",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793083975868",
-        "artist": "Houreet",
-        "stageTime": ""
-      },
-      {
-        "id": "band-1793083981076",
-        "artist": "Vināykas",
-        "stageTime": ""
-      }
-    ],
-    "description": "",
-    "price": "30 €",
-    "ticketUrl": "https://olariannihilation.bigcartel.com/",
-    "image": "",
-    "ageLimit": "K-18",
-    "addedDate": "2026-10-27T06:50:02.370Z"
-  },
-  {
     "id": "manual-1793084033059",
     "title": "Olari Annihilation Fest II",
     "date": "2026-11-14T13:00:00.000Z",
@@ -2739,28 +2625,6 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-06T23:11:41.367Z"
-  },
-  {
-    "id": "le-helsinkiagqwsd2jjm",
-    "title": "Subseconds: Half-Open Doors, levyjulkkarit",
-    "venue": {
-      "name": "Laterna Magica",
-      "address": "Rauhankatu 7, Helsinki"
-    },
-    "date": "2026-11-10T16:00:00Z",
-    "endTime": "2026-11-10T18:00:00Z",
-    "description": "Helsinkiläinen metallia ja art rokkia musiikissaan yhdistelevä Subseconds julkaisee uuden EP:nsä ”Half-Open Doors” 11.11.2026. Musiikissa on mukana myös saksofoni, jousisoittimet, piano ja vaikutteita elektronisesta musiikista.\n\n Päivää ennen yhtye järjestää levyn ennakkokuuntelutilaisuuden yhdessä Helsingin keskustan ainutlaatuisimmista kirjagallerioista.\n\n Kaikki uteliaat mielet sekä muutoin kiinnostuneet ovat lämpimästi tervetulleita viettämään iltaa EP:n kuuntelun parissa.\n\n Toiveena on, että tapahtuma toimisi myös paikkana luoville ihmisille tavata toisiaan. Jos tunnet jonkun, jolle tapahtuma voisi olla hyödyllinen ja kiinnostava, kerrothan siitä heille ja kutsuthan heidät mukaan!\n\n Laterna Magica\n\n 10.11.2026\n\n 18.00-20.00\n\n Ohjelma:\n\n Artistin hostaama tilaisuus\n\nKaksi levynkuuntelusessiota 18.15 ja 19.00.\n\nArvotaan vieraiden kesken uniikkeja, käsintehtyjä fyysisiä versioita levystä, joita on myös myynnissä\n\nMusiikkivideon näytös\n\nVapaa pääsy, paikkoja on rajoitetusti, jonka vuoksi pyydetään ilmoittautumista ennakkoon.",
-    "ticketUrl": "https://luma.com/n4kaye0u",
-    "image": "https://api.hel.fi/linkedevents/media/images/Subseconds_Julkkarit_Hel.jpeg",
-    "price": "Free Entry",
-    "addedDate": "2026-10-23T13:59:31.980433Z",
-    "lineup": [
-      {
-        "id": "band-1794135104905",
-        "artist": "Subseconds",
-        "stageTime": ""
-      }
-    ]
   },
   {
     "id": "manual-1794219452918",
