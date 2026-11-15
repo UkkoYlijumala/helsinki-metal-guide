@@ -3078,5 +3078,246 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-11T10:35:26.306Z"
+  },
+  {
+    "id": "kulttuuritalo-2026-11-17-graham-bonnet-band-uk-usa-wishing-well",
+    "title": "GRAHAM BONNET BAND (UK/USA) + WISHING WELL",
+    "venue": {
+      "name": "Kulttuuritalo",
+      "address": "Sturenkatu 4, Helsinki"
+    },
+    "date": "2026-11-17",
+    "description": "",
+    "ticketUrl": "https://www.lippu.fi/event/kult-live-graham-bonnet-band-ukusa-wishing-well-helsingin-kulttuuritalo-21646596/",
+    "image": "",
+    "ageLimit": "",
+    "price": "49,90 €",
+    "lineup": [
+      {
+        "id": "band-26b76cda",
+        "artist": "Graham Bonnet Band",
+        "stageTime": ""
+      },
+      {
+        "id": "band-8f7dae2b",
+        "artist": "Wishing Well",
+        "stageTime": ""
+      }
+    ],
+    "addedDate": "2026-11-15T16:41:55.472Z"
+  },
+  {
+    "id": "bandsintown-109113331",
+    "title": "Ratbreed",
+    "venue": {
+      "name": "Metal Club Mökä",
+      "address": "Jämeräntaival 5, Espoo"
+    },
+    "date": "2026-11-20T18:00:00.000Z",
+    "description": "",
+    "ticketUrl": "",
+    "image": "https://media.bandsintown.com/200x200/20188404.webp",
+    "ageLimit": "",
+    "price": "",
+    "lineup": [
+      {
+        "id": "band-f45ae4c4",
+        "artist": "Ratbreed",
+        "stageTime": ""
+      },
+      {
+        "id": "band-1794761646724",
+        "artist": "Agarwaen",
+        "stageTime": ""
+      }
+    ],
+    "addedDate": "2026-11-15T16:41:55.472Z"
+  },
+  {
+    "id": "kuudeslinja-2026-11-27-1900-die-oberherren-se-dharma-guns-rob-coffinshaker-se",
+    "title": "DIE OBERHERREN (SE) + DHARMA GUNS + ROB COFFINSHAKER (SE)",
+    "venue": {
+      "name": "Kuudes Linja",
+      "address": "Hämeentie 13 B, Helsinki"
+    },
+    "date": "2026-11-27T17:00:00.000Z",
+    "description": "",
+    "ticketUrl": "https://www.eventu.al/en/event/10371/finland/helsinki/die-oberherrenswedharma-guns",
+    "image": "",
+    "ageLimit": "K-18",
+    "price": "16 €",
+    "lineup": [
+      {
+        "id": "band-96cb54ad",
+        "artist": "Die Oberherren",
+        "stageTime": ""
+      },
+      {
+        "id": "band-aa60d010",
+        "artist": "Dharma Guns",
+        "stageTime": ""
+      },
+      {
+        "id": "band-90ac17a7",
+        "artist": "Rob Coffinshaker",
+        "stageTime": ""
+      }
+    ],
+    "addedDate": "2026-11-15T16:41:55.472Z"
+  },
+  {
+    "id": "lepakkomies-ceaseless-torment-mutant-blast-jewel-throne",
+    "title": "CEASELESS TORMENT + MUTANT BLAST + JEWEL THRONE",
+    "venue": {
+      "name": "Lepakkomies",
+      "address": "Helsinginkatu 1, Helsinki"
+    },
+    "date": "2026-11-27T18:00:00.000Z",
+    "description": "",
+    "ticketUrl": "https://www.lepis.fi/tapahtumat/ceaseless-torment-mutant-blast-jewel-throne/",
+    "image": "https://www.lepis.fi/wp-content/uploads/2026/11/1000072819-435x326.jpg",
+    "ageLimit": "",
+    "price": "10 €",
+    "lineup": [
+      {
+        "id": "band-71a345ac",
+        "artist": "Ceaseless Torment",
+        "stageTime": ""
+      },
+      {
+        "id": "band-0dbefd49",
+        "artist": "Mutant Blast",
+        "stageTime": ""
+      },
+      {
+        "id": "band-fc3d0fb0",
+        "artist": "Jewel Throne",
+        "stageTime": ""
+      }
+    ],
+    "addedDate": "2026-11-15T16:41:55.472Z"
+  },
+  {
+    "id": "semifinal-2026-11-28-2000-what-awaits-us-traitors-among-us-ashes-of-perishing",
+    "title": "WHAT AWAITS US, TRAITORS AMONG US, ASHES OF PERISHING",
+    "venue": {
+      "name": "Semifinal",
+      "address": "Urho Kekkosen katu 4-6, Helsinki"
+    },
+    "date": "2026-11-28T18:00:00.000Z",
+    "description": "",
+    "ticketUrl": "",
+    "image": "",
+    "ageLimit": "K-18",
+    "price": "13 €",
+    "lineup": [
+      {
+        "id": "band-c53098cc",
+        "artist": "What Awaits Us",
+        "stageTime": ""
+      },
+      {
+        "id": "band-d95ec638",
+        "artist": "Traitor Among Us",
+        "stageTime": ""
+      },
+      {
+        "id": "band-c8286013",
+        "artist": "Ashes Of Perishing",
+        "stageTime": ""
+      }
+    ],
+    "addedDate": "2026-11-15T16:41:55.472Z"
+  },
+  {
+    "id": "on-the-rocks-20261203-aeonian-sorrow-fin-gre-as-the-sun-falls-ha",
+    "title": "AEONIAN SORROW (FIN/GRE), AS THE SUN FALLS, HALLS OF OBLIVION (GER)",
+    "venue": {
+      "name": "On The Rocks",
+      "address": "Mikonkatu 15, Helsinki"
+    },
+    "date": "2026-12-03T17:00:00.000Z",
+    "description": "",
+    "ticketUrl": "https://www.tiketti.fi/tapahtuma/122043",
+    "image": "https://www.rocks.fi/wp-content/uploads/2026/11/0312-helsinki-tiketti-435x326.png",
+    "ageLimit": "",
+    "price": "15 €",
+    "lineup": [
+      {
+        "id": "band-50fbc61c",
+        "artist": "Aeonian Sorrow",
+        "stageTime": ""
+      },
+      {
+        "id": "band-2a7af7e9",
+        "artist": "As The Sun Falls",
+        "stageTime": ""
+      },
+      {
+        "id": "band-86033112",
+        "artist": "Halls Of Oblivion",
+        "stageTime": ""
+      }
+    ],
+    "addedDate": "2026-11-15T16:41:55.472Z"
+  },
+  {
+    "id": "bandsintown-109000474",
+    "title": "NUMENTO",
+    "venue": {
+      "name": "Kuudes Linja",
+      "address": "Hämeentie 13 B, Helsinki"
+    },
+    "date": "2026-12-03T17:30:00.000Z",
+    "description": "",
+    "ticketUrl": "https://www.bandsintown.com/e/109000474-numento-at-kuudes-linja",
+    "image": "https://media.bandsintown.com/200x200/26379775.webp",
+    "ageLimit": "",
+    "price": "",
+    "lineup": [
+      {
+        "id": "band-1001f95c",
+        "artist": "Numento",
+        "stageTime": ""
+      }
+    ],
+    "addedDate": "2026-11-15T16:41:55.472Z"
+  },
+  {
+    "id": "kuudeslinja-2026-12-04-1800-vacuous-uk-dome-runner-throat-sisar",
+    "title": "VACUOUS (UK) + DOME RUNNER + THROAT + SISAR",
+    "venue": {
+      "name": "Kuudes Linja",
+      "address": "Hämeentie 13 B, Helsinki"
+    },
+    "date": "2026-12-04T16:00:00.000Z",
+    "description": "",
+    "ticketUrl": "https://www.tiketti.fi/vacuous-uk-dome-runner-throat-sisar-kuudes-linja-helsinki-lippuja/121140",
+    "image": "",
+    "ageLimit": "K-18",
+    "price": "20 €",
+    "lineup": [
+      {
+        "id": "band-3de1702f",
+        "artist": "Vacuous",
+        "stageTime": ""
+      },
+      {
+        "id": "band-bfb035c1",
+        "artist": "Dome Runner",
+        "stageTime": ""
+      },
+      {
+        "id": "band-2ec6e1f3",
+        "artist": "Throat",
+        "stageTime": ""
+      },
+      {
+        "id": "band-c8656ede",
+        "artist": "Sisar",
+        "stageTime": ""
+      }
+    ],
+    "addedDate": "2026-11-15T16:41:55.472Z"
   }
 ]
