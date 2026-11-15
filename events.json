@@ -156,28 +156,6 @@
       "endTime": "2026-11-19T20:30:00.000Z"
     },
     {
-      "id": "bandsintown-108957724",
-      "title": "Agarwaen",
-      "venue": {
-        "name": "OUBS Studio",
-        "address": "Jämeräntaival 1, Espoo"
-      },
-      "date": "2026-11-20T18:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/108957724-agarwaen-at-oubs-studio",
-      "image": "https://media.bandsintown.com/200x200/23483247.webp",
-      "ageLimit": "",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-71ec4038",
-          "artist": "Agarwaen",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "manual-1792829996392",
       "title": "Ceased Sunfire",
       "date": "2026-11-20T18:00:00.000Z",
@@ -339,28 +317,6 @@
           "stageTime": ""
         }
       ]
-    },
-    {
-      "id": "bandsintown-1040632589",
-      "title": "Tarja Turunen",
-      "venue": {
-        "name": "Finlandia-talo",
-        "address": "Mannerheimintie 13 e, Helsinki"
-      },
-      "date": "2026-11-21T17:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/1040632589-tarja-turunen-at-finlandia-cafeandwine",
-      "image": "https://media.bandsintown.com/200x200/14587594.webp",
-      "ageLimit": "",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-b52de806",
-          "artist": "Tarja Turunen",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "manual-1791720639635",
@@ -1207,28 +1163,6 @@
       "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
-      "id": "tavastia-2026-12-05-1900-blues-pills-graveyard-tour-2026",
-      "title": "BLUES PILLS & GRAVEYARD TOUR 2026",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "date": "2026-12-05T17:00:00.000Z",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "55 €",
-      "lineup": [
-        {
-          "id": "band-856bad95",
-          "artist": "BLUES PILLS & GRAVEYARD",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "vernissa-20261205-december-doom-diablerie-disgrave-forever-failu",
       "title": "December Doom: Diablerie, Disgrave, Forever Failures",
       "venue": {
@@ -1734,28 +1668,6 @@
       "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
-      "id": "tavastia-2026-12-18-2000-von-hertzen-brothers-rarities-25th-anniversary-tour",
-      "title": "VON HERTZEN BROTHERS - RARITIES 25TH ANNIVERSARY TOUR",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "date": "2026-12-18T18:00:00.000Z",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "39,90 €",
-      "lineup": [
-        {
-          "id": "band-319b5c87",
-          "artist": "VON HERTZEN BROTHERS",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "clubunderground-2026-12-19-umbraion-decrowned-skulled-pork",
       "title": "Umbraion, Decrowned, Skulled Pork",
       "venue": {
@@ -1889,28 +1801,6 @@
       "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
-      "id": "bandsintown-108976587",
-      "title": "Arseeni",
-      "venue": {
-        "name": "Tiivistämö",
-        "address": "Sörnäisten rantatie 22 / Kaasutehtaankatu 1, Helsinki"
-      },
-      "date": "2027-01-08T16:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/108976587-arseeni-at-tiivistamo",
-      "image": "https://media.bandsintown.com/200x200/26326456.webp",
-      "ageLimit": "",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-cdc89709",
-          "artist": "Arseeni",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "kuudeslinja-2027-01-08-1900-peer-gunt-blindbound",
       "title": "PEER GÜNT + BLINDBOÜND",
       "venue": {
@@ -1967,22 +1857,6 @@
           "stageTime": ""
         }
       ]
-    },
-    {
-      "id": "kuudeslinja-2027-01-09-1900-bad-apples-plays-guns-n-roses-museo-plays-muse",
-      "title": "BAD APPLES PLAYS GUNS N’ ROSES + MUSEO PLAYS MUSE",
-      "venue": {
-        "name": "Kuudes Linja",
-        "address": "Hämeentie 13 B, Helsinki"
-      },
-      "date": "2027-01-09T17:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.tiketti.fi/bad-apples-plays-guns-n-roses-museo-plays-muse-kuudes-linja-lippuja/121701",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "14 €",
-      "lineup": [],
-      "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "manual-1791726936877",
@@ -2254,28 +2128,6 @@
         {
           "id": "band-3a6b2f44",
           "artist": "BLOODBLIND",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
-      "id": "bandsintown-109158483",
-      "title": "Torchia",
-      "venue": {
-        "name": "Skenesali",
-        "address": "Jönsaksentie 6, Vantaa"
-      },
-      "date": "2027-01-23T18:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/109158483-torchia-at-skenesali",
-      "image": "https://media.bandsintown.com/200x200/24128382.webp",
-      "ageLimit": "",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-4d45413e",
-          "artist": "Torchia",
           "stageTime": ""
         }
       ],
@@ -3153,29 +3005,6 @@
       "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
-      "id": "bandsintown-108627033",
-      "title": "Unén + TBD",
-      "venue": {
-        "name": "Semifinal",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "date": "2027-03-12T17:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/108627033-unen-at-semifinal",
-      "image": "https://media.bandsintown.com/200x200/25614465.webp",
-      "ageLimit": "",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-e08e64f1",
-          "artist": "Unén",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2027-03-12T21:00:00.000Z"
-    },
-    {
       "id": "le-helsinkiagqvqgayey",
       "title": "Toxic Fest 2027",
       "venue": {
@@ -3616,34 +3445,6 @@
         }
       ],
       "price": "83,90 €"
-    },
-    {
-      "id": "bandsintown-109104656",
-      "title": "David Reece Official, Bangalore Choir",
-      "venue": {
-        "name": "On The Rocks",
-        "address": "Mikonkatu 15, Helsinki"
-      },
-      "date": "2027-05-14T16:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/109104656-david-reece-official-at-on-the-rocks",
-      "image": "https://media.bandsintown.com/200x200/22129923.webp",
-      "ageLimit": "",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-13641758",
-          "artist": "David Reece Official",
-          "stageTime": ""
-        },
-        {
-          "id": "band-0e3a1c98",
-          "artist": "Bangalore Choir",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2027-05-14T20:30:00.000Z"
     },
     {
       "id": "manual-1794258838518",
