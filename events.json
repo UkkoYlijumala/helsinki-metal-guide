@@ -18,17 +18,23 @@
         {
           "id": "band-1792480000157",
           "artist": "The Browning",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/fc/f4/40fcf4e6-a6a9-ccb8-ebcb-45aaf53e5db6/mzaf_14313493881378312266.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480026800",
           "artist": "Within Destruction",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/bd/f6/33bdf687-b8dd-9379-e57f-bf22b2dbeb15/mzaf_7390377207647156362.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480031965",
           "artist": "Abbie Falls",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/c0/25/0fc02580-55a5-e1b6-566e-eb2f4c75c73a/mzaf_14656884710707270099.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
     },
@@ -49,12 +55,16 @@
         {
           "id": "band-26b76cda",
           "artist": "Graham Bonnet Band",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/ce/80/0ace80ff-3b26-077b-d95a-a2817029a3db/mzaf_14011350459954992504.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-8f7dae2b",
           "artist": "Wishing Well",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
@@ -71,17 +81,23 @@
         {
           "id": "band-1793778360350",
           "artist": "Zilk",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1793778366839",
           "artist": "Incompitent Chainman",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1793778370970",
           "artist": "Report After Death",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/66/30/7866308e-f04d-b7f7-1e87-3b8a9ed9cf69/mzaf_14010672844327997037.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "description": "",
@@ -108,50 +124,25 @@
         {
           "id": "band-1792480048742",
           "artist": "Legion Of The Damned",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/4d/52/874d52d0-2466-c991-f031-18a5241219d4/mzaf_188448918725450726.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480052844",
           "artist": "Torchia",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/da/4c/81da4c82-fe5d-abf1-0ee2-4f044fe51360/mzaf_17532321358195948939.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480055530",
           "artist": "Rebellix",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ec/6d/00/ec6d00bb-9ffc-59e6-5ca3-6e94e5f4d092/mzaf_2666309891079623376.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
-    },
-    {
-      "id": "manual-1792829240704",
-      "title": "Monsternaut + Mount Palatine + Astral Sleep",
-      "date": "2026-11-20T18:00:00.000Z",
-      "venue": {
-        "name": "Bar Lepakkomies",
-        "address": "Helsinginkatu 1, Helsinki"
-      },
-      "lineup": [
-        {
-          "id": "band-1792829248841",
-          "artist": "Monsternaut",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792829250300",
-          "artist": "Mount Palatine",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792829253881",
-          "artist": "Astral Sleep",
-          "stageTime": ""
-        }
-      ],
-      "description": "Lepiksellä jyrisee, kun kolme raskaan ja psykedeelisen undergroundin yhtyettä valtaa lavan! Luvassa on murskaavia riffejä, hypnoottista groovea ja synkkiä tunnelmia stonerin, sludgen ja doomin maailmoista.\n\nOvet: 20:00\nSoitto: 20:30.\nLiput: 12€\n\nMONSTERNAUT\nStoner metal -trio Monsternaut on vakiinnuttanut mainettaan kotimaan lisäksi Euroopassa ja Yhdysvalloissa. Yhtyeen tunnistaa raskaan grooven ja tarttuvien riffien yhdistelmästä. Tänä vuonna Heavy Psych Sounds Recordsin kautta julkaistu Approaching Doom -albumi on yhtyeen tähän asti raskain ja synkin kokonaisuus.\n\nMOUNT PALATINE\nMount Palatine on helsinkiläinen vuonna 2020 perustettu yhtye, jonka musiikki yhdistää psykedeeliset äänimaisemat, raskaat riffit ja hypnoottisen grooven. Soundi ammentaa stonerin ja sludgen rouheista elementeistä, mutta kulkee rohkeasti myös genrerajojen ulkopuolella.\nYhtye julkaisi kiittävää palautetta saaneen Wormholy World -albuminsa helmikuussa 2026. Levyn julkaisun ympärillä Mount Palatine on keikkaillut aktiivisesti ympäri Suomea ja jakanut lavan useiden kotimaisten stoner-, sludge- ja doom-skenen yhtyeiden kanssa.\n\nASTRAL SLEEP\nAstral Sleep on keikkaillut harvoin ja tarkoin valituissa tilaisuuksissa ja pyrkinyt aina tarjoamaan yleisölleen ainutlaatuisen kokemuksen. Bändin yhteissoittoa ja live-esiintymistä on hiottu vuosia. Yhtye on jakanut lavan niin genren suomalaisten huippujen (mm. Skepticism, Colosseum, Spiritus Mortis, Saattue, The Wandering Midget ja Garden of Worm) kuin lukuisten undergroundin laatubändien (mm. Seal of Beleth, The Fertility Cult, Bloody Heathen ja Ciminero) kanssa.",
-      "price": "12 €",
-      "ticketUrl": "https://www.lepis.fi/tapahtumat/monsternaut-mount-palatine-astral-sleep/",
-      "image": "",
-      "ageLimit": "K-18"
     },
     {
       "id": "manual-1792829996392",
@@ -165,12 +156,51 @@
         {
           "id": "band-1792830009335",
           "artist": "Ceased Sunfire",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/15/e4/7b/15e47b7a-fcac-12e0-ef99-fe2199af9e3e/mzaf_3452588635769270217.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "description": "",
       "price": "",
       "ticketUrl": "",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
+      "id": "manual-1792829240704",
+      "title": "Monsternaut + Mount Palatine + Astral Sleep",
+      "date": "2026-11-20T18:00:00.000Z",
+      "venue": {
+        "name": "Bar Lepakkomies",
+        "address": "Helsinginkatu 1, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792829248841",
+          "artist": "Monsternaut",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/2c/9f/f92c9f52-1824-ac56-1599-aba02726aaef/mzaf_12195140908575311030.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        },
+        {
+          "id": "band-1792829250300",
+          "artist": "Mount Palatine",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/67/42/db6742da-82b8-8485-656c-ac4da4490c11/mzaf_9090352179430856931.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        },
+        {
+          "id": "band-1792829253881",
+          "artist": "Astral Sleep",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/8e/ca/a8/8ecaa871-1c72-336e-0593-3458b9cc5193/mzaf_320695057570678397.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        }
+      ],
+      "description": "Lepiksellä jyrisee, kun kolme raskaan ja psykedeelisen undergroundin yhtyettä valtaa lavan! Luvassa on murskaavia riffejä, hypnoottista groovea ja synkkiä tunnelmia stonerin, sludgen ja doomin maailmoista.\n\nOvet: 20:00\nSoitto: 20:30.\nLiput: 12€\n\nMONSTERNAUT\nStoner metal -trio Monsternaut on vakiinnuttanut mainettaan kotimaan lisäksi Euroopassa ja Yhdysvalloissa. Yhtyeen tunnistaa raskaan grooven ja tarttuvien riffien yhdistelmästä. Tänä vuonna Heavy Psych Sounds Recordsin kautta julkaistu Approaching Doom -albumi on yhtyeen tähän asti raskain ja synkin kokonaisuus.\n\nMOUNT PALATINE\nMount Palatine on helsinkiläinen vuonna 2020 perustettu yhtye, jonka musiikki yhdistää psykedeeliset äänimaisemat, raskaat riffit ja hypnoottisen grooven. Soundi ammentaa stonerin ja sludgen rouheista elementeistä, mutta kulkee rohkeasti myös genrerajojen ulkopuolella.\nYhtye julkaisi kiittävää palautetta saaneen Wormholy World -albuminsa helmikuussa 2026. Levyn julkaisun ympärillä Mount Palatine on keikkaillut aktiivisesti ympäri Suomea ja jakanut lavan useiden kotimaisten stoner-, sludge- ja doom-skenen yhtyeiden kanssa.\n\nASTRAL SLEEP\nAstral Sleep on keikkaillut harvoin ja tarkoin valituissa tilaisuuksissa ja pyrkinyt aina tarjoamaan yleisölleen ainutlaatuisen kokemuksen. Bändin yhteissoittoa ja live-esiintymistä on hiottu vuosia. Yhtye on jakanut lavan niin genren suomalaisten huippujen (mm. Skepticism, Colosseum, Spiritus Mortis, Saattue, The Wandering Midget ja Garden of Worm) kuin lukuisten undergroundin laatubändien (mm. Seal of Beleth, The Fertility Cult, Bloody Heathen ja Ciminero) kanssa.",
+      "price": "12 €",
+      "ticketUrl": "https://www.lepis.fi/tapahtumat/monsternaut-mount-palatine-astral-sleep/",
       "image": "",
       "ageLimit": "K-18"
     },
@@ -191,12 +221,16 @@
         {
           "id": "band-f45ae4c4",
           "artist": "Ratbreed",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/84/0e/4c840e46-3379-bf80-a01a-d50b1e375dfc/mzaf_5438351290481076889.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1794761646724",
           "artist": "Agarwaen",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/02/2f/e6/022fe604-5bc8-c49e-c399-139ce0cc0b3c/mzaf_204179562343709903.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
@@ -234,22 +268,30 @@
         {
           "id": "band-1792480100303",
           "artist": "Archspire",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/dd/59/09dd5957-11c2-48a2-fa58-a248b2f5b615/mzaf_8008026387246112207.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480103959",
           "artist": "Crown Magnetar",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/bb/95/a6bb955f-f6de-4305-2812-186dfab5abb7/mzaf_14563966545446522864.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480109281",
           "artist": "The Zenith Passage",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/8f/bf/558fbfce-02e7-05fc-a8eb-7ea34b46813f/mzaf_14560772140545568334.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480112266",
           "artist": "Analepsy",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/19/55/a0195547-0c5a-55ca-86b6-fc28bdd00768/mzaf_9307729979672850143.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
     },
@@ -270,12 +312,16 @@
         {
           "id": "band-1792480163626",
           "artist": "Paara",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/91/da/2f/91da2f9e-ad7e-4592-6f42-714982acb1f2/mzaf_6377518184273470815.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480169040",
           "artist": "Svarta Havet",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/5a/cc/4d5acc88-a8c4-b0d1-c83f-1f855fd642d3/mzaf_16071040649100627934.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
     },
@@ -291,7 +337,9 @@
         {
           "id": "band-1793825951429",
           "artist": "Michael Monroe",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "description": "HANOI ROCKSIN ENSIMMÄISESTÄ ALBUMISTA 45 VUOTTA – JUHLAKEIKAT MARRASKUUSSA TAVASTIALLA\n\nSuomen kaikkien aikojen merkittävimpiin rock-yhtyeisiin kuuluva Hanoi Rocks aloitti toimintansa 45 vuotta sitten julkaisemalla ensimmäisen albuminsa Bangkok Shocks, Saigon Shakes, Hanoi Rocks. Juhlavuoden kunniaksi Michael Monroe yhtyeineen soittaa kaksi erityistä Hanoi Rocks 45 years -keikkaa Helsingin Tavastialla 22.11. Juhlakeikkojen liput tulevat myyntiin maanantaina 14.9. klo 9.\n\n– Hey, kaikki Hanoi Rocksin ystävät! Nyt on hyvä syy lähteä Helsingin Tavastia Klubille 22.11.! Hanoi Rocksin ekan LP:n julkaisusta tulee kuluneeksi 45 vuotta, ja juhlavuoden kunniaksi minä ja loistava bändini soitamme todella erityisen Hanoi Rocks -setin. Esitämme pelkästään Hanoi Rocks -biisejä, kaikkien suosikkien lisäksi myös monta harvinaisuutta, joita ei yleensä kuultu edes alkuperäisen Hanoi Rocksin keikoilla. Treenaamme bändini kanssa reilusti yli 10 biisiä, joita emme ole koskaan aiemmin soittaneet. Ja mikä parasta, tämän riemukkaan elämyksen voi kokea kahdesti samana päivänä, sillä soitamme myös iltapäivällä ikärajattoman ”Limu-keikan”, jonne lapsetkin pääsevät(!). Illalla sitten uudestaan. Olen tästä Samin ja poikien kanssa todella innoissani – tästä tulee tosi hauskaa! Tervetuloa nauttimaan, rakkaat ystävät! Monroe kertoo.\n\nKahdella erityiskeikalla tullaan kuulemaan Hanoi Rocksin legendaarisimmat hitit sekä harvinaisemmat aarteet huippulahjakkaan bändin soittamana. Michael Monroen rinnalla lavalla nähdään alkuperäiseen Hanoi Rocksiin kuulunut Sami Yaffa (Hanoi Rocks, New York Dolls) sekä Michael Monroen kanssa yli 16 vuotta kiertäneet Karl Rockfist (Glenn Danzig, Joan Osborne), Rich Jones (The Ginger Wildheart Band, The Black Halos) sekä Steve Conte (New York Dolls, The Crazy Truth).\n\nRocklegenda Michael Monroe on yksi historian menestyneimmistä suomalaismuusikoista, jota mm. Wall Street Journal on kutsunut maailman kunnioitetuimmaksi rock-tähdeksi. Menestyksekkään soolouransa aikana Monroe on kiertänyt keikkalavoja ympäri maailman kokeneen ja tiiviisti yhteenhitsautuneen bändinsä kanssa. Monroen tuorein albumi, alkuvuodesta 2026 ilmestynyt Outerstellar, on ollut sekä arvostelu- että myyyntimenestys. Kansainvälisen median kehuma levy nousi suoraan ykkössijalle Britannian virallisella rock- ja metallialbumien listalla (Official Rock & Metal Albums Chart). Samaan aikaan albumi otettiin loistavasti vastaan Suomessa, jossa se debytoi Suomen virallisen fyysisen albumilistan sijalla 2 ja kokonaisalbumilistan sijalla 3.",
@@ -318,22 +366,30 @@
         {
           "id": "band-1792480200682",
           "artist": "Archspire",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/dd/59/09dd5957-11c2-48a2-fa58-a248b2f5b615/mzaf_8008026387246112207.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480203883",
           "artist": "Crown Magnetar",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/bb/95/a6bb955f-f6de-4305-2812-186dfab5abb7/mzaf_14563966545446522864.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480208343",
           "artist": "The Zenith Passage",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/8f/bf/558fbfce-02e7-05fc-a8eb-7ea34b46813f/mzaf_14560772140545568334.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792480210960",
           "artist": "Analepsy",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/19/55/a0195547-0c5a-55ca-86b6-fc28bdd00768/mzaf_9307729979672850143.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
     },
@@ -349,7 +405,9 @@
         {
           "id": "band-1793825969021",
           "artist": "Michael Monroe",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "description": "HANOI ROCKSIN ENSIMMÄISESTÄ ALBUMISTA 45 VUOTTA – JUHLAKEIKAT MARRASKUUSSA TAVASTIALLA\n\nSuomen kaikkien aikojen merkittävimpiin rock-yhtyeisiin kuuluva Hanoi Rocks aloitti toimintansa 45 vuotta sitten julkaisemalla ensimmäisen albuminsa Bangkok Shocks, Saigon Shakes, Hanoi Rocks. Juhlavuoden kunniaksi Michael Monroe yhtyeineen soittaa kaksi erityistä Hanoi Rocks 45 years -keikkaa Helsingin Tavastialla 22.11. Juhlakeikkojen liput tulevat myyntiin maanantaina 14.9. klo 9.\n\n– Hey, kaikki Hanoi Rocksin ystävät! Nyt on hyvä syy lähteä Helsingin Tavastia-klubille 22.11.! Hanoi Rocksin ekan LP:n julkaisusta tulee kuluneeksi 45 vuotta, ja juhlavuoden kunniaksi minä ja loistava bändini soitamme todella erityisen Hanoi Rocks -setin. Esitämme pelkästään Hanoi Rocks -biisejä, kaikkien suosikkien lisäksi myös monta harvinaisuutta, joita ei yleensä kuultu edes alkuperäisen Hanoi Rocksin keikoilla. Treenaamme bändini kanssa reilusti yli 10 biisiä, joita emme ole koskaan aiemmin soittaneet. Ja mikä parasta, tämän riemukkaan elämyksen voi kokea kahdesti samana päivänä, sillä soitamme myös iltapäivällä ikärajattoman ”Limu-keikan”, jonne lapsetkin pääsevät(!). Illalla sitten uudestaan. Olen tästä Samin ja poikien kanssa todella innoissani – tästä tulee tosi hauskaa! Tervetuloa nauttimaan, rakkaat ystävät! Monroe kertoo.\n\nKahdella erityiskeikalla tullaan kuulemaan Hanoi Rocksin legendaarisimmat hitit sekä harvinaisemmat aarteet huippulahjakkaan bändin soittamana. Michael Monroen rinnalla lavalla nähdään alkuperäiseen Hanoi Rocksiin kuulunut Sami Yaffa (Hanoi Rocks, New York Dolls) sekä Michael Monroen kanssa yli 16 vuotta kiertäneet Karl Rockfist (Glenn Danzig, Joan Osborne), Rich Jones (The Ginger Wildheart Band, The Black Halos) sekä Steve Conte (New York Dolls, The Crazy Truth).\n\nRocklegenda Michael Monroe on yksi historian menestyneimmistä suomalaismuusikoista, jota mm. Wall Street Journal on kutsunut maailman kunnioitetuimmaksi rock-tähdeksi. Menestyksekkään soolouransa aikana Monroe on kiertänyt keikkalavoja ympäri maailman kokeneen ja tiiviisti yhteenhitsautuneen bändinsä kanssa. Monroen tuorein albumi, alkuvuodesta 2026 ilmestynyt Outerstellar, on ollut sekä arvostelu- että myyyntimenestys. Kansainvälisen median kehuma levy nousi suoraan ykkössijalle Britannian virallisella rock- ja metallialbumien listalla (Official Rock & Metal Albums Chart). Samaan aikaan albumi otettiin loistavasti vastaan Suomessa, jossa se debytoi Suomen virallisen fyysisen albumilistan sijalla 2 ja kokonaisalbumilistan sijalla 3.",
@@ -376,7 +434,9 @@
         {
           "id": "band-1792480216154",
           "artist": "Europe",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/5b/d9/d35bd9a3-d105-95d8-ba29-0f5c6b8e764b/mzaf_7609183394807520180.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
     },
@@ -397,17 +457,61 @@
         {
           "id": "band-96cb54ad",
           "artist": "Die Oberherren",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-aa60d010",
           "artist": "Dharma Guns",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/e9/11/d5e911e4-98cc-caa3-eb4b-44da0c6176cd/mzaf_17475563038846452617.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-90ac17a7",
           "artist": "Rob Coffinshaker",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/dd/16/ec/dd16ecfe-9529-f4f6-bd36-6ab5617b9c25/mzaf_4662110397604772391.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        }
+      ],
+      "addedDate": "2026-11-15T16:41:55.472Z"
+    },
+    {
+      "id": "lepakkomies-ceaseless-torment-mutant-blast-jewel-throne",
+      "title": "Ceaseless Torment + Mutant Blast + Jewel Throne",
+      "venue": {
+        "name": "Lepakkomies",
+        "address": "Helsinginkatu 1, Helsinki"
+      },
+      "date": "2026-11-27T18:00:00.000Z",
+      "description": "",
+      "ticketUrl": "https://www.lepis.fi/tapahtumat/ceaseless-torment-mutant-blast-jewel-throne/",
+      "image": "https://www.lepis.fi/wp-content/uploads/2026/11/1000072819-435x326.jpg",
+      "ageLimit": "",
+      "price": "10 €",
+      "lineup": [
+        {
+          "id": "band-71a345ac",
+          "artist": "Ceaseless Torment",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7e/04/f1/7e04f100-d1e7-e41b-c6e0-813b90db4fb7/mzaf_13814833752855265117.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        },
+        {
+          "id": "band-0dbefd49",
+          "artist": "Mutant Blast",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/88/2e/13882eaa-ea5f-6e65-d99f-48d3375e761a/mzaf_14737610372729817743.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        },
+        {
+          "id": "band-fc3d0fb0",
+          "artist": "Jewel Throne",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/2c/02/ac2c0206-1d29-0c14-035a-fc7010597167/mzaf_8494459257558977889.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
@@ -429,41 +533,11 @@
         {
           "id": "band-1792480255449",
           "artist": "Stam1na",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/fc/06/d6fc060d-0bd6-855f-b630-e54002b0ca14/mzaf_11744253726378795769.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
-    },
-    {
-      "id": "lepakkomies-ceaseless-torment-mutant-blast-jewel-throne",
-      "title": "Ceaseless Torment + Mutant Blast + Jewel Throne",
-      "venue": {
-        "name": "Lepakkomies",
-        "address": "Helsinginkatu 1, Helsinki"
-      },
-      "date": "2026-11-27T18:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.lepis.fi/tapahtumat/ceaseless-torment-mutant-blast-jewel-throne/",
-      "image": "https://www.lepis.fi/wp-content/uploads/2026/11/1000072819-435x326.jpg",
-      "ageLimit": "",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-71a345ac",
-          "artist": "Ceaseless Torment",
-          "stageTime": ""
-        },
-        {
-          "id": "band-0dbefd49",
-          "artist": "Mutant Blast",
-          "stageTime": ""
-        },
-        {
-          "id": "band-fc3d0fb0",
-          "artist": "Jewel Throne",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T16:41:55.472Z"
     },
     {
       "id": "manual-1792830304586",
@@ -477,17 +551,23 @@
         {
           "id": "band-1792830518605",
           "artist": "Wyatt E.",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/8e/1f/0b8e1f62-b873-182f-e2f8-a01696e1f10f/mzaf_9129588430158063859.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792830523514",
           "artist": "Five The Hierophants",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1792830548971",
           "artist": "Radien",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "description": "Luvassa on rituaalista doom-metallia, dronea, jazzvaikutteita ja raskaita, hypnoottisia äänimaisemia.",
@@ -513,26 +593,72 @@
         {
           "id": "band-f8432bec",
           "artist": "Stratovarius",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/42/60/65426079-5faa-e3d3-afff-9c3994bc6776/mzaf_5955434148749811929.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-b5189263",
           "artist": "Kotiteollisuus",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/10/92/49/109249b6-7dfb-50fa-8ecb-b84168526253/mzaf_15046814420915714158.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1794776614384",
           "artist": "Sonata Arctica",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/3e/37/283e37b5-7462-dd33-49aa-b36141060d70/mzaf_6717981944565236816.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1794776628113",
           "artist": "Klamydia",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/4e/3b/674e3b14-ae9b-34b6-ce00-35a97e5ec05a/mzaf_11587214416718793953.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z",
       "endTime": "2026-11-28T21:30:00.000Z"
+    },
+    {
+      "id": "manual-1791721855912",
+      "title": "Melancholy Mass Helsinki 2026",
+      "date": "2026-11-28T17:00:00.000Z",
+      "venue": {
+        "name": "Ääniwalli",
+        "address": "Pälkäneentie 13, Helsinki"
+      },
+      "description": "Post-metalin jättiläinen Sólstafir marraskuussa Suomeen\nIslantilaisbändin tähdittämä Melancholy Mass soi Jyväskylässä, Tampereella ja Helsingissä. Melancholy Mass on viidettä kertaa järjestettävä kauniin, jylhän, raskaan ja synkän musiikin tapahtuma. Myöhäissyksyllä tumma tunnelma saavuttaa Jyväskylän, Tampereen ja Helsingin.\n\nSólstafir, Vorna, Cryptic Hatred ja Ashen Tomb kiertävät Suomea 26.-28. marraskuuta.\n\nMelancholy Massin pääesiintyjä tulee Islannista. Vuonna 1995 perustettu Sólstafir ammentaa inspiraationsa kotimaansa mystisen kauniista luonnosta ja on kasvanut Suomessakin rakastetuksi yhtyeeksi.\n\nSólstafirin musiikin paletti on runsas ja monipuolinen: luvassa on näkemyksellistä raskailua,psykedeliaa tai rockia, ihan miten kukin kuulija bändin kokee. Sólstafir on vuosien kuluessa osoittanut useasti, että se kykenee uudistumaan aina uudelleen. Bändin materiaali hipoo aina täydellisyyttä, muttei koskaan ole valmista.\n\nVorna-yhtye oli viimeisellä albumillaan Aamunkoi vahvassa iskussa. Tamperelaisyhtyeen folk ja black metalin sekä kansanperinteen mikstuura huumaa edelleen kuulijoita melakolialla ja suomen kielen luovalla käytöllä. Melodioissaan vahva ja tuntuva Vorna työstää tällä hetkellä uutta musiikkia.\n\nCryptic Hatred on yksi Suomen nuoren death metal -aallon kärkinimistä. Bändi yhdistää grooven, melankolian ja brutaalin energian omaleimaiseksi kokonaisuudeksi. Yhtye on vakuuttanut niin levytyksillään kuin intensiivisillä live-vedoillaan.\n\nMyös helsinkiläinen Ashen Tomb uskoo death metalin voimaan ja iskee sitä silmille ja korville raskaasti ja raa’asti. Synkkien tunteiden ja maalailun lisäksi Melancholy Mass tarjoaa myös kovan luokan asennemetallia.",
+      "price": "43 €",
+      "ticketUrl": "https://www.tiketti.fi/melancholy-mass-helsinki-2026-aaniwalli-helsinki-lippuja/119062",
+      "image": "",
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792480391466",
+          "artist": "Sólstafir",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/28/f5/fc28f5ed-f04c-3269-001a-8115c7c91327/mzaf_18229896565739407699.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        },
+        {
+          "id": "band-1792480400309",
+          "artist": "Vorna",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792480405839",
+          "artist": "Cryptic Hatred",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792480413524",
+          "artist": "Ashen Tomb",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "manual-1791721747953",
@@ -566,42 +692,6 @@
         {
           "id": "band-1792480343273",
           "artist": "Whisper",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
-      "id": "manual-1791721855912",
-      "title": "Melancholy Mass Helsinki 2026",
-      "date": "2026-11-28T17:00:00.000Z",
-      "venue": {
-        "name": "Ääniwalli",
-        "address": "Pälkäneentie 13, Helsinki"
-      },
-      "description": "Post-metalin jättiläinen Sólstafir marraskuussa Suomeen\nIslantilaisbändin tähdittämä Melancholy Mass soi Jyväskylässä, Tampereella ja Helsingissä. Melancholy Mass on viidettä kertaa järjestettävä kauniin, jylhän, raskaan ja synkän musiikin tapahtuma. Myöhäissyksyllä tumma tunnelma saavuttaa Jyväskylän, Tampereen ja Helsingin.\n\nSólstafir, Vorna, Cryptic Hatred ja Ashen Tomb kiertävät Suomea 26.-28. marraskuuta.\n\nMelancholy Massin pääesiintyjä tulee Islannista. Vuonna 1995 perustettu Sólstafir ammentaa inspiraationsa kotimaansa mystisen kauniista luonnosta ja on kasvanut Suomessakin rakastetuksi yhtyeeksi.\n\nSólstafirin musiikin paletti on runsas ja monipuolinen: luvassa on näkemyksellistä raskailua,psykedeliaa tai rockia, ihan miten kukin kuulija bändin kokee. Sólstafir on vuosien kuluessa osoittanut useasti, että se kykenee uudistumaan aina uudelleen. Bändin materiaali hipoo aina täydellisyyttä, muttei koskaan ole valmista.\n\nVorna-yhtye oli viimeisellä albumillaan Aamunkoi vahvassa iskussa. Tamperelaisyhtyeen folk ja black metalin sekä kansanperinteen mikstuura huumaa edelleen kuulijoita melakolialla ja suomen kielen luovalla käytöllä. Melodioissaan vahva ja tuntuva Vorna työstää tällä hetkellä uutta musiikkia.\n\nCryptic Hatred on yksi Suomen nuoren death metal -aallon kärkinimistä. Bändi yhdistää grooven, melankolian ja brutaalin energian omaleimaiseksi kokonaisuudeksi. Yhtye on vakuuttanut niin levytyksillään kuin intensiivisillä live-vedoillaan.\n\nMyös helsinkiläinen Ashen Tomb uskoo death metalin voimaan ja iskee sitä silmille ja korville raskaasti ja raa’asti. Synkkien tunteiden ja maalailun lisäksi Melancholy Mass tarjoaa myös kovan luokan asennemetallia.",
-      "price": "43 €",
-      "ticketUrl": "https://www.tiketti.fi/melancholy-mass-helsinki-2026-aaniwalli-helsinki-lippuja/119062",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792480391466",
-          "artist": "Sólstafir",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792480400309",
-          "artist": "Vorna",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792480405839",
-          "artist": "Cryptic Hatred",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792480413524",
-          "artist": "Ashen Tomb",
           "stageTime": ""
         }
       ]
@@ -671,27 +761,6 @@
       ]
     },
     {
-      "id": "manual-1791722973040",
-      "title": "THE HARDKISS (UA)",
-      "date": "2026-12-01T17:00:00.000Z",
-      "venue": {
-        "name": "Tavastia klubi",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "description": "Ukrainalainen rock-sensaatio The Hardkiss palaa Tavastialle, Helsinkiin 1. joulukuuta 2026 – luvassa on jälleen unohtumaton ilta täynnä yhtyeen omaleimaista rockin, elektronisen ja popin yhdistelmää. Edellinen Helsingin-keikka vuonna 2024 oli loppuunmyyty.\n\nEuropean Anniversary Tour 2026 juhlistaa The Hardkissin yli vuosikymmenen mittaista uraa, jonka aikana yhtye on hurmannut yleisöjä ympäri Eurooppaa. Tunnettu elokuvallisista visuaaleistaan, sähköisestä lavaesiintymisestään ja genrejä rikkovasta soundistaan, The Hardkiss jatkaa rajoja rikkovaa matkaansa. Tämän perinnön viimeisin ilmentymä on uusi single “Tenderness”, vaikuttavan tunnepitoinen kappale, joka on jo kerännyt kansainvälistä huomiota.Liput ovat nyt myynnissä.",
-      "price": "52,50 €",
-      "ticketUrl": "https://www.tiketti.fi/the-hardkiss-ua-tavastia-klubi-helsinki-lippuja/112283",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792480454332",
-          "artist": "The Hardkiss",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
       "id": "manual-1791723145782",
       "title": "Anvil (CAN), Killer (BE)",
       "date": "2026-12-01T17:00:00.000Z",
@@ -713,6 +782,27 @@
         {
           "id": "band-1792480889388",
           "artist": "Killer",
+          "stageTime": ""
+        }
+      ]
+    },
+    {
+      "id": "manual-1791722973040",
+      "title": "THE HARDKISS (UA)",
+      "date": "2026-12-01T17:00:00.000Z",
+      "venue": {
+        "name": "Tavastia klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
+      "description": "Ukrainalainen rock-sensaatio The Hardkiss palaa Tavastialle, Helsinkiin 1. joulukuuta 2026 – luvassa on jälleen unohtumaton ilta täynnä yhtyeen omaleimaista rockin, elektronisen ja popin yhdistelmää. Edellinen Helsingin-keikka vuonna 2024 oli loppuunmyyty.\n\nEuropean Anniversary Tour 2026 juhlistaa The Hardkissin yli vuosikymmenen mittaista uraa, jonka aikana yhtye on hurmannut yleisöjä ympäri Eurooppaa. Tunnettu elokuvallisista visuaaleistaan, sähköisestä lavaesiintymisestään ja genrejä rikkovasta soundistaan, The Hardkiss jatkaa rajoja rikkovaa matkaansa. Tämän perinnön viimeisin ilmentymä on uusi single “Tenderness”, vaikuttavan tunnepitoinen kappale, joka on jo kerännyt kansainvälistä huomiota.Liput ovat nyt myynnissä.",
+      "price": "52,50 €",
+      "ticketUrl": "https://www.tiketti.fi/the-hardkiss-ua-tavastia-klubi-helsinki-lippuja/112283",
+      "image": "",
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792480454332",
+          "artist": "The Hardkiss",
           "stageTime": ""
         }
       ]
@@ -913,7 +1003,9 @@
         {
           "id": "band-1792480498414",
           "artist": "Stam1na",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/fc/06/d6fc060d-0bd6-855f-b630-e54002b0ca14/mzaf_11744253726378795769.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
     },
@@ -991,7 +1083,9 @@
         {
           "id": "band-1794260112136",
           "artist": "Kotiteollisuus",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/10/92/49/109249b6-7dfb-50fa-8ecb-b84168526253/mzaf_15046814420915714158.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ],
       "description": "Kotiteollisuus on koko uransa ajan keikkaillut ahkerasti muun muassa festareilla ja kiertueilla. Jouni Hynynen summaa: ”Keikkailussa on parasta se, että silloin ollaan aidossa kontaktissa faneihin. Keikoista saa valtavasti virtaa, vaikka meidän energiatasolla sitä haihtuu samalla myös hikenä ja pieruina taivaan tuuliin. Mutta tietääpähän ainakin tehneensä jotain, kun valumme keikkojen jälkeen takahuoneeseen puuskuttamaan ja puristamaan hikeä läpimäristä paidoistamme. Mutta kontakti yleisöön, se on tärkeintä ja antavinta”",
@@ -1000,38 +1094,6 @@
       "image": "",
       "ageLimit": "K-18",
       "addedDate": "2026-11-09T21:35:00.150Z"
-    },
-    {
-      "id": "bandsintown-108957725",
-      "title": "Varjo Konsertti",
-      "venue": {
-        "name": "Skenesali",
-        "address": "Jönsaksentie 6, Vantaa"
-      },
-      "date": "2026-12-05T18:00:00.000Z",
-      "description": "Tulevaisuus kasvaa varjoissa\nJärjestyksessään toinen Varjo Konsertti on vaihtoehtoisen monitaiteen ilta, jossa esiintyvät raskaan musiikin rihmastovaikuttajat Unredeemer ja Agarwaen. Illan lämmittää Animora elokuvallisen dystooppisilla äänimaisemillaan.\n\nVarjo Konsertti tuo näkyväksi Shadow Room ry:n jäsenten toimintaa ja yhteistyöprojekteja.\n\nUnredeemer\n\nVuonna 2019 perustettu Unredeemer yhdistää death- ja groove-metallin raskaat rytmit synkkiin melodioihin ja blackened thrash -vaikutteisiin. Yhtyeen musiikissa lunastuksen ja armon käsitteet kääntyvät päälaelleen: jokainen kantaa itse vastuun elämästään ja teoistaan. Näyttävästä lavaesiintymisestään tunnettu yhtye on jakanut lavan Euroopassa muun muassa Heaven Shall Burnin, Destructionin ja Cryptopsyn kanssa.\n\nReject redemption. Unredeem yourself.\n\nAgarwaen\n\nAgarwaen on suomalainen avantgarde extreme metal -yhtye, joka on keikkaillut laajasti Suomessa, kiertänyt Eurooppaa ja esiintynyt Tuskassa vuonna 2024. Kesällä 2026 yhtye julkaisi kolmannen albuminsa The Murder Trend italialaisen Over the Border Recordsin kautta.\n\nAgarwaen tarjoaa villejä ja sekopäisiä äänimaisemia tarttuvien riffien ja huikeiden tunnelmien kera. Teatraaliset keikat ovat kuin kohtauksia mielisairaalaan sijoittuvasta kauhuelokuvasta! Bändi on outo kummajainen, joka sekoittaa kaikenlaisia metallityylejä yhdeksi raivokkaaksi ja hulluksi kokonaisuudeksi.\n\nAnimora\n\nAnimora rakentaa kuulokuvia klassisista techno-elementeistä, vierailee pimeissä ambient-maailmoissa ja palaa dystooppisen trancen pariin. Synkkyys ja toiveikkuus kulkevat äänimaisemissa rinnakkain, ja kuulija saa itse päättää, kumman hän päästää pintaan.\n\nSuomessa tuotettu yhdeksän kappaleen albumi vie kuulijan elokuvalliselle matkalle pimeyden ja valon välimaastoon. Albumi julkaistiin 4.9.2026, ja sen voi kuunnella kokonaisuudessaan SoundCloudissa.",
-      "ticketUrl": "https://www.tiketti.fi/unredeemer-agarwaen-animora-skenesali-vantaa-lippuja/122441",
-      "image": "https://media.bandsintown.com/200x200/23483247.webp",
-      "ageLimit": "K-18",
-      "price": "15 €",
-      "lineup": [
-        {
-          "id": "band-a89e2f6d",
-          "artist": "Unredeemer",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1794776805480",
-          "artist": "Agarwaen",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1794776825749",
-          "artist": "Animora",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "lepakkomies-toxic-club-vol-100-kryptareflat-refusal-kantamus-surya",
@@ -1065,6 +1127,40 @@
         {
           "id": "band-47e2fabf",
           "artist": "Surya",
+          "stageTime": ""
+        }
+      ],
+      "addedDate": "2026-11-15T18:59:57.349Z"
+    },
+    {
+      "id": "bandsintown-108957725",
+      "title": "Varjo Konsertti",
+      "venue": {
+        "name": "Skenesali",
+        "address": "Jönsaksentie 6, Vantaa"
+      },
+      "date": "2026-12-05T18:00:00.000Z",
+      "description": "Tulevaisuus kasvaa varjoissa\nJärjestyksessään toinen Varjo Konsertti on vaihtoehtoisen monitaiteen ilta, jossa esiintyvät raskaan musiikin rihmastovaikuttajat Unredeemer ja Agarwaen. Illan lämmittää Animora elokuvallisen dystooppisilla äänimaisemillaan.\n\nVarjo Konsertti tuo näkyväksi Shadow Room ry:n jäsenten toimintaa ja yhteistyöprojekteja.\n\nUnredeemer\n\nVuonna 2019 perustettu Unredeemer yhdistää death- ja groove-metallin raskaat rytmit synkkiin melodioihin ja blackened thrash -vaikutteisiin. Yhtyeen musiikissa lunastuksen ja armon käsitteet kääntyvät päälaelleen: jokainen kantaa itse vastuun elämästään ja teoistaan. Näyttävästä lavaesiintymisestään tunnettu yhtye on jakanut lavan Euroopassa muun muassa Heaven Shall Burnin, Destructionin ja Cryptopsyn kanssa.\n\nReject redemption. Unredeem yourself.\n\nAgarwaen\n\nAgarwaen on suomalainen avantgarde extreme metal -yhtye, joka on keikkaillut laajasti Suomessa, kiertänyt Eurooppaa ja esiintynyt Tuskassa vuonna 2024. Kesällä 2026 yhtye julkaisi kolmannen albuminsa The Murder Trend italialaisen Over the Border Recordsin kautta.\n\nAgarwaen tarjoaa villejä ja sekopäisiä äänimaisemia tarttuvien riffien ja huikeiden tunnelmien kera. Teatraaliset keikat ovat kuin kohtauksia mielisairaalaan sijoittuvasta kauhuelokuvasta! Bändi on outo kummajainen, joka sekoittaa kaikenlaisia metallityylejä yhdeksi raivokkaaksi ja hulluksi kokonaisuudeksi.\n\nAnimora\n\nAnimora rakentaa kuulokuvia klassisista techno-elementeistä, vierailee pimeissä ambient-maailmoissa ja palaa dystooppisen trancen pariin. Synkkyys ja toiveikkuus kulkevat äänimaisemissa rinnakkain, ja kuulija saa itse päättää, kumman hän päästää pintaan.\n\nSuomessa tuotettu yhdeksän kappaleen albumi vie kuulijan elokuvalliselle matkalle pimeyden ja valon välimaastoon. Albumi julkaistiin 4.9.2026, ja sen voi kuunnella kokonaisuudessaan SoundCloudissa.",
+      "ticketUrl": "https://www.tiketti.fi/unredeemer-agarwaen-animora-skenesali-vantaa-lippuja/122441",
+      "image": "https://media.bandsintown.com/200x200/23483247.webp",
+      "ageLimit": "K-18",
+      "price": "15 €",
+      "lineup": [
+        {
+          "id": "band-a89e2f6d",
+          "artist": "Unredeemer",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794776805480",
+          "artist": "Agarwaen",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/02/2f/e6/022fe604-5bc8-c49e-c399-139ce0cc0b3c/mzaf_204179562343709903.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        },
+        {
+          "id": "band-1794776825749",
+          "artist": "Animora",
           "stageTime": ""
         }
       ],
@@ -1268,6 +1364,39 @@
       "endTime": "2026-12-11T21:30:00.000Z"
     },
     {
+      "id": "manual-1792832392765",
+      "title": "FI/LV METAL MADNESS: Iron Wings (LV) + Barrel + Ratbreed",
+      "date": "2026-12-12T18:00:00.000Z",
+      "venue": {
+        "name": "Bar Lepakkomies",
+        "address": "Helsinginkatu 1, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792832398453",
+          "artist": "Iron Wings",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792832406041",
+          "artist": "Barrel",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792832413261",
+          "artist": "Ratbreed",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/84/0e/4c840e46-3379-bf80-a01a-d50b1e375dfc/mzaf_5438351290481076889.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
+        }
+      ],
+      "description": "Thrashia. Speediä. Heavyä. Progea.\n\nJa tuoretta materiaalia:\nBARREL – Triptych\nIRON WINGS – Alpha & Omega\n\nIron Wings × Finland – first time ever.\n\nMetal knows no borders.",
+      "price": "10 €",
+      "ticketUrl": "https://www.lepis.fi/tapahtumat/fi-lv-metal-madness-iron-wings-lv-barrel-ratbreed/",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
       "id": "manual-1791712599004",
       "title": "Havukruunu",
       "date": "2026-12-12T18:00:00.000Z",
@@ -1318,37 +1447,6 @@
           "stageTime": ""
         }
       ]
-    },
-    {
-      "id": "manual-1792832392765",
-      "title": "FI/LV METAL MADNESS: Iron Wings (LV) + Barrel + Ratbreed",
-      "date": "2026-12-12T18:00:00.000Z",
-      "venue": {
-        "name": "Bar Lepakkomies",
-        "address": "Helsinginkatu 1, Helsinki"
-      },
-      "lineup": [
-        {
-          "id": "band-1792832398453",
-          "artist": "Iron Wings",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792832406041",
-          "artist": "Barrel",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792832413261",
-          "artist": "Ratbreed",
-          "stageTime": ""
-        }
-      ],
-      "description": "Thrashia. Speediä. Heavyä. Progea.\n\nJa tuoretta materiaalia:\nBARREL – Triptych\nIRON WINGS – Alpha & Omega\n\nIron Wings × Finland – first time ever.\n\nMetal knows no borders.",
-      "price": "10 €",
-      "ticketUrl": "https://www.lepis.fi/tapahtumat/fi-lv-metal-madness-iron-wings-lv-barrel-ratbreed/",
-      "image": "",
-      "ageLimit": "K-18"
     },
     {
       "id": "kulttuuritalo-2026-12-16-metallica-ride-the-lightning-tribute-with-producer-flemming-rasmussen",
@@ -1903,7 +2001,9 @@
         {
           "id": "band-1794778847545",
           "artist": "Torchia",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/da/4c/81da4c82-fe5d-abf1-0ee2-4f044fe51360/mzaf_17532321358195948939.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         }
       ]
     },
@@ -2177,6 +2277,28 @@
       ]
     },
     {
+      "id": "manual-1794258385214",
+      "title": "Dawn Of Solace (levyjulkkarit)",
+      "date": "2027-02-12T18:00:00.000Z",
+      "venue": {
+        "name": "On The Rocks",
+        "address": ""
+      },
+      "lineup": [
+        {
+          "id": "band-1794258593743",
+          "artist": "Dawn of Solace",
+          "stageTime": ""
+        }
+      ],
+      "description": "Metallin monitoimimies Tuomas Saukkosen (Wolfheart, Before The Dawn) ja Kaunis Kuolematon -yhtyeestä tunnetun Mikko Heikkilän Dawn of Solace julkaisee 12. tammikuuta uuden albumin nimeltä \"Skeletons\" ja soittaa sen kunniaksi vain yhden täyspitkän keikan vuonna 2027. Levyjulkkarit juhlitaan perjantaina 12. helmikuuta 2027 Helsingin On The Rocksissa.\n\nTuomas Saukkosen sooloprojektina alkunsa saanut Dawn of Solace julkaisi debyyttialbuminsa jo 2006 ja palasi levytyskantaan uudelleen vasta vuoden 2020 \"Waves\" -albumin myötä. Vuoden 2022 alussa julkaistiin kriitikoiden ja yleisön rakastama \"Flames of Perdition\" ja vuonna 2025 jylhä \"Affliction Vortex\". Tammikuussa 2027 julkaistava \"Skeletons\" on yhtyeen viides albumi.",
+      "price": "20 €",
+      "ticketUrl": "https://www.tiketti.fi/dawn-of-solace-on-the-rocks-helsinki-lippuja/121971",
+      "image": "",
+      "ageLimit": "",
+      "addedDate": "2026-11-09T21:06:25.214Z"
+    },
+    {
       "id": "manual-1791727781920",
       "title": "Signs of the Swarm (USA), Ten56 (Fra), Oceans Ate Alaska (UK) & Face Yourself (Fra-USA)",
       "date": "2027-02-12T18:00:00.000Z",
@@ -2211,28 +2333,6 @@
           "stageTime": ""
         }
       ]
-    },
-    {
-      "id": "manual-1794258385214",
-      "title": "Dawn Of Solace (levyjulkkarit)",
-      "date": "2027-02-12T18:00:00.000Z",
-      "venue": {
-        "name": "On The Rocks",
-        "address": ""
-      },
-      "lineup": [
-        {
-          "id": "band-1794258593743",
-          "artist": "Dawn of Solace",
-          "stageTime": ""
-        }
-      ],
-      "description": "Metallin monitoimimies Tuomas Saukkosen (Wolfheart, Before The Dawn) ja Kaunis Kuolematon -yhtyeestä tunnetun Mikko Heikkilän Dawn of Solace julkaisee 12. tammikuuta uuden albumin nimeltä \"Skeletons\" ja soittaa sen kunniaksi vain yhden täyspitkän keikan vuonna 2027. Levyjulkkarit juhlitaan perjantaina 12. helmikuuta 2027 Helsingin On The Rocksissa.\n\nTuomas Saukkosen sooloprojektina alkunsa saanut Dawn of Solace julkaisi debyyttialbuminsa jo 2006 ja palasi levytyskantaan uudelleen vasta vuoden 2020 \"Waves\" -albumin myötä. Vuoden 2022 alussa julkaistiin kriitikoiden ja yleisön rakastama \"Flames of Perdition\" ja vuonna 2025 jylhä \"Affliction Vortex\". Tammikuussa 2027 julkaistava \"Skeletons\" on yhtyeen viides albumi.",
-      "price": "20 €",
-      "ticketUrl": "https://www.tiketti.fi/dawn-of-solace-on-the-rocks-helsinki-lippuja/121971",
-      "image": "",
-      "ageLimit": "",
-      "addedDate": "2026-11-09T21:06:25.214Z"
     },
     {
       "id": "manual-1791727862436",
@@ -3116,7 +3216,9 @@
         {
           "id": "band-1794259399559",
           "artist": "Radien",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1794259405380",
@@ -3281,7 +3383,9 @@
         {
           "id": "band-1794220941357",
           "artist": "Stratovarius",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/42/60/65426079-5faa-e3d3-afff-9c3994bc6776/mzaf_5955434148749811929.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-16"
         },
         {
           "id": "band-1794220946284",
