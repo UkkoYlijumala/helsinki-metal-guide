@@ -34,7 +34,7 @@
     },
     {
       "id": "kulttuuritalo-2026-11-17-graham-bonnet-band-uk-usa-wishing-well",
-      "title": "GRAHAM BONNET BAND (UK/USA) + WISHING WELL",
+      "title": "Graham Bonnet Band (UK/USA) + Wishing Well",
       "venue": {
         "name": "Kulttuuritalo",
         "address": "Sturenkatu 4, Helsinki"
@@ -123,60 +123,6 @@
       ]
     },
     {
-      "id": "barloose-9166",
-      "title": "S.P.I.T, Röd Ängel, Boulevard Drift",
-      "venue": {
-        "name": "Bar Loose",
-        "address": "Annankatu 21, Helsinki"
-      },
-      "date": "2026-11-19T17:30:00.000Z",
-      "description": "S.P.I.T\n\nS.P.I.T on jyväskyläläinen nelihenkinen hard rock ‐yhtye. Bändi on toiminut vuodesta 2018 ja niittänyt mainetta ympäri Suomea näyttävillä ja ammattitaitoisilla live‐esiintymisillään. Yhtye on saanut huomiota myös vaikuttavasta lavakalustostaan. S.P.I.T:n musiikki ammentaa vaikutteita 80-luvun musiikista ja tyylistä, mutta myös modernista metallista. Bändi julkaisi hiljattain depyytti EP:n Modern Messiah. YleX on kuvailut yhtyettä poikkeuksellisen törkeäksi ja energiseksi. S.P.I.T takaa kovan lavashown ja viihdyttävän keikan!\n\nRöd Ängel\n\nKolottaako rokkihammasta? Tule käymään meidän vastaanotolla. Vauhdikas ja energinen Rock’n Roll kliniikka odottaa ajanvaraustasi. ME OLLAAN RÖD ÄNGEL!\n\nBoulevard Drift\n\nBoulevard Drift on Tampereella perustettu, energinen ja shokeeraava glam metal -bändi. Yhtye julkaisi tämän vuoden elokuun lopulla debyyttisinglensä, joka kantaa nimeä ”Bodytalkin’”Tämä kävelevä hairspray-tornado vahvisti rivejään, kun basisti Jimmy liittyi bändiin laulaja Jerryn, rumpali Connien ja kitaristi Acen rinnalle! Täysi kokoonpano debytoi Bar Loosessa 19.11. So are you ready to have some fun and show some bodytalkin’?\n\n19.30 ovet\n20.00 Boulevard Drift\n20.45 Röd Ängel\n21.30 S.P.I.T\n\nLiput: 8/10 € (+3,5 € eteispalvelumaksu).",
-      "ticketUrl": "https://barloose.com/live/s-p-i-t-rod-angel-boulevard-drift-2/",
-      "image": "https://barloose.com/wp-content/uploads/2026/11/875645459_1743113934483162_1606701779453889920_n.jpg",
-      "ageLimit": "K-18",
-      "price": "8 €",
-      "lineup": [
-        {
-          "id": "band-eae7f41d",
-          "artist": "S.P.I.T",
-          "stageTime": ""
-        },
-        {
-          "id": "band-86fb9f90",
-          "artist": "Röd Ängel",
-          "stageTime": ""
-        },
-        {
-          "id": "band-f8849122",
-          "artist": "Boulevard Drift",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2026-11-19T20:30:00.000Z"
-    },
-    {
-      "id": "manual-1792829996392",
-      "title": "Ceased Sunfire",
-      "date": "2026-11-20T18:00:00.000Z",
-      "venue": {
-        "name": "Hard Rock House",
-        "address": "Roihuvuorentie 1, Helsinki"
-      },
-      "lineup": [
-        {
-          "id": "band-1792830009335",
-          "artist": "Ceased Sunfire",
-          "stageTime": ""
-        }
-      ],
-      "description": "",
-      "price": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18"
-    },
-    {
       "id": "manual-1792829240704",
       "title": "Monsternaut + Mount Palatine + Astral Sleep",
       "date": "2026-11-20T18:00:00.000Z",
@@ -208,6 +154,27 @@
       "ageLimit": "K-18"
     },
     {
+      "id": "manual-1792829996392",
+      "title": "Ceased Sunfire",
+      "date": "2026-11-20T18:00:00.000Z",
+      "venue": {
+        "name": "Hard Rock House",
+        "address": "Roihuvuorentie 1, Helsinki"
+      },
+      "lineup": [
+        {
+          "id": "band-1792830009335",
+          "artist": "Ceased Sunfire",
+          "stageTime": ""
+        }
+      ],
+      "description": "",
+      "price": "",
+      "ticketUrl": "",
+      "image": "",
+      "ageLimit": "K-18"
+    },
+    {
       "id": "bandsintown-109113331",
       "title": "Ratbreed",
       "venue": {
@@ -233,38 +200,6 @@
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
-    },
-    {
-      "id": "clubunderground-2026-11-21-west-helsinki-death-metal-club-absent-fear-swe-concrete-icon-gorekaust",
-      "title": "West Helsinki death metal club: Absent fear (SWE), Concrete Icon, Gorekaust",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2026-11-21",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-64b64ca0",
-          "artist": "Absent fear",
-          "stageTime": ""
-        },
-        {
-          "id": "band-dd94ffba",
-          "artist": "Concrete Icon",
-          "stageTime": ""
-        },
-        {
-          "id": "band-e171de02",
-          "artist": "Gorekaust",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "manual-1793779839449",
@@ -343,29 +278,6 @@
           "stageTime": ""
         }
       ]
-    },
-    {
-      "id": "barloose-9103",
-      "title": "The Return of Cobralife w/ Rock-Criminals",
-      "venue": {
-        "name": "Bar Loose",
-        "address": "Annankatu 21, Helsinki"
-      },
-      "date": "2026-11-21T18:30:00.000Z",
-      "description": "Tänä kesänä julkaistu ’Incriminating Activities’ vie kuulijat matkalle neonin sävyttämiltä kujilta Kolumbian viidakoihin. Cobralifen musiikissa yhdistyy 1980-luvun hard rockin kitaravetoisuus, 60-luvun garagerockin raaka energia sekä surrealistinen, elokuvallinen tarinankerronta.\n\nJokainen Snake Satan Clanin keikka on myyty loppuun. It’s a napalm war party. Varmista paikkasi ja osta liput nyt!\n\nIllan avaa Kymenlaakson rikollisen hyvä rock-lupaus Rock-Criminals, joka myöskin palaa pitkältä keikkatauolta päivitetyn kokoonpanon kera. Vuonna 2011 perustettu haminalaislähtöinen rock-yhtye on esiintynyt vuosien aikana ympäri Suomea ja lämmitellyt muun muassa Pelle Miljoona OY:n ja Sami Yaffan kiertueilla. Bändi on tehnyt musiikkia yhdessä myös Michael Monroen kanssa, johon yhtye tutustui osallistuttuaan vuonna 2018 X Factor Suomi-ohjelmaan.\n\nLiput ennakkoon 12 €: https://www.tiketti.fi/the-return-of-cobralife-rock-criminals-bar-loose-helsinki-lippuja/121854\n\novelta 15 € (+3,5 € eteispalvelumaksu), mikäli jäljellä.",
-      "ticketUrl": "https://www.tiketti.fi/the-return-of-cobralife-rock-criminals-bar-loose-helsinki-lippuja/121854",
-      "image": "https://barloose.com/wp-content/uploads/2026/10/Cobralife.jpeg",
-      "ageLimit": "K-18",
-      "price": "12 €",
-      "lineup": [
-        {
-          "id": "band-decf9977",
-          "artist": "The Return of Cobralife w/ Rock-Criminals",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2026-11-21T21:30:00.000Z"
     },
     {
       "id": "manual-1793825818037",
@@ -469,41 +381,8 @@
       ]
     },
     {
-      "id": "barloose-9157",
-      "title": "Post Pulse, Sees, These",
-      "venue": {
-        "name": "Bar Loose",
-        "address": "Annankatu 21, Helsinki"
-      },
-      "date": "2026-11-25T17:30:00.000Z",
-      "description": "Post Pulse – Jo yli kymmenen vuotta modernia metalliaan tarjoillut Post Pulse kotioutui juuri Euroopan rundilta ja on valmis tuomaan opit kotikaupunkinsa yöhön. Yhtyeen kolmas albumi ”Lupaus” julkaistiin alkuvuodesta.\n\nSees – Tuore tamperelainen post-metal-yhtye juhlii vastikään julkaistua ensimmäistä täyspitkäänsä. Luvassa pitkiä siveltimenvetoja, rujoa kauneutta ja musertavaa raskautta.\n\nThese – Paikallinen tuore trio vangitsee kuulijansa vaihtoehtorockillaan. Monivivahteiset rytmit, intensiivinen dynamiikka ja kokeellinen äänimaisema luo elämyksen, jolla on pitkäaikainen vaikutus.",
-      "ticketUrl": "https://barloose.com/live/post-pulse-sees-these/",
-      "image": "https://barloose.com/wp-content/uploads/2026/11/2026-11-11-loose-2150x1500-1.jpg",
-      "ageLimit": "K-18",
-      "price": "8 €",
-      "lineup": [
-        {
-          "id": "band-6d8cf44c",
-          "artist": "Post Pulse",
-          "stageTime": ""
-        },
-        {
-          "id": "band-cf61c5fe",
-          "artist": "Sees",
-          "stageTime": ""
-        },
-        {
-          "id": "band-75ac7140",
-          "artist": "These",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2026-11-25T20:30:00.000Z"
-    },
-    {
       "id": "kuudeslinja-2026-11-27-1900-die-oberherren-se-dharma-guns-rob-coffinshaker-se",
-      "title": "DIE OBERHERREN (SE) + DHARMA GUNS + ROB COFFINSHAKER (SE)",
+      "title": "Die Oberherren (SE) + Dharma Guns + Rob Coffinshaker (SE)",
       "venue": {
         "name": "Kuudes Linja",
         "address": "Hämeentie 13 B, Helsinki"
@@ -534,8 +413,29 @@
       "addedDate": "2026-11-15T16:41:55.472Z"
     },
     {
+      "id": "manual-1792271061670",
+      "title": "Stam1na",
+      "date": "2026-11-27T18:00:00.000Z",
+      "venue": {
+        "name": "Tavastia-klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
+      "description": "STAM1NA JUHLISTAA 30-VUOTISTA TAIVALTAAN DIRTY YEARS 2026 -KIERTUEELLA\n\nKotimaisen metallin kulmakivi Stam1na juhlistaa 30-vuotista uraansa syksyllä ja alkutalvella Dirty Years 2026 -kiertueella. Yhteensä 18 keikkaa käsittävä juhlakiertue käynnistyy yhtyeen kotikunnasta Lemiltä perjantaina 23. lokakuuta ja saapuu muun muassa Helsinkiin, Tampereelle, Turkuun, Ouluun ja Jyväskylään. Kiertueen liput ovat nyt myynnissä.\n\nTuoreeltaan 11. studioalbuminsa Apnean julkaissut Stam1na palaa juhlakiertueellaan myös kymmenen vuoden taakse. Vuonna 2016 ilmestynyt Elokuutio on yksi yhtyeen rakastetuimmista albumeista, ja sen materiaali nousee merkittävään rooliin syksyn konserteissa. Luvassa on lisäksi harvemmin kuultuja kappaleita koko uran varrelta sekä yllätyksiä pitkäaikaisille faneille.\n\n\"Likaiset asfalttisoturit palaavat tien päälle! Syksyn pukukoodi on oranssi ja musta. Jyräämme tällä rundilla bändin kolmekymppisten lisäksi vuoden 2016 Elokuutio-albumin tahtiin. Tulemme soittamaan keikoilla erittäin harvinaista materiaalia, plus jopa cover-matskua. Itse odotan erityisellä innolla Lemin avauskeikkaa... Sieltähän tämä kaikki mielipuolisuus sai alkunsa.”",
+      "price": "42 €",
+      "ticketUrl": "https://www.tiketti.fi/stam1na-dirty-years-2026-tavastia-klubi-helsinki-lippuja/120340",
+      "image": "",
+      "ageLimit": "k-18",
+      "lineup": [
+        {
+          "id": "band-1792480255449",
+          "artist": "Stam1na",
+          "stageTime": ""
+        }
+      ]
+    },
+    {
       "id": "lepakkomies-ceaseless-torment-mutant-blast-jewel-throne",
-      "title": "CEASELESS TORMENT + MUTANT BLAST + JEWEL THRONE",
+      "title": "Ceaseless Torment + Mutant Blast + Jewel Throne",
       "venue": {
         "name": "Lepakkomies",
         "address": "Helsinginkatu 1, Helsinki"
@@ -564,27 +464,6 @@
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
-    },
-    {
-      "id": "manual-1792271061670",
-      "title": "Stam1na",
-      "date": "2026-11-27T18:00:00.000Z",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "description": "STAM1NA JUHLISTAA 30-VUOTISTA TAIVALTAAN DIRTY YEARS 2026 -KIERTUEELLA\n\nKotimaisen metallin kulmakivi Stam1na juhlistaa 30-vuotista uraansa syksyllä ja alkutalvella Dirty Years 2026 -kiertueella. Yhteensä 18 keikkaa käsittävä juhlakiertue käynnistyy yhtyeen kotikunnasta Lemiltä perjantaina 23. lokakuuta ja saapuu muun muassa Helsinkiin, Tampereelle, Turkuun, Ouluun ja Jyväskylään. Kiertueen liput ovat nyt myynnissä.\n\nTuoreeltaan 11. studioalbuminsa Apnean julkaissut Stam1na palaa juhlakiertueellaan myös kymmenen vuoden taakse. Vuonna 2016 ilmestynyt Elokuutio on yksi yhtyeen rakastetuimmista albumeista, ja sen materiaali nousee merkittävään rooliin syksyn konserteissa. Luvassa on lisäksi harvemmin kuultuja kappaleita koko uran varrelta sekä yllätyksiä pitkäaikaisille faneille.\n\n\"Likaiset asfalttisoturit palaavat tien päälle! Syksyn pukukoodi on oranssi ja musta. Jyräämme tällä rundilla bändin kolmekymppisten lisäksi vuoden 2016 Elokuutio-albumin tahtiin. Tulemme soittamaan keikoilla erittäin harvinaista materiaalia, plus jopa cover-matskua. Itse odotan erityisellä innolla Lemin avauskeikkaa... Sieltähän tämä kaikki mielipuolisuus sai alkunsa.”",
-      "price": "42 €",
-      "ticketUrl": "https://www.tiketti.fi/stam1na-dirty-years-2026-tavastia-klubi-helsinki-lippuja/120340",
-      "image": "",
-      "ageLimit": "k-18",
-      "lineup": [
-        {
-          "id": "band-1792480255449",
-          "artist": "Stam1na",
-          "stageTime": ""
-        }
-      ]
     },
     {
       "id": "manual-1792830304586",
@@ -618,100 +497,42 @@
       "ageLimit": "K-18"
     },
     {
-      "id": "clubunderground-2026-11-28-ramficator-khaos-jewel-throne",
-      "title": "Ramficator, Khaos, Jewel throne",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2026-11-28",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-a1812208",
-          "artist": "Ramficator",
-          "stageTime": ""
-        },
-        {
-          "id": "band-b2b70cfd",
-          "artist": "Khaos",
-          "stageTime": ""
-        },
-        {
-          "id": "band-ce81400f",
-          "artist": "Jewel throne",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "bandsintown-108479234",
-      "title": "Rokki Raikaa -pikkujoulut, Stratovarius",
+      "title": "Rokki Raikaa",
       "venue": {
         "name": "Myyrmäki-halli",
         "address": "Raappavuorentie 10, Vantaa"
       },
       "date": "2026-11-28T13:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/108479234-sonata-arctica-at-myyrmaki-hall",
+      "description": "Rokki Raikaa - Suurimmat rokit järjestetään Myyrmäkihallissa lauantaina 28. marraskuuta. Illan aikana lavalle nousevat Stratovarius, Klamydia, Sonata Arctica ja Kotiteollisuus. Uuden tapahtuman järjestää Vauhti Kiihtyy!– ja Rokki Raikaa -tapahtumistaan tunnettu Rauhala Events Oy.\n\nRokki Raikaa tuo Vantaalle raskaan rockin, kotimaiset klassikot ja rouhean pikkujoulutunnelman saman katon alle. Tapahtuma on suunnattu täysi-ikäiselle yleisölle, ja luvassa on pitkä ilta livemusiikin parissa aina aamukahteen saakka.\n\nVIP-lippulaisille ovet avautuvat klo 18.00, jolloin tarjolla on lipun hintaan sisältyvä buffet-ruokailu. Muulle yleisölle ovet avautuvat klo 20.00. Tapahtuma päättyy klo 02.00.\n\nIllan esiintyjäkaartissa nähdään suomalaisen metallin kansainvälinen menestysnimi Stratovarius, punkrockin pitkäikäinen suosikki Klamydia, ikoninen suomalainen metalliyhtye Sonata Arctica sekä raskaan rockin kestomenestyjä Kotiteollisuus.\n\n– Rokki Raikaa -festivaalit ovat keränneet ison yleisön sekä kiittävää palautetta järjestelyistään ja esiintyjistään. Haluamme tuoda samanhenkiset juhlat myös pikkujoulukauteen. Tavoitteena on rakentaa tapahtuma, jossa pikkujouluja voi juhlia rock-musiikin parissa ystävien, työporukan tai vaikka koko firman voimin. Lipun hinnat painoimme niin alas kuin mahdollista, haluamme että tapahtuma on kaikkien saavutettavissa. Tervetuloa!, sanoo Rauhala Eventsin Marko Savolainen.",
+      "ticketUrl": "https://www.lippu.fi/event/rokki-raikaa-suurimmat-rokit-rokki-raikaa-kaupungin-suurimmat-rokit-myyrmaki-halli-21726282/",
       "image": "https://media.bandsintown.com/200x200/23992483.webp",
       "ageLimit": "",
-      "price": "",
+      "price": "45 €",
       "lineup": [
         {
           "id": "band-f8432bec",
-          "artist": "Rokki Raikaa -pikkujoulut",
+          "artist": "Stratovarius",
           "stageTime": ""
         },
         {
           "id": "band-b5189263",
-          "artist": "Stratovarius",
+          "artist": "Kotiteollisuus",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794776614384",
+          "artist": "Sonata Arctica",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794776628113",
+          "artist": "Klamydia",
           "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z",
       "endTime": "2026-11-28T21:30:00.000Z"
-    },
-    {
-      "id": "manual-1791721855912",
-      "title": "Melancholy Mass Helsinki 2026",
-      "date": "2026-11-28T17:00:00.000Z",
-      "venue": {
-        "name": "Ääniwalli",
-        "address": "Pälkäneentie 13, Helsinki"
-      },
-      "description": "Post-metalin jättiläinen Sólstafir marraskuussa Suomeen\nIslantilaisbändin tähdittämä Melancholy Mass soi Jyväskylässä, Tampereella ja Helsingissä. Melancholy Mass on viidettä kertaa järjestettävä kauniin, jylhän, raskaan ja synkän musiikin tapahtuma. Myöhäissyksyllä tumma tunnelma saavuttaa Jyväskylän, Tampereen ja Helsingin.\n\nSólstafir, Vorna, Cryptic Hatred ja Ashen Tomb kiertävät Suomea 26.-28. marraskuuta.\n\nMelancholy Massin pääesiintyjä tulee Islannista. Vuonna 1995 perustettu Sólstafir ammentaa inspiraationsa kotimaansa mystisen kauniista luonnosta ja on kasvanut Suomessakin rakastetuksi yhtyeeksi.\n\nSólstafirin musiikin paletti on runsas ja monipuolinen: luvassa on näkemyksellistä raskailua,psykedeliaa tai rockia, ihan miten kukin kuulija bändin kokee. Sólstafir on vuosien kuluessa osoittanut useasti, että se kykenee uudistumaan aina uudelleen. Bändin materiaali hipoo aina täydellisyyttä, muttei koskaan ole valmista.\n\nVorna-yhtye oli viimeisellä albumillaan Aamunkoi vahvassa iskussa. Tamperelaisyhtyeen folk ja black metalin sekä kansanperinteen mikstuura huumaa edelleen kuulijoita melakolialla ja suomen kielen luovalla käytöllä. Melodioissaan vahva ja tuntuva Vorna työstää tällä hetkellä uutta musiikkia.\n\nCryptic Hatred on yksi Suomen nuoren death metal -aallon kärkinimistä. Bändi yhdistää grooven, melankolian ja brutaalin energian omaleimaiseksi kokonaisuudeksi. Yhtye on vakuuttanut niin levytyksillään kuin intensiivisillä live-vedoillaan.\n\nMyös helsinkiläinen Ashen Tomb uskoo death metalin voimaan ja iskee sitä silmille ja korville raskaasti ja raa’asti. Synkkien tunteiden ja maalailun lisäksi Melancholy Mass tarjoaa myös kovan luokan asennemetallia.",
-      "price": "43 €",
-      "ticketUrl": "https://www.tiketti.fi/melancholy-mass-helsinki-2026-aaniwalli-helsinki-lippuja/119062",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792480391466",
-          "artist": "Sólstafir",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792480400309",
-          "artist": "Vorna",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792480405839",
-          "artist": "Cryptic Hatred",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792480413524",
-          "artist": "Ashen Tomb",
-          "stageTime": ""
-        }
-      ]
     },
     {
       "id": "manual-1791721747953",
@@ -750,15 +571,51 @@
       ]
     },
     {
+      "id": "manual-1791721855912",
+      "title": "Melancholy Mass Helsinki 2026",
+      "date": "2026-11-28T17:00:00.000Z",
+      "venue": {
+        "name": "Ääniwalli",
+        "address": "Pälkäneentie 13, Helsinki"
+      },
+      "description": "Post-metalin jättiläinen Sólstafir marraskuussa Suomeen\nIslantilaisbändin tähdittämä Melancholy Mass soi Jyväskylässä, Tampereella ja Helsingissä. Melancholy Mass on viidettä kertaa järjestettävä kauniin, jylhän, raskaan ja synkän musiikin tapahtuma. Myöhäissyksyllä tumma tunnelma saavuttaa Jyväskylän, Tampereen ja Helsingin.\n\nSólstafir, Vorna, Cryptic Hatred ja Ashen Tomb kiertävät Suomea 26.-28. marraskuuta.\n\nMelancholy Massin pääesiintyjä tulee Islannista. Vuonna 1995 perustettu Sólstafir ammentaa inspiraationsa kotimaansa mystisen kauniista luonnosta ja on kasvanut Suomessakin rakastetuksi yhtyeeksi.\n\nSólstafirin musiikin paletti on runsas ja monipuolinen: luvassa on näkemyksellistä raskailua,psykedeliaa tai rockia, ihan miten kukin kuulija bändin kokee. Sólstafir on vuosien kuluessa osoittanut useasti, että se kykenee uudistumaan aina uudelleen. Bändin materiaali hipoo aina täydellisyyttä, muttei koskaan ole valmista.\n\nVorna-yhtye oli viimeisellä albumillaan Aamunkoi vahvassa iskussa. Tamperelaisyhtyeen folk ja black metalin sekä kansanperinteen mikstuura huumaa edelleen kuulijoita melakolialla ja suomen kielen luovalla käytöllä. Melodioissaan vahva ja tuntuva Vorna työstää tällä hetkellä uutta musiikkia.\n\nCryptic Hatred on yksi Suomen nuoren death metal -aallon kärkinimistä. Bändi yhdistää grooven, melankolian ja brutaalin energian omaleimaiseksi kokonaisuudeksi. Yhtye on vakuuttanut niin levytyksillään kuin intensiivisillä live-vedoillaan.\n\nMyös helsinkiläinen Ashen Tomb uskoo death metalin voimaan ja iskee sitä silmille ja korville raskaasti ja raa’asti. Synkkien tunteiden ja maalailun lisäksi Melancholy Mass tarjoaa myös kovan luokan asennemetallia.",
+      "price": "43 €",
+      "ticketUrl": "https://www.tiketti.fi/melancholy-mass-helsinki-2026-aaniwalli-helsinki-lippuja/119062",
+      "image": "",
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792480391466",
+          "artist": "Sólstafir",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792480400309",
+          "artist": "Vorna",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792480405839",
+          "artist": "Cryptic Hatred",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1792480413524",
+          "artist": "Ashen Tomb",
+          "stageTime": ""
+        }
+      ]
+    },
+    {
       "id": "semifinal-2026-11-28-2000-what-awaits-us-traitors-among-us-ashes-of-perishing",
-      "title": "WHAT AWAITS US, TRAITORS AMONG US, ASHES OF PERISHING",
+      "title": "What Awaits Us, Traitor Among Us, Ashes Of Perishing",
       "venue": {
         "name": "Semifinal",
         "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "date": "2026-11-28T18:00:00.000Z",
-      "description": "",
-      "ticketUrl": "",
+      "description": "WHAT AWAITS US\n\nMelodista deathcorea armottomasti takova Hämeenlinnalainen What Awaits Us on palannut vahvasti uuden, ajatuksia herättävän konseptialbuminsa ”Redshift” myötä.\n\nYhtye yhdistää murskaavan raskauden ja tarttuvat melodiat teemoihin, jotka käsittelevät modernia vieraantumista, yhteiskunnan ja yksilön paineita sekä teknologian varjopuolia.\n\nWhat Awaits Us tunnetaan intensiivisestä ja audiovisuaalisesti yhtenäisestä live-esiintymisestään, jossa yhdistyvät energia, tunnelma ja tarkka toteutus. Bändin keikat ovat kokonaisvaltainen kokemus, joka tempaa yleisön mukaansa alusta loppuun.\n\nKasvavan maineen sekä ammattimaisen työskentelyn ansiosta yhtye on nousemassa vahvaksi nimeksi kotimaisessa modernin metallin kentällä.\n\nTRAITORS AMONG US\n\nSuomen ainoa crabcore-bändi Traitors Among Us yhdistelee musiikissaan metalcorea, EDM:ää ja poppia. Tamperelainen poppoo tuo hauskuuden takaisin metalcore-genreen villeillä genresekoituksillaan ja energisellä lavaesiintymisellään. Breakdowneja, autotunea, hävyttömiä EDM-syntikoita ja v-aukkopaitoja tarjolla, eli kaikkea mistä oikea metallimusiikki koostuu!\n\nASHES OF PERISHING\n\nAshes of Perishing on vuoden 2021 lopulla perustettu helsinkiläinen metalcore yhtye, joka tuo lavalle yhdistelmän modernia metallia, raskaita breakdowneja, synkkää estetiikkaa, voimakkaita kertosäkeitä ja murskaavaa energiaa.\n\n\nYhtye on vuosien aikana julkaissut singlejä ja yhden EP:n, hioen soundiaan ja rakentaen identiteettiään julkaisu julkaisulta. Uusimpana julkaisuna single Rapture esittelee yhtyeen aiempaa raskaampaa ja kunnianhimoisempaa suuntaa. Bändi jatkaa määrätietoisesti työskentelyä uuden musiikin parissa ja valmistautuu tuomaan entistä raskaamman ja näyttävämmän kokonaisuuden myös lavoille.",
+      "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-28/what-awaits-us-traitors-among-us-ashes-of-perishing/122061/",
       "image": "",
       "ageLimit": "K-18",
       "price": "13 €",
@@ -814,6 +671,27 @@
       ]
     },
     {
+      "id": "manual-1791722973040",
+      "title": "THE HARDKISS (UA)",
+      "date": "2026-12-01T17:00:00.000Z",
+      "venue": {
+        "name": "Tavastia klubi",
+        "address": "Urho Kekkosen katu 4-6, Helsinki"
+      },
+      "description": "Ukrainalainen rock-sensaatio The Hardkiss palaa Tavastialle, Helsinkiin 1. joulukuuta 2026 – luvassa on jälleen unohtumaton ilta täynnä yhtyeen omaleimaista rockin, elektronisen ja popin yhdistelmää. Edellinen Helsingin-keikka vuonna 2024 oli loppuunmyyty.\n\nEuropean Anniversary Tour 2026 juhlistaa The Hardkissin yli vuosikymmenen mittaista uraa, jonka aikana yhtye on hurmannut yleisöjä ympäri Eurooppaa. Tunnettu elokuvallisista visuaaleistaan, sähköisestä lavaesiintymisestään ja genrejä rikkovasta soundistaan, The Hardkiss jatkaa rajoja rikkovaa matkaansa. Tämän perinnön viimeisin ilmentymä on uusi single “Tenderness”, vaikuttavan tunnepitoinen kappale, joka on jo kerännyt kansainvälistä huomiota.Liput ovat nyt myynnissä.",
+      "price": "52,50 €",
+      "ticketUrl": "https://www.tiketti.fi/the-hardkiss-ua-tavastia-klubi-helsinki-lippuja/112283",
+      "image": "",
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1792480454332",
+          "artist": "The Hardkiss",
+          "stageTime": ""
+        }
+      ]
+    },
+    {
       "id": "manual-1791723145782",
       "title": "Anvil (CAN), Killer (BE)",
       "date": "2026-12-01T17:00:00.000Z",
@@ -835,27 +713,6 @@
         {
           "id": "band-1792480889388",
           "artist": "Killer",
-          "stageTime": ""
-        }
-      ]
-    },
-    {
-      "id": "manual-1791722973040",
-      "title": "THE HARDKISS (UA)",
-      "date": "2026-12-01T17:00:00.000Z",
-      "venue": {
-        "name": "Tavastia klubi",
-        "address": "Urho Kekkosen katu 4-6, Helsinki"
-      },
-      "description": "Ukrainalainen rock-sensaatio The Hardkiss palaa Tavastialle, Helsinkiin 1. joulukuuta 2026 – luvassa on jälleen unohtumaton ilta täynnä yhtyeen omaleimaista rockin, elektronisen ja popin yhdistelmää. Edellinen Helsingin-keikka vuonna 2024 oli loppuunmyyty.\n\nEuropean Anniversary Tour 2026 juhlistaa The Hardkissin yli vuosikymmenen mittaista uraa, jonka aikana yhtye on hurmannut yleisöjä ympäri Eurooppaa. Tunnettu elokuvallisista visuaaleistaan, sähköisestä lavaesiintymisestään ja genrejä rikkovasta soundistaan, The Hardkiss jatkaa rajoja rikkovaa matkaansa. Tämän perinnön viimeisin ilmentymä on uusi single “Tenderness”, vaikuttavan tunnepitoinen kappale, joka on jo kerännyt kansainvälistä huomiota.Liput ovat nyt myynnissä.",
-      "price": "52,50 €",
-      "ticketUrl": "https://www.tiketti.fi/the-hardkiss-ua-tavastia-klubi-helsinki-lippuja/112283",
-      "image": "",
-      "ageLimit": "K-18",
-      "lineup": [
-        {
-          "id": "band-1792480454332",
-          "artist": "The Hardkiss",
           "stageTime": ""
         }
       ]
@@ -893,44 +750,26 @@
       "addedDate": "2026-11-15T16:41:55.472Z"
     },
     {
-      "id": "espooevents-agpioz2p4m",
-      "title": "The 69 Eyes",
-      "venue": {
-        "name": "Sellosali",
-        "address": "Soittoniekanaukio 1 A, Espoo"
-      },
-      "date": "2026-12-03T17:00:00.000Z",
-      "description": "The 69 Eyes on Helsingissä vuonna 1989 perustettu rock-yhtye, joka tunnetaan kansainvälisesti omaleimaisesta goottirockin, hard rockin ja glam-vaikutteiden yhdistelmästä. Yhtyeen tunnistettava tyyli rakentuu tummasävyisen estetiikan, melodisten kitarakoukkujen ja Jyrki 69:n matalan, helposti tunnistettavan lauluäänen ympärille. Ura käynnistyi punk- ja garage-henkisillä vaikutteilla, mutta 1990-luvun puolivälistä lähtien yhtye löysi oman, synkemmän soundinsa, josta tuli sen tavaramerkki. The 69 Eyes on noussut suomalaisen rockin keskeisten nimien joukkoon pitkäjänteisellä ja johdonmukaisella uralla.\n\nYhtyeen tunnetuimpiin albumeihin kuuluvat Wasting the Dawn, Blessed Be, Paris Kills ja Devils, jotka toivat The 69 Eyesille laajaa huomiota myös Suomen ulkopuolella. Kappaleet kuten Lost Boys, The Chair, Brandon Lee ja Devils ovat vakiinnuttaneet asemansa sekä fanien suosikkeina että radio- ja live-klassikoina. Yhtye on saavuttanut useita kultalevyjä ja saanut tunnustusta kotimaisissa musiikkipalkinnoissa, ja se on esiintynyt laajasti Euroopassa, Yhdysvalloissa ja Aasiassa, mikä on vahvistanut sen asemaa yhtenä Suomen kansainvälisesti menestyneimmistä rock-yhtyeistä.\n\nThe 69 Eyes tunnetaan myös tasalaatuisista ja ammattimaisista live-esiintymisistään, joissa korostuvat vahva visuaalinen ilme ja huolellisesti rakennettu kokonaisuus. Keikkojen tunnelma on usein kuvattu intensiiviseksi ja hallituksi, ja settilistat nojaavat laajaan tuotantoon useilta vuosikymmeniltä. Yhtyeen pitkä historia, selkeä identiteetti ja vakiintunut kansainvälinen fanikunta tekevät The 69 Eyesin konserteista kiinnostavan kokemuksen niin pitkäaikaisille kuuntelijoille kuin uusillekin yleisöille.\n\nKesto n. 1 h 30 min\n\nTilaa tästä tarjoilut ennen esitystä nautittavaksi!\n\n#Menovinkit",
-      "ticketUrl": "https://www.lippu.fi/event/the-69-eyes-sellosali-21719876/",
-      "image": "https://tapahtumasyotto.espoo.fi/media/images/1502d787-0466-4b87-9b2f-02c7a8f4388d.jpg",
-      "ageLimit": "",
-      "price": "30 €",
-      "lineup": [
-        {
-          "id": "band-3780e346",
-          "artist": "The 69 Eyes",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2026-12-03T18:30:00.000Z"
-    },
-    {
       "id": "bandsintown-109000474",
-      "title": "NUMENTO",
+      "title": "Lavina",
       "venue": {
         "name": "Kuudes Linja",
         "address": "Hämeentie 13 B, Helsinki"
       },
       "date": "2026-12-03T17:30:00.000Z",
       "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/109000474-numento-at-kuudes-linja",
+      "ticketUrl": "https://gotobeat.com/gig/lavina-live-in-helsinki-Jp/",
       "image": "https://media.bandsintown.com/200x200/26379775.webp",
       "ageLimit": "",
       "price": "",
       "lineup": [
         {
           "id": "band-1001f95c",
+          "artist": "Lavina",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794776227393",
           "artist": "Numento",
           "stageTime": ""
         }
@@ -939,7 +778,7 @@
     },
     {
       "id": "kuudeslinja-2026-12-04-1800-vacuous-uk-dome-runner-throat-sisar",
-      "title": "VACUOUS (UK) + DOME RUNNER + THROAT + SISAR",
+      "title": "Vacuous (UK) + Dome Runner + Throat + Sisar",
       "venue": {
         "name": "Kuudes Linja",
         "address": "Hämeentie 13 B, Helsinki"
@@ -1058,38 +897,6 @@
       "ageLimit": "K-18"
     },
     {
-      "id": "clubunderground-2026-12-05-eve-of-northen-darkness-nocturnal-exorcism-saitma-thiudareiks",
-      "title": "Eve of Northen Darkness: Nocturnal Exorcism, Saitma, Thiudareiks",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2026-12-05",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-be898bb3",
-          "artist": "Nocturnal Exorcism",
-          "stageTime": ""
-        },
-        {
-          "id": "band-75cb9dbf",
-          "artist": "Saitma",
-          "stageTime": ""
-        },
-        {
-          "id": "band-ebdb67b8",
-          "artist": "Thiudareiks",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "manual-1791713645372",
       "title": "Stam1na",
       "date": "2026-12-05T11:14:00.000Z",
@@ -1141,54 +948,32 @@
       ]
     },
     {
-      "id": "bandsintown-108957725",
-      "title": "Agarwaen",
-      "venue": {
-        "name": "Skenesali",
-        "address": "Jönsaksentie 6, Vantaa"
-      },
-      "date": "2026-12-05T17:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/108957725-agarwaen-at-skenesali",
-      "image": "https://media.bandsintown.com/200x200/23483247.webp",
-      "ageLimit": "",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-a89e2f6d",
-          "artist": "Agarwaen",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "vernissa-20261205-december-doom-diablerie-disgrave-forever-failu",
-      "title": "December Doom: Diablerie, Disgrave, Forever Failures",
+      "title": "December Doom: Forever Failures plays Paradise Lost 91-95, Diablerie, Disgrave",
       "venue": {
         "name": "Kulttuuritehdas Vernissa",
         "address": "Tikkurilantie 36, Vantaa"
       },
-      "date": "2026-12-05T17:00:00.000Z",
-      "description": "",
-      "ticketUrl": "",
+      "date": "2026-12-05T17:30:00.000Z",
+      "description": "FOREVER FAILURES (plays Paradise Lost era ’91-95) takes you back to the 90s with iconic (pun intended!) sound. Their set is based on the classic Paradise Lost albums: Gothic, Shades of God, Icon and Draconian Times. Members are known from bands like Shape of Despair Official, Hanging Garden, Counting Hours and The Chant.\n\nDIABLERIE\n\nThe industrial death metal juggernaut Diablerie has just released ”Alternate”, the long-awaited second chapter of ”The Catalyst” trilogy. Diablerie will blast out live versions of selected tracks, tearing through a soundscape that fuses aggressive thrash with the textures of modern electronic music, all delivered at an approriate bpm.\n\nDISGRAVE, the death ’n’ roll outfit from Helsinki, offers you legendary HM-2 sound with punk attitude and nihilistic approach. The members have long history in Finnish underground scene, having played in bands like RUKOUS, WINTERWOLF, DEATHCHAIN and GHOST OF NEW YORK.\n\nIf you are into bands like ENTOMBED and DISFEAR, you’re in for a treat.",
+      "ticketUrl": "https://www.tiketti.fi/december-doom-vernissa-vantaa-tickets/122016",
       "image": "",
-      "ageLimit": "",
-      "price": "",
+      "ageLimit": "K-18",
+      "price": "15 €",
       "lineup": [
         {
           "id": "band-864fd252",
-          "artist": "Diablerie",
+          "artist": "Forever Failures",
           "stageTime": ""
         },
         {
           "id": "band-1a4c3ec9",
-          "artist": "Disgrave",
+          "artist": "Diablerie",
           "stageTime": ""
         },
         {
           "id": "band-e8235205",
-          "artist": "Forever Failures",
+          "artist": "Disgrave",
           "stageTime": ""
         }
       ],
@@ -1217,41 +1002,40 @@
       "addedDate": "2026-11-09T21:35:00.150Z"
     },
     {
-      "id": "barloose-9099",
-      "title": "See You In Hell: Krypts, Pestigore, Vermithor",
+      "id": "bandsintown-108957725",
+      "title": "Varjo Konsertti",
       "venue": {
-        "name": "Bar Loose",
-        "address": "Annankatu 21, Helsinki"
+        "name": "Skenesali",
+        "address": "Jönsaksentie 6, Vantaa"
       },
       "date": "2026-12-05T18:00:00.000Z",
-      "description": "Joulukuun See You In Hell -klubi tuo Bar Looseen kolme nimeä suomalaisen death metalin synkimmästä päästä. Luvassa on murskaavaa doom-sävytteistä kuolonmetallia, vanhan liiton suomalaista kulttidödistä sekä uuden sukupolven armotonta hyökkäystä.\n\nKRYPTS\n\nVuonna 2008 perustettu Krypts on yksi suomalaisen underground death/doom metalin arvostetuimmista nimistä. Kolmen täyspitkän albumin ja lukemattomien kansainvälisten esiintymisten myötä yhtye on vakiinnuttanut asemansa raskaan, pimeän ja musertavan äärimetallin suunnannäyttäjänä. Livenä Krypts on intensiivinen kokemus, jossa synkkä tunnelma ja murskaava voima kohtaavat.\n\nPESTIGORE\n\nSuomalaisen death metalin ensimmäisen aallon kulttinimi Pestigore nousi takaisin haudastaan vuonna 2015 yli kahden vuosikymmenen hiljaisuuden jälkeen. Järvenpäässä vuonna 1990 perustettu yhtye tarjoilee autenttista, raakaa ja pahaenteisesti jyräävää vanhan liiton kuolometallia. Tuorein julkaisu on vuonna 2026 ilmestynyt split-EP yhdessä yhdysvaltalaisen Funebraruimin kanssa.\n\nVERMITHOR\n\nJyväskylässä vuonna 2024 perustettu Vermithor yhdistelee 2000-luvun death metalin ja New York hardcoren vaikutteita aggressiiviseksi kokonaisuudeksi. Yhtye on julkaissut EP:t Wasteland Throne (2025) ja Bloodsport (2026) sekä jakanut lavoja muun muassa Defeated Sanityn ja Torture Killerin kanssa.\n\nLiput ennakkoon 17 €: https://www.tiketti.fi/krypts-pestigore-vermithor-bar-loose-helsinki-lippuja/121852\n\novelta 20 € (+3,5 € eteispalvelumaksu).",
-      "ticketUrl": "https://www.tiketti.fi/krypts-pestigore-vermithor-bar-loose-helsinki-lippuja/121852",
-      "image": "https://barloose.com/wp-content/uploads/2026/10/1200-x-630-Joulukuu-2026.jpg",
+      "description": "Tulevaisuus kasvaa varjoissa\nJärjestyksessään toinen Varjo Konsertti on vaihtoehtoisen monitaiteen ilta, jossa esiintyvät raskaan musiikin rihmastovaikuttajat Unredeemer ja Agarwaen. Illan lämmittää Animora elokuvallisen dystooppisilla äänimaisemillaan.\n\nVarjo Konsertti tuo näkyväksi Shadow Room ry:n jäsenten toimintaa ja yhteistyöprojekteja.\n\nUnredeemer\n\nVuonna 2019 perustettu Unredeemer yhdistää death- ja groove-metallin raskaat rytmit synkkiin melodioihin ja blackened thrash -vaikutteisiin. Yhtyeen musiikissa lunastuksen ja armon käsitteet kääntyvät päälaelleen: jokainen kantaa itse vastuun elämästään ja teoistaan. Näyttävästä lavaesiintymisestään tunnettu yhtye on jakanut lavan Euroopassa muun muassa Heaven Shall Burnin, Destructionin ja Cryptopsyn kanssa.\n\nReject redemption. Unredeem yourself.\n\nAgarwaen\n\nAgarwaen on suomalainen avantgarde extreme metal -yhtye, joka on keikkaillut laajasti Suomessa, kiertänyt Eurooppaa ja esiintynyt Tuskassa vuonna 2024. Kesällä 2026 yhtye julkaisi kolmannen albuminsa The Murder Trend italialaisen Over the Border Recordsin kautta.\n\nAgarwaen tarjoaa villejä ja sekopäisiä äänimaisemia tarttuvien riffien ja huikeiden tunnelmien kera. Teatraaliset keikat ovat kuin kohtauksia mielisairaalaan sijoittuvasta kauhuelokuvasta! Bändi on outo kummajainen, joka sekoittaa kaikenlaisia metallityylejä yhdeksi raivokkaaksi ja hulluksi kokonaisuudeksi.\n\nAnimora\n\nAnimora rakentaa kuulokuvia klassisista techno-elementeistä, vierailee pimeissä ambient-maailmoissa ja palaa dystooppisen trancen pariin. Synkkyys ja toiveikkuus kulkevat äänimaisemissa rinnakkain, ja kuulija saa itse päättää, kumman hän päästää pintaan.\n\nSuomessa tuotettu yhdeksän kappaleen albumi vie kuulijan elokuvalliselle matkalle pimeyden ja valon välimaastoon. Albumi julkaistiin 4.9.2026, ja sen voi kuunnella kokonaisuudessaan SoundCloudissa.",
+      "ticketUrl": "https://www.tiketti.fi/unredeemer-agarwaen-animora-skenesali-vantaa-lippuja/122441",
+      "image": "https://media.bandsintown.com/200x200/23483247.webp",
       "ageLimit": "K-18",
-      "price": "17 €",
+      "price": "15 €",
       "lineup": [
         {
-          "id": "band-927b836d",
-          "artist": "Krypts",
+          "id": "band-a89e2f6d",
+          "artist": "Unredeemer",
           "stageTime": ""
         },
         {
-          "id": "band-7a0b5a47",
-          "artist": "Pestigore",
+          "id": "band-1794776805480",
+          "artist": "Agarwaen",
           "stageTime": ""
         },
         {
-          "id": "band-3530b9ec",
-          "artist": "Vermithor",
+          "id": "band-1794776825749",
+          "artist": "Animora",
           "stageTime": ""
         }
       ],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2026-12-05T21:30:00.000Z"
+      "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "lepakkomies-toxic-club-vol-100-kryptareflat-refusal-kantamus-surya",
-      "title": "TOXIC CLUB VOL. 100: KRYPTAREFLAT + REFUSAL + KANTAMUS + SURYA",
+      "title": "TOXIC CLUB VOL. 100: Kryptareflat + Refusal + Kantamus + Surya",
       "venue": {
         "name": "Lepakkomies",
         "address": "Helsinginkatu 1, Helsinki"
@@ -1265,22 +1049,22 @@
       "lineup": [
         {
           "id": "band-ce6b83cf",
-          "artist": "KRYPTAREFLAT",
+          "artist": "Kryptareflat",
           "stageTime": ""
         },
         {
           "id": "band-ee2326c1",
-          "artist": "REFUSAL",
+          "artist": "Refusal",
           "stageTime": ""
         },
         {
           "id": "band-e29f285c",
-          "artist": "KANTAMUS",
+          "artist": "Kantamus",
           "stageTime": ""
         },
         {
           "id": "band-47e2fabf",
-          "artist": "SURYA",
+          "artist": "Surya",
           "stageTime": ""
         }
       ],
@@ -1341,7 +1125,14 @@
       "price": "20 €",
       "ticketUrl": "https://www.tiketti.fi/marianas-rest-on-the-rocks-helsinki-lippuja/120876",
       "image": "",
-      "ageLimit": "K-18"
+      "ageLimit": "K-18",
+      "lineup": [
+        {
+          "id": "band-1794777435564",
+          "artist": "Marianas Rest",
+          "stageTime": ""
+        }
+      ]
     },
     {
       "id": "tm-Z698xZ8KZ1kpA19Go",
@@ -1413,7 +1204,7 @@
     },
     {
       "id": "lepakkomies-piritori-debauchery-hoc-est-bellum-aamutahti-hautaveri-earthly-form",
-      "title": "PIRITORI DEBAUCHERY: HOC EST BELLUM + AAMUTÄHTI + HAUTAVERI + EARTHLY FORM",
+      "title": "PIRITORI DEBAUCHERY: Hoc Est Bellum + Aamutähti + Hautaveri + Eearthly Form",
       "venue": {
         "name": "Lepakkomies",
         "address": "Helsinginkatu 1, Helsinki"
@@ -1427,22 +1218,22 @@
       "lineup": [
         {
           "id": "band-48f22523",
-          "artist": "HOC EST BELLUM",
+          "artist": "Hoc Est Bellum",
           "stageTime": ""
         },
         {
           "id": "band-e086d5ee",
-          "artist": "AAMUTÄHTI",
+          "artist": "Aamutähti",
           "stageTime": ""
         },
         {
           "id": "band-a0e1d3bd",
-          "artist": "HAUTAVERI",
+          "artist": "Hautaveri",
           "stageTime": ""
         },
         {
           "id": "band-b6f6dca2",
-          "artist": "EARTHLY FORM",
+          "artist": "Eearthly Form",
           "stageTime": ""
         }
       ],
@@ -1461,40 +1252,20 @@
       "image": "https://barloose.com/wp-content/uploads/2026/10/Maiden-Bone-Kill.jpg",
       "ageLimit": "K-18",
       "price": "14 €",
-      "lineup": [],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2026-12-11T21:30:00.000Z"
-    },
-    {
-      "id": "manual-1792832392765",
-      "title": "FI/LV METAL MADNESS: Iron Wings (LV) + Barrel + Ratbreed",
-      "date": "2026-12-12T18:00:00.000Z",
-      "venue": {
-        "name": "Bar Lepakkomies",
-        "address": "Helsinginkatu 1, Helsinki"
-      },
       "lineup": [
         {
-          "id": "band-1792832398453",
-          "artist": "Iron Wings",
+          "id": "band-1794777551105",
+          "artist": "Kill With Cover plays Manowar",
           "stageTime": ""
         },
         {
-          "id": "band-1792832406041",
-          "artist": "Barrel",
-          "stageTime": ""
-        },
-        {
-          "id": "band-1792832413261",
-          "artist": "Ratbreed",
+          "id": "band-1794777555023",
+          "artist": "BoneButton plays Iron Maiden",
           "stageTime": ""
         }
       ],
-      "description": "Thrashia. Speediä. Heavyä. Progea.\n\nJa tuoretta materiaalia:\nBARREL – Triptych\nIRON WINGS – Alpha & Omega\n\nIron Wings × Finland – first time ever.\n\nMetal knows no borders.",
-      "price": "10 €",
-      "ticketUrl": "https://www.lepis.fi/tapahtumat/fi-lv-metal-madness-iron-wings-lv-barrel-ratbreed/",
-      "image": "",
-      "ageLimit": "K-18"
+      "addedDate": "2026-11-15T18:59:57.349Z",
+      "endTime": "2026-12-11T21:30:00.000Z"
     },
     {
       "id": "manual-1791712599004",
@@ -1549,57 +1320,55 @@
       ]
     },
     {
-      "id": "barloose-8825",
-      "title": "Vainoa 10v. w/ Surut, Vvorse, Svarta Havet",
-      "venue": {
-        "name": "Bar Loose",
-        "address": "Annankatu 21, Helsinki"
-      },
+      "id": "manual-1792832392765",
+      "title": "FI/LV METAL MADNESS: Iron Wings (LV) + Barrel + Ratbreed",
       "date": "2026-12-12T18:00:00.000Z",
-      "description": "Vainoa-yhtye järjestää syntymäpäiväjuhlat 10-vuotisen taipaleensa kunniaksi Bar Loosessa 12.12.\n\nMukana juhlissa esiintymässä myös mitä mahtavimmat tummapaahtoisen hardcoren taitajat Surut, Vvorse ja Svarta Havet.\n\nLiput ovelta 12 euroa (+3,5 € eteispalvelumaksu), ovet kello 20.00 alkaen. Tervetuloa!",
-      "ticketUrl": "https://barloose.com/live/vainoa-10v-w-surut-vvorse-svarta-havet/",
-      "image": "https://barloose.com/wp-content/uploads/2026/09/Vainoa.jpg",
-      "ageLimit": "K-18",
-      "price": "12 €",
+      "venue": {
+        "name": "Bar Lepakkomies",
+        "address": "Helsinginkatu 1, Helsinki"
+      },
       "lineup": [
         {
-          "id": "band-1cc82a8a",
-          "artist": "Vainoa 10v. w/ Surut",
+          "id": "band-1792832398453",
+          "artist": "Iron Wings",
           "stageTime": ""
         },
         {
-          "id": "band-ca84b3a6",
-          "artist": "Vvorse",
+          "id": "band-1792832406041",
+          "artist": "Barrel",
           "stageTime": ""
         },
         {
-          "id": "band-feeec4b7",
-          "artist": "Svarta Havet",
+          "id": "band-1792832413261",
+          "artist": "Ratbreed",
           "stageTime": ""
         }
       ],
-      "addedDate": "2026-11-15T18:59:57.349Z",
-      "endTime": "2026-12-12T21:30:00.000Z"
+      "description": "Thrashia. Speediä. Heavyä. Progea.\n\nJa tuoretta materiaalia:\nBARREL – Triptych\nIRON WINGS – Alpha & Omega\n\nIron Wings × Finland – first time ever.\n\nMetal knows no borders.",
+      "price": "10 €",
+      "ticketUrl": "https://www.lepis.fi/tapahtumat/fi-lv-metal-madness-iron-wings-lv-barrel-ratbreed/",
+      "image": "",
+      "ageLimit": "K-18"
     },
     {
       "id": "kulttuuritalo-2026-12-16-metallica-ride-the-lightning-tribute-with-producer-flemming-rasmussen",
-      "title": "METALLICA ”RIDE THE LIGHTNING” TRIBUTE WITH PRODUCER FLEMMING RASMUSSEN",
+      "title": "Metallica ''Ride The Lightning'' Tribute",
       "venue": {
         "name": "Kulttuuritalo",
         "address": "Sturenkatu 4, Helsinki"
       },
       "date": "2026-12-16",
-      "description": "",
-      "ticketUrl": "",
+      "description": "METALLICA-yhtyeen kymmeniä miljoonia kappaleita myyneiden klassikkoalbumien legendaarinen tuottaja-äänittäjä, GRAMMY-voittaja FLEMMING RASMUSSEN saapuu Suomeen erikoisvierailulle joulukuussa 2026!\n\nTHE FINNISH CHAPTERIN pikkujouluissa, saman katon alla ja tasan 42 vuotta METALLICAN ensimmäisestä konsertista Helsingissä, METALLICAN virallisen fan clubin THE FINNISH CHAPTER juhlii RIDE THE LIGHTNING -albumia 16.12.2026 Helsingin KULTTUURITALON KULT-klubilla.\n\nIlta alkaa kun palataan muistelemaan vuotta 1984 FLEMMING RASMUSSENIN haastattelulla KULT-klubin lavalla ja jatkuu harvinaisella RIDE THE LIGHTNING -albumin cover-esityksellä, kun varta vasten koottu yhtye esittää koko albumin alusta loppuun! Tämä on ilta jota et halua missata!\n\nOvet klo 19.30\nErikoisvieraana haastattelussa FLEMMING RASMUSSEN klo 20.30\nTHE FINNISH CHAPTER cover band performs RIDE THE LIGHTNING klo 21.30\nIlta päättyy 23.00\n\nwww.metallica.fi\n\nwith producer FLEMMING RASMUSSEN",
+      "ticketUrl": "https://www.lippu.fi/event/metallica-ride-the-lightning-tribute-kult-live-metallica-ride-the-lightning-tribute-helsingin-kulttuuritalo-22380145/",
       "image": "",
-      "ageLimit": "",
+      "ageLimit": "K-18",
       "price": "15,50 €",
       "lineup": [],
       "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "on-the-rocks-20261216-plusminuszero-delfoi-road",
-      "title": "PLUSMINUSZERO, DELFOI ROAD",
+      "title": "Plusminuszero, Delfoi Road",
       "venue": {
         "name": "On The Rocks",
         "address": "Mikonkatu 15, Helsinki"
@@ -1613,12 +1382,12 @@
       "lineup": [
         {
           "id": "band-cf28ed40",
-          "artist": "PLUSMINUSZERO",
+          "artist": "Plusminuszero",
           "stageTime": ""
         },
         {
           "id": "band-949ecc00",
-          "artist": "DELFOI ROAD",
+          "artist": "Delfoi Road",
           "stageTime": ""
         }
       ],
@@ -1654,46 +1423,14 @@
       },
       "date": "2026-12-18T18:00:00.000Z",
       "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/1038822490-raskasta-joulua-at-veikkaus-arena",
+      "ticketUrl": "https://www.ticketmaster.fi/artist/raskasta-joulua-lippuja/925453?venueId=419",
       "image": "https://media.bandsintown.com/200x200/9620885.webp",
       "ageLimit": "",
-      "price": "",
+      "price": "69,90 € - 89,90 €",
       "lineup": [
         {
           "id": "band-d34e44ac",
           "artist": "Raskasta Joulua",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
-      "id": "clubunderground-2026-12-19-umbraion-decrowned-skulled-pork",
-      "title": "Umbraion, Decrowned, Skulled Pork",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2026-12-19",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-e6bd3b8d",
-          "artist": "Umbraion",
-          "stageTime": ""
-        },
-        {
-          "id": "band-f49b17dc",
-          "artist": "Decrowned",
-          "stageTime": ""
-        },
-        {
-          "id": "band-bb973cb4",
-          "artist": "Skulled Pork",
           "stageTime": ""
         }
       ],
@@ -1764,7 +1501,7 @@
     },
     {
       "id": "on-the-rocks-20261231-new-years-eve-with-shiraz-lane-special-gue",
-      "title": "NEW YEAR’S EVE WITH SHIRAZ LANE & SPECIAL GUEST KORMUS",
+      "title": "New Year’s Eve With Shiraz Lane & Special Guest Kormus",
       "venue": {
         "name": "On The Rocks",
         "address": "Mikonkatu 15, Helsinki"
@@ -1778,7 +1515,12 @@
       "lineup": [
         {
           "id": "band-801cb9a8",
-          "artist": "NEW YEAR’S EVE WITH SHIRAZ LANE & SPECIAL GUEST KORMUS",
+          "artist": "Shiraz Lane",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794778083985",
+          "artist": "Kormus",
           "stageTime": ""
         }
       ],
@@ -1786,23 +1528,29 @@
     },
     {
       "id": "tavastia-2027-01-02-2000-red-eleven-plays-faith-no-more-feat-ville-tuomi",
-      "title": "RED ELEVEN PLAYS FAITH NO MORE FEAT. VILLE TUOMI",
+      "title": "Red Eleven plays Faith No More feat. Ville Tuomi",
       "venue": {
         "name": "Tavastia-klubi",
         "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "date": "2027-01-02T18:00:00.000Z",
       "description": "",
-      "ticketUrl": "",
+      "ticketUrl": "https://www.tiketti.fi/red-eleven-plays-faith-no-more-feat-ville-tuomi-tavastia-tickets/121820",
       "image": "",
       "ageLimit": "K-18",
       "price": "28 €",
-      "lineup": [],
+      "lineup": [
+        {
+          "id": "band-1794778275065",
+          "artist": "Red Eleven",
+          "stageTime": ""
+        }
+      ],
       "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "kuudeslinja-2027-01-08-1900-peer-gunt-blindbound",
-      "title": "PEER GÜNT + BLINDBOÜND",
+      "title": "Peer Günt + Blindboünd",
       "venue": {
         "name": "Kuudes Linja",
         "address": "Hämeentie 13 B, Helsinki"
@@ -1816,12 +1564,12 @@
       "lineup": [
         {
           "id": "band-2b4bf147",
-          "artist": "PEER GÜNT",
+          "artist": "Peer Günt",
           "stageTime": ""
         },
         {
           "id": "band-25efdb15",
-          "artist": "BLINDBOÜND",
+          "artist": "Blindboünd",
           "stageTime": ""
         }
       ],
@@ -1891,26 +1639,26 @@
     },
     {
       "id": "kulttuuritalo-2027-01-15-fear-of-domination-despiser",
-      "title": "FEAR OF DOMINATION + DESPISER",
+      "title": "Fear Of Domination + Despiser",
       "venue": {
         "name": "Kulttuuritalo",
         "address": "Sturenkatu 4, Helsinki"
       },
-      "date": "2027-01-15",
-      "description": "",
-      "ticketUrl": "",
+      "date": "2027-01-15T18:00:00.000Z",
+      "description": "Fear of Domination on vuonna 2006 perustettu industrial shock metal -yhtye, joka tarjoaa raakojen ja terävien studiojulkaisujen lisäksi myös visuaalisesti näyttäviä ja energisiä live-esiintymisiä. Bändin apokalyptinen ulkoasu ei kuitenkaan kerro koko totuutta, sillä pinnan alta löytyy myös tarttuvia ja helposti lähestyttäviä vaikutteita monista eri musiikkityyleistä.\n\nFear Of Domination on kiertänyt niin Suomessa, Virossa, Latviassa, Liettuassa, Puolassa, Tšekissä, Romaniassa, Saksassa kuin Ruotsissakin sekä itsenäisesti että yhdessä muun muassa Deathstarsin, Turmion Kätilöiden, Velcran, Shade Empiren, Hanzel und Gretylin, Amaranthen ja PAINin kanssa. Yhtye aikoo jatkaa aktiivisesti keikkailua jatkossakin. Fear Of Domination on esiintynyt muun muassa Tuska-festivaalilla, Summer Breezessa, M’era Lunassa, OOL Weekenderissä sekä lukuisilla merkittävillä keikkapaikoilla ympäri Eurooppaa. Yhtyeen tuorein albumi Katharsis julkaistiin alkuvuodesta 2026.\n\nDespiser on suomalainen metalliyhtye, joka on herättänyt huomiota omaleimaisella yhdistelmällään melankolisia melodioita ja aggressiivisia riffejä. Yhtyeen musiikki käsittelee elämää kuoleman kautta ja kuolemaa elämän kautta tavoitteenaan inspiroida ja koskettaa kuulijoita vahvojen tarinoiden ja vaikuttavien melodioiden avulla. Despiserin debyytti-EP Wreck julkaistiin kesällä 2026, minkä jälkeen yhtye on esiintynyt aktiivisesti eri puolilla Suomea.",
+      "ticketUrl": "https://www.lippu.fi/artist/fear-of-domination/",
       "image": "",
-      "ageLimit": "",
+      "ageLimit": "K-18",
       "price": "22 €",
       "lineup": [
         {
           "id": "band-9e92fc76",
-          "artist": "FEAR OF DOMINATION",
+          "artist": "Fear Of Domination",
           "stageTime": ""
         },
         {
           "id": "band-e544d175",
-          "artist": "DESPISER",
+          "artist": "Despiser",
           "stageTime": ""
         }
       ],
@@ -2058,7 +1806,7 @@
     },
     {
       "id": "manual-1791712713613",
-      "title": "UNKIND 30 VUOTTA",
+      "title": "Unkind 30 vuotta",
       "date": "2027-01-22T16:00:00.000Z",
       "venue": {
         "name": "KULT",
@@ -2098,7 +1846,7 @@
     },
     {
       "id": "lepakkomies-nordic-metal-exchange-prestige-sgt-slime-torp-bloodblind",
-      "title": "NORDIC METAL EXCHANGE: PRESTIGE + SGT. SLIME + TORP + BLOODBLIND",
+      "title": "Nordic Metal Exchange: Prestige + Sgt. Slime + Torp + Bloodblind",
       "venue": {
         "name": "Lepakkomies",
         "address": "Helsinginkatu 1, Helsinki"
@@ -2112,22 +1860,22 @@
       "lineup": [
         {
           "id": "band-bf45c839",
-          "artist": "PRESTIGE",
+          "artist": "Prestige",
           "stageTime": ""
         },
         {
           "id": "band-e64af509",
-          "artist": "SGT. SLIME",
+          "artist": "Sgt. Slime",
           "stageTime": ""
         },
         {
           "id": "band-e129d8b5",
-          "artist": "TORP",
+          "artist": "Torp",
           "stageTime": ""
         },
         {
           "id": "band-3a6b2f44",
-          "artist": "BLOODBLIND",
+          "artist": "Bloodblind",
           "stageTime": ""
         }
       ],
@@ -2135,7 +1883,7 @@
     },
     {
       "id": "manual-1791727228257",
-      "title": "Whispered",
+      "title": "Whispered + Torchia",
       "date": "2027-01-23T18:00:00.000Z",
       "venue": {
         "name": "Skenesali",
@@ -2150,6 +1898,11 @@
         {
           "id": "band-1792499123767",
           "artist": "Whispered",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794778847545",
+          "artist": "Torchia",
           "stageTime": ""
         }
       ]
@@ -2178,26 +1931,26 @@
     },
     {
       "id": "korjaamo-rare-maiden-superunknowns",
-      "title": "RARE MAIDEN, SUPERUNKNOWNS",
+      "title": "Rare Maiden, Superunknowns",
       "venue": {
         "name": "Kulttuuritehdas Korjaamo",
         "address": "Töölönkatu 51 A, Helsinki"
       },
       "date": "2027-01-29T17:30:00.000Z",
       "description": "",
-      "ticketUrl": "https://korjaamo.fi/tapahtumat/rare-maiden-superunknowns/",
+      "ticketUrl": "https://www.lippu.fi/event/rare-maiden-superunknowns-kulttuuritehdas-korjaamo-22285533/?affiliate=ADV&language=fi",
       "image": "",
       "ageLimit": "K-18",
       "price": "22,50 €",
       "lineup": [
         {
           "id": "band-71c50f52",
-          "artist": "RARE MAIDEN",
+          "artist": "Rare Maiden",
           "stageTime": ""
         },
         {
           "id": "band-fd11b9f5",
-          "artist": "SUPERUNKNOWNS",
+          "artist": "Superunknowns",
           "stageTime": ""
         }
       ],
@@ -2205,7 +1958,7 @@
     },
     {
       "id": "manual-1791727331499",
-      "title": "SARA",
+      "title": "Sara",
       "date": "2027-01-29T18:00:00.000Z",
       "venue": {
         "name": "Tavastia klubi",
@@ -2223,33 +1976,6 @@
           "stageTime": ""
         }
       ]
-    },
-    {
-      "id": "clubunderground-2027-01-30-kalmo-temple-of-salem",
-      "title": "Kalmo, Temple of Salem",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2027-01-30",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-e4bb336e",
-          "artist": "Kalmo",
-          "stageTime": ""
-        },
-        {
-          "id": "band-e5d8681d",
-          "artist": "Temple of Salem",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "manual-1791727392350",
@@ -2315,7 +2041,7 @@
     },
     {
       "id": "manual-1791712790402",
-      "title": "IMMINENCE (SWE)",
+      "title": "Imminence (SWE)",
       "date": "2027-02-02T16:30:00.000Z",
       "venue": {
         "name": "Kulttuuritalo",
@@ -2343,33 +2069,6 @@
           "stageTime": ""
         }
       ]
-    },
-    {
-      "id": "clubunderground-2027-02-05-the-foreshadowing-it-asphodelus",
-      "title": "The foreshadowing (IT), Asphodelus",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2027-02-05",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "15 €",
-      "lineup": [
-        {
-          "id": "band-5616bc30",
-          "artist": "The foreshadowing",
-          "stageTime": ""
-        },
-        {
-          "id": "band-67d408f8",
-          "artist": "Asphodelus",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "manual-1791727476833",
@@ -2478,28 +2177,6 @@
       ]
     },
     {
-      "id": "manual-1794258385214",
-      "title": "Dawn Of Solace (levyjulkkarit)",
-      "date": "2027-02-12T18:00:00.000Z",
-      "venue": {
-        "name": "On The Rocks",
-        "address": ""
-      },
-      "lineup": [
-        {
-          "id": "band-1794258593743",
-          "artist": "Dawn of Solace",
-          "stageTime": ""
-        }
-      ],
-      "description": "Metallin monitoimimies Tuomas Saukkosen (Wolfheart, Before The Dawn) ja Kaunis Kuolematon -yhtyeestä tunnetun Mikko Heikkilän Dawn of Solace julkaisee 12. tammikuuta uuden albumin nimeltä \"Skeletons\" ja soittaa sen kunniaksi vain yhden täyspitkän keikan vuonna 2027. Levyjulkkarit juhlitaan perjantaina 12. helmikuuta 2027 Helsingin On The Rocksissa.\n\nTuomas Saukkosen sooloprojektina alkunsa saanut Dawn of Solace julkaisi debyyttialbuminsa jo 2006 ja palasi levytyskantaan uudelleen vasta vuoden 2020 \"Waves\" -albumin myötä. Vuoden 2022 alussa julkaistiin kriitikoiden ja yleisön rakastama \"Flames of Perdition\" ja vuonna 2025 jylhä \"Affliction Vortex\". Tammikuussa 2027 julkaistava \"Skeletons\" on yhtyeen viides albumi.",
-      "price": "20 €",
-      "ticketUrl": "https://www.tiketti.fi/dawn-of-solace-on-the-rocks-helsinki-lippuja/121971",
-      "image": "",
-      "ageLimit": "",
-      "addedDate": "2026-11-09T21:06:25.214Z"
-    },
-    {
       "id": "manual-1791727781920",
       "title": "Signs of the Swarm (USA), Ten56 (Fra), Oceans Ate Alaska (UK) & Face Yourself (Fra-USA)",
       "date": "2027-02-12T18:00:00.000Z",
@@ -2536,8 +2213,30 @@
       ]
     },
     {
+      "id": "manual-1794258385214",
+      "title": "Dawn Of Solace (levyjulkkarit)",
+      "date": "2027-02-12T18:00:00.000Z",
+      "venue": {
+        "name": "On The Rocks",
+        "address": ""
+      },
+      "lineup": [
+        {
+          "id": "band-1794258593743",
+          "artist": "Dawn of Solace",
+          "stageTime": ""
+        }
+      ],
+      "description": "Metallin monitoimimies Tuomas Saukkosen (Wolfheart, Before The Dawn) ja Kaunis Kuolematon -yhtyeestä tunnetun Mikko Heikkilän Dawn of Solace julkaisee 12. tammikuuta uuden albumin nimeltä \"Skeletons\" ja soittaa sen kunniaksi vain yhden täyspitkän keikan vuonna 2027. Levyjulkkarit juhlitaan perjantaina 12. helmikuuta 2027 Helsingin On The Rocksissa.\n\nTuomas Saukkosen sooloprojektina alkunsa saanut Dawn of Solace julkaisi debyyttialbuminsa jo 2006 ja palasi levytyskantaan uudelleen vasta vuoden 2020 \"Waves\" -albumin myötä. Vuoden 2022 alussa julkaistiin kriitikoiden ja yleisön rakastama \"Flames of Perdition\" ja vuonna 2025 jylhä \"Affliction Vortex\". Tammikuussa 2027 julkaistava \"Skeletons\" on yhtyeen viides albumi.",
+      "price": "20 €",
+      "ticketUrl": "https://www.tiketti.fi/dawn-of-solace-on-the-rocks-helsinki-lippuja/121971",
+      "image": "",
+      "ageLimit": "",
+      "addedDate": "2026-11-09T21:06:25.214Z"
+    },
+    {
       "id": "manual-1791727862436",
-      "title": "CATCH YOUR BREATH (USA)",
+      "title": "Catch Your Breath (USA)",
       "date": "2027-02-13T16:00:00.000Z",
       "venue": {
         "name": "Tavastia-klubi",
@@ -2618,38 +2317,6 @@
           "stageTime": ""
         }
       ]
-    },
-    {
-      "id": "clubunderground-2027-02-19-divine-apocalypse-ahora-thy-throne",
-      "title": "Divine apocalypse, AhorA, Thy throne",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2027-02-19T18:30:00.000Z",
-      "description": "",
-      "ticketUrl": "",
-      "image": "https://media.bandsintown.com/200x200/21412962.webp",
-      "ageLimit": "K-18",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-c3ec7325",
-          "artist": "Divine apocalypse",
-          "stageTime": ""
-        },
-        {
-          "id": "band-7541cceb",
-          "artist": "AhorA",
-          "stageTime": ""
-        },
-        {
-          "id": "band-8ef1129c",
-          "artist": "Thy throne",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
       "id": "le-helsinkiagpe5q2ata",
@@ -2845,28 +2512,6 @@
       "addedDate": "2026-11-04T08:07:20.301Z"
     },
     {
-      "id": "aaniwalli-2027-03-03-room-1-mikkey-dee-with-friends",
-      "title": "Mikkey Dee with Friends",
-      "venue": {
-        "name": "Ääniwalli",
-        "address": "Pälkäneentie 13, Helsinki"
-      },
-      "date": "2027-03-03",
-      "description": "",
-      "ticketUrl": "",
-      "image": "https://aaniwalli.fi/_astro/mikkeydeeawwwww.B-I9eYVz_ZFY64P.jpg",
-      "ageLimit": "K-18",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-35ceff59",
-          "artist": "Mikkey Dee with Friends",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "manual-1794005043477",
       "title": "Saxon: Gods of Thunder Tour",
       "date": "2027-03-06T14:45:00.000Z",
@@ -2973,38 +2618,6 @@
       "addedDate": "2026-10-25T10:57:56.726Z"
     },
     {
-      "id": "clubunderground-2027-03-12-reality-machine-armed-neverfade",
-      "title": "Reality machine, ARMED, Neverfade",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2027-03-12",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-bc6500bd",
-          "artist": "Reality machine",
-          "stageTime": ""
-        },
-        {
-          "id": "band-83add850",
-          "artist": "ARMED",
-          "stageTime": ""
-        },
-        {
-          "id": "band-b5dd8b7a",
-          "artist": "Neverfade",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
       "id": "le-helsinkiagqvqgayey",
       "title": "Toxic Fest 2027",
       "venue": {
@@ -3068,7 +2681,7 @@
     },
     {
       "id": "lepakkomies-toxic-fest-2027-2",
-      "title": "TOXIC FEST 2027",
+      "title": "Toxic Fest 2027",
       "venue": {
         "name": "Lepakkomies",
         "address": "Helsinginkatu 1, Helsinki"
@@ -3147,21 +2760,36 @@
     },
     {
       "id": "bandsintown-109152716",
-      "title": "Finntroll",
+      "title": "Visigoth Metal Fest: Finntroll + Midjungards + Folkrim + Bad Trick",
       "venue": {
         "name": "On The Rocks",
         "address": "Mikonkatu 15, Helsinki"
       },
       "date": "2027-03-20T17:00:00.000Z",
-      "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/109152716-finntroll-at-on-the-rocks",
+      "description": "Prepare for an unforgettable night of heavy riffs, folk melodies, and relentless energy! Visigoth Metal Fest returns on March 20, 2027, bringing a massive lineup of metal heavyweights to the stage. Leading the invasion are the legendary folk metal pioneers Finntroll, ready to unleash their signature blend of black metal and catchy humppa rhythms. Joining them are the fierce battle-metal force Midjungards, the high-energy folk metal party starters Folkrim, and the hard-hitting local heavyweights Bad Trick. Whether you are looking to storm the mpit or raise a horn with fellow metalheads, this is the festival you cannot miss. Secure your tickets now and brace yourselves for the ultimate metal feast!",
+      "ticketUrl": "https://www.tiketti.fi/visigoth-metal-fest-on-the-rocks-helsinki-tickets/121149",
       "image": "https://media.bandsintown.com/200x200/10455461.webp",
-      "ageLimit": "",
-      "price": "",
+      "ageLimit": "K-18",
+      "price": "32 €",
       "lineup": [
         {
           "id": "band-5a82023f",
           "artist": "Finntroll",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794779255057",
+          "artist": "Midjungards",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794779265340",
+          "artist": "Folkrim",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794779339928",
+          "artist": "Bad Trick",
           "stageTime": ""
         }
       ],
@@ -3169,80 +2797,31 @@
     },
     {
       "id": "tavastia-2027-03-21-1800-bloodred-hourglass-brymir-pridian-est",
-      "title": "BLOODRED HOURGLASS, BRYMIR, PRIDIAN (EST)",
+      "title": "Bloodred Hourglass, Brymir, Pridian (EST)",
       "venue": {
         "name": "Tavastia-klubi",
         "address": "Urho Kekkosen katu 4-6, Helsinki"
       },
       "date": "2027-03-21T16:00:00.000Z",
-      "description": "",
-      "ticketUrl": "",
+      "description": "Kotimaan suosituimpiin metalliyhtyeisiin lukeutuva Bloodred Hourglass kiertää ensi keväänä Eurooppaa sekä valikoituja keikkapaikkoja Suomessa. Kiertueella mukana juuri uuden albumin julkaissut äärimetalli-iskuryhmä Brymir ja virolainen modernin metallin tulokas Pridian.\n\nBloodred Hourglass on noussut Suomen metallisuuruuksien joukkoon tinkimättömällä työllä. Toinen toistaan kehutummat albumit, festivaalien päälavakeikat ja lukuisat kiihkeät klubikiertueet ovat kasvattaneet yhtyeen jalansijaa myös Euroopassa enenevissä määrin. Yhtye julkaisi Your Highness -nimisen seitsemännen albuminsa vuonna 2025 ja jatkoi sen suursuosiota After The Burial EP:n muodossa kesällä 2026. Uusi suomalainen metalli elää ja voi hyvin – ja tästä paras esimerkki on BRHG.",
+      "ticketUrl": "https://www.tiketti.fi/bloodred-hourglass-brymir-pridian-est-tavastia-klubi-lippuja/122286",
       "image": "https://media.bandsintown.com/200x200/25362670.webp",
       "ageLimit": "K-18",
       "price": "33,50 €",
       "lineup": [
         {
           "id": "band-58561cf5",
-          "artist": "BLOODRED HOURGLASS",
+          "artist": "Bloodred Hourglass",
           "stageTime": ""
         },
         {
           "id": "band-22266710",
-          "artist": "BRYMIR",
+          "artist": "Brymir",
           "stageTime": ""
         },
         {
           "id": "band-b8338f6f",
-          "artist": "PRIDIAN",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
-      "id": "barloose-8829",
-      "title": "KAFF – The Celebration of 40 Years of Crazy Nights and 50 Years of Love Gun",
-      "venue": {
-        "name": "Bar Loose",
-        "address": "Annankatu 21, Helsinki"
-      },
-      "date": "2027-03-26T18:00:00.000Z",
-      "description": "KAFF juhlistaa ensi vuonna pyöreitä vuosia täyttäviä KISS-klassikkolevyjä esittämällä ne molemmat kokonaisuudessaan, höystettyinä muutamilla kumpaankin levyyn liittyvillä harvinaisuuksilla. Lavalla tullaan illan aikana näkemään myös vierailevia vokalisteja, joista ilmoitellaan lisää myöhemmin.",
-      "ticketUrl": "https://barloose.com/live/kaff-the-celebration-of-40-years-of-crazy-nights-and-50-years-of-love-gun/",
-      "image": "https://barloose.com/wp-content/uploads/2026/09/KAFF.jpg",
-      "ageLimit": "K-18",
-      "price": "",
-      "lineup": [
-        {
-          "id": "band-d54eab9a",
-          "artist": "KAFF",
-          "stageTime": ""
-        }
-      ],
-      "addedDate": "2026-11-15T18:59:57.349Z"
-    },
-    {
-      "id": "clubunderground-2027-04-10-casket-de-ashen-tomb",
-      "title": "Casket (DE), Ashen tomb",
-      "venue": {
-        "name": "Club Underground",
-        "address": "Muusantori 5, Helsinki"
-      },
-      "date": "2027-04-10",
-      "description": "",
-      "ticketUrl": "",
-      "image": "",
-      "ageLimit": "K-18",
-      "price": "10 €",
-      "lineup": [
-        {
-          "id": "band-0fd5a881",
-          "artist": "Casket",
-          "stageTime": ""
-        },
-        {
-          "id": "band-f5fad934",
-          "artist": "Ashen tomb",
+          "artist": "Pridian",
           "stageTime": ""
         }
       ],
@@ -3272,24 +2851,18 @@
     },
     {
       "id": "kulttuuritalo-2027-04-21-timo-kotipelto-ja-jarkko-ahola-voices-unleashed",
-      "title": "TIMO KOTIPELTO JA JARKKO AHOLA – VOICES UNLEASHED",
+      "title": "Timo Kotipelto & Jarkko Ahola - Voices Unleashed",
       "venue": {
         "name": "Kulttuuritalo",
         "address": "Sturenkatu 4, Helsinki"
       },
-      "date": "2027-04-21",
-      "description": "",
-      "ticketUrl": "",
+      "date": "2027-04-21T16:00:00.000Z",
+      "description": "Kaksi ääntä. Kaksi uraa. Yksi yhteinen lava. Suomalaisen rockin ja metallimusiikin yhdet tunnetuimmat äänet, Timo Kotipelto ja Jarkko Ahola, lähtevät ensi kertaa yhdessä konserttisalikiertueelle. Luvassa on energinen kiertue, joka yhdistää kahden karismaattisen laulajan suosikkiohjelmistot, rockklassikot sekä ennenkuulemattomat duetot.\n\nHelmikuun 19. Joensuusta käynnistyvä Voices Unleashed -kiertueella kuullaan artistien omia hittejä, kuten Stratovariuksen Black Diamond ja Aholan uran varrelta tuttuja suosikkeja, sekä valikoituja rockklassikoita muun muassa Queenin, Deep Purplen, Ozzyn ja Scorpionsin tuotannosta. Mukana on myös rock-sovituksia yllättävistä kappaleista sekä tietenkin Kotipellon ja Aholan yhteisiä duettoja. 14 konsertin kiertue päättyy Helsinkiin 21.4.\n\n– Tässä on kyse ennen kaikkea siitä, mitä tapahtuu, kun kaksi erilaista ja vahvaa ääntä pääsee samaan tilaan. Halusimme tehdä konsertin, jossa yleisö saa kuulla meidät sekä erikseen että yhdessä. Ja annamme äänen todella irrota, hehkuttavat Jarkko Ahola & Timo Kotipelto yhteen ääneen.\n\nKiertue yhdistää rockkonsertin voiman, suurten balladien herkkyyden ja kahden karismaattisen esiintyjän välisen vuoropuhelun.\n\n– Aiomme lunastaa yleisön odotukset, siispä omaa tuotantoa on toki mukana, lupaa Jarkko Ahola selventäen, että ainakin Taivas luo tulta kuullaan varmasti.\n\n– Luulen, että meitä ei päästettäisi pois lavalta ilman niitä, toteaa Timo Kotipelto ja lisää: – On kunnia olla Jarkon kanssa samalla lavalla, tästä jää varmasti jälkipolvillekin kerrottavaa.\n\n– Olen todella otettu, että saan jakaa lavan miehen kanssa, jonka vaikuttavaa uraa ulkomaita myöten olen seurannut, Ahola säestää.\n\nKonsertti kuullaan upean Avenue Rock Orchestran säestämänä, Maamme eturivin muusikoista koostuva 12-henkinen Avenue Rock Orchestra on kapellimestari Antti Rissasen johtama musiikin superkokoonpano, joka rakentuu rock-bändistä, torvisektiosta ja jousistosta.\n\nJarkko Ahola\nRocktenori Jarkko Aholan uran käänteentekevimpiä hetkiä on ollut Teräsbetoni-yhtyeen jälkeen soolouralle lähteminen. Elämäni biisistäkin tunnetun Aholan power- ja heavymetalliääntä on kuultu viimeaikoina lukuisilla kiertueilla ja festivaaleilla. Parhaillaan hän esiintyy omalla Hienoimmat ja suurimmat - konserttisalikiertueella ja luvassa on myös perinteinen joulukonserttikiertue.\n\nTimo Kotipelto\nKotipelto tunnetaan maailmallakin mainetta niittäneen power metal -yhtye Stratovariuksen kärkihahmona. Hän on toiminut yhtyeen solistina vuodesta 1994. Parhaillaan Kotipelto ilahduttaa suomalaisia Vain elämää -ohjelmassa (Nelonen). Parin viikon päästä starttaa Stratovariuksen kiertue, esiintymismaina mm. Colombia, Panama, Japani ja Kiina.\n\nAvenue Rock Orchestra\nKitaroissa taituroivat mm. Raskasta joulua -konserteista tunnettu kitaravirtuoosi Tuomas Wäinölä ja multikitaristi Saku Mattila. Kompista vastaa Stratovarius-yhtyeestä tuttu rumpali Rolf Pilve. Koskettimia soittaa Suomeen Ruotsista muuttanut kosketinsoittaja Bob Engstrand ja bassoa raudanluja Jere Lehto. Torvisektiossa soittavat Tero Lindberg, Antti Rissanen ja Janne Huttunen. Tämä ryhmä tunnetaan myös ns. Popedan torvisektiona, Pate Mustajärven ajalta. Jousiryhmä koostuu Kymi Sinfoniettan jousisoittajista.",
+      "ticketUrl": "https://www.lippu.fi/event/timo-kotipelto-jarkko-ahola-voices-unleashed-helsingin-kulttuuritalo-22229672/",
       "image": "",
       "ageLimit": "",
       "price": "64,50 €",
-      "lineup": [
-        {
-          "id": "band-f6a1fa48",
-          "artist": "TIMO KOTIPELTO JA JARKKO AHOLA",
-          "stageTime": ""
-        }
-      ],
+      "lineup": [],
       "addedDate": "2026-11-15T18:59:57.349Z"
     },
     {
@@ -3395,7 +2968,7 @@
     },
     {
       "id": "on-the-rocks-20270506-reflexion-melankolia",
-      "title": "REFLEXION, MELANKOLIA",
+      "title": "Reflexion, Melankolia",
       "venue": {
         "name": "On The Rocks",
         "address": "Mikonkatu 15, Helsinki"
@@ -3409,12 +2982,12 @@
       "lineup": [
         {
           "id": "band-aa5adf93",
-          "artist": "REFLEXION",
+          "artist": "Reflexion",
           "stageTime": ""
         },
         {
           "id": "band-e92e0da3",
-          "artist": "MELANKOLIA",
+          "artist": "Melankolia",
           "stageTime": ""
         }
       ],
@@ -3661,7 +3234,7 @@
     },
     {
       "id": "clubunderground-2027-06-26-mururoa-attack-de-tba-tba",
-      "title": "Mururoa Attack (DE), TBA, TBA",
+      "title": "Mururoa Attack (DE)",
       "venue": {
         "name": "Club Underground",
         "address": "Muusantori 5, Helsinki"
@@ -4261,10 +3834,10 @@
       },
       "date": "2027-12-16T15:30:00.000Z",
       "description": "",
-      "ticketUrl": "https://www.bandsintown.com/e/109141743-powerwolf-at-helsinki-ice-hall",
+      "ticketUrl": "https://www.ticketmaster.fi/event/powerwolf-moral--madness-world-tour-lippuja/1740394167?language=en-us",
       "image": "https://media.bandsintown.com/200x200/26697652.webp",
       "ageLimit": "",
-      "price": "",
+      "price": "84 €",
       "lineup": [
         {
           "id": "band-00a6132c",
