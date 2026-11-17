@@ -3130,6 +3130,75 @@
       "price": "83,90 €"
     },
     {
+      "id": "manual-1794913314147",
+      "title": "The Rome - The Rise of Metal Expo",
+      "date": "2027-05-13T10:01:00.000Z",
+      "venue": {
+        "name": "Korjaamo",
+        "address": ""
+      },
+      "lineup": [
+        {
+          "id": "band-1794913619834",
+          "artist": "Zero Nine",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794913624786",
+          "artist": "Gringos Locos",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794913636296",
+          "artist": "Ronnie Romero",
+          "stageTime": ""
+        },
+        {
+          "id": "band-1794913673864",
+          "artist": "David Reece",
+          "stageTime": ""
+        }
+      ],
+      "description": "",
+      "price": "89 €",
+      "ticketUrl": "https://www.lippu.fi/en/event/the-rome-the-rise-of-metal-expo-2027-kulttuuritehdas-korjaamo-22400818/",
+      "image": "",
+      "ageLimit": "K-18",
+      "addedDate": "2026-11-17T11:01:54.147Z"
+    },
+    {
+      "id": "manual-1794913474734",
+      "title": "The Rome - The Rise of Metal Expo",
+      "date": "2027-05-14T10:04:00.000Z",
+      "venue": {
+        "name": "Korjaamo",
+        "address": ""
+      },
+      "lineup": [],
+      "description": "",
+      "price": "89 €",
+      "ticketUrl": "https://www.lippu.fi/en/event/the-rome-the-rise-of-metal-expo-2027-kulttuuritehdas-korjaamo-22400818/",
+      "image": "",
+      "ageLimit": "K-18",
+      "addedDate": "2026-11-17T11:04:34.734Z"
+    },
+    {
+      "id": "manual-1794913503099",
+      "title": "The Rome - The Rise of Metal Expo",
+      "date": "2027-05-15T10:05:00.000Z",
+      "venue": {
+        "name": "Korjaamo",
+        "address": ""
+      },
+      "lineup": [],
+      "description": "",
+      "price": "89 €",
+      "ticketUrl": "https://www.lippu.fi/en/event/the-rome-the-rise-of-metal-expo-2027-kulttuuritehdas-korjaamo-22400818/",
+      "image": "",
+      "ageLimit": "K-18",
+      "addedDate": "2026-11-17T11:05:03.099Z"
+    },
+    {
       "id": "manual-1794258838518",
       "title": "Sonic Rites Festival 2027",
       "date": "2027-05-21T15:00:00.000Z",
