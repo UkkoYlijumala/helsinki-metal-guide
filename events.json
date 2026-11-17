@@ -4823,7 +4823,10 @@
         {
           "id": "band-b84f2ad5",
           "artist": "Majestica",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/c1/06/16c10602-5993-f6ea-1cae-f210dced3ac1/mzaf_14174034791960186558.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-18",
+          "appleMusicUrl": "https://music.apple.com/us/album/spaceballs/1457606046?i=1457606510&uo=4"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
