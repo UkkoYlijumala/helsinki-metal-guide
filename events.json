@@ -1,38 +1,6 @@
 {
   "events": [
     {
-      "id": "kulttuuritalo-2026-11-17-graham-bonnet-band-uk-usa-wishing-well",
-      "title": "Graham Bonnet Band (UK/USA) + Wishing Well",
-      "venue": {
-        "name": "Kulttuuritalo",
-        "address": "Sturenkatu 4, Helsinki"
-      },
-      "date": "2026-11-17",
-      "description": "",
-      "ticketUrl": "https://www.lippu.fi/event/kult-live-graham-bonnet-band-ukusa-wishing-well-helsingin-kulttuuritalo-21646596/",
-      "image": "",
-      "ageLimit": "",
-      "price": "49,90 €",
-      "lineup": [
-        {
-          "id": "band-26b76cda",
-          "artist": "Graham Bonnet Band",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/ce/80/0ace80ff-3b26-077b-d95a-a2817029a3db/mzaf_14011350459954992504.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-fifth-force-of-nature-feat-bruce-dickinson/6819332096?i=6819332414&uo=4"
-        },
-        {
-          "id": "band-8f7dae2b",
-          "artist": "Wishing Well",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
-        }
-      ],
-      "addedDate": "2026-11-15T16:41:55.472Z"
-    },
-    {
       "id": "manual-1793778341214",
       "title": "Zilk, Incompitent Chainman, Report After Death",
       "date": "2026-11-18T16:00:00.000Z",
@@ -559,8 +527,9 @@
           "id": "band-1792830548971",
           "artist": "Radien",
           "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/1e/c1/9c1ec1fb-7ccc-2e2f-f2fc-0f861834a172/mzaf_2591644879123615774.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-18",
+          "appleMusicUrl": "https://music.apple.com/us/album/unenharmaa/6825178739?i=6825178990&uo=4"
         }
       ],
       "description": "Luvassa on rituaalista doom-metallia, dronea, jazzvaikutteita ja raskaita, hypnoottisia äänimaisemia.",
@@ -704,9 +673,7 @@
         {
           "id": "band-1792480343273",
           "artist": "Whisper",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -727,25 +694,17 @@
         {
           "id": "band-c53098cc",
           "artist": "What Awaits Us",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/64/38/e5/6438e595-30a6-f0d8-38ce-34f02c4c66c1/mzaf_5989243570643446777.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/ascend-remake/1576555064?i=1576555065&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-d95ec638",
           "artist": "Traitor Among Us",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-c8286013",
           "artist": "Ashes Of Perishing",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c6/b3/bc/c6b3bc17-4fa7-d827-3695-30d4bc6306b6/mzaf_9198246491053971390.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/waste-of-life/1716590408?i=1716590410&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
@@ -768,25 +727,17 @@
         {
           "id": "band-1792480432119",
           "artist": "Master Boot Record",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/1c/07/421c0792-1fa8-26ab-8fbc-da8dc15ba261/mzaf_963826396792941658.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/config-sys/1216150741?i=1216150835&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480438607",
           "artist": "Fulci",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792480443397",
           "artist": "Arottenbit",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/a0/17/43a01728-f6b8-8a92-4df5-cce5c9c3cc1b/mzaf_14120620966325104140.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/specimen-uno-probe-1162011/1770001819?i=1770001823&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -807,17 +758,12 @@
         {
           "id": "band-1792480883912",
           "artist": "Anvil",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/c1/a1/40c1a108-4a1d-e192-94fb-afd08664faa8/mzaf_14770977210785410449.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/metal-on-metal/282837728?i=282837739&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480889388",
           "artist": "Killer",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -838,10 +784,7 @@
         {
           "id": "band-1792480454332",
           "artist": "The Hardkiss",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/28/d8/1128d822-9812-81d5-9c77-bb047349a45f/mzaf_8492246085904561563.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BA%D0%BE%D0%B1%D1%80%D0%B0-feat-monatik/1822567497?i=1822567502&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -862,26 +805,17 @@
         {
           "id": "band-50fbc61c",
           "artist": "Aeonian Sorrow",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/62/15/a5/6215a534-0b12-5d34-d630-976f076c8ba8/mzaf_18057299906385380654.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/anemos/1710292400?i=1710292401&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-2a7af7e9",
           "artist": "As The Sun Falls",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fb/49/a7/fb49a79d-a51b-3b7d-3dbf-0db6647c6927/mzaf_14152626960628384660.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/among-the-stars/1727569784?i=1727569997&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-86033112",
           "artist": "Halls Of Oblivion",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d9/91/b2/d991b279-1311-bedb-e207-c64263af9f24/mzaf_7777683894799726377.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/last-glance-of-the-sun-feat-timo-fielker/1462753239?i=1462753247&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
@@ -903,18 +837,12 @@
         {
           "id": "band-1001f95c",
           "artist": "Lavina",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/c0/96/e9c09616-6aa6-2f8c-2a82-e48b0c06d3c8/mzaf_289031504186257549.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/kraj-mene/1874309855?i=1874310098&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794776227393",
           "artist": "Numento",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/25/a7/2625a7d0-a6ba-ccf5-13fc-8e5cd31eb437/mzaf_17373961729068983503.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/equinox/1747703941?i=1747703946&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
@@ -936,33 +864,22 @@
         {
           "id": "band-3de1702f",
           "artist": "Vacuous",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/77/24/ee772438-2d34-5043-f165-a44140c5bc95/mzaf_16633598519208020300.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/stress-positions/1776284770?i=1776284776&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-bfb035c1",
           "artist": "Dome Runner",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/1a/90/0b1a9055-737a-45e8-e0a2-fe170d51c370/mzaf_15584351386756284012.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/fuji-cracks/1581036690?i=1581036691&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-2ec6e1f3",
           "artist": "Throat",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-c8656ede",
           "artist": "Sisar",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/7b/9c/eb7b9c68-ff99-d1cb-aadd-fbc1084af5ca/mzaf_2966139209985071545.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/vougo/6817269748?i=6817269762&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T16:41:55.472Z"
@@ -984,25 +901,17 @@
         {
           "id": "band-1792480481015",
           "artist": "Allt",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/af/8c/12af8cb3-ade7-29ed-803e-2664e152b712/mzaf_9951611292947132392.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/snowblind/6766973071?i=6766973321&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480485020",
           "artist": "Avralize",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2a/c9/18/2ac918d6-5715-f9a3-8752-19cef4150e0f/mzaf_17591510333051745641.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/canvas/1730684740?i=1730684847&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480489048",
           "artist": "Bite Down",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -1018,26 +927,17 @@
         {
           "id": "band-1792831457833",
           "artist": "Dreadsight",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/83/e8/5183e81b-96d7-51db-d02b-aa90812378cf/mzaf_14394239220742530284.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/full-speed-ahead/1765591816?i=1765592121&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792831463511",
           "artist": "Rylos",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/51/da/7f/51da7f98-eb81-7871-3140-5e1c1d3818dc/mzaf_1301793072017122116.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/space-invaders/1176186865?i=1176186929&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792831469004",
           "artist": "Nuutti Hannula Radianssi",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/50/a1/a3/50a1a373-c22e-e81c-1291-839affeae359/mzaf_3570131605507917161.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/kahden-maailman-rajalla/1651138651?i=1651138652&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "",
@@ -1058,10 +958,7 @@
         {
           "id": "band-1792831804302",
           "artist": "Stråle",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/4e/ff/464eff92-d35c-0ab4-3f85-1225a2f06982/mzaf_9577945066859313118.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/ilegala/1772387125?i=1772387126&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "",
@@ -1110,26 +1007,17 @@
         {
           "id": "band-1792480520026",
           "artist": "Beast in Black",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/2a/8c/942a8c83-7e7e-0cb6-04bb-71dd2ea1f6c1/mzaf_10187418627358981008.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/they-dont-care-about-us/1580370124?i=1580371087&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480532528",
           "artist": "The 69 Eyes",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c4/64/c4/c464c47f-455d-b757-5639-09c7eaea73a6/mzaf_8029076353628809278.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/lost-boys/713627511?i=713627814&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480537120",
           "artist": "Rabbit Cult",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/f6/ac/f7f6acee-bccc-2f7b-3bcd-b7d837aca4a9/mzaf_8174017598385766856.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/pink-rifle/1791789368?i=1791789369&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1150,23 +1038,17 @@
         {
           "id": "band-864fd252",
           "artist": "Forever Failures",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1a4c3ec9",
           "artist": "Diablerie",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-e8235205",
           "artist": "Disgrave",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1212,31 +1094,22 @@
         {
           "id": "band-ce6b83cf",
           "artist": "Kryptareflat",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-ee2326c1",
           "artist": "Refusal",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-e29f285c",
           "artist": "Kantamus",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/8f/f6/6b/8ff66b2c-6576-e1ee-50c8-9b81a4e1c746/mzaf_11753303772596359940.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/morgan/1475672593?i=1475672844&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-47e2fabf",
           "artist": "Surya",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1258,10 +1131,7 @@
         {
           "id": "band-a89e2f6d",
           "artist": "Unredeemer",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d5/81/4f/d5814f8b-78b1-ae4e-1a5b-aefeef9b6098/mzaf_6263967773775672858.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/defiance/1538871256?i=1538871259&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794776805480",
@@ -1274,9 +1144,7 @@
         {
           "id": "band-1794776825749",
           "artist": "Animora",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1293,10 +1161,7 @@
         {
           "id": "band-1794006746722",
           "artist": "Uli Jon Roth",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/af/4d/53af4db4-4967-791a-424a-0e200bddc13a/mzaf_4573681520499525387.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-sails-of-charon/1764909502?i=1764909508&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Kitaristilegenda ja rock-visionääri Uli Jon Roth esiintyy On The Rocksissa itsenäisyyspäivänä!\n\nOmaleimaisesta soittotyylistään sekä innovatiivisista kitarasoundeistaan tunnettu Uli Jon Roth juhlistaa vuonna 2026 Scorpionsin legendaarisen “Virgin Killer” -albumin 50-vuotista taivalta. Vuosina 1974–1978 Scorpionsin soolokitaristina toiminut saksalainen oli mukana luomassa sellaisia ​​klassikkoalbumeita kuin “Fly To The Rainbow”, “In Trance” sekä tietenkin maailmanlaajuisesti kultaa myynyt Virgin Killer. Hänen virtuoosimaiset soolonsa ja melodiakulkunsa tekivät hänestä paitsi uusklassisen rockin uranuurtajan, myös yhden aikansa vaikutusvaltaisimmista kitaristeista, joka inspiroi soittajasukupolvia ympäri maailmaa.\n\nVirgin Killer -50-vuotisjuhlakiertueella albumi esitetään ensimmäistä ja viimeistä kertaa kokonaisuudessaan – kyseessä on ainutlaatuinen tapahtuma, jota ei ole aiemmin nähty eikä tulla enää koskaan näkemään. Skandinavian halki kulkeva kiertue lupaa unohtumattomia hetkiä, jotka täyttyvät voimakkaista kitarariffeistä, tunteikkaista melodioista ja spontaaneista improvisaatioista – eli sellaisista inspiroituneista esityksistä, joihin vain Rothin tasoinen artisti kykenee.\n\nUli Jon Roth esittelee keikoilla myös ajankohtaista ohjelmistoaan ja avaa illan taiteellisesti kunnianhimoisella “Pictures Of Destiny” -kokonaisuudellaan. Luvassa on siis ilta täynnä historiaa, intohimoa ja vertaansa vailla olevaa musiikkia!",
@@ -1323,10 +1188,7 @@
         {
           "id": "band-1792480585694",
           "artist": "Kausti",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/52/31/c75231dd-bdd5-5971-6838-ebc6731bcbf2/mzaf_13831000909931408161.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/russian-roulette/1778166163?i=1778166164&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1347,10 +1209,7 @@
         {
           "id": "band-1794777435564",
           "artist": "Marianas Rest",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/30/a1/5d30a1a1-50f3-5eed-68fe-2d6f65e4382d/mzaf_6133219768347913038.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/light-reveals-our-wounds/1659124393?i=1659125262&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1372,33 +1231,22 @@
         {
           "id": "band-1792480660798",
           "artist": "Mental Cruelty",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/46/52/db465281-0b56-1f69-6cdd-3b2fdbf1524c/mzaf_7933422919586691563.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/fenrir/6796362884?i=6796362890&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480677385",
           "artist": "Ov Sulfur",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/20/e9/3020e938-f2e5-b1a0-a15d-19e02e7ed23f/mzaf_12489285154786485541.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/wither/1839076044?i=1839076049&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480719474",
           "artist": "Extermination Dismemberment",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/09/62/fe096217-3793-596c-3e27-ad1af6b189f7/mzaf_6945584682648928416.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/enslaver-of-the-continents/6813612893?i=6813612895&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480725648",
           "artist": "Arcranius",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -1419,26 +1267,17 @@
         {
           "id": "band-1792480848183",
           "artist": "IKINÄ",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/bf/a3/7abfa3ea-bb60-d6f9-4c4f-edd2b0eaf62f/mzaf_13681711870240502075.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/aurora/1873217803?i=1873217804&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480852031",
           "artist": "Horizon Ignited",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bc/66/87/bc66876a-9fd0-d972-2df3-cbafb69dd4a8/mzaf_3690755078483590790.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/equal-in-death/1613029548?i=1613029552&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792480854510",
           "artist": "Lowhill",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/08/53/6d085385-4478-b865-aabb-ee3edb979e52/mzaf_4394649766028005374.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/sertraline/6798046783?i=6798046784&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1459,33 +1298,22 @@
         {
           "id": "band-48f22523",
           "artist": "Hoc Est Bellum",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/65/b9/1a65b9d1-e9c5-da97-2e11-1734aa6f8206/mzaf_4659071594652683670.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/vomit-black-ecstasy/6776176146?i=6776176153&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-e086d5ee",
           "artist": "Aamutähti",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-a0e1d3bd",
           "artist": "Hautaveri",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/98/09/85980965-fa7e-9a11-af23-ece762a865aa/mzaf_14509191783788032277.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/vain-kaatunut-sen-tiet%C3%A4%C3%A4/1868882653?i=1868882656&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-b6f6dca2",
           "artist": "Earthly Form",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/9f/17/079f1729-8e55-2f75-a083-147c98f36b90/mzaf_8303599277555575205.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/evening-sun-reveals-the-stones/1864070654?i=1864070657&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1507,16 +1335,12 @@
         {
           "id": "band-1794777551105",
           "artist": "Kill With Cover plays Manowar",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794777555023",
           "artist": "BoneButton plays Iron Maiden",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z",
@@ -1534,16 +1358,12 @@
         {
           "id": "band-1792832398453",
           "artist": "Iron Wings",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792832406041",
           "artist": "Barrel",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792832413261",
@@ -1577,10 +1397,7 @@
         {
           "id": "band-1792480908536",
           "artist": "Havukruunu",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/37/3a/fa373adc-dd48-4352-816f-3e8c8fd36e11/mzaf_5081433231647818727.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/uinuos-sy%C3%B6mein-sota/1770554887?i=1770555413&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1601,24 +1418,17 @@
         {
           "id": "band-1792480924865",
           "artist": "The Ocean",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792480928913",
           "artist": "Psychonaut",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792480931463",
           "artist": "Pothamus",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/62/8d/b6628d88-7beb-5333-0ddb-fbd5c0f6dbde/mzaf_5424824535389042492.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/savartuum-avur/1774028778?i=1774029002&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1655,18 +1465,12 @@
         {
           "id": "band-cf28ed40",
           "artist": "Plusminuszero",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/4c/09/e34c09b7-5c7c-ab76-3870-dc9fa4ce146e/mzaf_3535189965192923223.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/runners-high/6809450526?i=6809450530&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-949ecc00",
           "artist": "Delfoi Road",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/7e/b7/197eb739-6b49-f006-1bda-d61b78671bc1/mzaf_13940182815543318692.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/another-way-to-feel/6816954371?i=6816954376&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1688,10 +1492,7 @@
         {
           "id": "band-1792492606515",
           "artist": "Combichrist",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/99/2b/8d992b21-24c6-caeb-5adc-ee90f31a7443/mzaf_14908596204230801797.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/never-surrender/411904407?i=411904730&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1712,10 +1513,7 @@
         {
           "id": "band-d34e44ac",
           "artist": "Raskasta Joulua",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/46/b9/e8/46b9e8f1-df86-9b31-84fb-d7e1be23a192/mzaf_8703844261747570792.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/jouluun-uskotaan-with-pekka-heino-feat-pekka-heino/1653170647?i=1653171088&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1738,33 +1536,22 @@
         {
           "id": "band-1792492629345",
           "artist": "Týr",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/28/75/9a2875d9-64d1-4b02-8ec5-f88782ea36a1/mzaf_11130207873794923537.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/blood-of-heroes/671357651?i=671357926&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492639624",
           "artist": "Vanaheim",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792492672657",
           "artist": "Twilight Force",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8d/46/c9/8d46c999-2cde-5de0-0299-5f4a55a74fd1/mzaf_10078676465816314803.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/twilight-force/1649787707?i=1649787717&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492721200",
           "artist": "Dragonland",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/16/96/951696e7-24d4-aacf-4de7-22e5fb583f41/mzaf_1567174655348492888.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-black-mare/943002851?i=943002872&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1785,18 +1572,12 @@
         {
           "id": "band-1792492794573",
           "artist": "Kosto",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/e1/fd/21/e1fd2103-0a3c-e502-fc13-ca1f6a42a4c3/mzaf_1325894999900646580.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/darkroom/655918357?i=655918750&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492804186",
           "artist": "Arseeni",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/8b/0e/948b0ed9-5da6-618e-59bd-44a2bf90fcb6/mzaf_5366116327463849453.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/intro/1834712723?i=1834712725&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1817,18 +1598,12 @@
         {
           "id": "band-801cb9a8",
           "artist": "Shiraz Lane",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c0/a0/4e/c0a04eb1-2cdc-0ed0-3bdf-3b6260f68580/mzaf_3985234766998506613.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/harder-to-breathe/1322007724?i=1322008355&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794778083985",
           "artist": "Kormus",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/43/43/a7434323-172c-31ab-a881-cca7542bc50d/mzaf_12970748067799777702.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/pakko-p%C3%A4%C3%A4st%C3%A4-pois/1388955808?i=1388957105&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1850,10 +1625,7 @@
         {
           "id": "band-1794778275065",
           "artist": "Red Eleven",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/42/21/51/4221515c-c3e0-a37a-428c-ac5914c8f2c7/mzaf_8412184532861726374.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/unleash-the-beast-bonus-track/880221607?i=880221673&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1875,18 +1647,12 @@
         {
           "id": "band-2b4bf147",
           "artist": "Peer Günt",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/d9/ad/7fd9adb0-0b71-eb3c-414c-e263269a0330/mzaf_7170555669388852109.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/ive-been-losin-my-mind/1021658386?i=1021658400&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-25efdb15",
           "artist": "Blindboünd",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a9/00/07/a9000764-8800-666e-e27c-da1f78e75956/mzaf_2173810177086653797.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/goth-girlfriend/1715434206?i=1715434211&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1908,25 +1674,17 @@
         {
           "id": "band-1792492819851",
           "artist": "Einvigi",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0a/21/4c/0a214c2f-98b2-a50f-d444-f059bf729203/mzaf_3687775595904242133.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/yksin%C3%A4isen-laulu-pt-3-uusi-aurinko-nousee/1731253707?i=1731253720&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492825954",
           "artist": "The Mist From The Mountains",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/99/bb/06/99bb06ba-6ceb-c9e5-6947-52c0151af738/mzaf_926802335096815121.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/empyrean-fields/1601990337?i=1601990338&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492831090",
           "artist": "Venunum Dei",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -1947,25 +1705,17 @@
         {
           "id": "band-1792492875597",
           "artist": "BISA",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792492881035",
           "artist": "Irrational Cause",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/51/da/c9/51dac934-1f44-47a4-1649-27d96c44e53f/mzaf_2144400321387150783.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/dying-light/1687179488?i=1687179492&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492884527",
           "artist": "Admire The Grim",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/07/68/d5/0768d51a-285a-dae5-265d-4e97c6a5a9d0/mzaf_12982697850100332212.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/admire-the-grim/1651684719?i=1651684965&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -1986,18 +1736,12 @@
         {
           "id": "band-9e92fc76",
           "artist": "Fear Of Domination",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/40/20/5d/40205d34-cf0c-ef2b-9fe6-7108cea1018f/mzaf_14556316530615143029.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/fear-of-domination/1055617427?i=1055617436&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-e544d175",
           "artist": "Despiser",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/29/7c/1f297c63-8cb0-484f-e7e5-55071c32f3ce/mzaf_1941620998509295406.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/cruelty/1786170694?i=1786170697&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -2019,48 +1763,32 @@
         {
           "id": "band-1792492898000",
           "artist": "Malformed",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/2d/2a/642d2ab3-c5c4-7cd1-3a01-78f052b2dbbb/mzaf_14467283328048054916.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/within-the-flesh/1826086417?i=1826086418&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492903090",
           "artist": "Disguised Malignance",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4c/37/a3/4c37a3cd-7c78-453d-46aa-b50ead4be682/mzaf_5657810825039774551.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/unearthly-extinction/1676703685?i=1676703985&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492911104",
           "artist": "Azatoth",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792492916269",
           "artist": "Cryptorium",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/84/1c/b1841c94-5fd7-17c4-a1e9-3043f4aebcd9/mzaf_10728842383493565591.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/through-the-bowels-of-ceaseless-dissonance/6795133830?i=6795134064&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492920332",
           "artist": "Xorsist",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/46/8e/e0/468ee00a-c9b7-e085-2377-7c3d38d4ebeb/mzaf_6085605219093836324.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/coterie-of-the-depraved/1680790883?i=1680791105&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792492926397",
           "artist": "Impurity",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -2081,25 +1809,17 @@
         {
           "id": "band-1792498950455",
           "artist": "Demonic Death Judge",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/ce/46/78ce4667-68d7-2a50-d6b4-8856a97eefa7/mzaf_16637815264252541696.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/elevation/1827830721?i=1827830725&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792498978782",
           "artist": "Sunniva",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792498981216",
           "artist": "Elektrus Erektus",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/58/51/ae/5851aee8-5995-d078-e23f-79138fae48ab/mzaf_3430960225903184879.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/peltonen-on-ihana-mies/1464913705?i=1464914031&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2115,26 +1835,17 @@
         {
           "id": "band-1792922608288",
           "artist": "Never Obey Again",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/82/32/b98232bc-b36c-6dcb-4e70-b84e5af17f78/mzaf_17624175801012487549.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/control/1758142263?i=1758143183&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792922612513",
           "artist": "Balance Breach",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a7/1a/55/a71a55b6-a753-57cc-b1a8-51337474bc5e/mzaf_4765752039753057381.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/dead-end-diaries/1676024371?i=1676024381&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792922617228",
           "artist": "Silence The Echo",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/54/67/da5467ba-860a-7f93-8d4e-2acfb06dbe56/mzaf_1792849021984219405.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/stand-your-ground/1889948865?i=1889948866&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Tammikuun pimeys kohtaa modernin metallin raskaimmat riffit, tarttuvimmat melodiat ja intensiivisen live-energian, kun Afterlight Modern Metal Evening valtaa Helsingin Tiivistämön lauantaina 16. tammikuuta 2027!\n\nIllan co-headlinereina nähdään italialainen Never Obey Again ja suomalainen Balance Breach.\n\nNever Obey Again on italialainen modern metal -yhtye, jonka soundissa yhdistyvät raskaat riffit, tarttuvat melodiat ja moderni, iskevä tuotanto. Miljoonia kuunteluita kerännyt yhtye saapuu Suomeen ensimmäistä kertaa – eikä syyttä. Suomesta on muodostunut yksi yhtyeen vahvimmista kuuntelualueista, mikä tekee ensivierailusta erityisen sekä bändille että suomalaisille faneille. Nyt on aika kokea Never Obey Again livenä! \n\nKotimaan lupaavimpiin metalliyhtyeisiin kuuluva Balance Breach tekee matkaansa Mikkelistä maailmanmaineeseen, eikä sitä tunnu pysäyttävän enää mikään. Isojen ja kansainvälisten metallinimien kanssa lavaa jakaneen yhtyeen musiikissa yhdistyvät haikeat melodiat, raivokas energia ja isot kertosäkeet niin vastustamattomalla tavalla, että se on huomattu kotimaan lisäksi myös Keski-Euroopassa.\n\nIllan täydentää Silence The Echo, jonka massiiviset riffit, elektroniset elementit, tunnelmalliset äänimaisemat ja vahvat melodiat luovat oman tunnistettavan yhdistelmänsä modernia metallia.\n\nIllan neljäs esiintyjä julkaistaan myöhemmin.",
@@ -2161,26 +1872,17 @@
         {
           "id": "band-1792499031345",
           "artist": "Scythe Of Sorrow",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e5/e6/fc/e5e6fc1d-4aa6-5065-53f5-2e9b42c86964/mzaf_8493296948942494606.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/rise-and-shine/1699625468?i=1699625472&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792499035396",
           "artist": "Frostbite Terror",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/eb/97/eceb97d6-add6-41fe-7f03-6f4ecb81f135/mzaf_6446372475202089823.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/tracks-on-the-snow/6784270513?i=6784270520&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792499039679",
           "artist": "Rose Heaven",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/da/e3/67dae3fc-bc38-ec2d-7d10-b441a5e8ea5a/mzaf_15264285259999005514.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/golden/1825000969?i=1825001186&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2201,17 +1903,12 @@
         {
           "id": "band-1792499057585",
           "artist": "Unkind",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792499086142",
           "artist": "Kürøishi",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/de/5d/1a/de5d1ab8-3ff2-2574-1bb3-c341e1bca28e/mzaf_8561228952872665307.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/bombraid/1202421272?i=1202421353&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2246,32 +1943,22 @@
         {
           "id": "band-bf45c839",
           "artist": "Prestige",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-e64af509",
           "artist": "Sgt. Slime",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/d6/e8/32/d6e83251-3aa6-c484-ae0f-9212e455b030/mzaf_12593722761365138838.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/sgt-slime/1482186836?i=1482186837&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-e129d8b5",
           "artist": "Torp",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-3a6b2f44",
           "artist": "Bloodblind",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/3c/48/953c488c-0241-f449-030f-2af9dd21c320/mzaf_17036541597227511113.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/brick-by-brick/1751147160?i=1751147161&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -2293,9 +1980,7 @@
         {
           "id": "band-1792499123767",
           "artist": "Whispered",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794778847545",
@@ -2319,10 +2004,7 @@
         {
           "id": "band-1794003909544",
           "artist": "Madmans Esprit",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2d/4a/04/2d4a0438-c9bc-e074-9fc1-15a535eee248/mzaf_16918365547801013073.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/idontknowwhoiambutthesexgoeson/1647748609?i=1647750123&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Madmans Esprit on eteläkorealainen visual kei -vaikutteinen extreme metal -yhtye, joka yhdistää extreme metalia voimakkaaseen tunneilmaisuun ja kerronnalliseen syvyyteen.\n\nYhtye on vakiinnuttanut asemansa maailmanlaajuisen yleisön keskuudessa, ja sillä on Spotifyssa noin 55 000 kuukausittaista kuuntelijaa.\n\nÄskettäisellä Euroopan-kiertueellaan, jolla yhtye toimi pääesiintyjänä, Madmans Esprit esiintyi noin 10 kaupungissa keräten yhteensä noin 4 500 hengen yleisön.\n\nKiertue sisälsi useita loppuunmyytyjä konsertteja useissa maissa, kuten Isossa-Britanniassa, Saksassa, Suomessa, Puolassa ja Romaniassa, mikä osoittaa vahvan ja tasaisen kysynnän eri alueilla.\n\nYhtye jatkaa kasvamistaan yhä mittavampien Euroopan-kiertueiden myötä, pitäen samalla yllä aktiivista keikkailua Japanissa ja Etelä-Koreassa.",
@@ -2349,16 +2031,12 @@
         {
           "id": "band-71c50f52",
           "artist": "Rare Maiden",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-fd11b9f5",
           "artist": "Superunknowns",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -2380,9 +2058,7 @@
         {
           "id": "band-1792499163451",
           "artist": "Sara",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -2403,25 +2079,17 @@
         {
           "id": "band-1792499197821",
           "artist": "Azgaroth",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792499202565",
           "artist": "Karelian Warcry",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/2f/99/d02f99b9-ae67-db90-b61f-120334541531/mzaf_8285443626506593132.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/muisto/1769352129?i=1769352473&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792499206030",
           "artist": "Withering Emptiness",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/c8/41/4fc84114-1d4c-2780-e338-3927659d4b23/mzaf_11947198219586669440.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/yggdrasil/1814088496?i=1814088502&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2442,25 +2110,17 @@
         {
           "id": "band-1792498603051",
           "artist": "Bullet For My Valentine",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/35/09/66350950-05dd-7317-1c59-420cd96af8c4/mzaf_3162759846073950494.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/your-betrayal/363206484?i=363206509&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792498618248",
           "artist": "Pendulum",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792498623361",
           "artist": "Dark Divine",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/93/50/ea93509a-fcc6-d323-1317-97af58eafd49/mzaf_12890441107262372005.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/permanent/1861535416?i=1861535417&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2481,26 +2141,17 @@
         {
           "id": "band-1792499236598",
           "artist": "Imminence",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/64/d3/fd64d3b2-0cfc-ed29-6bfb-04791dac4a30/mzaf_8071702542827025598.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/god-fearing-man/1798525316?i=1798525320&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792923060009",
           "artist": "August Burns Red",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/a4/3e/45a43ef6-1ef8-e6de-8c51-371136f8ed5e/mzaf_11725896252559118774.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/white-washed/1538017146?i=1538017362&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794003783486",
           "artist": "House Of Protection",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/f6/fd/94f6fd5d-d257-2472-9000-768c029e6958/mzaf_11963957478217039667.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/pulling-teeth/1755208857?i=1755209149&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2521,10 +2172,7 @@
         {
           "id": "band-1792499259180",
           "artist": "Crashdïet",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/1b/76/2f1b76b6-d33d-c0e6-e163-9af9cbdc9c01/mzaf_8975002576747738220.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/generation-wild/1230558169?i=1230558882&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2545,10 +2193,7 @@
         {
           "id": "band-1792499342337",
           "artist": "Floor Jansen",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/c8/3f/49c83fa3-9fb3-ce35-950a-41e53ea43f79/mzaf_9811215565787103201.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/everything-is-moving-on/6800381142?i=6800381448&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2569,10 +2214,7 @@
         {
           "id": "band-1792499354861",
           "artist": "Slomosa",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/4e/67/464e67b8-347c-add3-bf2b-d3a5675705a8/mzaf_3560795284368605136.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/horses/1517175442?i=1517175448&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2588,10 +2230,7 @@
         {
           "id": "band-1794258237591",
           "artist": "Baby Lasagna",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/77/07/13770774-f076-f376-e591-fbd22be9e64e/mzaf_371395162692137221.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/sedated/1893142475?i=1893142718&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "EUROVIISUSUOSIKKI BABY LASAGNA PALAA KULTTUURITALOLLE HELMIKUUSSA 2027\n\nEuroviisuista maailmanlaajuiseen suosioon noussut kroatialainen Baby Lasagna palaa Helsingin Kulttuuritalolle keskiviikkona 10. helmikuuta 2027 osana End the Party Tour -kiertuettaan. Eri genrejä ennakkoluulottomasti yhdistelevän artistin keikan liput tulevat myyntiin maanantaina 7. syyskuuta klo 12 Lippu.fi:ssä.\n\nBaby Lasagna (Marko Purišić) teki kansainvälisen läpimurtonsa vuonna 2024 kappaleella Rim Tim Tagi Dim, jonka jälkeen hänen uransa lähti nopeaan nousuun ympäri Eurooppaa. Helmikuussa 2025 ilmestynyt debyyttialbumi DMNS & MOSQUITOES toi yhteen artistin tunnusomaisen sekoituksen metallia, elektronista musiikkia, poppia ja tarttuvia melodioita.\n\nVuonna 2026 Baby Lasagna avasi urallaan uuden, aiempaa raskaamman luvun. End The Party julkaistiin 13. helmikuuta ja vei soundia selvemmin takaisin vaihtoehto- ja metallimusiikin suuntaan. Sitä seurasivat Sedated 5. toukokuuta sekä Face On Your Phone 7. elokuuta. Uudessa materiaalissa moderni metalli ja elektroniset elementit yhdistyvät edelleen Purišićille ominaiseen huumoriin, itseironiaan ja yhteiskunnallisiin aiheisiin. Tuore Face On Your Phone käsittelee verkkohäirintää, julkisuutta ja ruudun takana syntyvää anonymiteettiä. Uudet singlet avaavat tietä Baby Lasagnan toiselle studioalbumille, jonka on määrä ilmestyä syksyllä 2026.\n\nSuomessa Baby Lasagna nähtiin ensimmäisen kerran juuri Kulttuuritalolla maaliskuussa 2025. Suomi-yhteys sai jatkoa Käärijän kanssa tehdyllä #eurodab-singlellä. Kaksikko esiintyi yhdessä myös vuoden 2025 Euroviisufinaalin väliaikanumerossa Baselissa, jossa #eurodab yhdistyi Käärijän Cha Cha Cha -hitin ja Baby Lasagnan Rim Tim Tagi Dim -kappaleen mashupiin. Toukokuussa 2026 Baby Lasagna vieraili puolestaan Käärijän loppuunmyydyssä EURODISKO-konsertissa Helsingin Veikkaus Arenalla. Mitä yllätyksiä tuleva Kulttuuritalon keikka tuo tullessaan?",
@@ -2618,10 +2257,7 @@
         {
           "id": "band-1792499381953",
           "artist": "Hollywood Undead",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/3f/e5/573fe5ce-2391-cebf-cfb3-2ec529023db3/mzaf_8857178976117415360.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/hear-me-now/1440716987?i=1440717232&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2637,10 +2273,7 @@
         {
           "id": "band-1794258593743",
           "artist": "Dawn of Solace",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/be/32/eabe32f4-770f-b112-aab8-1007cd4c818e/mzaf_837938079123496500.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/lead-wings/1488541324?i=1488541566&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Metallin monitoimimies Tuomas Saukkosen (Wolfheart, Before The Dawn) ja Kaunis Kuolematon -yhtyeestä tunnetun Mikko Heikkilän Dawn of Solace julkaisee 12. tammikuuta uuden albumin nimeltä \"Skeletons\" ja soittaa sen kunniaksi vain yhden täyspitkän keikan vuonna 2027. Levyjulkkarit juhlitaan perjantaina 12. helmikuuta 2027 Helsingin On The Rocksissa.\n\nTuomas Saukkosen sooloprojektina alkunsa saanut Dawn of Solace julkaisi debyyttialbuminsa jo 2006 ja palasi levytyskantaan uudelleen vasta vuoden 2020 \"Waves\" -albumin myötä. Vuoden 2022 alussa julkaistiin kriitikoiden ja yleisön rakastama \"Flames of Perdition\" ja vuonna 2025 jylhä \"Affliction Vortex\". Tammikuussa 2027 julkaistava \"Skeletons\" on yhtyeen viides albumi.",
@@ -2667,32 +2300,22 @@
         {
           "id": "band-1792499437211",
           "artist": "Signs of the Swarm",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/9c/49/c39c498f-89aa-8a18-2ef3-48d34637eb72/mzaf_1728290340527767991.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/dragula/6799006249?i=6799006251&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792499452836",
           "artist": "Ten56",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792499460534",
           "artist": "Oceans Ate Alaska",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/53/6c/44536cbb-f3e9-0d38-d6f1-76e7ddfbe926/mzaf_5966652085510854368.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/clocks/1761361346?i=1761361356&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792499469741",
           "artist": "Face Yourself",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -2713,25 +2336,17 @@
         {
           "id": "band-1792499487095",
           "artist": "Catch Your Breath",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/c6/ad/8fc6ad53-fe85-9fa7-bbc8-6b9e191342d0/mzaf_7813184487741378263.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/dial-tone/1732046662?i=1732046663&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792499506720",
           "artist": "Ocean Sleeper",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/7b/c0/177bc0b4-706c-c97e-9cdf-19a34ec48def/mzaf_4424707772691117173.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/my-forever-drug/6771125682?i=6771125695&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792499523545",
           "artist": "elijah",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -2747,10 +2362,7 @@
         {
           "id": "band-1792923746507",
           "artist": "TX2",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/b9/96/5cb99645-3112-be8f-b4d6-24c644808530/mzaf_18205438834850035108.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-resistance/1849026022?i=1849026033&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Fort Collinsin kaupungista, Coloradon osavaltiosta tuleva laulaja / biisintekijä Timothy Evan Thomasin perustama ja viraali-hiteillään kansansuosioon noussut TX2 saapuu ensimmäistä kertaa Suomeen. Sittemmin täysmittaiseksi bändiksi kasvanut emoa, vaihtoehtorockia, pop punkkia, metalcorea ja ajoittain jopa hip-hopia tyylikkäästi ja tarttuvasti yhdistelevä TX2 nähdään Tampereella Olympia-korttelissa 12. helmikuuta ja seuraavana päivänä 13. helmikuuta jenkit hurmaavat Helsingissä Korjaamolla.\n\nMusiikillisten ansioidensa lisäksi TX2 tunnetaan mielenterveyttä tukevasta ja turvallista tilaa faneilleen tarjoavasta X Movement -verkkoyhteisöstään.",
@@ -2777,26 +2389,17 @@
         {
           "id": "band-1792499538021",
           "artist": "Melrose Avenue",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/9f/6a/499f6a70-913d-28fc-c3b0-53a26821779c/mzaf_4455113590104013650.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/this-is-the-end/1846935520?i=1846935522&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792923232649",
           "artist": "ARANKAI",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/a5/44/c9a54473-cfd8-edfe-add9-d63232d54841/mzaf_8325591847820937173.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/paint-it-black/1753248934?i=1753248935&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792923292935",
           "artist": "Call Me Amour",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/da/6a/c3da6a6a-eed2-c482-180c-2a471612d63e/mzaf_7972691969375674901.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-way-that-you-are/6812270583?i=6812270803&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2817,26 +2420,17 @@
         {
           "id": "band-1792499554877",
           "artist": "Five Finger Death Punch",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/72/35/5f723574-7f38-1723-8116-a63b1d8d4483/mzaf_8813844452133721603.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/bad-company/1849239760?i=1849239970&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792591483644",
           "artist": "Lamb Of God",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/b6/7d/dbb67dfc-45ad-440b-7645-e96f7b1dc62a/mzaf_5084207887715186644.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/omert%C3%A1/1749340898?i=1749341172&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792591492533",
           "artist": "Bleed From Within",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/53/13/80531386-19b0-504e-6209-b124bbd9ef96/mzaf_4971448242361004196.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/violent-nature/1779579647?i=1779579800&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2857,24 +2451,17 @@
         {
           "id": "band-1792565468749",
           "artist": "Uncle Acid and The Deadbeats",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792565473634",
           "artist": "Conan",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792565477331",
           "artist": "Earth Tongue",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/eb/e5/6bebe5bc-7583-6ac2-5570-0aa88a7bb39e/mzaf_3919833560847385627.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/dungeon-vision/1854844603?i=1854844604&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2894,10 +2481,7 @@
         {
           "id": "band-1792565494121",
           "artist": "Tarja Turunen",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b5/9f/a5/b59fa59b-f818-83f2-485c-952b7642e7a2/mzaf_11810765666737725784.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/walking-in-the-air/1669930095?i=1669930667&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2913,10 +2497,7 @@
         {
           "id": "band-1793778081179",
           "artist": "Dynazty",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/d8/0d/b0d80d3f-1a4c-fb0f-4068-1c63d9a92728/mzaf_8483271539965336602.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/heartless-madness/1497881014?i=1497881283&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Vuonna 2008 perustettu Dynazty on vuosien varrella kasvanut skandinaavisesta hard rock -skenestä todelliseksi voimatekijäksi ja merkittäväksi nimeksi modernin melodisen metallin huipulla.\n\nHelmikuussa 2027 yhtye saapuu jälleen tervehtimään suomalaisia ystäviään. Dynazty iskee 24.-27. helmikuuta Helsingissä, Tampereella, Jyväskylässä ja Kuopiossa. Ennakkoliput keikoille tulevat myyntiin keskiviikkona 4. marraskuuta 2026.\n\nDynaztyn uran merkittäviin virstanpylväisiin kuuluu vuonna 2020 julkaistu, listoja valloittanut albumi The Dark Delight, joka on myynyt kultaa sekä Ruotsissa että Suomessa. Myös albumin singlelohkaisu Heartless Madness on yltänyt platinalevyn myyntilukemiin.\n\nViime vuosina tehdyt kiertueet sellaisten yhtyeiden kuin Sabaton, Powerwolf, Battle Beast, Pain ja Kissin’ Dynamite kanssa ovat vakiinnuttaneet Dynaztyn aseman yhtenä Euroopan merkittävimmistä oman sukupolvensa live-esiintyjistä.\n\nElokuussa 2024 Dynazty päätti laajan Euroopan kesäfestivaalikiertueensa julkaisemalla uuden kappaleen Devilry of Ecstasy, jota seurasi seuraavana vuonna albumi Game of Faces, jonka julkaisi Napalm Records.\n\nBändin 10. pitkäsoitto Dark Arts ilmestyy 5. maaliskuuta 2027, joten Suomessa kuullaan helmikuussa livenä varmasti muutama uusi Dynazty-ralli.",
@@ -2943,18 +2524,12 @@
         {
           "id": "band-1792565510135",
           "artist": "Huora",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/1c/24/351c249c-b1d0-5675-6f74-6a75c3ff3206/mzaf_1503712575173741975.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/kovia-ja-kiljua/1216684153?i=1216684726&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565512815",
           "artist": "Lähiöbotox",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/da/61/a1da617b-c3c0-18e0-5d14-04df00420239/mzaf_16939595268441557887.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/rikkin%C3%A4inen-suomi/1526497571?i=1526497578&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -2975,34 +2550,22 @@
         {
           "id": "band-1792565559259",
           "artist": "Whitechapel",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/4a/ac/fd4aaca3-a600-2473-54d9-5b5aaf6106f0/mzaf_14751973239432254696.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-saw-is-the-law/828056300?i=828056308&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565564264",
           "artist": "Sylosis",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/6e/ef/9a6eef98-3630-22bd-8530-74216817f08a/mzaf_9070746981009216914.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/lacerations/1850926780?i=1850926957&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565568668",
           "artist": "200 Stab Wounds",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/df/2f/f3df2fc0-c15d-2441-6b03-7e89a7333841/mzaf_3174799817716055668.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/led-to-the-chamber-liquified/1733535872?i=1733535879&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565573275",
           "artist": "Tribal Gaze",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/4f/d2/f54fd2ef-1308-84e8-17b3-8de4d6c726bd/mzaf_401790938100663459.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/beyond-recognition/1827924532?i=1827924766&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -3018,18 +2581,12 @@
         {
           "id": "band-1793779645327",
           "artist": "Huora",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/1c/24/351c249c-b1d0-5675-6f74-6a75c3ff3206/mzaf_1503712575173741975.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/kovia-ja-kiljua/1216684153?i=1216684726&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1793779649324",
           "artist": "Lähiöbotox",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/da/61/a1da617b-c3c0-18e0-5d14-04df00420239/mzaf_16939595268441557887.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/rikkin%C3%A4inen-suomi/1526497571?i=1526497578&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Punkrock-yhtye HUORA ja räppiä heviriffeihin yhdistelevä LÄHIÖBOTOX nähdään yhteiskeikalla Helsingin Tavastialla perjantaina 26. helmikuuta. Alkuvuoden riehakkaimpiin liveiltoihin lukeutuvassa perjantai-illassa kuullaan täysmittaiset setit kummaltakin bändiltä. \n\nRäyhäkkäästi riffittelevä ja kantaaottava Huora on yksi maamme energisimmistä livebändeistä. Vankkaa livesuosiota nauttiva yhtye esiintyi viimeksi Helsingissä kesällä 2025, joten paluu kaupunkiin on odotettu tapaus. Tavastian keikalla juhlistetaan myös yhtyeen uutta, alkuvuodesta 2027 ilmestyvää albumia. Illan toisena kärkinimenä nähdään räpin ja metallin raja-aitoja kaatava Lähiöbotox, joka tunnetaan niinikään hurjasta live-energiastaan. Parhaillaan uutta materiaalia valmistelevan yhtyeen nousua on siivittänyt ahkeran keikkailun ohella Ylen kanavilla ensi-iltansa saanut African Metal Tour -dokumenttisarja.",
@@ -3051,10 +2608,7 @@
         {
           "id": "band-1794005047710",
           "artist": "Saxon",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/c8/af/85c8af2d-86bc-cb29-c45c-900bc9582bcc/mzaf_15703903576422332166.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/wheels-of-steel-2009-remaster/1451595306?i=1451595310&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Brittiläinen Saxon, yksi heavy metalin kestävimmistä ja vaikutusvaltaisimmista yhtyeistä, saapuu lauantaina 6. maaliskuuta 2027 Helsingin Kulttuuritalolle osana Gods of Thunder Tour -kiertuettaan. Yhtye on tänään julkistanut kiertueensa Euroopan-osuuden jäljellä olevat päivämäärät. Kyseessä on yhtyeen ensimmäinen Helsingin-keikka yli 15 vuoteen.\n\nYhtye perustettiin Barnsleyssa vuonna 1977, ja se julkaisi esikoisalbuminsa Saxon vuonna 1979. Saxon nousi New Wave of British Heavy Metal -liikkeen eturintamaan Iron Maidenin ja Def Leppardin rinnalle, samaan brittiläisen heavy metalin suureen jatkumoon, jota myös Judas Priest oli ollut rakentamassa.\n\nSaxonin tavaramerkiksi ovat muodostuneet jykevät kitarariffit, suuret kertosäkeet ja tinkimätön live-energia. Yhtyeen klassikoihin kuuluvat muun muassa Wheels of Steel, Denim and Leather, Princess of the Night ja 747 (Strangers in the Night). Vuosikymmenten aikana Saxon on säilyttänyt asemansa sukupolvia yhdistävänä metalliyhtyeenä, jonka vaikutus kuuluu yhä uuden polven heavy-bändeissä.\n\nYhtye ei osoita hidastumisen merkkejä. Saxonin 25. studioalbumi Gods of Thunder julkaistaan tammikuussa 2027.",
@@ -3081,26 +2635,17 @@
         {
           "id": "band-1792565596374",
           "artist": "Party Cannon",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9e/7c/44/9e7c4441-8a48-42c8-a4e8-2a76719c601c/mzaf_9345332594470720676.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/weird-but-not-illegal/1729230213?i=1729230217&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565601159",
           "artist": "Internal Bleeding",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fd/ba/a6/fdbaa68f-81cb-e8ec-b87e-9350bf003169/mzaf_5919699313505484088.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/anointed-in-servitude/35978217?i=35977985&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565603814",
           "artist": "Guttural Slug",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/1b/3e/ab1b3e77-4ce2-b841-985f-7293de647e44/mzaf_13633125166016316472.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/ulcers-in-the-flesh-of-thought/1847951572?i=1847951582&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -3121,23 +2666,17 @@
         {
           "id": "band-1792565637085",
           "artist": "Brujeria",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792565642925",
           "artist": "Criminal",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792565648926",
           "artist": "Terror Shark",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -3153,10 +2692,7 @@
         {
           "id": "band-1792925942361",
           "artist": "D’espairsRay",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3b/42/56/3b4256df-41df-6a94-1718-63519e220d6e/mzaf_1511145765432522438.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/forbidden/367747624?i=367748170&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Japanilaisen visual rockin uranuurtajiin kuuluva D'ESPAIRSRAY palaa Suomeen odotetulle keikalle Helsingin Tavastialle maanantaina 8. maaliskuuta 2027.\n\nD'ESPAIRSRAY on yksi japanilaisen visual rockin pioneeriyhtyeistä, joka tunnetaan maailmanlaajuisesti voimakkaista live-esiintymisistään, raskaasta soundistaan ja omaleimaisesta estetiikastaan. Vuonna 1999 perustettu yhtye on esiintynyt laajasti Japanissa, Euroopassa ja Pohjois-Amerikassa sekä merkittävillä festivaaleilla, kuten Wacken Open Airissa, Tuska Festivalilla, Ruisrockissa ja Taste of Chaos -kiertueella. Pitkän tauon jälkeen yhtye teki paluun vuonna 2025 julkaisemalla uuden \"RAPTURE\"-singlen sekä esiintymällä loppuunmyydyillä paluukonserteilla.\n\nIntensiivisestä lavailmaisustaan ja genrerajoja rikkovasta soundistaan tunnettu D'ESPAIRSRAY on rakentanut yli kahden vuosikymmenen aikana uskollisen kansainvälisen fanikunnan. Yhtyeen paluu Helsinkiin on merkittävä tapahtuma niin pitkäaikaisille faneille kuin myös uusille kuulijoille, jotka pääsevät kokemaan yhtyeen ylistetyn live-esiintymisen.",
@@ -3184,70 +2720,47 @@
         {
           "id": "band-1792565715771",
           "artist": "The Arson Project",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792565723881",
           "artist": "Cumbeast",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792565728841",
           "artist": "Unknown Subject",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/5b/67/b85b677c-0d51-51f3-bd04-70e8fa2d643e/mzaf_6303709741376023079.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/how-a-planet-dies/1828193574?i=1828193581&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565733774",
           "artist": "Sonic Poison",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c2/ff/14/c2ff14d9-c76a-42da-4d22-61fe1afc93fc/mzaf_13802124242761160247.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/carbonized/1676451062?i=1676451069&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565738859",
           "artist": "Refusal",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792565745658",
           "artist": "Putrid Defecation",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/cd/76/56/cd7656f1-d206-a166-c4b4-d57de0447565/mzaf_13435704574591604065.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/explosive-public-toilet-diarrhea/1612084138?i=1612084142&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565750367",
           "artist": "Grave Hex",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/46/a9/1946a9a5-a55e-8971-e907-e913766a485f/mzaf_6914155446589939654.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/vultural-scourge/1833695819?i=1833695821&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565755322",
           "artist": "Frigid Winter",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792565760915",
           "artist": "Deathfuckingwound",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/62/f9/ee62f99e-af19-f55a-7f01-c349d7524d11/mzaf_88220480856713481.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-pounding-ambush/6825686814?i=6825686819&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -3279,25 +2792,17 @@
         {
           "id": "band-1792928819844",
           "artist": "King Satan",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/8b/0d/0d8b0d6a-9674-46e8-457a-6e60f97b81fb/mzaf_4755852597760998418.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/abraxas-rising-feat-saku-solin/6799141837?i=6799142331&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792928828560",
           "artist": "The Ghoulstars",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/6b/97/8d6b97ce-84d4-5378-0c60-2d79cd33b0bc/mzaf_17757906345635639103.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-dead-in-purgatory/1872811127?i=1872811145&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792928832260",
           "artist": "Danger Håt",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "description": "King Satan on vuonna 2015 perustettu kotimainen industrial metal -yhtye, joka yhdistää elektronisen tanssimusiikin, groovaavan äärimetallin sekä filosofiset ja esoteeriset teemat ”death metal discoksi”. Mustasta huumorista, absurdismista ja mytologioiden pimeästä puolesta ammentavan yhtyeen tunnusmerkki on King Aleister Satanin ja Hekate ”Kate” Bossin voimakas laulu- ja lavadynamiikka.\n\nTampereelta lähtöisin oleva yhtye on noussut kansainvälisille alternative-, industrial- ja äärimetallikentille keikkailemalla 19 maassa, lämmitellen muun muassa Turmion Kätilöitä, Gothministeria ja Deathstarsia sekä esiintyen Tuskassa, Nummirockissa ja Masters of Rockissa. Viides albumi ilmestyy marraskuussa 2026. Sitä edelsi Erja Lyytisen kanssa tehty ”Black Magick Rock ’N’ Roll”, jonka musiikkivideo voitti Best Shock Award -palkinnon Europe Music Video Awardsissa 2026.\n\nLevyjulkkari-iltaa vahvistaa The Ghoulstars, joka ravistelee hautoja näyttävällä metallin ja horror punkin sekoituksellaan. B-luokan kauhu- ja scifi-estetiikasta ammentava yhtye mainitsee vaikutteikseen The Misfitsin, White Zombien, Entombedin ja Volbeatin. Illan avaa Tampereen Nekalasta ponnistava, härö rock n’ roll -yhtye Danger Håt.",
@@ -3324,26 +2829,17 @@
         {
           "id": "band-1792565963039",
           "artist": "The Halo Effect",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/31/a6/6631a62e-ee5e-6f63-2a19-92afdf244dcb/mzaf_1166542934464719746.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/shadowminds/1611230855?i=1611231040&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565970510",
           "artist": "Lacuna Coil",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/24/c8/2e24c87f-06f7-e2de-d52c-665dc0ca187c/mzaf_9567497156914339444.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/our-truth/1045281848?i=1045282518&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792565979344",
           "artist": "Omnium Gatherum",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/57/1d/3f571db6-862c-cd3c-adf1-660186fe3baf/mzaf_1700506740876604496.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/new-dynamic/585207106?i=585207154&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -3364,34 +2860,22 @@
         {
           "id": "band-5a82023f",
           "artist": "Finntroll",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/27/5c/e0/275ce03f-0ad3-f2df-5794-3ab7156b8a09/mzaf_5179431859556681800.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/trollhammaren/704689940?i=704690249&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794779255057",
           "artist": "Midjungards",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/dc/da/b9/dcdab957-f5f4-e23a-5f15-9efd3172698b/mzaf_16972557550633526547.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/hordes-of-hate/1653367706?i=1653367708&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794779265340",
           "artist": "Folkrim",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6f/55/cb/6f55cb4f-4e48-d76a-7a36-dd31bbb6e1bb/mzaf_7709709657249871784.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/bound-in-maelstrom/1734469379?i=1734469614&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794779339928",
           "artist": "Bad Trick",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/71/5c/f6/715cf63a-97cd-9799-2fb6-3bc1a08a73db/mzaf_7917511086982597103.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/hear-me-babe/1585887577?i=1585887579&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -3413,26 +2897,17 @@
         {
           "id": "band-58561cf5",
           "artist": "Bloodred Hourglass",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/26/51/46265161-d9ee-e3f1-69d0-933d4012eeb5/mzaf_2067824448940134738.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/drag-me-the-rain/1691904309?i=1691904487&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-22266710",
           "artist": "Brymir",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/22/88/1522886f-ba0e-c08f-6e60-1c21fcba9164/mzaf_13541539170961132512.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/wings-of-fire/1785257439?i=1785257448&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-b8338f6f",
           "artist": "Pridian",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/be/51/d0be5169-7da9-43b0-9d2a-f8cc3c871aa9/mzaf_5200777269786040362.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/convoy/1797599187?i=1797599201&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -3449,10 +2924,7 @@
         {
           "id": "band-1794393337002",
           "artist": "Spirit Possession",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/c1/4f/c9c14f05-87ab-7831-948e-42fe64a1be03/mzaf_2019947673285792340.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/spirit-possession/1514387936?i=1514387940&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Spirit Possession yhdistelee omaleimaisella otteellaan raakaa, kaoottista ja kokeellista black metalia. Yhtyeen soundia leimaavat terävät kitarariffit, armoton rumpalointi, riipivä laulu ja kaoottiset äänimaisemat. Portlandista kotoisin oleva duo ammentaa vaikutteita 90-luvun ja 2000-luvun alun black metalin kokeellisimmilta ja omaperäisimmiltä yhtyeiltä, mutta vie ilmaisuaan jatkuvasti uusiin suuntiin ja haastaa underground-metallin rajoja.\n\nLokakuussa 2026 Profound Lore Recordsin ja Sepulchral Voice Recordsin kautta julkaistu uusin albumi Cathedral Speech vie yhtyeen tunnistettavan soundin entistä pidemmälle. Levyn kaoottinen riffittely, pahaenteiset tunnelmat ja monimutkaiset sävellykset muodostavat arvaamattoman ja hypnoottisen kokonaisuuden, joka ei päästä kuulijaa helpolla.\n\nTapahtuman avaava artisti sekä tarkemmat aikataulut julkaistaan lähempänä tapahtumaa.",
@@ -3490,26 +2962,17 @@
         {
           "id": "band-1792591671656",
           "artist": "DragonForce",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/b8/74/a8b87443-5940-8eeb-f697-3baeb8b19d00/mzaf_18094134972631153481.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/through-the-fire-and-flames/1679612960?i=1679612971&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792591673433",
           "artist": "Visions of Atlantis",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/ec/21/16ec2193-1838-cab0-6b1e-9ab363be745b/mzaf_15169380644988061131.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/melancholy-angel/1608963435?i=1608963449&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792591680828",
           "artist": "Wings of Steel",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/7e/ae/df7eaec7-2bf8-e7c2-647c-f9cef6ebfb01/mzaf_15955375078683465507.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/we-rise/1826632666?i=1826632667&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Englantilainen power metal -yhtye DragonForce saapuu konsertoimaan Helsingin Kulttuuritalolle perjantaina 23. huhtikuuta 2027. Lipunmyynti keikalle alkaa keskiviikkona 30.9.2026 klo 11.00 osoitteessa Lippu.fi.\n\nDragonForcen turboahdettu voimametalli painii oman mahtipontisen lajityyppinsäkin sisällä vielä täysin omassa sarjassaan. Kitaristi-kaksikko Herman Lin ja Sam Totmanin alusta asti luotsaama yhtye toimittaa vähintäänkin eeppisiä kitarasoolojaan ja -osuuksiaan retro-videopeli-tunnelmissa äänivallin rikkovilla nopeuksilla. Viimeisimpänä kierrepallona DragonForce kiinnitti keulilleen Arch Enemyn ja The Agonistin riveistä maailmanmaineeseen nousseen, metallin valovoimaisimpiin keulakuviin lukeutuvan Alissa White-Gluzin.\n\nDragonForcen mittava ura sai alkunsa jo viime vuosisadan puolella. Bändin tähän mennessä kenties tunnetuin levy, kolmosalbumi ”Inhuman Rampage”, joka pitää sisällään Guitar Hero -pelistä tutun jättihitin ”Through The Fire and Flames”, julkaistiin sekin yli 20 vuotta sitten. Komea levykatalogi saa jatkoa maaliskuussa julkaistavan kymmenennen täyspitkän, ytimekkäästi DragonForce-nimeä kantavan albumin muodossa. Ensimmäisenä maistiaisena tulevasta saatiin juuri julkaistu “Hunger of the Beast” -sinkku.\n\nKiertueen erikoisvieraina nähdään itävaltalainen sinfonisen metallin airut Visions of Atlantis sekä losangelesilainen moderni ja dynaaminen heavy metal -yhtye Wings of Steel.",
@@ -3530,10 +2993,7 @@
         {
           "id": "band-1794005576054",
           "artist": "Siamese",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/b4/c6/7cb4c69d-da44-1f0d-3305-418d9e886f2b/mzaf_16405147349216687965.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/dissolution/6834428643?i=6834428891&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Tanskalainen modernin metallin yhtye Siamese saapuu Suomeen keväällä 2027 kahdelle klubikeikalle. Melodista metalcorea, elektronisia elementtejä ja tarttuvia popvaikutteita yhdistelevä omaleimainen kvartetti esiintyy perjantaina 23. huhtikuuta Helsingin On the Rocksissa ja lauantaina 24. huhtikuuta Tampereen Klubilla. \n\nKööpenhaminasta nouseva Siamese on vakiinnuttanut asemansa eurooppalaisen modernin metallin kiinnostavimpien nimien joukossa. Yhtyeen musiikissa raskaat kitarariffit, elektroniset sävyt ja suuret, melodiset kertosäkeet kohtaavat tavalla, joka puhuttelee niin metalcoren kuin vaihtoehtorockin ystäviä. Siamese tunnetaan erityisesti vahvoista melodioistaan ja laulaja Mirza Radonjican tunnistettavasta äänestä. \n\n2011 perustettu Siamese on vuosien varrella kehittänyt ilmaisuaan aina vain monipuolisemmaksi musiikkinsa intensiteetistä tinkimättä. Bändin tuotannossa modernin metallin aggressiivisuus yhdistyy popmusiikin tarttuvuuteen, ja kappaleiden tunnelmat vaihtelevat herkistä melodioista räjähtäviin purkauksiin ja raskaisiin osuuksiin. Varsinkin 2024 julkaistu Elements-albumi vahvisti yhtyeen asemaa kansainvälisellä modernin metallin kentällä, ja yhtyeen uusin julkaisu on viime kesäkuussa ilmestynyt Dissolution-pitkäsoitto.\n\nSiamese on energinen liveyhtye, jonka esiintymisissä tarttuvat kertosäkeet, voimakkaat rytmit ja intensiivinen lavailmaisu pääsevät oikeuksiinsa. Huhtikuun kaksi Suomen-keikkaa tarjoavat mahdollisuuden kokea yhtyeen musiikki tiiviissä klubitunnelmassa.",
@@ -3555,10 +3015,7 @@
         {
           "id": "band-1792925291407",
           "artist": "Amorphis",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/ec/a5/16eca502-2dc5-9e07-ac54-f4cc676eef57/mzaf_11872561228085300596.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-bee/1776756675?i=1776757129&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Suomalaisen metallin soihdunkantaja Amorphis palaa tien päälle ympäri Suomen keväällä 2027.",
@@ -3580,18 +3037,12 @@
         {
           "id": "band-1792591930833",
           "artist": "Ministry",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/93/b1/6093b172-b266-1df2-4004-e4669d34c3b3/mzaf_14056803265374600986.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/n-w-o/297744447?i=297744451&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792591943599",
           "artist": "Die Krupps",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4b/ca/45/4bca45bc-0d4b-a4b8-204a-6846f8dbf6fc/mzaf_6739142922027053600.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/metal-machine-music/415663746?i=415663827&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Industrial metalin kiistaton suunnannäyttäjä Ministry saapuu Suomeen viimeistä kertaa osana Hate To Go – Goodbye Europe 2027 jäähyväiskiertuettaan. Kiertueen viimeinen konsertti nähdään lauantaina 1. toukokuuta 2027 Helsingin Kulttuuritalolla, jossa erikoisvieraana esiintyy saksalainen industrial -legenda Die Krupps.\n\nAl Jourgensenin luotsaama Ministry päättää yli neljä vuosikymmentä kestäneen uransa uuden, 30.10.2026 julkaistavan Hate To Go (Take Out Or Delivery) -albumin siivittämänä. Yhtyeen 17. ja samalla viimeiseksi jäävällä studioalbumilla kuullaan jälleen mukana pitkäaikainen yhteistyökumppani Paul Barker, jonka paluu on ilouutinen yhtyeen pitkäaikaisille faneille. Albumi yhdistää Ministrylle tunnusomaisen aggressiivisen ja kantaa ottavan industrial metal -soundin sekä ajankohtaiset yhteiskunnalliset teemat.\n\nJourgensenin mukaan päätös lopettaa on lopullinen. ” I'm proud of what I've accomplished. It's been quite a ride, but I'm completely at peace with the fact that it's done.”\n\nHelsingin konsertti on koko Euroopan-kiertueen viimeinen esiintyminen. Illasta on tulossa pitkä, ja settilista tarjoaa kappaleita tulevalta Hate To Go -albumilta sekä kattavan läpileikkauksen yhtyeen klassikkotuotannosta aina The Land of Rape and Honey-, Psalm 69- ja myöhempien aikakausien merkkiteoksiin.\n\nKeikan avaa Die Krupps, yksi eurooppalaisen industrial- ja EBM-skenen merkittävimmistä nimistä. Vuonna 1980 perustettu saksalaisyhtye juhlii yli 45-vuotista uraansa uudella albumilla ja kiertueella, jotka osoittavat yhtyeen olevan edelleen genrensä kärkinimiä. Jürgen Englerin ja Ralf Dörperin johtama kokoonpano tunnetaan tinkimättömästä yhdistelmästään metallia, industrialia ja elektronista musiikkia, ja bändin vaikutus kuuluu lukemattomien myöhempien yhtyeiden soundissa.",
@@ -3617,16 +3068,12 @@
         {
           "id": "band-aa5adf93",
           "artist": "Reflexion",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-e92e0da3",
           "artist": "Melankolia",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -3647,17 +3094,12 @@
         {
           "id": "band-1792566673826",
           "artist": "Sabaton",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/fd/1b/29fd1b14-0632-2504-fcdb-c3d375384bf8/mzaf_3802331025524681809.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-last-stand/1463625294?i=1463626023&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792566682075",
           "artist": "The Legendary Orchestra",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "price": "83,90 €"
@@ -3674,33 +3116,22 @@
         {
           "id": "band-1794913619834",
           "artist": "Zero Nine",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794913624786",
           "artist": "Gringos Locos",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/99/d9/2c/99d92ca4-8a88-4110-70ea-2d532be62790/mzaf_3303473119008951954.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/roll-out/1145137716?i=1145137758&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794913636296",
           "artist": "Ronnie Romero",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bc/8a/60/bc8a60d2-fe82-7d51-3194-6a95aa711500/mzaf_14383567449234390639.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/turbo-lover-feat-nozomu-wakais-destinia/1648206721?i=1648207311&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794913673864",
           "artist": "David Reece",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7a/7d/01/7a7d0163-fadc-3a61-27f5-4dd29db0b9f9/mzaf_10547207293055593334.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/enemy-is-me/1727109081?i=1727109083&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "",
@@ -3754,161 +3185,110 @@
         {
           "id": "band-1794259275718",
           "artist": "YOB",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ee/cb/e7/eecbe7ec-f1d0-ab00-7220-2e62d52b6fd0/mzaf_6238895428171054832.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/ablaze/1363477209?i=1363477210&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259278445",
           "artist": "Witchcraft",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794259288135",
           "artist": "Kylesa",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/7a/93/27/7a93274c-f75f-207a-a558-021bdadb4adf/mzaf_13396408259432379466.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/scapegoat-2022-remaster/1634149169?i=1634149171&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259297585",
           "artist": "Inter Arma",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6d/52/70/6d5270f7-11f4-1adb-3b35-8430869406df/mzaf_520054273752725072.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/transfiguration/1098454047?i=1098454164&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259311657",
           "artist": "Dissaffect",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794259317671",
           "artist": "Heathe",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/f2/ec/6ef2ec17-d274-fbe3-7d37-06cf4014851a/mzaf_4291941530575431411.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/black-milk-sour-soil/1839794090?i=1839794091&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259331199",
           "artist": "Ensium",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794259338346",
           "artist": "Unkind",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794259344080",
           "artist": "Lana Del Rabies",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cc/49/78/cc4978d6-9c44-c962-d4d7-5a089bc99a97/mzaf_1828659478628700353.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/prayers-of-consequence/1679196714?i=1679196718&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259351638",
           "artist": "Kahtia",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794259357484",
           "artist": "Folk-Lauri",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/86/6b/8a866b3b-ec08-5518-cfe7-4107a77d5706/mzaf_3342569054519356049.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/voikukkaseppele/6802393104?i=6802393106&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259363182",
           "artist": "Hämnd",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ed/c0/13/edc013bc-d4b5-8ff6-4c98-ad78f1bd8ef2/mzaf_9007287966856729868.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/bakom-murar/1734305941?i=1734305942&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259369315",
           "artist": "T. Jarva & The Dark Place",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6d/58/6a/6d586aac-c10b-36cb-b9c1-2fae832862e2/mzaf_13810742886860545745.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/januarys-child/1726953831?i=1726954285&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259376862",
           "artist": "Pääkallo",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/93/72/fa/9372fa42-c320-1283-a264-120de7cae082/mzaf_5535232103747401583.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/levitoiva-nainen/1666956099?i=1666956325&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259382502",
           "artist": "Abysmal Rites",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/83/e2/7383e2dc-6749-a40f-00b9-6d69166bd9c9/mzaf_3989168229970563827.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-secret-of-pure-grief/1792369599?i=1792369853&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259388156",
           "artist": "Sunniva",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794259394107",
           "artist": "Patriarchy",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/63/a5/9563a5b9-da30-0e98-f756-ea0672f46f09/mzaf_3788525531924195074.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/suffer/1641827319?i=1641827547&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259399559",
           "artist": "Radien",
           "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/1e/c1/9c1ec1fb-7ccc-2e2f-f2fc-0f861834a172/mzaf_2591644879123615774.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-18",
+          "appleMusicUrl": "https://music.apple.com/us/album/unenharmaa/6825178739?i=6825178990&uo=4"
         },
         {
           "id": "band-1794259405380",
           "artist": "K L P S",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794259411369",
           "artist": "Rats Will Feast",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/7b/9f/537b9f9b-3fde-e3bd-fabe-8c62a8156de0/mzaf_10206826758321571594.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/burns-cold/1866928845?i=1866928855&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794259417565",
           "artist": "Tonne",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "description": "Sonic Rites is a Helsinki-based festival celebrating heavy, alternative, and experimental music. Known for its intense atmosphere and genre-blurring lineup, the event brings together music lovers from all walks of underground culture.\n\nThe event serves as an important meeting point for music enthusiasts, blurring genre boundaries and fostering a sense of community. It will particularly attract fans of doom, sludge, post-metal, industrial, and darker alternative rock.",
@@ -3930,10 +3310,7 @@
         {
           "id": "band-1793134157669",
           "artist": "Bombus",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/f5/b4/77f5b44a-6de1-79bf-512c-b88cd831dbe4/mzaf_5159911321634953362.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/take-you-down/1755219162?i=1755219513&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Ruotsin raskas ja energinen rokkikone toukokuussa 2027 Helsinkiin\nBombusin albumikiertue saapuu On the Rocksiin perjantaina 21. toukokuuta.\n\nBombus perustettiin Göteborgissa vuonna 2008. Yhtye on alusta asti yhdistänyt metallin, punkin ja stoner rockin ja paahtanut häpeilemättömästi musiikkigenrejen välillä. Yksi asia on kuitenkin muovannut kuvaa bändistä koko sen uran ajan: energisyys.\n\nNeljä albumia myöhemmin Bombus on jo ehtinyt jakaa esiintymislavoja mm. Clutchin, Danko Jonesin, Graveyardin ja Monster Magnetin kanssa. Vastaanotto kaikkialla ja kaikenkokoisissa tilaisuuksissa puskee Bombusia eteenpäin. Bändin viides albumi ilmestyy alkuvuodesta 2027 ja sen myötä Bombus iskee rokkikansan hampaat kurkkuun myös Helsingissä saman vuoden toukokuussa.",
@@ -3971,10 +3348,7 @@
         {
           "id": "band-1793134403961",
           "artist": "Caliber Orders",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/d9/f7/7cd9f715-a1b8-cb97-6ade-8aee9c7a5e1e/mzaf_543107165927524763.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/proceed-with-caution/6787852040?i=6787852041&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "",
@@ -4001,24 +3375,17 @@
         {
           "id": "band-1792566950699",
           "artist": "Scar Symmentry",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1792566955977",
           "artist": "Rise To Fall",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/53/4c/ee/534cee3a-2f87-874e-f36d-b60cffb362cf/mzaf_4194364260517338755.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/acid-drops/1666799536?i=1666799539&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792566959201",
           "artist": "Meret",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ]
     },
@@ -4039,9 +3406,7 @@
         {
           "id": "band-2c2ff188",
           "artist": "Mururoa Attack",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -4063,18 +3428,12 @@
         {
           "id": "band-1794220929451",
           "artist": "Children Of Bodom",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/cc/46/aecc46f9-dc35-1845-dbb5-d19198300bd5/mzaf_15923037937268494087.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/everytime-i-die/1679654554?i=1679655020&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220936590",
           "artist": "Heaven Shall Burn",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/c3/65/ffc365db-c93f-5d0c-a3dc-f5c90ed8679a/mzaf_307298089380225325.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/endzeit/1045636365?i=1045636447&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220941357",
@@ -4087,55 +3446,37 @@
         {
           "id": "band-1794220946284",
           "artist": "Smash Into Pieces",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/ed/b2/04edb2f4-fdee-b338-ec5a-37de6be414af/mzaf_3112266197081531592.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/heroes-are-calling/1725835764?i=1725835773&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220952750",
           "artist": "Guilt Trip",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794220958660",
           "artist": "Gaerea",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/78/03/19780317-608a-8fb8-8f95-de577c098c6f/mzaf_12690863740539831125.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/shallow/6821922580?i=6821922582&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220964510",
           "artist": "Fox Lake",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794220970151",
           "artist": "Conan",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794220975846",
           "artist": "The Baboon Show",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/2c/24/e62c2454-3b8b-e3eb-4108-2e122bd75840/mzaf_7760651890008732455.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-baboon-show-havana-version/1491472778?i=1491472794&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220980009",
           "artist": "Sinizter",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d1/ab/3e/d1ab3efe-a646-09dd-b989-1858c33034a2/mzaf_4731371086416963387.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/life-on-repeat/1676980118?i=1676980375&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -4151,96 +3492,62 @@
         {
           "id": "band-1794220994350",
           "artist": "Judas Priest",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/3a/01/693a01ac-b322-404e-16fd-bc543d2485c9/mzaf_17353585500043472855.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/youve-got-another-thing-comin/207178130?i=207178401&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220999578",
           "artist": "I Prevail",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/fb/d8/aafbd822-9e63-a2a8-b473-128740434d3c/mzaf_16327427941100193760.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/alone/1440941604?i=1440942316&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221004860",
           "artist": "Turmion Kätilöt",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/3c/a8/973ca809-1c54-5344-fb15-7ee467195c20/mzaf_4279021333765932459.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/n%C3%A4e-minut/6787090454?i=6787090772&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221010884",
           "artist": "Danko Jones",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/3a/a6/253aa66b-705e-1041-01b1-bc04a800f9a4/mzaf_3004059215784016516.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/lovercall/1622209623?i=1622210052&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221015976",
           "artist": "Kanonenfieber",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/a7/d8/aca7d889-1538-862e-c7d6-3dd84cb6b69d/mzaf_1122378818278258539.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/menschenm%C3%BChle/1749071999?i=1749072003&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221024266",
           "artist": "Speed",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794221029476",
           "artist": "Tukkanuotta",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ca/c7/14/cac71407-d803-e9ac-6d35-93b0aaa5ea35/mzaf_4772283922138167139.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/ragazzi-raflis/1186310824?i=1186311021&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221035181",
           "artist": "Atlas",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794221041812",
           "artist": "Celestial Sanctuary",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/08/6c/d3086cf2-8a56-da56-5cca-d61b0ff126b9/mzaf_3163390157613524986.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/lashed-by-chain/6805151426?i=6805151433&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221047950",
           "artist": "Green Lung",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/8b/f2/738bf274-a9a0-6ee5-6703-4bad2662c7a2/mzaf_13211061620043555961.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/dance-to-the-grave/1892398281?i=1892398362&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221054828",
           "artist": "Avralize",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2a/c9/18/2ac918d6-5715-f9a3-8752-19cef4150e0f/mzaf_17591510333051745641.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/canvas/1730684740?i=1730684847&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221061026",
           "artist": "Split Dogs",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/9e/e2/6d9ee21d-9fbd-bfd8-e889-70b718e7acd3/mzaf_17332473801887710278.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/suffer/6782059455?i=6782059461&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Heinäkuun ensimmäisenä viikonloppuna Helsingin Suvilahdessa porskuttava, Judas Priestin, Lorna Shoren ja Children Of Bodomin tähdittämä Tuska 2027 ottaa aimo harppauksen kohti ensi kesää. Artistien esiintymispäivät on nyt julkaistu ja kaikki lippukategoriat ovat saatavilla. Lisäksi on lisätty 14 uutta artistiryhmää jo valmiiksi tavarajunan painoluokassa mittelevään ohjelmistoon.\n\nKansainvälistä tähtipölyä, klassikoita ja uusia kykyjä\nUusia lisäyksiä ensi kesän ohjelmaan ovat modernin metalcoren kirkkaimpaan kärkeen lukeutuva amerikkalainen I Prevail, groovaavaa ja modernia melodista death metallia toimittava ruotsalainen Orbit Culture, Teksasin metalcore-mörssäri Fit For A King sekä goottimetallin uranuurtaja, englantilainen Paradise Lost.\n\nMuita englantia edustavia taiteilijaryhmiä ovat luolamiesmäisen raskaasti louhiva Conan, death metal -lupaus Celestial Sanctuary sekä korkeaoktaanista rokkia tarjoileva Split Dogs.\n\nAustralian värien puolesta liputtavat kovan nosteen aallonharjalla ratsastava hardcore-ylpeys Speed sekä naamion ja mystisyyden savuverhon taakse piiloutuva Cenobia.\n\nLänsinaapurimme osaamista esittelee Orbit Culturen lisäksi Tukholman katurock-poppoo The Baboon Show.\n\nKeskieurooppalaisen metalliperinteen jatkumoa ilmentää tarttuvia kertosakeitä, äkkiväärää ja orgaanista riffittelyä tarjoava ranskalaistaiteilija SUN. Kotimaista metalliasiantuntemusta edustavat juuri uuden “Resondance”-pitkäsoiton julkaissut rakastettu ja palkittu savolaisrevohka Turmion Kätilöt, lähiöbaarien tupakkapaikoilla pyörivä death metal -porukka Tukkanuotta sekä moderni mutta mystinen metalcore -ryhmä Atlas.\n\nVahvistuneet Tuska 2027 -esiintyjät esiintymispäivittäin:\n\nPerjantai 2.7.2027\nChildren Of Bodom\nHeaven Shall Burn, Stratovarius, Smash Into Pieces\nGuilt Trip, Gaerea, Fox Lake, Conan, The Baboon Show, Sinizter\n\nLauantai 3.7.2027\nJudas Priest\nI Prevail\nTurmion Kätilöt, Danko Jones, Kanonenfieber, Speed\nTukkanuotta, Atlas, Celestial Sanctuary, Green Lung, Avralize, Split Dogs\n\nSunnuntai 4.7.2027\nLorna Shore\nOrbit Culture, The Devil Wears Prada, Paradise Lost\nFit For A King, Cenobia, SUN\n\nTarkat soittoaikataulut ilmoitetaan lähempänä festivaaliajankohtaa.\nLisää esiintyjiä julkaistaan myöhemmin.",
@@ -4262,57 +3569,37 @@
         {
           "id": "band-1794221170376",
           "artist": "Lorna Shore",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/c7/ef/2ac7ef62-b284-c253-f0a2-5db2a421ccd0/mzaf_17144604024149221640.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/pain-remains-i-dancing-like-flames/1632525748?i=1632526090&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221175560",
           "artist": "Orbit Culture",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/8d/65/bb8d6553-ab7f-1275-325a-0a290aedcded/mzaf_9080325186750816659.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-tales-of-war/1809191471?i=1809191472&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221184250",
           "artist": "The Devil Wears Prada",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/25/22/d32522bd-7b2b-1b9e-d94e-15009953d3f6/mzaf_1300549163445857869.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/for-you/1803723356?i=1803723357&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221190427",
           "artist": "Paradise Lost",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/d5/67/add5678f-25ae-5afa-7b1e-16e028af1b98/mzaf_4862988212455869257.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/tyrants-serenade/1814581966?i=1814582461&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221197442",
           "artist": "Fit For A King",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/a4/64/8fa464d0-048e-d214-e337-7a5d885bf23a/mzaf_14109979690085799692.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/begin-the-sacrifice/1813279773?i=1813279774&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221203660",
           "artist": "Cenobia",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/b2/80/c4b280ca-88e0-becc-f519-5770486ce56e/mzaf_17029461688700842577.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/swallowed-by-the-world/6800446072?i=6800446292&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794221209509",
           "artist": "SUN",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "description": "Heinäkuun ensimmäisenä viikonloppuna Helsingin Suvilahdessa porskuttava, Judas Priestin, Lorna Shoren ja Children Of Bodomin tähdittämä Tuska 2027 ottaa aimo harppauksen kohti ensi kesää. Artistien esiintymispäivät on nyt julkaistu ja kaikki lippukategoriat ovat saatavilla. Lisäksi on lisätty 14 uutta artistiryhmää jo valmiiksi tavarajunan painoluokassa mittelevään ohjelmistoon.\n\nKansainvälistä tähtipölyä, klassikoita ja uusia kykyjä\nUusia lisäyksiä ensi kesän ohjelmaan ovat modernin metalcoren kirkkaimpaan kärkeen lukeutuva amerikkalainen I Prevail, groovaavaa ja modernia melodista death metallia toimittava ruotsalainen Orbit Culture, Teksasin metalcore-mörssäri Fit For A King sekä goottimetallin uranuurtaja, englantilainen Paradise Lost.\n\nMuita englantia edustavia taiteilijaryhmiä ovat luolamiesmäisen raskaasti louhiva Conan, death metal -lupaus Celestial Sanctuary sekä korkeaoktaanista rokkia tarjoileva Split Dogs.\n\nAustralian värien puolesta liputtavat kovan nosteen aallonharjalla ratsastava hardcore-ylpeys Speed sekä naamion ja mystisyyden savuverhon taakse piiloutuva Cenobia.\n\nLänsinaapurimme osaamista esittelee Orbit Culturen lisäksi Tukholman katurock-poppoo The Baboon Show.\n\nKeskieurooppalaisen metalliperinteen jatkumoa ilmentää tarttuvia kertosakeitä, äkkiväärää ja orgaanista riffittelyä tarjoava ranskalaistaiteilija SUN. Kotimaista metalliasiantuntemusta edustavat juuri uuden “Resondance”-pitkäsoiton julkaissut rakastettu ja palkittu savolaisrevohka Turmion Kätilöt, lähiöbaarien tupakkapaikoilla pyörivä death metal -porukka Tukkanuotta sekä moderni mutta mystinen metalcore -ryhmä Atlas.\n\nVahvistuneet Tuska 2027 -esiintyjät esiintymispäivittäin:\n\nPerjantai 2.7.2027\nChildren Of Bodom\nHeaven Shall Burn, Stratovarius, Smash Into Pieces\nGuilt Trip, Gaerea, Fox Lake, Conan, The Baboon Show, Sinizter\n\nLauantai 3.7.2027\nJudas Priest\nI Prevail\nTurmion Kätilöt, Danko Jones, Kanonenfieber, Speed\nTukkanuotta, Atlas, Celestial Sanctuary, Green Lung, Avralize, Split Dogs\n\nSunnuntai 4.7.2027\nLorna Shore\nOrbit Culture, The Devil Wears Prada, Paradise Lost\nFit For A King, Cenobia, SUN\n\nTarkat soittoaikataulut ilmoitetaan lähempänä festivaaliajankohtaa.\nLisää esiintyjiä julkaistaan myöhemmin.",
@@ -4339,10 +3626,7 @@
         {
           "id": "band-1792566992302",
           "artist": "Nickelback",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/e2/23/d4e223c1-58e1-8bcf-72c1-c760b3f540db/mzaf_8753858293203555793.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/how-you-remind-me/214475427?i=214475478&uo=4"
+          "stageTime": ""
         }
       ]
     },
@@ -4358,104 +3642,67 @@
         {
           "id": "band-1794219939699",
           "artist": "Edguy",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/de/e0/f0/dee0f05a-2940-8203-846a-6690c5ef258c/mzaf_8554972590355669796.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/king-of-fools/1460471568?i=1460471789&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794219944729",
           "artist": "Perturbator",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/ea/cd/5feacd10-0852-98ef-6936-895674c29805/mzaf_17591071720542241537.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/future-club/865453558?i=865453682&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794219959508",
           "artist": "Mantas & Abaddon Venom",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794219968967",
           "artist": "Dark Funeral",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c7/94/ff/c794fff8-43cf-2f55-1027-a5524195db56/mzaf_2848952598182363800.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/unchain-my-soul/1096863556?i=1096864008&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794219977145",
           "artist": "Ensiferum",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/cb/9d/c9cb9d8d-b0fb-b935-7151-59161a35b417/mzaf_637209527209096502.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/for-those-about-to-fight-for-metal/1254577131?i=1254577135&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794219985837",
           "artist": "Rotting Christ",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/7d/1a/627d1ab5-110f-cdb7-d64a-f71ec4e78fb1/mzaf_3264037262262984327.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/in-yumen-xibalba/598784385?i=598784386&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794219995956",
           "artist": "Nile",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/01/c3/9f01c34d-76d3-cfd0-d58f-888f31354cb0/mzaf_8328047653637523106.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/annihilation-of-the-wicked/65885380?i=65885239&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220000318",
           "artist": "Arcturus",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1794220012108",
           "artist": "Akercocke",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7a/1b/63/7a1b636b-2877-5094-0f41-deda379b3f70/mzaf_9278357289645931927.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/leviathan/42365514?i=42365485&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220021970",
           "artist": "Bloodred Hourglass",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/26/51/46265161-d9ee-e3f1-69d0-933d4012eeb5/mzaf_2067824448940134738.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/drag-me-the-rain/1691904309?i=1691904487&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220034205",
           "artist": "Norther",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/3d/4f/053d4f04-f5bc-e294-647a-fe944fb832d1/mzaf_12864671190156213692.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/frozen-angel/1045511875?i=1045512151&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220038509",
           "artist": "Havukruunu",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/37/3a/fa373adc-dd48-4352-816f-3e8c8fd36e11/mzaf_5081433231647818727.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/uinuos-sy%C3%B6mein-sota/1770554887?i=1770555413&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794220045013",
           "artist": "Noiduin",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/99/e3/0699e33f-f1ac-c6e0-f441-c3e8f8a86985/mzaf_13148605742201008444.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/nouse-maa/1810050783?i=1810050784&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Hellsinki Metal Festival on lunastanut paikkansa raskaamman musiikin festivaalitarjonnassa. Neljättä kertaa järjestettävä ulkoilmafestivaali järjestetään jälleen Helsingin jäähallin alueella Nordenskjöldinkadulla, tutummin sanottuna Nordiksella.",
@@ -4492,42 +3739,27 @@
         {
           "id": "band-1792592309542",
           "artist": "Wolfheart",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/50/f6/c050f6dd-c86a-ee5b-18ab-d40caae873ea/mzaf_10556348250833214409.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-hunt/1660688764?i=1660688766&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792592316233",
           "artist": "April Art",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/d4/c7/82d4c77b-39de-b3ca-18a7-f3a16e55d5af/mzaf_164884987171047674.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/rising-high/1638486267?i=1638486271&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792592322301",
           "artist": "Parasite Inc",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/0f/f7/9d0ff7c1-d0f9-9463-06a9-23a0df53103d/mzaf_11029079488904091442.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-pulse-of-the-dead/1402320861?i=1402320878&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792592328751",
           "artist": "Hammer King",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/a4/45/9ba44565-990b-63c8-e01e-91d74cfdf77b/mzaf_14992025780904332677.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/kingdom-of-the-hammer-king-remastered-2025/1843323307?i=1843323309&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1792592335345",
           "artist": "Suotana",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/3b/91/ff3b915e-20cb-62a3-9b37-d820de1bdd23/mzaf_5294451706394236470.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/todays-world/1047605668?i=1047605670&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "REAPER FEST 2027 – CELEBRATING 10 YEARS OF REAPER ENTERTAINMENT!\n\n2 stages, 10 bands & countless specials... Join us in celebrating the 10th birthday of the finest record label in the universe: REAPER ENTERTAINMENT!",
@@ -4564,9 +3796,7 @@
         {
           "id": "band-1792592601819",
           "artist": "The Mission",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "description": "Brittiläisen goottirockin pitkäikäisimpiin nimiin lukeutuva The Mission palaa Suomeen syksyllä 2027. Yhtye esiintyy Helsingin Tavastialla lauantaina 2. lokakuuta osana Euroopan-kiertuetta, jolla jatketaan vuonna 2026 käynnistynyttä God’s Own Medicine -debyyttialbumin 40-vuotisjuhlintaa.\n\nThe Missionin tarina sai alkunsa 1980-luvun puolivälissä, kun kitaristi-laulaja Wayne Hussey ja basisti Craig Adams jättivät The Sisters Of Mercyn. Kitaristi Simon Hinklerin ja rumpali Mick Brownin kanssa syntynyt yhtye nousi nopeasti brittiläisen vaihtoehto- ja goottirockin keskeisten nimien joukkoon.\n\nMarraskuussa 1986 julkaistu debyyttialbumi God’s Own Medicine nousi Britannian albumilistan sijalle 14 ja sisälsi muun muassa yhtyeen klassikoiksi muodostuneet kappaleet Wasteland, Stay With Me ja Severina. Seuraavien vuosien albumit Children ja Carved In Sand kasvattivat yhtyeen suosiota entisestään, ja kappaleista kuten Tower Of Strength, Butterfly On A Wheel ja Deliverance tuli olennainen osa The Missionin tuotantoa. Yhtyeen albumeita on myyty maailmanlaajuisesti yli neljä miljoonaa kappaletta.\n\nGod’s Own Medicine -albumin 40-vuotisjuhla huipentuu marraskuussa 2026 neljän konsertin erikoisresidenssiin Lontoon O2 Forum Kentish Townissa. Marraskuun 4.–7. päivinä järjestettävissä konserteissa kuullaan toisistaan poikkeavat ohjelmistot yhtyeen uran eri vaiheilta, ja ensimmäisenä iltana The Mission esittää God’s Own Medicine -albumin kokonaisuudessaan. Juhlintaa jatketaan vuonna 2027 täysimittaisella Euroopan-kiertueella, joka tuo yhtyeen myös Helsinkiin.\n\nSuomessa The Mission esiintyi ensimmäisen kerran Provinssirockissa vuonna 1990. Seuraavaa Suomen-vierailua saatiin odottaa yli kolme vuosikymmentä, kun yhtye nousi lopulta Tavastian lavalle toukokuussa 2023. Lokakuussa 2027 The Mission palaa jälleen samalle legendaariselle klubilavalle.",
@@ -4587,10 +3817,7 @@
         {
           "id": "band-1794004355445",
           "artist": "Till Lindemann",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/0c/86/de0c8680-cf34-9e22-9c2c-95c2480c2977/mzaf_13501247117227236788.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/du-hast-kein-herz/1835929797?i=1835929813&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Rammstein-yhtyeestä tunnettu Till Lindemann saapuu Helsinkiin osana World Tour 2027 -kiertuettaan. Artistin energinen liveshow nähdään Helsingin Jäähallissa maanantaina 4.10.2027. Tapahtuman ikäraja on 18 vuotta.\n\nYli 50 konserttia käsittävä maailmankiertue käynnistyy keväällä 2027 muilla mantereilla ja jatkuu syksyllä Euroopassa. Euroopan-osuus kattaa 22 maata sisältäen 33 konserttia. Luvassa on äänekästä, radikaalia ja tinkimätöntä livemenoa.\n\nHelsingin lisäksi Lindemann konsertoi muun muassa Amsterdamissa, Lontoossa, Zürichissä, Milanossa ja Istanbulissa.\n\nVuonna 2025 toteutettu, menestyksekäs Meine Welt -soolokiertue keräsi Euroopassa yleisöä yli 200 000.",
@@ -4612,9 +3839,7 @@
         {
           "id": "band-1792926983617",
           "artist": "Britallica",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "description": "Valmistaudu, Helsinki...\n\nBritallica saapuu rokkaamaan kanssanne vuonna 2027!\n\nBRITALLICA muuttaa Britneyn suurimmat hitit täysiverisiksi headbangaushymneiksi\nLuvassa on jyliseviä riffejä ja raivokkaita vokaaleja\nTribuuttishow vailla vertaa – valtavasti energiaa, korviahuumaava äänenvoimakkuus ja 100-prosenttisen tinkimätön asenne\n\n”Toxicista” ”...Baby One More Timeen” – jokainen kappale saa kunnon metallikäsittelyn tässä villissä juhlassa, jossa kaksi musiikillista maailmaa törmäävät toisiinsa.",
@@ -4636,86 +3861,57 @@
         {
           "id": "band-1793825236694",
           "artist": "ANGRA",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/fc/54/15fc54fd-9e4b-1cc3-ccbb-437aeb5ed3be/mzaf_15850859134154860960.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/nova-era/1689475163?i=1689475166&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1793825242058",
           "artist": "Tygers Of Pan Tang",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ae/d2/61/aed26132-a645-245f-767f-b800bb6d6f99/mzaf_18437466209607649960.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/silver-and-gold/1443734834?i=1443734846&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1793825247394",
           "artist": "Virgin Steele",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/83/65/f5836505-f999-8b47-b4f1-abe148354983/mzaf_11460212488458536581.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/blood-and-gasoline/1677550660?i=1677550845&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1793825255322",
           "artist": "Fabio Lione's Dawn Of Victory",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1793825267152",
           "artist": "Seven Spires",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/5f/58/5c5f5820-0cb9-2e1a-91e4-b26b0405f134/mzaf_12713978058816494385.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/succumb/1485663602?i=1485664063&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1793825274302",
           "artist": "Power Paladin",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/b8/31/fab831db-7cfb-8afe-8fd6-9bfddf637597/mzaf_5491910676443015609.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/glade-lords-of-athel-loren/1852335468?i=1852335475&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1793825280007",
           "artist": "Insania",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1793825286122",
           "artist": "Metal De Facto",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/f8/6d/f0f86dbd-1006-9542-32e2-5a78244ebc4a/mzaf_14428971558006803418.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/across-the-milky-way/1852793234?i=1852793237&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1793825292716",
           "artist": "Dreamtale",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/4c/eb/b84ceb7f-336b-a168-77e0-6187eb3022c4/mzaf_18415713309807788675.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/intro/1660700424?i=1660700589&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1793825298601",
           "artist": "Force Majeure",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         },
         {
           "id": "band-1793825304059",
           "artist": "Strider",
-          "stageTime": "",
-          "previewUrl": null,
-          "previewCheckedAt": "2026-11-18"
+          "stageTime": ""
         }
       ],
       "description": "Klassisen heavy- ja power metallin sisäfestivaali Helsingin Kaapelitehtaalla 5.–6.11.2027. Kahdella lavalla nähdään kahden päivän aikana yli 20 esiintyjää.\n\nVuonna 1991 São Paulossa perustettu Angra yhdisti esikoisalbumillaan \"Angels Cry\" (1993) eurooppalaisen power metallin melodisuuden, progressiivisen rockin rakenteet ja eteläamerikkalaiset rytmit tavalla, jollaista kukaan ei ollut aiemmin kuullut. Yli kolmen vuosikymmenen ja yhdentoista studioalbumin jälkeen yhtye on yhä genrensä mittatikku — ja saapuu nyt vihdoin Suomeen.\n\nMukana myös eeppisen heavy metallin kulttinimi Virgin Steele, NWOBHM-aallon perustajiin kuuluva Tygers Of Pan Tang ja power metalin tunnetuimpiin laulajiin lukeutuvan Fabio Lionen Dawn of Victory -kokoonpano. Uutta sukupolvea edustavat Seven Spires, Power Paladin ja Insania.\n\nVahvistuneet esiintyjät:\nANGRA (BRA)\nTygers Of Pan Tang (UK)\nVirgin Steele (US)\nFabio Lione's Dawn Of Victory (ITA)\nSeven Spires (US)\nPower Paladin (ISL)\nInsania (SWE)\nMetal De Facto (FIN)\nDreamtale (FIN)\nForce Majeure (FIN)\nStrider (FIN)\n\nLisää esiintyjiä julkaistaan lähitulevaisuudessa. Esiintymispäivät ja aikataulut ilmoitetaan myöhemmin.\nBaaritiskiltä saat Olvin ja Servaalin oluita, erikoisoluita ja viinejä sekä alkoholittomat vaihtoehdot. Ruokapuolen yhteistyökumppanin julkistamme myöhemmin.\n\nLiput: Rajoitettu erä kahden päivän Early Warrior -lippuja on nyt myynnissä. Hinta nousee portaittain. Yhden päivän liput tulevat myyntiin myöhemmin.",
@@ -4753,18 +3949,12 @@
         {
           "id": "band-1794004565670",
           "artist": "Bruce Dickinson",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/73/03/3c73035b-fce1-c706-9e21-f7d5c0f4918f/mzaf_11604759830751813163.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/tattooed-millionaire/203781346?i=203781898&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-1794004714326",
           "artist": "Evergrey",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/a4/4c/d1a44c6f-f0e6-8cae-ea8f-2caf3319a414/mzaf_4713657109288358900.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/where-august-mourn/1541154456?i=1541154460&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Bruce Dickinson ja hänen sooloyhtyeensä palaavat konserttilavoille ensi vuonna PsychoGod-kiertueella. Kiertueen Helsingin-konsertti järjestetään perjantaina 12. marraskuuta 2027 Jäähallin Black Boxissa. Konsertin erityisvieraana nähdään ruotsalainen progressiivista metallia soittava Evergrey.\n\nBruce Dickinsonin PsychoGod-kiertue sisältää ensi kesän ja syksyn aikana järjestettäviä omia konsertteja sekä festivaaliesiintymisiä eri puolilla Eurooppaa. Tulevat esitykset ovat Dickinsonin ensimmäiset soolokonsertit sen jälkeen, kun The Mandrake Project -kiertue päättyi Brasiliassa syyskuussa 2025. Kiertue käsitti 71 konserttia kolmella mantereella.\n\nIron Maiden -kiireiden täyttämästä vuodesta 2026 huolimatta Dickinson on ehtinyt äänittää uutta materiaalia yhtyeensä kanssa. Kokoonpanoon kuuluvat kitaristit Chris Declercq ja Philip Näslund, basisti Tanya O’Callaghan, kosketinsoittaja Mistheria sekä rumpali Dave Moreno.\n\n“Se, mitä me teemme, on aitoa, ja se on juuri nyt niin tärkeää. Oikea rumpali, oikea basisti, oikeat kitaristit, oikeat koskettimet – tekoäly voi vain kopioida, se voi vain teeskennellä. Se ei voi koskaan olla rakastunut, eikä se voi koskaan soittaa. Tämä bändi? Se todellakin osaa soittaa!” Bruce Dickinson kommentoi.\n\nTulevissa konserteissa kuullaan uutta materiaalia sekä fanien suosikkeja ja harvinaisempia kappaleita Dickinsonin koko soolouran ajalta.",
@@ -4786,10 +3976,7 @@
         {
           "id": "band-1792592701786",
           "artist": "Kanonenfieber",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/a7/d8/aca7d889-1538-862e-c7d6-3dd84cb6b69d/mzaf_1122378818278258539.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/menschenm%C3%BChle/1749071999?i=1749072003&uo=4"
+          "stageTime": ""
         }
       ],
       "description": "Saksalainen blackened death metal -yhtye Kanonenfieber saapuu loppuvuodesta 2027 Suomeen. Ensimmäisen maailmansodan historiaa vaikuttaviksi metalliesityksiksi muovaava yhtye esiintyy maanantaina 22. marraskuuta Helsingin Kulttuuritalolla. Liput keikalle tulevat myyntiin keskiviikkona 29. heinäkuuta 2026 klo 17.\n\nAnonyymin saksalaismuusikko Noisen vuonna 2020 perustama Kanonenfieber alkoi yhden miehen studioprojektina. Yhtyeen musiikki perustuu ensimmäisen maailmansodan aikaiseen todistusaineistoon, kuten rintamakirjeisiin, raportteihin ja muihin alkuperäisiin dokumentteihin. Kanonenfieber kertoo musiikissaan sodan seurauksista, ja sanoitukset nostavat sodan uhrit unohduksesta.\n\nMusiikillisesti Kanonenfieber yhdistää melodisen black metalin, death metalin ja marssimaiset rytmit tarttuvaan mutta raskaaseen kokonaisuuteen. Yhtyeen konserteissa musiikki kasvaa teatterimaiseksi spektaakkeliksi: kasvonsa peittävistä muusikoista, ensimmäisen maailmansodan aikakauteen pohjautuvista puvuista, lavasteista ja pukuvaihdoksista rakentuu esitys, joka erottuu metallikiertueiden tavanomaisesta kuvastosta.\n\nKanonenfieber nousi nopeasti kansainväliseen tunnettuuteen helmikuussa 2021 julkaistulla debyyttialbumillaan Menschenmühle. Sitä seurasivat EP-julkaisut Yankee Division, Der Füsilier ja U-Bootsmann sekä syyskuussa 2024 ilmestynyt toinen studioalbumi Die Urkatastrophe. Huhtikuussa 2025 julkaistu yhtyeen toinen livealbumi Live in Oberhausen tallensi Kanonenfieberin loppuunmyydyn konsertin Oberhausenissa, ja helmikuussa 2026 ilmestynyt Soldatenschicksale kokosi yhteen uudistettuja EP-kappaleita sekä uutta materiaalia.\n\nYhtye on nähty maassamme aikaisemmin vain festarilavoilla vuoden 2025 Nummirockissa ja Hellsinki Metal Festivalilla, ja tulevana kesänä heitä kuullaan myös Tuska Festivaalissa – Kanonenfieberin synkkä, historiallinen ja visuaalisesti vahva show nähdään siis marraskuun 2027 konserteissa ensi kertaa sisälavoilla Suomessa. ",
@@ -4815,18 +4002,12 @@
         {
           "id": "band-00a6132c",
           "artist": "Powerwolf",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/e0/4d/f8e04d75-fe7d-eeda-b187-790a86505b1d/mzaf_2534144771851889449.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/army-of-the-night/1184704498?i=1184704796&uo=4"
+          "stageTime": ""
         },
         {
           "id": "band-b84f2ad5",
           "artist": "Majestica",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/c1/06/16c10602-5993-f6ea-1cae-f210dced3ac1/mzaf_14174034791960186558.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-18",
-          "appleMusicUrl": "https://music.apple.com/us/album/spaceballs/1457606046?i=1457606510&uo=4"
+          "stageTime": ""
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
