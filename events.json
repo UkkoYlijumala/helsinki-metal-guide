@@ -1331,12 +1331,18 @@
         {
           "id": "band-1792480852031",
           "artist": "Horizon Ignited",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bc/66/87/bc66876a-9fd0-d972-2df3-cbafb69dd4a8/mzaf_3690755078483590790.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/equal-in-death/1613029548?i=1613029552&uo=4"
         },
         {
           "id": "band-1792480854510",
           "artist": "Lowhill",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/08/53/6d085385-4478-b865-aabb-ee3edb979e52/mzaf_4394649766028005374.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/sertraline/6798046783?i=6798046784&uo=4"
         }
       ]
     },
@@ -1357,22 +1363,33 @@
         {
           "id": "band-48f22523",
           "artist": "Hoc Est Bellum",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/28/1d/63281dd2-0561-8679-86ab-c98fd568cfa6/mzaf_14951904880261490044.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/black-metal-terror/6776176146?i=6776176149&uo=4"
         },
         {
           "id": "band-e086d5ee",
           "artist": "Aamutähti",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-a0e1d3bd",
           "artist": "Hautaveri",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/98/09/85980965-fa7e-9a11-af23-ece762a865aa/mzaf_14509191783788032277.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/vain-kaatunut-sen-tiet%C3%A4%C3%A4/1868882653?i=1868882656&uo=4"
         },
         {
           "id": "band-b6f6dca2",
           "artist": "Earthly Form",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/9f/17/079f1729-8e55-2f75-a083-147c98f36b90/mzaf_8303599277555575205.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/evening-sun-reveals-the-stones/1864070654?i=1864070657&uo=4"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1394,12 +1411,16 @@
         {
           "id": "band-1794777551105",
           "artist": "Kill With Cover plays Manowar",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-1794777555023",
           "artist": "BoneButton plays Iron Maiden",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z",
@@ -1417,12 +1438,16 @@
         {
           "id": "band-1792832398453",
           "artist": "Iron Wings",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-1792832406041",
           "artist": "Barrel",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-1792832413261",
@@ -1456,7 +1481,10 @@
         {
           "id": "band-1792480908536",
           "artist": "Havukruunu",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/37/3a/fa373adc-dd48-4352-816f-3e8c8fd36e11/mzaf_5081433231647818727.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/uinuos-sy%C3%B6mein-sota/1770554887?i=1770555413&uo=4"
         }
       ]
     },
@@ -1477,17 +1505,24 @@
         {
           "id": "band-1792480924865",
           "artist": "The Ocean",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-1792480928913",
           "artist": "Psychonaut",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-1792480931463",
           "artist": "Pothamus",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/62/8d/b6628d88-7beb-5333-0ddb-fbd5c0f6dbde/mzaf_5424824535389042492.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/savartuum-avur/1774028778?i=1774029002&uo=4"
         }
       ]
     },
@@ -1524,12 +1559,18 @@
         {
           "id": "band-cf28ed40",
           "artist": "Plusminuszero",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/e2/31/dce2314b-a4c3-8920-dea2-3abeda244649/mzaf_1147400615663961393.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/illusion-of-life/6809450526?i=6809450540&uo=4"
         },
         {
           "id": "band-949ecc00",
           "artist": "Delfoi Road",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/a6/9a/6ba69a93-e33f-d103-6c7e-f6f2015ea762/mzaf_5556560982161176971.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/journey-inwards/1891970085?i=1891970086&uo=4"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1551,7 +1592,10 @@
         {
           "id": "band-1792492606515",
           "artist": "Combichrist",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8d/99/2b/8d992b21-24c6-caeb-5adc-ee90f31a7443/mzaf_14908596204230801797.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/never-surrender/411904407?i=411904730&uo=4"
         }
       ]
     },
@@ -1572,7 +1616,10 @@
         {
           "id": "band-d34e44ac",
           "artist": "Raskasta Joulua",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/46/b9/e8/46b9e8f1-df86-9b31-84fb-d7e1be23a192/mzaf_8703844261747570792.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/jouluun-uskotaan-with-pekka-heino-feat-pekka-heino/1653170647?i=1653171088&uo=4"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1595,22 +1642,33 @@
         {
           "id": "band-1792492629345",
           "artist": "Týr",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/28/75/9a2875d9-64d1-4b02-8ec5-f88782ea36a1/mzaf_11130207873794923537.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/blood-of-heroes/671357651?i=671357926&uo=4"
         },
         {
           "id": "band-1792492639624",
           "artist": "Vanaheim",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-1792492672657",
           "artist": "Twilight Force",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8d/46/c9/8d46c999-2cde-5de0-0299-5f4a55a74fd1/mzaf_10078676465816314803.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/twilight-force/1649787707?i=1649787717&uo=4"
         },
         {
           "id": "band-1792492721200",
           "artist": "Dragonland",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/7a/f2/607af29a-4f2c-97ce-4dc1-9f57ba1e4a9b/mzaf_3053369407715243787.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/beethovens-nightmare/1045194072?i=1045194405&uo=4"
         }
       ]
     },
@@ -1631,12 +1689,18 @@
         {
           "id": "band-1792492794573",
           "artist": "Kosto",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/e1/fd/21/e1fd2103-0a3c-e502-fc13-ca1f6a42a4c3/mzaf_1325894999900646580.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/darkroom/655918357?i=655918750&uo=4"
         },
         {
           "id": "band-1792492804186",
           "artist": "Arseeni",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/8b/0e/948b0ed9-5da6-618e-59bd-44a2bf90fcb6/mzaf_5366116327463849453.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/intro/1834712723?i=1834712725&uo=4"
         }
       ]
     },
@@ -1657,12 +1721,18 @@
         {
           "id": "band-801cb9a8",
           "artist": "Shiraz Lane",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c0/a0/4e/c0a04eb1-2cdc-0ed0-3bdf-3b6260f68580/mzaf_3985234766998506613.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/harder-to-breathe/1322007724?i=1322008355&uo=4"
         },
         {
           "id": "band-1794778083985",
           "artist": "Kormus",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/43/43/a7434323-172c-31ab-a881-cca7542bc50d/mzaf_12970748067799777702.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/pakko-p%C3%A4%C3%A4st%C3%A4-pois/1388955808?i=1388957105&uo=4"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1684,7 +1754,10 @@
         {
           "id": "band-1794778275065",
           "artist": "Red Eleven",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/42/21/51/4221515c-c3e0-a37a-428c-ac5914c8f2c7/mzaf_8412184532861726374.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/unleash-the-beast-bonus-track/880221607?i=880221673&uo=4"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1706,12 +1779,18 @@
         {
           "id": "band-2b4bf147",
           "artist": "Peer Günt",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/d9/ad/7fd9adb0-0b71-eb3c-414c-e263269a0330/mzaf_7170555669388852109.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/ive-been-losin-my-mind/1021658386?i=1021658400&uo=4"
         },
         {
           "id": "band-25efdb15",
           "artist": "Blindboünd",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a9/00/07/a9000764-8800-666e-e27c-da1f78e75956/mzaf_2173810177086653797.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/goth-girlfriend/1715434206?i=1715434211&uo=4"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1733,17 +1812,25 @@
         {
           "id": "band-1792492819851",
           "artist": "Einvigi",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0a/21/4c/0a214c2f-98b2-a50f-d444-f059bf729203/mzaf_3687775595904242133.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/yksin%C3%A4isen-laulu-pt-3-uusi-aurinko-nousee/1731253707?i=1731253720&uo=4"
         },
         {
           "id": "band-1792492825954",
           "artist": "The Mist From The Mountains",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/99/bb/06/99bb06ba-6ceb-c9e5-6947-52c0151af738/mzaf_926802335096815121.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/empyrean-fields/1601990337?i=1601990338&uo=4"
         },
         {
           "id": "band-1792492831090",
           "artist": "Venunum Dei",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         }
       ]
     },
@@ -1764,17 +1851,25 @@
         {
           "id": "band-1792492875597",
           "artist": "BISA",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-1792492881035",
           "artist": "Irrational Cause",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/51/da/c9/51dac934-1f44-47a4-1649-27d96c44e53f/mzaf_2144400321387150783.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/dying-light/1687179488?i=1687179492&uo=4"
         },
         {
           "id": "band-1792492884527",
           "artist": "Admire The Grim",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/07/68/d5/0768d51a-285a-dae5-265d-4e97c6a5a9d0/mzaf_12982697850100332212.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/admire-the-grim/1651684719?i=1651684965&uo=4"
         }
       ]
     },
@@ -1795,12 +1890,18 @@
         {
           "id": "band-9e92fc76",
           "artist": "Fear Of Domination",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/40/20/5d/40205d34-cf0c-ef2b-9fe6-7108cea1018f/mzaf_14556316530615143029.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/fear-of-domination/1055617427?i=1055617436&uo=4"
         },
         {
           "id": "band-e544d175",
           "artist": "Despiser",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/29/7c/1f297c63-8cb0-484f-e7e5-55071c32f3ce/mzaf_1941620998509295406.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/cruelty/1786170694?i=1786170697&uo=4"
         }
       ],
       "addedDate": "2026-11-15T18:59:57.349Z"
@@ -1822,17 +1923,25 @@
         {
           "id": "band-1792492898000",
           "artist": "Malformed",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/2d/2a/642d2ab3-c5c4-7cd1-3a01-78f052b2dbbb/mzaf_14467283328048054916.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/within-the-flesh/1826086417?i=1826086418&uo=4"
         },
         {
           "id": "band-1792492903090",
           "artist": "Disguised Malignance",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4c/37/a3/4c37a3cd-7c78-453d-46aa-b50ead4be682/mzaf_5657810825039774551.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/unearthly-extinction/1676703685?i=1676703985&uo=4"
         },
         {
           "id": "band-1792492911104",
           "artist": "Azatoth",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": null,
+          "previewCheckedAt": "2026-11-20"
         },
         {
           "id": "band-1792492916269",
@@ -3757,7 +3866,10 @@
         {
           "id": "band-1794220038509",
           "artist": "Havukruunu",
-          "stageTime": ""
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/37/3a/fa373adc-dd48-4352-816f-3e8c8fd36e11/mzaf_5081433231647818727.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-20",
+          "appleMusicUrl": "https://music.apple.com/us/album/uinuos-sy%C3%B6mein-sota/1770554887?i=1770555413&uo=4"
         },
         {
           "id": "band-1794220045013",
