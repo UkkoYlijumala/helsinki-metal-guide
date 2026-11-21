@@ -1,22 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1793779839449",
-      "title": "Levymessut",
-      "date": "2026-11-21T09:00:00.000Z",
-      "venue": {
-        "name": "Tavastia-klubi",
-        "address": ""
-      },
-      "lineup": [],
-      "description": "Levykauppa Keltainen Jäänsärkijä -Record Store ylpeänä esittää!\n\nJa taas mennään musiikin valtameressä etsien helmiä ja muita mahtijuttuja!\n\nLauantaina 23.11 klo 11-15.00 Levymessut Tavastialla.\nTulkaas tekemään löytöjä!!\n\nLiput vain ovelta 3 €. ",
-      "price": "3 €, ovelta",
-      "ticketUrl": "https://tavastiaklubi.fi/events/2026-11-21/levymessut/121706/",
-      "image": "",
-      "ageLimit": "",
-      "addedDate": "2026-11-04T08:10:39.449Z"
-    },
-    {
       "id": "manual-1791721033702",
       "title": "Archspire + Crown Magnetar, The Zenith Passage, Analepsy",
       "date": "2026-11-21T15:00:00.000Z",
