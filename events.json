@@ -1,30 +1,6 @@
 {
   "events": [
     {
-      "id": "manual-1792184258031",
-      "title": "Europe",
-      "date": "2026-11-25T17:00:00.000Z",
-      "venue": {
-        "name": "Kulttuuritalo",
-        "address": "Sturenkatu 4, Helsinki"
-      },
-      "description": "Vuonna 2026 tulee kuluneeksi tasan 40 vuotta siitä, kun ruotsalainen Europe sinkaisi kertaheitolla maailman suosituimpien rock-yhtyeiden joukkoon. The Final Countdown -hitti ja sitä seurannut singlen nimeä kantava albumi on edelleen yksi kaikkien aikojen legendaarisimmista hard rock -hetkistä kautta maailman. The Final Countdown -single nousi julkaisunsa aikaan listaykköseksi 25 maassa, ja itse albumi keikkui Yhdysvaltain Billboard-listalla yli 60 viikon ajan.\n\nMuun muassa Grammylla palkittu yhtye ilmoitti jo aiemmin tänä syksynä suuntaavansa massiiviselle The Final Countdown 40th Anniversary -kiertueelle, ja nyt tämä kiertue on varmistunut myös Suomeen 25. marraskuuta 2026.\n\nTuleva kiertue pitää sisällään kaikki Euroopan tärkeimmät musiikkimarkkinat, ja illan settilista on kasattu kattamaan paitsi yhtyeen koko uran tähtihetket, myös koko The Final Countdown -albumin.\n\n\"40 vuotta on kulunut silmänräpäyksessä, ja olemme esittämässä TFC-albumin kokonaisuudessaan vasta toista kertaa urallamme — muiden hittien ja suosikkikappaleidemme rinnalla tulevalta albumilta. Tästä tulee mahtavaa, ja työskentelemme kovasti sen eteen, että tuotanto ja show vastaavat tämän erityisen juhlan arvoa\", Joey Tempest sanoo.\n\nMusiikkialan digitalisoitumisen myötä kappaleen menestys on jatkunut eri alustoilla, ja Europe sai kolme vuotta sitten YouTuben palkinnon ensimmäisenä ruotsalaisyhtyeenä, jonka yksittäinen kappale rikkoi miljardin katselukerran rajan. Tällä hetkellä tuo luku on jo liki 1,4 miljardia katselua, ja Europe kerää esimerkiksi Spotifyssä kuukausittain yli seitsemän mijoonaa kuuntelijaa.\n\nEurope on toiminut aktiivisesti koko 40 vuotta kestäneen uransa ajan samalla alkuperäiskokoonpanollaan, ja bändi valmistelee kiertueen ohella ensi vuonna julkaistavaa uutta studioalbumiaan. Järjestyksessään Europen 12. studioalbumi on jo äänitetty RMV-studioilla yhdessä muun muassa Ghostin, The Pixiesin ja Royal Bloodin kanssa työskennelleen huipputuottaja tom Dalgetyn kanssa.",
-      "price": "69,90 €",
-      "ticketUrl": "https://www.lippu.fi/artist/europe/europe-4047194/?cityname=Helsinki",
-      "image": "",
-      "ageLimit": "",
-      "lineup": [
-        {
-          "id": "band-1792480216154",
-          "artist": "Europe",
-          "stageTime": "",
-          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/5b/d9/d35bd9a3-d105-95d8-ba29-0f5c6b8e764b/mzaf_7609183394807520180.plus.aac.p.m4a",
-          "previewCheckedAt": "2026-11-20",
-          "appleMusicUrl": "https://music.apple.com/us/album/the-final-countdown/196480323?i=196480329&uo=4"
-        }
-      ]
-    },
-    {
       "id": "kuudeslinja-2026-11-27-1900-die-oberherren-se-dharma-guns-rob-coffinshaker-se",
       "title": "Die Oberherren (SE) + Dharma Guns + Rob Coffinshaker (SE)",
       "venue": {
