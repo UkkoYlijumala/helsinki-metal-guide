@@ -3718,5 +3718,27 @@
     "image": "",
     "ageLimit": "K-18",
     "addedDate": "2026-11-17T11:05:03.099Z"
+  },
+  {
+    "id": "manual-1795779501781",
+    "title": "Within Temptation",
+    "date": "2027-10-18T16:00:00.000Z",
+    "venue": {
+      "name": "Veikkaus Arena",
+      "address": ""
+    },
+    "lineup": [
+      {
+        "id": "band-1795779519794",
+        "artist": "Within Temptation",
+        "stageTime": ""
+      }
+    ],
+    "description": "Within Temptation valmistautuu keväällä 2027 julkaistavan Through Fire & Ashes -studioalbuminsa ilmestymiseen julkistamalla albumiin liittyvän samannimisen maailmankiertueen! Etelä-Amerikasta kesäkuussa käynnistyvä kiertue tuo melodisen metallin mestarin Helsingin Veikkaus Arenalle maanantaina 18. lokakuuta 2027, ja odotettavissa on bändin uran kunnianhimoisin tuotanto.\n\nInnovatiivisista lavasteistaan ja näyttävistä livetuotannoista tunnettu yhtye nostaa rimaa entisestään tulevalla kiertueella. Areenakokoluokkaan suunniteltu konserttituotanto on yksi yhtyeen kolme vuosikymmentä kestäneen uran kunnianhimoisimmista. Kiertueen konserteissa esitetään sekä uuden levyn kappaleita että fanien rakastamia klassikoita.\n\nSharon den Adel ja Robert Westerholt perustivat Within Temptationin Hollannissa 1990-luvun puolivälissä. Kolmen vuosikymmenen aikana yhtye on ollut määrittelemässä sinfonisen metallin soundia, myynyt yli kuusi miljoonaa fyysistä albumia ja kerännyt maailmanlaajuisesti viisi miljardia striimausta eri alustoilla. Mother Earth-, The Silent Force-, Resist- ja Bleed Out -albumiensa myötä yhtye on keikkaillut isoilla areenoilla ympäri maailmaa. Näyttävistä live-esiintymisistään tunnettu Within Temptation on soittanut muun muassa Download-, Hellfest-, Wacken Open Air- ja Graspop-festivaalien pääesiintyjänä.",
+    "price": "",
+    "ticketUrl": "https://www.ticketmaster.fi/event/1812809904",
+    "image": "",
+    "ageLimit": "",
+    "addedDate": "2026-11-27T11:38:21.781Z"
   }
 ]
