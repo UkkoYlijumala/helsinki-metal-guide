@@ -4198,6 +4198,31 @@
       "addedDate": "2026-10-25T11:16:08.015Z"
     },
     {
+      "id": "manual-1795779501781",
+      "title": "Within Temptation",
+      "date": "2027-10-18T16:00:00.000Z",
+      "venue": {
+        "name": "Veikkaus Arena",
+        "address": ""
+      },
+      "lineup": [
+        {
+          "id": "band-1795779519794",
+          "artist": "Within Temptation",
+          "stageTime": "",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/21/7a/56217a10-2b47-ef1a-47ed-25b5d6c4dd2b/mzaf_15751722212770808934.plus.aac.p.m4a",
+          "previewCheckedAt": "2026-11-27",
+          "appleMusicUrl": "https://music.apple.com/us/album/faster/1553279262?i=1553279266&uo=4"
+        }
+      ],
+      "description": "Within Temptation valmistautuu keväällä 2027 julkaistavan Through Fire & Ashes -studioalbuminsa ilmestymiseen julkistamalla albumiin liittyvän samannimisen maailmankiertueen! Etelä-Amerikasta kesäkuussa käynnistyvä kiertue tuo melodisen metallin mestarin Helsingin Veikkaus Arenalle maanantaina 18. lokakuuta 2027, ja odotettavissa on bändin uran kunnianhimoisin tuotanto.\n\nInnovatiivisista lavasteistaan ja näyttävistä livetuotannoista tunnettu yhtye nostaa rimaa entisestään tulevalla kiertueella. Areenakokoluokkaan suunniteltu konserttituotanto on yksi yhtyeen kolme vuosikymmentä kestäneen uran kunnianhimoisimmista. Kiertueen konserteissa esitetään sekä uuden levyn kappaleita että fanien rakastamia klassikoita.\n\nSharon den Adel ja Robert Westerholt perustivat Within Temptationin Hollannissa 1990-luvun puolivälissä. Kolmen vuosikymmenen aikana yhtye on ollut määrittelemässä sinfonisen metallin soundia, myynyt yli kuusi miljoonaa fyysistä albumia ja kerännyt maailmanlaajuisesti viisi miljardia striimausta eri alustoilla. Mother Earth-, The Silent Force-, Resist- ja Bleed Out -albumiensa myötä yhtye on keikkaillut isoilla areenoilla ympäri maailmaa. Näyttävistä live-esiintymisistään tunnettu Within Temptation on soittanut muun muassa Download-, Hellfest-, Wacken Open Air- ja Graspop-festivaalien pääesiintyjänä.",
+      "price": "",
+      "ticketUrl": "https://www.ticketmaster.fi/event/1812809904",
+      "image": "",
+      "ageLimit": "",
+      "addedDate": "2026-11-27T11:38:21.781Z"
+    },
+    {
       "id": "manual-1793824944653",
       "title": "Power & Steel Festival 2027",
       "date": "2027-11-04T22:00:00.000Z",
